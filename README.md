@@ -60,14 +60,6 @@
 - [Attaching an EFS file system to an ECS Task](https://medium.com/@ilia.lazebnik/attaching-an-efs-file-system-to-an-ecs-task-7bd15b76a6ef?source=rss-cac402f06fa8------2) (3 years ago)
 - [Simplifying AWS Private API Gateway VPC Endpoint Association with Terraform](https://medium.com/@ilia.lazebnik/simplifying-aws-private-api-gateway-vpc-endpoint-association-with-terraform-b379a247afbf?source=rss-cac402f06fa8------2) (3 years ago)
 
-#### 📓 Gists I wrote
-
-- [](https://gist.github.com/271c3622fc621e41cc227b44010be752) (2 years ago)
-- [](https://gist.github.com/4b766320b0e779c39091362c98ac4abf) (2 years ago)
-- [](https://gist.github.com/b2945f20f1d4e38b7c0a9fcfee0747b0) (2 years ago)
-- [](https://gist.github.com/78cb881719be3c59def2361496e56af4) (2 years ago)
-- [](https://gist.github.com/b54d20b5800a525a15a5ccc36c598956) (2 years ago)
-
 #### ⭐ Recent Stars
 
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (1 day ago)
