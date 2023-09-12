@@ -52,6 +52,14 @@
 - [[prometheus] update prometheus to 2.47.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/3774) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-operator-crds] bump crds to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 
+#### 📜 My recent blog posts
+
+- [Managing Airflow Resources The IaC Way With Terraform](https://engineering.placer.ai/managing-airflow-resources-the-iac-way-with-terraform-ea5b8db573ad?source=rss-cac402f06fa8------2) (6 months ago)
+- [Managing your software packages in AWS CodeArtifact](https://medium.com/@ilia.lazebnik/managing-your-software-packages-in-aws-codeartifact-12d00053e243?source=rss-cac402f06fa8------2) (2 years ago)
+- [Securing EFS File Systems with Terraform: IAM](https://medium.com/@ilia.lazebnik/securing-efs-file-systems-with-terraform-iam-d2a066c198ab?source=rss-cac402f06fa8------2) (3 years ago)
+- [Attaching an EFS file system to an ECS Task](https://medium.com/@ilia.lazebnik/attaching-an-efs-file-system-to-an-ecs-task-7bd15b76a6ef?source=rss-cac402f06fa8------2) (3 years ago)
+- [Simplifying AWS Private API Gateway VPC Endpoint Association with Terraform](https://medium.com/@ilia.lazebnik/simplifying-aws-private-api-gateway-vpc-endpoint-association-with-terraform-b379a247afbf?source=rss-cac402f06fa8------2) (3 years ago)
+
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/271c3622fc621e41cc227b44010be752) (2 years ago)
@@ -90,9 +98,8 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- LinkedIn: https://www.linkedin.com/in/ilialaz/
+- Blog: https://medium.com/@ilia.lazebnik
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
