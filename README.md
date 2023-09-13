@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (2 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.3.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.2), 1 day ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.16.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.16.2), 1 day ago) - Terraform AWS provider
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v4.82.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v4.82.0), 1 day ago) - Terraform Google Cloud Platform provider
-- [apache/airflow](https://github.com/apache/airflow) ([2.7.1](https://github.com/apache/airflow/releases/tag/2.7.1), 5 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.3.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.2), 2 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.16.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.16.2), 2 days ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v4.82.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v4.82.0), 2 days ago) - Terraform Google Cloud Platform provider
+- [apache/airflow](https://github.com/apache/airflow) ([2.7.1](https://github.com/apache/airflow/releases/tag/2.7.1), 6 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.14](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.14), 3 weeks ago) - Helm Charts for Jaeger backend
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v24.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v24.0.0), 1 month ago) - Traefik v2 helm chart
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.8.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.8.0), 2 months ago) - 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-kafka-exporter] bump kafka exporter to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/3787) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-operator-admission-webhook] bump admission webhook to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3786) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-pushgateway] bump pushgateway to 1.6.1](https://github.com/prometheus-community/helm-charts/pull/3785) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-redis-exporter] bump redis exporter to 1.54.0](https://github.com/prometheus-community/helm-charts/pull/3784) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-mongodb-exporter] bump mongo exporter to 0.39.0](https://github.com/prometheus-community/helm-charts/pull/3783) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-adapter] bump adapter to v0.11.1](https://github.com/prometheus-community/helm-charts/pull/3782) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-elasticsearch-exporter]  bump elastic-exporter to 1.6.0](https://github.com/prometheus-community/helm-charts/pull/3781) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prom-label-proxy] bump to 0.7.0](https://github.com/prometheus-community/helm-charts/pull/3780) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus] update prometheus to 2.47.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/3774) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-operator-crds] bump crds to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-kafka-exporter] bump kafka exporter to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/3787) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-operator-admission-webhook] bump admission webhook to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3786) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-pushgateway] bump pushgateway to 1.6.1](https://github.com/prometheus-community/helm-charts/pull/3785) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-redis-exporter] bump redis exporter to 1.54.0](https://github.com/prometheus-community/helm-charts/pull/3784) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-mongodb-exporter] bump mongo exporter to 0.39.0](https://github.com/prometheus-community/helm-charts/pull/3783) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-adapter] bump adapter to v0.11.1](https://github.com/prometheus-community/helm-charts/pull/3782) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-elasticsearch-exporter]  bump elastic-exporter to 1.6.0](https://github.com/prometheus-community/helm-charts/pull/3781) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prom-label-proxy] bump to 0.7.0](https://github.com/prometheus-community/helm-charts/pull/3780) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus] update prometheus to 2.47.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/3774) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-operator-crds] bump crds to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -62,7 +62,7 @@
 
 #### ⭐ Recent Stars
 
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (1 day ago)
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (2 days ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (2 weeks ago)
 - [opsgenie/terraform-provider-opsgenie](https://github.com/opsgenie/terraform-provider-opsgenie) - Terraform OpsGenie provider (2 months ago)
 - [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) - Watches k8s cluster events and logs them to stdout in JSON (3 months ago)
