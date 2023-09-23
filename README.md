@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (6 days ago)
+- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (3 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.1.1), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.18.0), 1 day ago) - Terraform AWS provider
-- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.47.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.47.0), 2 days ago) - Helm Charts for Jaeger backend
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v4.83.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v4.83.0), 4 days ago) - Terraform Google Cloud Platform provider
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.1.1), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.18.0), 2 days ago) - Terraform AWS provider
+- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.47.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.47.0), 3 days ago) - Helm Charts for Jaeger backend
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v4.83.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v4.83.0), 5 days ago) - Terraform Google Cloud Platform provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.1](https://github.com/apache/airflow/releases/tag/2.7.1), 2 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v24.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v24.0.0), 1 month ago) - Traefik v2 helm chart
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.8.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.8.0), 2 months ago) - 
@@ -70,8 +70,8 @@
 - [terraform-google-modules/terraform-google-network](https://github.com/terraform-google-modules/terraform-google-network) - Sets up a new VPC network on Google Cloud (3 months ago)
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring (3 months ago)
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (3 months ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (3 months ago)
-- [gojek/CureIAM](https://github.com/gojek/CureIAM) - Clean accounts over permissions in GCP infra at scale (3 months ago)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (4 months ago)
+- [gojek/CureIAM](https://github.com/gojek/CureIAM) - Clean accounts over permissions in GCP infra at scale (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
