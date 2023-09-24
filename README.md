@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.10.1), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), 1 day ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.18.0), 2 days ago) - Terraform AWS provider
-- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.47.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.47.0), 3 days ago) - Helm Charts for Jaeger backend
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v4.83.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v4.83.0), 5 days ago) - Terraform Google Cloud Platform provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.2.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), 2 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.18.0), 3 days ago) - Terraform AWS provider
+- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.47.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.47.0), 4 days ago) - Helm Charts for Jaeger backend
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v4.83.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v4.83.0), 6 days ago) - Terraform Google Cloud Platform provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.1](https://github.com/apache/airflow/releases/tag/2.7.1), 2 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v24.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v24.0.0), 1 month ago) - Traefik v2 helm chart
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.8.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.8.0), 2 months ago) - 
@@ -50,7 +50,7 @@
 - [[prometheus-elasticsearch-exporter]  bump elastic-exporter to 1.6.0](https://github.com/prometheus-community/helm-charts/pull/3781) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prom-label-proxy] bump to 0.7.0](https://github.com/prometheus-community/helm-charts/pull/3780) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus] update prometheus to 2.47.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/3774) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-operator-crds] bump crds to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[prometheus-operator-crds] bump crds to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
