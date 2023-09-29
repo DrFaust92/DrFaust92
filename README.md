@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.3.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.6.0), today) - Prometheus community Helm charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.15](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.15), today) - Helm Charts for Jaeger backend
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.19.0), today) - Terraform AWS provider
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v4.84.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v4.84.0), 3 days ago) - Terraform Google Cloud Platform provider
