@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-node-exporter] remove ns from clusterrole](https://github.com/prometheus-community/helm-charts/pull/3844) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-kafka-exporter] bump kafka exporter to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/3787) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-operator-admission-webhook] bump admission webhook to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3786) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-pushgateway] bump pushgateway to 1.6.1](https://github.com/prometheus-community/helm-charts/pull/3785) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
@@ -49,7 +50,6 @@
 - [[prometheus-elasticsearch-exporter]  bump elastic-exporter to 1.6.0](https://github.com/prometheus-community/helm-charts/pull/3781) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prom-label-proxy] bump to 0.7.0](https://github.com/prometheus-community/helm-charts/pull/3780) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus] update prometheus to 2.47.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/3774) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-operator-crds] bump crds to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3771) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
