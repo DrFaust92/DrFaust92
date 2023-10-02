@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (2 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.23.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.23.2), 1 day ago) - Prometheus community Helm charts
-- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.15](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.15), 2 days ago) - Helm Charts for Jaeger backend
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.19.0), 2 days ago) - Terraform AWS provider
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v4.84.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v4.84.0), 5 days ago) - Terraform Google Cloud Platform provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.23.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.23.2), 2 days ago) - Prometheus community Helm charts
+- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.15](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.15), 3 days ago) - Helm Charts for Jaeger backend
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.19.0), 3 days ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v4.84.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v4.84.0), 6 days ago) - Terraform Google Cloud Platform provider
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), 1 week ago) - ArgoProj Helm Charts
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.1](https://github.com/apache/airflow/releases/tag/2.7.1), 3 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.8.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.8.0), 2 months ago) - 
@@ -40,10 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-stackdriver-exporter] bump stackdriver exporter to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/3847) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-consul-exporter] bump consul exporter to 0.9.0](https://github.com/prometheus-community/helm-charts/pull/3846) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack] bump thanos to 0.32.3](https://github.com/prometheus-community/helm-charts/pull/3845) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-node-exporter] remove ns from clusterrole](https://github.com/prometheus-community/helm-charts/pull/3844) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-stackdriver-exporter] bump stackdriver exporter to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/3847) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-consul-exporter] bump consul exporter to 0.9.0](https://github.com/prometheus-community/helm-charts/pull/3846) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack] bump thanos to 0.32.3](https://github.com/prometheus-community/helm-charts/pull/3845) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-node-exporter] remove ns from clusterrole](https://github.com/prometheus-community/helm-charts/pull/3844) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prometheus-kafka-exporter] bump kafka exporter to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/3787) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-operator-admission-webhook] bump admission webhook to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3786) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-pushgateway] bump pushgateway to 1.6.1](https://github.com/prometheus-community/helm-charts/pull/3785) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
@@ -61,7 +61,7 @@
 
 #### ⭐ Recent Stars
 
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (2 weeks ago)
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (3 weeks ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (1 month ago)
 - [opsgenie/terraform-provider-opsgenie](https://github.com/opsgenie/terraform-provider-opsgenie) - Terraform OpsGenie provider (3 months ago)
 - [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) - Watches k8s cluster events and logs them to stdout in JSON (3 months ago)
