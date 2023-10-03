@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.7.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.8.1), today) - Prometheus community Helm charts
 - [apache/airflow](https://github.com/apache/airflow) ([helm-chart/1.11.0](https://github.com/apache/airflow/releases/tag/helm-chart/1.11.0), 1 day ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.0.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.0.0), 1 day ago) - Terraform Google Cloud Platform provider
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.15](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.15), 4 days ago) - Helm Charts for Jaeger backend
