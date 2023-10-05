@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), today) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.14.0), 1 day ago) - Prometheus community Helm charts
 - [apache/airflow](https://github.com/apache/airflow) ([helm-chart/1.11.0](https://github.com/apache/airflow/releases/tag/helm-chart/1.11.0), 3 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.0.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.0.0), 3 days ago) - Terraform Google Cloud Platform provider
@@ -36,7 +37,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), 1 week ago) - ArgoProj Helm Charts
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.8.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.8.0), 3 months ago) - 
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.4.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.4.0), 3 months ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
-- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.9.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.9.0), 4 months ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
 
 #### 🔨 My recent Pull Requests
 
