@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [dataform_repository - add missing args](https://github.com/GoogleCloudPlatform/magic-modules/pull/9173) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [[prometheus-stackdriver-exporter] bump stackdriver exporter to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/3847) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-consul-exporter] bump consul exporter to 0.9.0](https://github.com/prometheus-community/helm-charts/pull/3846) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[kube-prometheus-stack] bump thanos to 0.32.3](https://github.com/prometheus-community/helm-charts/pull/3845) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
@@ -49,7 +50,6 @@
 - [[prometheus-pushgateway] bump pushgateway to 1.6.1](https://github.com/prometheus-community/helm-charts/pull/3785) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 - [[prometheus-redis-exporter] bump redis exporter to 1.54.0](https://github.com/prometheus-community/helm-charts/pull/3784) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 - [[prometheus-mongodb-exporter] bump mongo exporter to 0.39.0](https://github.com/prometheus-community/helm-charts/pull/3783) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [[prometheus-adapter] bump adapter to v0.11.1](https://github.com/prometheus-community/helm-charts/pull/3782) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
