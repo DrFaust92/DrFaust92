@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [bump open api image to v7.0.1](https://github.com/apache/airflow/pull/34805) on [apache/airflow](https://github.com/apache/airflow) (today)
+- [bump go and test only recent go versions](https://github.com/apache/airflow-client-go/pull/44) on [apache/airflow-client-go](https://github.com/apache/airflow-client-go) (today)
 - [dataform_repository - add missing args](https://github.com/GoogleCloudPlatform/magic-modules/pull/9173) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
 - [[prometheus-stackdriver-exporter] bump stackdriver exporter to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/3847) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus-consul-exporter] bump consul exporter to 0.9.0](https://github.com/prometheus-community/helm-charts/pull/3846) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
@@ -48,8 +50,6 @@
 - [[prometheus-kafka-exporter] bump kafka exporter to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/3787) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 - [[prometheus-operator-admission-webhook] bump admission webhook to 0.68.0](https://github.com/prometheus-community/helm-charts/pull/3786) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 - [[prometheus-pushgateway] bump pushgateway to 1.6.1](https://github.com/prometheus-community/helm-charts/pull/3785) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [[prometheus-redis-exporter] bump redis exporter to 1.54.0](https://github.com/prometheus-community/helm-charts/pull/3784) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [[prometheus-mongodb-exporter] bump mongo exporter to 0.39.0](https://github.com/prometheus-community/helm-charts/pull/3783) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
