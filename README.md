@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (4 days ago)
+- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.20.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.20.0), 1 day ago) - Terraform AWS provider
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.3.0), 2 days ago) - Prometheus community Helm charts
-- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 2 days ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
-- [apache/airflow](https://github.com/apache/airflow) ([helm-chart/1.11.0](https://github.com/apache/airflow/releases/tag/helm-chart/1.11.0), 5 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.0.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.0.0), 5 days ago) - Terraform Google Cloud Platform provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.20.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.20.0), 2 days ago) - Terraform AWS provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.3.0), 3 days ago) - Prometheus community Helm charts
+- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 3 days ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
+- [apache/airflow](https://github.com/apache/airflow) ([helm-chart/1.11.0](https://github.com/apache/airflow/releases/tag/helm-chart/1.11.0), 6 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.0.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.0.0), 6 days ago) - Terraform Google Cloud Platform provider
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.15](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.15), 1 week ago) - Helm Charts for Jaeger backend
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), 2 weeks ago) - ArgoProj Helm Charts
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.8.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.8.0), 3 months ago) - 
@@ -40,9 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bump open api image to v7.0.1](https://github.com/apache/airflow/pull/34805) on [apache/airflow](https://github.com/apache/airflow) (1 day ago)
-- [bump go and test only recent go versions](https://github.com/apache/airflow-client-go/pull/44) on [apache/airflow-client-go](https://github.com/apache/airflow-client-go) (1 day ago)
-- [dataform_repository - add missing args](https://github.com/GoogleCloudPlatform/magic-modules/pull/9173) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
+- [bump open api image to v7.0.1](https://github.com/apache/airflow/pull/34805) on [apache/airflow](https://github.com/apache/airflow) (2 days ago)
+- [bump go and test only recent go versions](https://github.com/apache/airflow-client-go/pull/44) on [apache/airflow-client-go](https://github.com/apache/airflow-client-go) (2 days ago)
+- [dataform_repository - add missing args](https://github.com/GoogleCloudPlatform/magic-modules/pull/9173) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
 - [[prometheus-stackdriver-exporter] bump stackdriver exporter to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/3847) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-consul-exporter] bump consul exporter to 0.9.0](https://github.com/prometheus-community/helm-charts/pull/3846) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump thanos to 0.32.3](https://github.com/prometheus-community/helm-charts/pull/3845) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
