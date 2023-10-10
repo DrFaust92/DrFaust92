@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.4.1), today) - Prometheus community Helm charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.17](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.17), today) - Helm Charts for Jaeger backend
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.1.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.1.0), 1 day ago) - Terraform Google Cloud Platform provider
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.4.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.20.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.20.0), 4 days ago) - Terraform AWS provider
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 5 days ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
 - [apache/airflow](https://github.com/apache/airflow) ([helm-chart/1.11.0](https://github.com/apache/airflow/releases/tag/helm-chart/1.11.0), 1 week ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
