@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 months ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (3 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.5.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.5.3), today) - Prometheus community Helm charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.49.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.49.0), today) - Helm Charts for Jaeger backend
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.20.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.20.1), 1 day ago) - Terraform AWS provider
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.1.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.1.0), 2 days ago) - Terraform Google Cloud Platform provider
