@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] Allow setting automountServiceAccountToken](https://github.com/prometheus-community/helm-charts/pull/3911) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-to-sd] bump prometheus-to-sd  exporter to 0.9.2](https://github.com/prometheus-community/helm-charts/pull/3899) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prometheus-stackdriver-exporter] bump stackdriver exporter to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/3898) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prometheus-redis-exporter] bump redis exporter to 1.55](https://github.com/prometheus-community/helm-charts/pull/3897) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -49,7 +50,6 @@
 - [bump go and test only recent go versions](https://github.com/apache/airflow-client-go/pull/44) on [apache/airflow-client-go](https://github.com/apache/airflow-client-go) (1 week ago)
 - [dataform_repository - add missing args](https://github.com/GoogleCloudPlatform/magic-modules/pull/9173) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [[prometheus-stackdriver-exporter] bump stackdriver exporter to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/3847) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-consul-exporter] bump consul exporter to 0.9.0](https://github.com/prometheus-community/helm-charts/pull/3846) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
