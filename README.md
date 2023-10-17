@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.0.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.8), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.2.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.2.0), 1 day ago) - Terraform Google Cloud Platform provider
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.35.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.35.0), 4 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.21.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.21.0), 5 days ago) - Terraform AWS provider
