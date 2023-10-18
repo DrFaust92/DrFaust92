@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.9.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.36.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.36.1), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.9.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.2.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.2.0), 2 days ago) - Terraform Google Cloud Platform provider
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.21.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.21.0), 6 days ago) - Terraform AWS provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.2](https://github.com/apache/airflow/releases/tag/2.7.2), 6 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
