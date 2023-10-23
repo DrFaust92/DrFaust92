@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (2 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.8.0), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.22.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.22.0), 3 days ago) - Terraform AWS provider
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.36.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.36.1), 5 days ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.2.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.2.0), 6 days ago) - Terraform Google Cloud Platform provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.8.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.22.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.22.0), 4 days ago) - Terraform AWS provider
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.36.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.36.1), 6 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.2.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.2.0), 1 week ago) - Terraform Google Cloud Platform provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.2](https://github.com/apache/airflow/releases/tag/2.7.2), 1 week ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.49.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.49.0), 1 week ago) - Helm Charts for Jaeger backend
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 2 weeks ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
@@ -40,8 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus] Loosen typing for pdb.maxUnavailable](https://github.com/prometheus-community/helm-charts/pull/3927) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus] Allow setting automountServiceAccountToken](https://github.com/prometheus-community/helm-charts/pull/3911) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus] Loosen typing for pdb.maxUnavailable](https://github.com/prometheus-community/helm-charts/pull/3927) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus] Allow setting automountServiceAccountToken](https://github.com/prometheus-community/helm-charts/pull/3911) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus-to-sd] bump prometheus-to-sd  exporter to 0.9.2](https://github.com/prometheus-community/helm-charts/pull/3899) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-stackdriver-exporter] bump stackdriver exporter to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/3898) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-redis-exporter] bump redis exporter to 1.55](https://github.com/prometheus-community/helm-charts/pull/3897) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -69,8 +69,8 @@
 - [terraform-google-modules/terraform-google-network](https://github.com/terraform-google-modules/terraform-google-network) - Sets up a new VPC network on Google Cloud (4 months ago)
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring (4 months ago)
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (4 months ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (4 months ago)
-- [gojek/CureIAM](https://github.com/gojek/CureIAM) - Clean accounts over permissions in GCP infra at scale (4 months ago)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (5 months ago)
+- [gojek/CureIAM](https://github.com/gojek/CureIAM) - Clean accounts over permissions in GCP infra at scale (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
