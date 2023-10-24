@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.36.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.36.2), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.3.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.3.0), 1 day ago) - Terraform Google Cloud Platform provider
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.8.0), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.22.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.22.0), 5 days ago) - Terraform AWS provider
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.36.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.36.1), 1 week ago) - ArgoProj Helm Charts
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.2](https://github.com/apache/airflow/releases/tag/2.7.2), 1 week ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.49.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.49.0), 1 week ago) - Helm Charts for Jaeger backend
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 2 weeks ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
