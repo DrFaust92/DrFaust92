@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.3.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-52.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-52.0.1), today) - Prometheus community Helm charts
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.9.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.9.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.32.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.1), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.3.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.3.0), 2 days ago) - Terraform Google Cloud Platform provider
