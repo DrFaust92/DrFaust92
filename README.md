@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[promethues] update deps](https://github.com/prometheus-community/helm-charts/pull/3947) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Webhook secret (repo and workspace)](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/181) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (3 days ago)
 - [[prometheus] Loosen typing for pdb.maxUnavailable](https://github.com/prometheus-community/helm-charts/pull/3927) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus] Allow setting automountServiceAccountToken](https://github.com/prometheus-community/helm-charts/pull/3911) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -49,7 +50,6 @@
 - [[prometheus-nginx-exporter] bump nginx dep to 15.3.4](https://github.com/prometheus-community/helm-charts/pull/3896) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] - bump thanos to 0.32.4](https://github.com/prometheus-community/helm-charts/pull/3885) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [bump open api image to v7.0.1](https://github.com/apache/airflow/pull/34805) on [apache/airflow](https://github.com/apache/airflow) (3 weeks ago)
-- [bump go and test only recent go versions](https://github.com/apache/airflow-client-go/pull/44) on [apache/airflow-client-go](https://github.com/apache/airflow-client-go) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
