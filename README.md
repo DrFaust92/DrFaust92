@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.48.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.48.0), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.23.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.23.1), 1 day ago) - Terraform AWS provider
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.47.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.47.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-52.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-52.1.0), 2 days ago) - Prometheus community Helm charts
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.9.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.9.0), 3 days ago) - 
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.3.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.3.0), 5 days ago) - Terraform Google Cloud Platform provider
