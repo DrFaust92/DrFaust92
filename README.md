@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[promethues] update deps](https://github.com/prometheus-community/helm-charts/pull/3947) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus] update deps](https://github.com/prometheus-community/helm-charts/pull/3947) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Webhook secret (repo and workspace)](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/181) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (3 days ago)
 - [[prometheus] Loosen typing for pdb.maxUnavailable](https://github.com/prometheus-community/helm-charts/pull/3927) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus] Allow setting automountServiceAccountToken](https://github.com/prometheus-community/helm-charts/pull/3911) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
