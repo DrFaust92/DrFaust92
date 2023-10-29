@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feate(argo-cd): add notification cluster role](https://github.com/argoproj/argo-helm/pull/2315) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [r/redshift_resource_policy - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/34149) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 day ago)
 - [[prometheus] Upgrade Prometheus, update deps](https://github.com/prometheus-community/helm-charts/pull/3947) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Webhook secret (repo and workspace)](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/181) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (4 days ago)
@@ -49,7 +50,6 @@
 - [[prometheus-stackdriver-exporter] bump stackdriver exporter to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/3898) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-redis-exporter] bump redis exporter to 1.55](https://github.com/prometheus-community/helm-charts/pull/3897) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-nginx-exporter] bump nginx dep to 15.3.4](https://github.com/prometheus-community/helm-charts/pull/3896) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-prometheus-stack] - bump thanos to 0.32.4](https://github.com/prometheus-community/helm-charts/pull/3885) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
