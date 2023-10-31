@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.50.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.50.0), today) - ArgoProj Helm Charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.18](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.18), today) - Helm Charts for Jaeger backend
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.2), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.4.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.4.0), 1 day ago) - Terraform Google Cloud Platform provider
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.4.0), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.23.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.23.1), 4 days ago) - Terraform AWS provider
