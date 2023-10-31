@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.18](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.18), today) - Helm Charts for Jaeger backend
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.2), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.4.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.4.0), 1 day ago) - Terraform Google Cloud Platform provider
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.4.0), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.23.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.23.1), 4 days ago) - Terraform AWS provider
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.9.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.9.0), 6 days ago) - 
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.2](https://github.com/apache/airflow/releases/tag/2.7.2), 2 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.49.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.49.0), 2 weeks ago) - Helm Charts for Jaeger backend
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 3 weeks ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.4.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.4.0), 4 months ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
 
