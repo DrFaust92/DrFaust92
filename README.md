@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [r/redshift_cluster - add support for snapshot_arn](https://github.com/hashicorp/terraform-provider-aws/pull/34181) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
 - [Fix Project update](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/182) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
 - [feat(argo-cd): add notification cluster role](https://github.com/argoproj/argo-helm/pull/2315) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 days ago)
 - [r/redshift_resource_policy - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/34149) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
@@ -49,7 +50,6 @@
 - [[prometheus] Allow setting automountServiceAccountToken](https://github.com/prometheus-community/helm-charts/pull/3911) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-to-sd] bump prometheus-to-sd  exporter to 0.9.2](https://github.com/prometheus-community/helm-charts/pull/3899) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-stackdriver-exporter] bump stackdriver exporter to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/3898) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-redis-exporter] bump redis exporter to 1.55](https://github.com/prometheus-community/helm-charts/pull/3897) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
