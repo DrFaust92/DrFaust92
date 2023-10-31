@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [r/redshift_cluster - add support for snapshot_arn](https://github.com/hashicorp/terraform-provider-aws/pull/34181) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
+- [r/redshift_cluster - add support for restoring from `snapshot_arn`](https://github.com/hashicorp/terraform-provider-aws/pull/34181) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
 - [Fix Project update](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/182) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
 - [feat(argo-cd): add notification cluster role](https://github.com/argoproj/argo-helm/pull/2315) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 days ago)
 - [r/redshift_resource_policy - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/34149) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
