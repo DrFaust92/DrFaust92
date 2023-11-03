@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (2 days ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (3 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.24.0), today) - Terraform AWS provider
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.50.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.50.1), today) - ArgoProj Helm Charts
-- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.18](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.18), 2 days ago) - Helm Charts for Jaeger backend
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.4.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.4.0), 3 days ago) - Terraform Google Cloud Platform provider
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.4.0), 4 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.24.0), 1 day ago) - Terraform AWS provider
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.50.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.50.1), 1 day ago) - ArgoProj Helm Charts
+- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.71.18](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.71.18), 3 days ago) - Helm Charts for Jaeger backend
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.4.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.4.0), 4 days ago) - Terraform Google Cloud Platform provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.4.0), 5 days ago) - Prometheus community Helm charts
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.9.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.9.0), 1 week ago) - 
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.2](https://github.com/apache/airflow/releases/tag/2.7.2), 3 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 4 weeks ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
@@ -40,11 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [r/redshift_cluster - add support for restoring from `snapshot_arn`](https://github.com/hashicorp/terraform-provider-aws/pull/34181) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (2 days ago)
-- [Fix Project update](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/182) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (4 days ago)
-- [feat(argo-cd): add notification cluster role](https://github.com/argoproj/argo-helm/pull/2315) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (4 days ago)
-- [r/redshift_resource_policy - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/34149) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
-- [[prometheus] Upgrade Prometheus, update deps](https://github.com/prometheus-community/helm-charts/pull/3947) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [r/redshift_cluster - add support for restoring from `snapshot_arn`](https://github.com/hashicorp/terraform-provider-aws/pull/34181) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
+- [Fix Project update](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/182) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (5 days ago)
+- [feat(argo-cd): add notification cluster role](https://github.com/argoproj/argo-helm/pull/2315) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (5 days ago)
+- [r/redshift_resource_policy - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/34149) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
+- [[prometheus] Upgrade Prometheus, update deps](https://github.com/prometheus-community/helm-charts/pull/3947) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [Webhook secret (repo and workspace)](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/181) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [[prometheus] Loosen typing for pdb.maxUnavailable](https://github.com/prometheus-community/helm-charts/pull/3927) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus] Allow setting automountServiceAccountToken](https://github.com/prometheus-community/helm-charts/pull/3911) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
