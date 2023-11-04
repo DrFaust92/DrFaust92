@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.37.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.37.1), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.38.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.38.0), today) - ArgoProj Helm Charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.72.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.72.0), 1 day ago) - Helm Charts for Jaeger backend
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.24.0), 2 days ago) - Terraform AWS provider
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.4.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.4.0), 5 days ago) - Terraform Google Cloud Platform provider
