@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [r/sagemaker_feature_group - add args](https://github.com/hashicorp/terraform-provider-aws/pull/34283) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
 - [r/sagemaker_domain/user_profile - add additional canvas app args](https://github.com/hashicorp/terraform-provider-aws/pull/34265) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (2 days ago)
 - [r/redshift_cluster - add support for restoring from `snapshot_arn`](https://github.com/hashicorp/terraform-provider-aws/pull/34181) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
 - [Fix Project update](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/182) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
@@ -49,7 +50,6 @@
 - [Webhook secret (repo and workspace)](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/181) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [[prometheus] Loosen typing for pdb.maxUnavailable](https://github.com/prometheus-community/helm-charts/pull/3927) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus] Allow setting automountServiceAccountToken](https://github.com/prometheus-community/helm-charts/pull/3911) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-to-sd] bump prometheus-to-sd  exporter to 0.9.2](https://github.com/prometheus-community/helm-charts/pull/3899) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
