@@ -77,11 +77,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [okyanawang](https://github.com/okyanawang)
 - [shuichiro-makigaki](https://github.com/shuichiro-makigaki)
 - [fprobst](https://github.com/fprobst)
 - [nonso-chiagunye](https://github.com/nonso-chiagunye)
 - [dscain](https://github.com/dscain)
-- [jonesbusy](https://github.com/jonesbusy)
 
 #### 💬 Feedback
 
