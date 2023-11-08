@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (2 days ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (4 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-5.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.8.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.0), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.5.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.5.0), 2 days ago) - Terraform Google Cloud Platform provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.3](https://github.com/apache/airflow/releases/tag/2.7.3), 2 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
