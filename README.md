@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-5.2.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.0), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.8.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.5.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.5.0), 2 days ago) - Terraform Google Cloud Platform provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.3](https://github.com/apache/airflow/releases/tag/2.7.3), 2 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.9.1](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.9.1), 4 days ago) - 
