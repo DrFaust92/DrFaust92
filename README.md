@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (today)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (5 days ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
@@ -11,10 +12,10 @@
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS. (4 months ago)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (8 months ago)
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) - Helm Charts for Jaeger backend (9 months ago)
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (9 months ago)
 
 #### 🌱 My latest projects
 
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) - 
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) - 
 - [DrFaust92/terraform-grafana-stackdriver-module](https://github.com/DrFaust92/terraform-grafana-stackdriver-module) - Terraform module which creates a Grafana Stackdriver data source with a minimal GCP service account.
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
@@ -24,12 +25,11 @@
 - [DrFaust92/terraform-aws-tgw](https://github.com/DrFaust92/terraform-aws-tgw) - Terraform module which creates TGW resources on AWS
 - [DrFaust92/terraform-aws-nat-instance](https://github.com/DrFaust92/terraform-aws-nat-instance) - Terraform module which creates EC2 NAT instance
 - [DrFaust92/chocolatey-packages](https://github.com/DrFaust92/chocolatey-packages) - Chocolatey sources for multiple packages
-- [DrFaust92/S3-Maven-Plugin](https://github.com/DrFaust92/S3-Maven-Plugin) - S3 Maven Plugin that allows uploading build artifacts to S3 Securely
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.8.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.51.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.1), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.25.0), 1 day ago) - Terraform AWS provider
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.5.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.5.0), 5 days ago) - Terraform Google Cloud Platform provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.3](https://github.com/apache/airflow/releases/tag/2.7.3), 5 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-state-metrics] Bump to 2.10.1](https://github.com/prometheus-community/helm-charts/pull/3996) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-pushgateway] Bump to 1.6.2](https://github.com/prometheus-community/helm-charts/pull/3995) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[alertmanager-snmp-notifier] Bump to 1.5.0](https://github.com/prometheus-community/helm-charts/pull/3994) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-statsd-exporter] Bump to 0.25.0](https://github.com/prometheus-community/helm-charts/pull/3993) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-crds] Bump to 0.69.1](https://github.com/prometheus-community/helm-charts/pull/3990) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[rometheus-operator-admission-webhook] Bump to 0.69.1](https://github.com/prometheus-community/helm-charts/pull/3989) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-operator-admission-webhook] Bump to 0.69.1](https://github.com/prometheus-community/helm-charts/pull/3989) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] Bump to 0.69.1](https://github.com/prometheus-community/helm-charts/pull/3988) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [r/sagemaker_feature_group - add args](https://github.com/hashicorp/terraform-provider-aws/pull/34283) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
 - [r/sagemaker_domain/user_profile - add additional canvas app args](https://github.com/hashicorp/terraform-provider-aws/pull/34265) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [r/redshift_cluster - add support for restoring from `snapshot_arn`](https://github.com/hashicorp/terraform-provider-aws/pull/34181) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
-- [Fix Project update](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/182) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
-- [feat(argo-cd): add notification cluster role](https://github.com/argoproj/argo-helm/pull/2315) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [r/redshift_resource_policy - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/34149) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (2 weeks ago)
-- [[prometheus] Upgrade Prometheus, update deps](https://github.com/prometheus-community/helm-charts/pull/3947) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
