@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (5 days ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.4.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.15.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.51.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.1), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.25.0), 1 day ago) - Terraform AWS provider
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.5.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.5.0), 5 days ago) - Terraform Google Cloud Platform provider
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] Bump helm deps](https://github.com/prometheus-community/helm-charts/pull/3997) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-state-metrics] Bump to 2.10.1](https://github.com/prometheus-community/helm-charts/pull/3996) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-pushgateway] Bump to 1.6.2](https://github.com/prometheus-community/helm-charts/pull/3995) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[alertmanager-snmp-notifier] Bump to 1.5.0](https://github.com/prometheus-community/helm-charts/pull/3994) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -49,7 +50,6 @@
 - [[kube-prometheus-stack] Bump to 0.69.1](https://github.com/prometheus-community/helm-charts/pull/3988) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [r/sagemaker_feature_group - add args](https://github.com/hashicorp/terraform-provider-aws/pull/34283) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
 - [r/sagemaker_domain/user_profile - add additional canvas app args](https://github.com/hashicorp/terraform-provider-aws/pull/34265) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
-- [r/redshift_cluster - add support for restoring from `snapshot_arn`](https://github.com/hashicorp/terraform-provider-aws/pull/34181) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 
 #### 📜 My recent blog posts
 
