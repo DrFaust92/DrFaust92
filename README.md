@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.32.4](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.4), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.2), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.24.0), today) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.2), 1 day ago) - 
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.6.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.6.0), 2 days ago) - Terraform Google Cloud Platform provider
