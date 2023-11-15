@@ -42,7 +42,7 @@
 #### 🔨 My recent Pull Requests
 
 - [[prometheus-node-exporter] Bump to 1.7.0 &#43; rbac proxy to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [chore(argo-rollouts): Bump rollouts to 1.6.2](https://github.com/argoproj/argo-helm/pull/2345) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 day ago)
+- [chore(argo-rollouts): Bump rollouts to 1.6.1](https://github.com/argoproj/argo-helm/pull/2345) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 day ago)
 - [[prometheus-fastly-exporter] Bump to 7.6.1](https://github.com/prometheus-community/helm-charts/pull/4002) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[prometheus] Bump helm deps](https://github.com/prometheus-community/helm-charts/pull/3997) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-state-metrics] Bump to 2.10.1](https://github.com/prometheus-community/helm-charts/pull/3996) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
