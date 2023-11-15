@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[bitnami/rabbitmq-cluster-operator] refresh messaging-topology-operator crds](https://github.com/bitnami/charts/pull/20982) on [bitnami/charts](https://github.com/bitnami/charts) (today)
 - [Bump vault image to v1.15.2](https://github.com/hashicorp/vault-helm/pull/977) on [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) (today)
 - [chore(argo-rollouts): Bump rollouts to 1.6.2](https://github.com/argoproj/argo-helm/pull/2347) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [[prometheus-node-exporter] Bump to 1.7.0 &#43; rbac proxy to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@
 - [[kube-state-metrics] Bump to 2.10.1](https://github.com/prometheus-community/helm-charts/pull/3996) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-pushgateway] Bump to 1.6.2](https://github.com/prometheus-community/helm-charts/pull/3995) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[alertmanager-snmp-notifier] Bump to 1.5.0](https://github.com/prometheus-community/helm-charts/pull/3994) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-statsd-exporter] Bump to 0.25.0](https://github.com/prometheus-community/helm-charts/pull/3993) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
