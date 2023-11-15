@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(argo-rollouts): Bump rollouts to 1.6.2](https://github.com/argoproj/argo-helm/pull/2347) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [[prometheus-node-exporter] Bump to 1.7.0 &#43; rbac proxy to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [chore(argo-rollouts): Bump rollouts to 1.6.1](https://github.com/argoproj/argo-helm/pull/2345) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 day ago)
 - [[prometheus-fastly-exporter] Bump to 7.6.1](https://github.com/prometheus-community/helm-charts/pull/4002) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -50,7 +51,6 @@
 - [[alertmanager-snmp-notifier] Bump to 1.5.0](https://github.com/prometheus-community/helm-charts/pull/3994) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-statsd-exporter] Bump to 0.25.0](https://github.com/prometheus-community/helm-charts/pull/3993) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-operator-crds] Bump to 0.69.1](https://github.com/prometheus-community/helm-charts/pull/3990) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[prometheus-operator-admission-webhook] Bump to 0.69.1](https://github.com/prometheus-community/helm-charts/pull/3989) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
