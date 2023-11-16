@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.26.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.26.0), today) - Terraform AWS provider
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.3), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.2.0), today) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.2), 2 days ago) - 
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.6.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.6.0), 3 days ago) - Terraform Google Cloud Platform provider
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.25.0), 6 days ago) - Terraform AWS provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.3](https://github.com/apache/airflow/releases/tag/2.7.3), 1 week ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.9.1](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.9.1), 1 week ago) - 
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.72.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.72.0), 1 week ago) - Helm Charts for Jaeger backend
