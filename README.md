@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 day ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 days ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (1 month ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.2), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.24.0), today) - Prometheus community Helm charts
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.2), 1 day ago) - 
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.6.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.6.0), 2 days ago) - Terraform Google Cloud Platform provider
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.25.0), 5 days ago) - Terraform AWS provider
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.2), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.24.0), 1 day ago) - Prometheus community Helm charts
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.2), 2 days ago) - 
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.6.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.6.0), 3 days ago) - Terraform Google Cloud Platform provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.25.0), 6 days ago) - Terraform AWS provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.3](https://github.com/apache/airflow/releases/tag/2.7.3), 1 week ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.9.1](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.9.1), 1 week ago) - 
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.72.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.72.0), 1 week ago) - Helm Charts for Jaeger backend
@@ -41,20 +41,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[bitnami/rabbitmq-cluster-operator] refresh messaging-topology-operator crds](https://github.com/bitnami/charts/pull/20982) on [bitnami/charts](https://github.com/bitnami/charts) (today)
-- [Bump vault image to v1.15.2](https://github.com/hashicorp/vault-helm/pull/977) on [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) (today)
-- [chore(argo-rollouts): Bump rollouts to 1.6.2](https://github.com/argoproj/argo-helm/pull/2347) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
-- [[prometheus-node-exporter] Bump to 1.7.0 &#43; rbac proxy to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [chore(argo-rollouts): Bump rollouts to 1.6.1](https://github.com/argoproj/argo-helm/pull/2345) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 day ago)
-- [[prometheus-fastly-exporter] Bump to 7.6.1](https://github.com/prometheus-community/helm-charts/pull/4002) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[prometheus] Bump helm deps](https://github.com/prometheus-community/helm-charts/pull/3997) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[kube-state-metrics] Bump to 2.10.1](https://github.com/prometheus-community/helm-charts/pull/3996) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-pushgateway] Bump to 1.6.2](https://github.com/prometheus-community/helm-charts/pull/3995) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[alertmanager-snmp-notifier] Bump to 1.5.0](https://github.com/prometheus-community/helm-charts/pull/3994) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[bitnami/rabbitmq-cluster-operator] refresh messaging-topology-operator crds](https://github.com/bitnami/charts/pull/20982) on [bitnami/charts](https://github.com/bitnami/charts) (1 day ago)
+- [Bump vault image to v1.15.2](https://github.com/hashicorp/vault-helm/pull/977) on [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) (1 day ago)
+- [chore(argo-rollouts): Bump rollouts to 1.6.2](https://github.com/argoproj/argo-helm/pull/2347) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 day ago)
+- [[prometheus-node-exporter] Bump to 1.7.0 &#43; rbac proxy to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [chore(argo-rollouts): Bump rollouts to 1.6.1](https://github.com/argoproj/argo-helm/pull/2345) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 days ago)
+- [[prometheus-fastly-exporter] Bump to 7.6.1](https://github.com/prometheus-community/helm-charts/pull/4002) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[prometheus] Bump helm deps](https://github.com/prometheus-community/helm-charts/pull/3997) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[kube-state-metrics] Bump to 2.10.1](https://github.com/prometheus-community/helm-charts/pull/3996) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus-pushgateway] Bump to 1.6.2](https://github.com/prometheus-community/helm-charts/pull/3995) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[alertmanager-snmp-notifier] Bump to 1.5.0](https://github.com/prometheus-community/helm-charts/pull/3994) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
-- [Managing Airflow Resources The IaC Way With Terraform](https://engineering.placer.ai/managing-airflow-resources-the-iac-way-with-terraform-ea5b8db573ad?source=rss-cac402f06fa8------2) (8 months ago)
+- [Managing Airflow Resources The IaC Way With Terraform](https://engineering.placer.ai/managing-airflow-resources-the-iac-way-with-terraform-ea5b8db573ad?source=rss-cac402f06fa8------2) (9 months ago)
 - [Managing your software packages in AWS CodeArtifact](https://medium.com/@ilia.lazebnik/managing-your-software-packages-in-aws-codeartifact-12d00053e243?source=rss-cac402f06fa8------2) (3 years ago)
 - [Securing EFS File Systems with Terraform: IAM](https://medium.com/@ilia.lazebnik/securing-efs-file-systems-with-terraform-iam-d2a066c198ab?source=rss-cac402f06fa8------2) (3 years ago)
 - [Attaching an EFS file system to an ECS Task](https://medium.com/@ilia.lazebnik/attaching-an-efs-file-system-to-an-ecs-task-7bd15b76a6ef?source=rss-cac402f06fa8------2) (3 years ago)
