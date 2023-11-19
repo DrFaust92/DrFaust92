@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-ipmi-exporter] Bump ipmi to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/4022) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-adapter] Bump prom adapter to 0.11.2](https://github.com/prometheus-community/helm-charts/pull/4021) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus] Bump prom to 2.48.0](https://github.com/prometheus-community/helm-charts/pull/4018) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] Bump prom to 2.48.0 &#43; node exporter dep](https://github.com/prometheus-community/helm-charts/pull/4017) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[bitnami/rabbitmq-cluster-operator] refresh messaging-topology-operator crds](https://github.com/bitnami/charts/pull/20982) on [bitnami/charts](https://github.com/bitnami/charts) (4 days ago)
@@ -49,8 +51,6 @@
 - [[prometheus-node-exporter] Bump to 1.7.0 &#43; rbac proxy to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [chore(argo-rollouts): Bump rollouts to 1.6.1](https://github.com/argoproj/argo-helm/pull/2345) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (5 days ago)
 - [[prometheus-fastly-exporter] Bump to 7.6.1](https://github.com/prometheus-community/helm-charts/pull/4002) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus] Bump helm deps](https://github.com/prometheus-community/helm-charts/pull/3997) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-state-metrics] Bump to 2.10.1](https://github.com/prometheus-community/helm-charts/pull/3996) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
