@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (today)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (6 days ago)
@@ -11,7 +12,6 @@
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 months ago)
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS. (5 months ago)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (8 months ago)
-- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) - Helm Charts for Jaeger backend (9 months ago)
 
 #### 🌱 My latest projects
 
