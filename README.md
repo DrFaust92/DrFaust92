@@ -78,11 +78,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [kwabenasarfo1](https://github.com/kwabenasarfo1)
 - [Vinaum8](https://github.com/Vinaum8)
 - [nurzhamalabd](https://github.com/nurzhamalabd)
 - [okyanawang](https://github.com/okyanawang)
 - [shuichiro-makigaki](https://github.com/shuichiro-makigaki)
-- [fprobst](https://github.com/fprobst)
 
 #### 💬 Feedback
 
