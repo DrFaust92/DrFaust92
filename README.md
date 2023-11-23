@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.2.2), today) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.3), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.2.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.7.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.7.0), 3 days ago) - Terraform Google Cloud Platform provider
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.51.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.4), 3 days ago) - ArgoProj Helm Charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.72.1](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.72.1), 3 days ago) - Helm Charts for Jaeger backend
