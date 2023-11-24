@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [allow importing repo vars](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/189) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [[prometheus-ipmi-exporter] Bump ipmi to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/4022) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-adapter] Bump prom adapter to 0.11.2](https://github.com/prometheus-community/helm-charts/pull/4021) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus] Bump prom to 2.48.0](https://github.com/prometheus-community/helm-charts/pull/4018) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [chore(argo-rollouts): Bump rollouts to 1.6.2](https://github.com/argoproj/argo-helm/pull/2347) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [[prometheus-node-exporter] Bump to 1.7.0 &#43; rbac proxy to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [chore(argo-rollouts): Bump rollouts to 1.6.1](https://github.com/argoproj/argo-helm/pull/2345) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [[prometheus-fastly-exporter] Bump to 7.6.1](https://github.com/prometheus-community/helm-charts/pull/4002) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
