@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.0), today) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.3), 2 days ago) - 
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.7.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.7.0), 4 days ago) - Terraform Google Cloud Platform provider
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.51.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.4), 4 days ago) - ArgoProj Helm Charts
