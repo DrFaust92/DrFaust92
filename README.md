@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.32.5](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.5), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.51.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.5), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.28.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.28.0), today) - Terraform AWS provider
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.0), 5 days ago) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.3), 1 week ago) - 
