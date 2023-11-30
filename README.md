@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Bump operator to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4046) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Connection - fix removing optional args](https://github.com/DrFaust92/terraform-provider-airflow/pull/42) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (6 days ago)
 - [add variable desc](https://github.com/DrFaust92/terraform-provider-airflow/pull/41) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (6 days ago)
 - [allow importing repo vars](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/189) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (6 days ago)
@@ -50,7 +51,6 @@
 - [[kube-prometheus-stack] Bump prom to 2.48.0 &#43; node exporter dep](https://github.com/prometheus-community/helm-charts/pull/4017) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[bitnami/rabbitmq-cluster-operator] refresh messaging-topology-operator crds](https://github.com/bitnami/charts/pull/20982) on [bitnami/charts](https://github.com/bitnami/charts) (2 weeks ago)
 - [Bump vault image to v1.15.2](https://github.com/hashicorp/vault-helm/pull/977) on [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) (2 weeks ago)
-- [chore(argo-rollouts): Bump rollouts to 1.6.2](https://github.com/argoproj/argo-helm/pull/2347) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
