@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-operator-admission-webhook] Bump to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4048) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-operator-crds] Bump crds to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4047) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Bump operator to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4046) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Connection - fix removing optional args](https://github.com/DrFaust92/terraform-provider-airflow/pull/42) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [add variable desc](https://github.com/DrFaust92/terraform-provider-airflow/pull/41) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
@@ -49,8 +51,6 @@
 - [[prometheus-adapter] Bump prom adapter to 0.11.2](https://github.com/prometheus-community/helm-charts/pull/4021) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus] Bump prom to 2.48.0](https://github.com/prometheus-community/helm-charts/pull/4018) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] Bump prom to 2.48.0 &#43; node exporter dep](https://github.com/prometheus-community/helm-charts/pull/4017) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[bitnami/rabbitmq-cluster-operator] refresh messaging-topology-operator crds](https://github.com/bitnami/charts/pull/20982) on [bitnami/charts](https://github.com/bitnami/charts) (2 weeks ago)
-- [Bump vault image to v1.15.2](https://github.com/hashicorp/vault-helm/pull/977) on [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
