@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.6), 2 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.7), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.8.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.8.0), 3 days ago) - Terraform Google Cloud Platform provider
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.0.0), 4 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.29.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.29.0), 1 week ago) - Terraform AWS provider
