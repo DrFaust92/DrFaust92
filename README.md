@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.3.0), today) - Prometheus community Helm charts
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 2 days ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.8), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.30.0), 4 days ago) - Terraform AWS provider
