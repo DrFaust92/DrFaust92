@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-mysql-exporter] bump to 0.15.1](https://github.com/prometheus-community/helm-charts/pull/4085) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-mongodb-exporter] bump to 0.40](https://github.com/prometheus-community/helm-charts/pull/4084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus] Bump to 2.48.1](https://github.com/prometheus-community/helm-charts/pull/4083) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [dataproc_metastore_service - promote args to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/9619) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
 - [[prometheus] bump reloader to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4064) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus-cloudwatch-exporter] bump to 0.15.5](https://github.com/prometheus-community/helm-charts/pull/4063) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
@@ -48,9 +51,6 @@
 - [Sagemaker Studio - Add support for new jupyter lab arguments](https://github.com/hashicorp/terraform-provider-aws/pull/34729) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [r/sagemaker_app_image_config - add jupyterlab support](https://github.com/hashicorp/terraform-provider-aws/pull/34696) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [[prometheus-operator-crds] Fix accidental space](https://github.com/prometheus-community/helm-charts/pull/4049) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-operator-admission-webhook] Bump to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4048) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-operator-crds] Bump crds to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4047) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] Bump operator to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4046) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
