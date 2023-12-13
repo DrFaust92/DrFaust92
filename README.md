@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: make confidential_nodes, identity_service_config, cloud_run, intranode, tpu GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1814) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [[prometheus-mysql-exporter] bump to 0.15.1](https://github.com/prometheus-community/helm-charts/pull/4085) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-mongodb-exporter] bump to 0.40](https://github.com/prometheus-community/helm-charts/pull/4084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus] Bump to 2.48.1](https://github.com/prometheus-community/helm-charts/pull/4083) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@
 - [[prometheus-memcached-exporter] bump to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/4062) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Sagemaker Studio - Add support for new jupyter lab arguments](https://github.com/hashicorp/terraform-provider-aws/pull/34729) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [r/sagemaker_app_image_config - add jupyterlab support](https://github.com/hashicorp/terraform-provider-aws/pull/34696) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
-- [[prometheus-operator-crds] Fix accidental space](https://github.com/prometheus-community/helm-charts/pull/4049) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
