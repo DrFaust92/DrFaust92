@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS. (3 days ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS. (4 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 weeks ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 weeks ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (4 weeks ago)
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (2 months ago)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (9 months ago)
 
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.9.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.9), today) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.9.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.9.0), 1 day ago) - Terraform Google Cloud Platform provider
-- [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 3 days ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.30.0), 5 days ago) - Terraform AWS provider
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.3), 2 weeks ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.9.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.9), 1 day ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.9.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.9.0), 2 days ago) - Terraform Google Cloud Platform provider
+- [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 4 days ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.30.0), 6 days ago) - Terraform AWS provider
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.3), 3 weeks ago) - 
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.72.1](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.72.1), 3 weeks ago) - Helm Charts for Jaeger backend
 - [apache/airflow](https://github.com/apache/airflow) ([2.7.3](https://github.com/apache/airflow/releases/tag/2.7.3), 1 month ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.9.1](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.9.1), 1 month ago) - 
@@ -41,13 +41,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-mysql-exporter] bump to 0.15.1](https://github.com/prometheus-community/helm-charts/pull/4085) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-mongodb-exporter] bump to 0.40](https://github.com/prometheus-community/helm-charts/pull/4084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus] Bump to 2.48.1](https://github.com/prometheus-community/helm-charts/pull/4083) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [dataproc_metastore_service - promote args to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/9619) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
-- [[prometheus] bump reloader to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4064) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[prometheus-cloudwatch-exporter] bump to 0.15.5](https://github.com/prometheus-community/helm-charts/pull/4063) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[prometheus-memcached-exporter] bump to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/4062) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[prometheus-mysql-exporter] bump to 0.15.1](https://github.com/prometheus-community/helm-charts/pull/4085) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-mongodb-exporter] bump to 0.40](https://github.com/prometheus-community/helm-charts/pull/4084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus] Bump to 2.48.1](https://github.com/prometheus-community/helm-charts/pull/4083) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [dataproc_metastore_service - promote args to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/9619) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
+- [[prometheus] bump reloader to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4064) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[prometheus-cloudwatch-exporter] bump to 0.15.5](https://github.com/prometheus-community/helm-charts/pull/4063) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[prometheus-memcached-exporter] bump to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/4062) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Sagemaker Studio - Add support for new jupyter lab arguments](https://github.com/hashicorp/terraform-provider-aws/pull/34729) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [r/sagemaker_app_image_config - add jupyterlab support](https://github.com/hashicorp/terraform-provider-aws/pull/34696) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [[prometheus-operator-crds] Fix accidental space](https://github.com/prometheus-community/helm-charts/pull/4049) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
