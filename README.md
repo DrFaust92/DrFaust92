@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(argo-workflows): add  hostAliases to server](https://github.com/argoproj/argo-helm/pull/2387) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [feat(argo-rollouts): allow setting log config for rollouts](https://github.com/argoproj/argo-helm/pull/2386) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [feat: Make confidential_nodes GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1815) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [feat: make confidential_nodes, identity_service_config, cloud_run, intranode, tpu GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1814) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
@@ -50,7 +51,6 @@
 - [dataproc_metastore_service - promote args to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/9619) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
 - [[prometheus] bump reloader to 0.70.0](https://github.com/prometheus-community/helm-charts/pull/4064) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-cloudwatch-exporter] bump to 0.15.5](https://github.com/prometheus-community/helm-charts/pull/4063) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-memcached-exporter] bump to 0.14.1](https://github.com/prometheus-community/helm-charts/pull/4062) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
