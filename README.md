@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS. (5 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
@@ -9,7 +10,6 @@
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 weeks ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 weeks ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (4 weeks ago)
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (2 months ago)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (9 months ago)
 
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.2.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.32.8](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.8), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.9.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.9.0), 3 days ago) - Terraform Google Cloud Platform provider
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 5 days ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.30.0), 1 week ago) - Terraform AWS provider
