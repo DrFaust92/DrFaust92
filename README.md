@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.0), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.33.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.33.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.2.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.9.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.9.0), 3 days ago) - Terraform Google Cloud Platform provider
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 5 days ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
