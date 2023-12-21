@@ -78,11 +78,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Blackmi90](https://github.com/Blackmi90)
 - [silazare](https://github.com/silazare)
 - [kwabenasarfo1](https://github.com/kwabenasarfo1)
 - [Vinaum8](https://github.com/Vinaum8)
 - [nurzhamalabd](https://github.com/nurzhamalabd)
-- [okyanawang](https://github.com/okyanawang)
 
 #### 💬 Feedback
 
