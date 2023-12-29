@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-redis-exporter] bump redis exporter to 1.56.0](https://github.com/prometheus-community/helm-charts/pull/4118) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-elasticsearch-exporter] bump elastic exporter to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/4111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[kube-prometheus-stack] bump Thanos to 0.33.0](https://github.com/prometheus-community/helm-charts/pull/4101) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-conntrack-stats-exporter] bump to 0.4.17](https://github.com/prometheus-community/helm-charts/pull/4100) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [feat(argo-rollouts): add args for dashboard logs](https://github.com/argoproj/argo-helm/pull/2388) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 - [feat(argo-workflows): add  hostAliases to server](https://github.com/argoproj/argo-helm/pull/2387) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 - [feat(argo-rollouts): allow setting log config for rollouts](https://github.com/argoproj/argo-helm/pull/2386) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
-- [feat: Make confidential_nodes GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1815) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
