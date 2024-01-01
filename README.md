@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[bitnami/external-dns] add pihole support](https://github.com/bitnami/charts/pull/21809) on [bitnami/charts](https://github.com/bitnami/charts) (today)
 - [[prometheus-redis-exporter] bump redis exporter to 1.56.0](https://github.com/prometheus-community/helm-charts/pull/4118) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[prometheus-elasticsearch-exporter] bump elastic exporter to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/4111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump Thanos to 0.33.0](https://github.com/prometheus-community/helm-charts/pull/4101) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [bigquery conn - add kms support](https://github.com/GoogleCloudPlatform/magic-modules/pull/9660) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
 - [feat(argo-rollouts): add args for dashboard logs](https://github.com/argoproj/argo-helm/pull/2388) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 - [feat(argo-workflows): add  hostAliases to server](https://github.com/argoproj/argo-helm/pull/2387) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
-- [feat(argo-rollouts): allow setting log config for rollouts](https://github.com/argoproj/argo-helm/pull/2386) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
