@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 day ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.11.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.11.0), today) - Terraform Google Cloud Platform provider
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.8.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.34.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.34.1), 1 day ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.11.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.11.0), 1 day ago) - Terraform Google Cloud Platform provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.8.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.34.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.34.1), 2 days ago) - ArgoProj Helm Charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.73.1](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.73.1), 2 weeks ago) - Helm Charts for Jaeger backend
 - [apache/airflow](https://github.com/apache/airflow) ([2.8.0](https://github.com/apache/airflow/releases/tag/2.8.0), 3 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.31.0), 3 weeks ago) - Terraform AWS provider
@@ -41,13 +41,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [r/sagemaker_space - add args](https://github.com/hashicorp/terraform-provider-aws/pull/35116) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
+- [r/sagemaker_space - add args](https://github.com/hashicorp/terraform-provider-aws/pull/35116) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
 - [[bitnami/external-dns] add pihole support](https://github.com/bitnami/charts/pull/21809) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 - [[prometheus-redis-exporter] bump redis exporter to 1.56.0](https://github.com/prometheus-community/helm-charts/pull/4118) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-elasticsearch-exporter] bump elastic exporter to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/4111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-prometheus-stack] bump Thanos to 0.33.0](https://github.com/prometheus-community/helm-charts/pull/4101) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-conntrack-stats-exporter] bump to 0.4.17](https://github.com/prometheus-community/helm-charts/pull/4100) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-pushgateway] add host aliases](https://github.com/prometheus-community/helm-charts/pull/4099) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
+- [[kube-prometheus-stack] bump Thanos to 0.33.0](https://github.com/prometheus-community/helm-charts/pull/4101) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
+- [[prometheus-conntrack-stats-exporter] bump to 0.4.17](https://github.com/prometheus-community/helm-charts/pull/4100) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
+- [[prometheus-pushgateway] add host aliases](https://github.com/prometheus-community/helm-charts/pull/4099) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 - [bq analyticshub listing - add support for restrictedExportConfig](https://github.com/GoogleCloudPlatform/magic-modules/pull/9661) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 weeks ago)
 - [bigquery conn - add kms support](https://github.com/GoogleCloudPlatform/magic-modules/pull/9660) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 weeks ago)
 - [feat(argo-rollouts): add args for dashboard logs](https://github.com/argoproj/argo-helm/pull/2388) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 weeks ago)
@@ -58,11 +58,11 @@
 - [Managing your software packages in AWS CodeArtifact](https://medium.com/@ilia.lazebnik/managing-your-software-packages-in-aws-codeartifact-12d00053e243?source=rss-cac402f06fa8------2) (3 years ago)
 - [Securing EFS File Systems with Terraform: IAM](https://medium.com/@ilia.lazebnik/securing-efs-file-systems-with-terraform-iam-d2a066c198ab?source=rss-cac402f06fa8------2) (3 years ago)
 - [Attaching an EFS file system to an ECS Task](https://medium.com/@ilia.lazebnik/attaching-an-efs-file-system-to-an-ecs-task-7bd15b76a6ef?source=rss-cac402f06fa8------2) (3 years ago)
-- [Simplifying AWS Private API Gateway VPC Endpoint Association with Terraform](https://medium.com/@ilia.lazebnik/simplifying-aws-private-api-gateway-vpc-endpoint-association-with-terraform-b379a247afbf?source=rss-cac402f06fa8------2) (3 years ago)
+- [Simplifying AWS Private API Gateway VPC Endpoint Association with Terraform](https://medium.com/@ilia.lazebnik/simplifying-aws-private-api-gateway-vpc-endpoint-association-with-terraform-b379a247afbf?source=rss-cac402f06fa8------2) (4 years ago)
 
 #### ⭐ Recent Stars
 
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (3 months ago)
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (4 months ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (4 months ago)
 - [opsgenie/terraform-provider-opsgenie](https://github.com/opsgenie/terraform-provider-opsgenie) - Terraform OpsGenie provider (6 months ago)
 - [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) - Watches k8s cluster events and logs them to stdout in JSON (7 months ago)
