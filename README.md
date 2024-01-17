@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [artifact registry repository - promote cleanup policy to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/9832) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [[prometheus-operator-crds] bump operator to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4153) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-admission-webhook] bump admission webhook to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] bump operator to 0.71.0 (and default prom to 2.49.1)](https://github.com/prometheus-community/helm-charts/pull/4151) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -50,7 +51,6 @@
 - [[prom-label-proxy] bump to 0.8.0](https://github.com/prometheus-community/helm-charts/pull/4133) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [r/sagemaker_space - add args](https://github.com/hashicorp/terraform-provider-aws/pull/35116) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (2 weeks ago)
 - [[bitnami/external-dns] add pihole support](https://github.com/bitnami/charts/pull/21809) on [bitnami/charts](https://github.com/bitnami/charts) (2 weeks ago)
-- [[prometheus-redis-exporter] bump redis exporter to 1.56.0](https://github.com/prometheus-community/helm-charts/pull/4118) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
