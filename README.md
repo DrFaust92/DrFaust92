@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.9.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.7), today) - ArgoProj Helm Charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.50.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.50.0), today) - Helm Charts for Jaeger backend
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.12.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.12.0), 1 day ago) - Terraform Google Cloud Platform provider
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.1.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.32.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.32.1), 5 days ago) - Terraform AWS provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.8.0](https://github.com/apache/airflow/releases/tag/2.8.0), 1 month ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 1 month ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump operator to 0.71.0 (and default prom to 2.49.1)](https://github.com/prometheus-community/helm-charts/pull/4151) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus] bump to 2.49.1 and deps](https://github.com/prometheus-community/helm-charts/pull/4150) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-windows-exporter] bump to 0.24.0](https://github.com/prometheus-community/helm-charts/pull/4135) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-memcached-exporter] bump to 0.14.2](https://github.com/prometheus-community/helm-charts/pull/4134) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prom-label-proxy] bump to 0.8.0](https://github.com/prometheus-community/helm-charts/pull/4133) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -49,8 +51,6 @@
 - [[prometheus-redis-exporter] bump redis exporter to 1.56.0](https://github.com/prometheus-community/helm-charts/pull/4118) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-elasticsearch-exporter] bump elastic exporter to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/4111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 - [[kube-prometheus-stack] bump Thanos to 0.33.0](https://github.com/prometheus-community/helm-charts/pull/4101) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 weeks ago)
-- [[prometheus-conntrack-stats-exporter] bump to 0.4.17](https://github.com/prometheus-community/helm-charts/pull/4100) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 weeks ago)
-- [[prometheus-pushgateway] add host aliases](https://github.com/prometheus-community/helm-charts/pull/4099) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
