@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.9.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.11.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.7), today) - ArgoProj Helm Charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.50.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.50.0), today) - Helm Charts for Jaeger backend
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.12.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.12.0), 1 day ago) - Terraform Google Cloud Platform provider
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-operator-crds] bump operator to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4153) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-operator-admission-webhook] bump admission webhook to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] bump operator to 0.71.0 (and default prom to 2.49.1)](https://github.com/prometheus-community/helm-charts/pull/4151) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus] bump to 2.49.1 and deps](https://github.com/prometheus-community/helm-charts/pull/4150) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-windows-exporter] bump to 0.24.0](https://github.com/prometheus-community/helm-charts/pull/4135) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -49,8 +51,6 @@
 - [r/sagemaker_space - add args](https://github.com/hashicorp/terraform-provider-aws/pull/35116) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (2 weeks ago)
 - [[bitnami/external-dns] add pihole support](https://github.com/bitnami/charts/pull/21809) on [bitnami/charts](https://github.com/bitnami/charts) (2 weeks ago)
 - [[prometheus-redis-exporter] bump redis exporter to 1.56.0](https://github.com/prometheus-community/helm-charts/pull/4118) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-elasticsearch-exporter] bump elastic exporter to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/4111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [[kube-prometheus-stack] bump Thanos to 0.33.0](https://github.com/prometheus-community/helm-charts/pull/4101) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
