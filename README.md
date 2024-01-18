@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.11.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.7), today) - ArgoProj Helm Charts
-- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.50.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.50.0), today) - Helm Charts for Jaeger backend
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.12.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.12.0), 1 day ago) - Terraform Google Cloud Platform provider
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.32.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.32.1), 5 days ago) - Terraform AWS provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.11.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.7), 1 day ago) - ArgoProj Helm Charts
+- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.50.0](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.50.0), 1 day ago) - Helm Charts for Jaeger backend
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.12.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.12.0), 2 days ago) - Terraform Google Cloud Platform provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.32.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.32.1), 6 days ago) - Terraform AWS provider
 - [apache/airflow](https://github.com/apache/airflow) ([2.8.0](https://github.com/apache/airflow/releases/tag/2.8.0), 1 month ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 1 month ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.3), 1 month ago) - 
@@ -41,11 +41,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [artifact registry repository - promote cleanup policy to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/9832) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
-- [[prometheus-operator-crds] bump operator to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4153) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-operator-admission-webhook] bump admission webhook to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[kube-prometheus-stack] bump operator to 0.71.0 (and default prom to 2.49.1)](https://github.com/prometheus-community/helm-charts/pull/4151) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus] bump to 2.49.1 and deps](https://github.com/prometheus-community/helm-charts/pull/4150) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [artifact registry repository - promote cleanup policy to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/9832) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [[prometheus-operator-crds] bump operator to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4153) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-operator-admission-webhook] bump admission webhook to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[kube-prometheus-stack] bump operator to 0.71.0 (and default prom to 2.49.1)](https://github.com/prometheus-community/helm-charts/pull/4151) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus] bump to 2.49.1 and deps](https://github.com/prometheus-community/helm-charts/pull/4150) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-windows-exporter] bump to 0.24.0](https://github.com/prometheus-community/helm-charts/pull/4135) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-memcached-exporter] bump to 0.14.2](https://github.com/prometheus-community/helm-charts/pull/4134) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prom-label-proxy] bump to 0.8.0](https://github.com/prometheus-community/helm-charts/pull/4133) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
