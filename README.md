@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (4 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.6.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.53.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.3), today) - ArgoProj Helm Charts
 - [apache/airflow](https://github.com/apache/airflow) ([2.8.1](https://github.com/apache/airflow/releases/tag/2.8.1), 1 day ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.33.0), 2 days ago) - Terraform AWS provider
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] bump pgw dep](https://github.com/prometheus-community/helm-charts/pull/4163) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-pushgateway] bump pgw to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/4162) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [artifact registry repository - promote cleanup policy to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/9832) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
 - [[prometheus-operator-crds] bump operator to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4153) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -50,7 +51,6 @@
 - [[prometheus-windows-exporter] bump to 0.24.0](https://github.com/prometheus-community/helm-charts/pull/4135) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-memcached-exporter] bump to 0.14.2](https://github.com/prometheus-community/helm-charts/pull/4134) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prom-label-proxy] bump to 0.8.0](https://github.com/prometheus-community/helm-charts/pull/4133) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [r/sagemaker_space - add args](https://github.com/hashicorp/terraform-provider-aws/pull/35116) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
