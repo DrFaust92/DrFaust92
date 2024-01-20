@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.53.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.3), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.0), 1 day ago) - Prometheus community Helm charts
 - [apache/airflow](https://github.com/apache/airflow) ([2.8.1](https://github.com/apache/airflow/releases/tag/2.8.1), 1 day ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.33.0), 2 days ago) - Terraform AWS provider
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-operator-2.50.1](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-operator-2.50.1), 2 days ago) - Helm Charts for Jaeger backend
