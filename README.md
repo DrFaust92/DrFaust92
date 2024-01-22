@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.3), today) - Prometheus community Helm charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.74.1](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.74.1), today) - Helm Charts for Jaeger backend
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.53.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.6), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.33.0), 4 days ago) - Terraform AWS provider
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.12.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.12.0), 6 days ago) - Terraform Google Cloud Platform provider
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 1 month ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
