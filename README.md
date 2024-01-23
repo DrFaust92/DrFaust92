@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.53.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.7), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.53.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.8), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.13.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.13.0), 1 day ago) - Terraform Google Cloud Platform provider
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.3), 1 day ago) - Prometheus community Helm charts
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) ([jaeger-0.74.1](https://github.com/jaegertracing/helm-charts/releases/tag/jaeger-0.74.1), 1 day ago) - Helm Charts for Jaeger backend
