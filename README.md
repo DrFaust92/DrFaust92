@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-redis-exporter] bump to 1.57](https://github.com/prometheus-community/helm-charts/pull/4185) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-operator-admission-webhook] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4184) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-blackbox-exporter] bump reloader to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4183) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus] - bump reloader &#43; node-exporter dep](https://github.com/prometheus-community/helm-charts/pull/4182) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-operator-crds] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4181) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4180) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] add missing rbac permissions for 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4175) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus] bump pgw dep](https://github.com/prometheus-community/helm-charts/pull/4163) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-pushgateway] bump pgw to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/4162) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [artifact registry repository - promote cleanup policy to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/9832) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [[prometheus-operator-crds] bump operator to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4153) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-operator-admission-webhook] bump admission webhook to 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] bump operator to 0.71.0 (and default prom to 2.49.1)](https://github.com/prometheus-community/helm-charts/pull/4151) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus] bump to 2.49.1 and deps](https://github.com/prometheus-community/helm-charts/pull/4150) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-windows-exporter] bump to 0.24.0](https://github.com/prometheus-community/helm-charts/pull/4135) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-memcached-exporter] bump to 0.14.2](https://github.com/prometheus-community/helm-charts/pull/4134) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
