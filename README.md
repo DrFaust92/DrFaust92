@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-nats-exporter] bump to 0.14.0](https://github.com/prometheus-community/helm-charts/pull/4188) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-ipmi-exporter] bump to 1.8.0](https://github.com/prometheus-community/helm-charts/pull/4187) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-windows-exporter] bump to 0.25.1](https://github.com/prometheus-community/helm-charts/pull/4186) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-redis-exporter] bump to 1.57](https://github.com/prometheus-community/helm-charts/pull/4185) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-admission-webhook] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4184) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-blackbox-exporter] bump reloader to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4183) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -47,9 +50,6 @@
 - [[prometheus-operator-crds] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4181) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4180) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] add missing rbac permissions for 0.71.0](https://github.com/prometheus-community/helm-charts/pull/4175) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus] bump pgw dep](https://github.com/prometheus-community/helm-charts/pull/4163) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[prometheus-pushgateway] bump pgw to 1.7.0](https://github.com/prometheus-community/helm-charts/pull/4162) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [artifact registry repository - promote cleanup policy to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/9832) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 
 #### 📜 My recent blog posts
 
