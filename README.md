@@ -47,7 +47,7 @@
 - [[prometheus-redis-exporter] bump to 1.57](https://github.com/prometheus-community/helm-charts/pull/4185) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-operator-admission-webhook] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4184) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-blackbox-exporter] bump reloader to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4183) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus] - bump reloader &#43; node-exporter dep](https://github.com/prometheus-community/helm-charts/pull/4182) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus] bump reloader &#43; node-exporter dep](https://github.com/prometheus-community/helm-charts/pull/4182) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-operator-crds] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4181) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4180) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 
