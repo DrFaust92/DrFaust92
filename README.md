@@ -77,11 +77,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [mariana-mendes](https://github.com/mariana-mendes)
 - [deepakbshetty](https://github.com/deepakbshetty)
 - [Blackmi90](https://github.com/Blackmi90)
 - [silazare](https://github.com/silazare)
 - [kwabenasarfo1](https://github.com/kwabenasarfo1)
-- [Vinaum8](https://github.com/Vinaum8)
 
 #### 💬 Feedback
 
