@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(argo-cd): bump redis deps to fix cves](https://github.com/argoproj/argo-helm/pull/2466) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [feat: promote tpu to ga](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1856) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
 - [[kube-prometheus-stack] bump win and node exporter deps](https://github.com/prometheus-community/helm-charts/pull/4189) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-nats-exporter] bump to 0.14.0](https://github.com/prometheus-community/helm-charts/pull/4188) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
@@ -50,7 +51,6 @@
 - [[prometheus-operator-admission-webhook] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4184) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-blackbox-exporter] bump reloader to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4183) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus] bump reloader &#43; node-exporter dep](https://github.com/prometheus-community/helm-charts/pull/4182) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[prometheus-operator-crds] bump operator to 0.71.2](https://github.com/prometheus-community/helm-charts/pull/4181) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
