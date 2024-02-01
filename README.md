@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.7.1), today) - Prometheus community Helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.0.0), today) - Configures opinionated GKE clusters
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.53.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.12), 2 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.14.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.14.0), 3 days ago) - Terraform Google Cloud Platform provider
