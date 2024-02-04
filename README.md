@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (4 days ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (5 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (5 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 month ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.13.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.10](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.10), today) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.35.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.35.0), 1 day ago) - Terraform AWS provider
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.0.0), 2 days ago) - Configures opinionated GKE clusters
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.14.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.14.0), 5 days ago) - Terraform Google Cloud Platform provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.13.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.10](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.10), 1 day ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.35.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.35.0), 2 days ago) - Terraform AWS provider
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.0.0), 3 days ago) - Configures opinionated GKE clusters
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.14.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.14.0), 6 days ago) - Terraform Google Cloud Platform provider
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 1 month ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.3), 2 months ago) - 
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.9.1](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.9.1), 3 months ago) - 
@@ -40,11 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: allow setting traefik versions](https://github.com/argoproj/argo-rollouts/pull/3348) on [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) (1 day ago)
-- [feat: add missing dns_cache output in non beta](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1864) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
-- [[bitnami/rabbitmq-cluster-operator] add missing operatorpolicies crd](https://github.com/bitnami/charts/pull/23037) on [bitnami/charts](https://github.com/bitnami/charts) (1 day ago)
-- [[prom-label-proxy] bump to 0.8.1](https://github.com/prometheus-community/helm-charts/pull/4213) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [feat(argo-cd): bump redis deps to fix cves](https://github.com/argoproj/argo-helm/pull/2466) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (4 days ago)
+- [feat: allow setting traefik versions](https://github.com/argoproj/argo-rollouts/pull/3348) on [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) (2 days ago)
+- [feat: add missing dns_cache output in non beta](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1864) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
+- [[bitnami/rabbitmq-cluster-operator] add missing operatorpolicies crd](https://github.com/bitnami/charts/pull/23037) on [bitnami/charts](https://github.com/bitnami/charts) (2 days ago)
+- [[prom-label-proxy] bump to 0.8.1](https://github.com/prometheus-community/helm-charts/pull/4213) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [feat(argo-cd): bump redis deps to fix cves](https://github.com/argoproj/argo-helm/pull/2466) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (5 days ago)
 - [feat: promote tpu to ga](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1856) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [[kube-prometheus-stack] bump win and node exporter deps](https://github.com/prometheus-community/helm-charts/pull/4189) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-nats-exporter] bump to 0.14.0](https://github.com/prometheus-community/helm-charts/pull/4188) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -61,16 +61,16 @@
 
 #### ⭐ Recent Stars
 
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 day ago)
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (4 months ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (5 months ago)
 - [opsgenie/terraform-provider-opsgenie](https://github.com/opsgenie/terraform-provider-opsgenie) - Terraform OpsGenie provider (7 months ago)
-- [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) - Watches k8s cluster events and logs them to stdout in JSON (7 months ago)
-- [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links. (7 months ago)
-- [terraform-google-modules/terraform-google-network](https://github.com/terraform-google-modules/terraform-google-network) - Sets up a new VPC network on Google Cloud (7 months ago)
-- [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring (7 months ago)
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (7 months ago)
+- [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) - Watches k8s cluster events and logs them to stdout in JSON (8 months ago)
+- [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links. (8 months ago)
+- [terraform-google-modules/terraform-google-network](https://github.com/terraform-google-modules/terraform-google-network) - Sets up a new VPC network on Google Cloud (8 months ago)
+- [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring (8 months ago)
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
