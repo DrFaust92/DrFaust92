@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(argo-cd): refresh from upstream](https://github.com/argoproj/argo-helm/pull/2474) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [feat: allow setting traefik versions](https://github.com/argoproj/argo-rollouts/pull/3348) on [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) (2 days ago)
 - [feat: add missing dns_cache output in non beta](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1864) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
 - [[bitnami/rabbitmq-cluster-operator] add missing operatorpolicies crd](https://github.com/bitnami/charts/pull/23037) on [bitnami/charts](https://github.com/bitnami/charts) (2 days ago)
@@ -49,7 +50,6 @@
 - [[kube-prometheus-stack] bump win and node exporter deps](https://github.com/prometheus-community/helm-charts/pull/4189) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-nats-exporter] bump to 0.14.0](https://github.com/prometheus-community/helm-charts/pull/4188) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-ipmi-exporter] bump to 1.8.0](https://github.com/prometheus-community/helm-charts/pull/4187) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-windows-exporter] bump to 0.25.1](https://github.com/prometheus-community/helm-charts/pull/4186) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
