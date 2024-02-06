@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.28.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.15.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.15.0), 1 day ago) - Terraform Google Cloud Platform provider
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.53.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.14), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.2), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.35.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.35.0), 4 days ago) - Terraform AWS provider
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.0.0), 5 days ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 1 month ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
