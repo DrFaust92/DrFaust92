@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] allow setting reloader scheme for svc monitor](https://github.com/prometheus-community/helm-charts/pull/4230) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [chore(argo-cd): refresh from upstream](https://github.com/argoproj/argo-helm/pull/2474) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 days ago)
 - [feat: allow setting traefik versions](https://github.com/argoproj/argo-rollouts/pull/3348) on [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) (5 days ago)
 - [feat: add missing dns_cache output in non beta](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1864) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
@@ -49,7 +50,6 @@
 - [feat: promote tpu to ga](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1856) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [[kube-prometheus-stack] bump win and node exporter deps](https://github.com/prometheus-community/helm-charts/pull/4189) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-nats-exporter] bump to 0.14.0](https://github.com/prometheus-community/helm-charts/pull/4188) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-ipmi-exporter] bump to 1.8.0](https://github.com/prometheus-community/helm-charts/pull/4187) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
