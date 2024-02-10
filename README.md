@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use api for deploy delete call](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/195) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
+- [deployments data source](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/194) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [[kube-prometheus-stack] allow setting reloader scheme for svc monitor](https://github.com/prometheus-community/helm-charts/pull/4230) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [chore(argo-cd): refresh from upstream](https://github.com/argoproj/argo-helm/pull/2474) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (6 days ago)
 - [feat: allow setting traefik versions](https://github.com/argoproj/argo-rollouts/pull/3348) on [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) (1 week ago)
@@ -48,8 +50,6 @@
 - [[prom-label-proxy] bump to 0.8.1](https://github.com/prometheus-community/helm-charts/pull/4213) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [feat(argo-cd): bump redis deps to fix cves](https://github.com/argoproj/argo-helm/pull/2466) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [feat: promote tpu to ga](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1856) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
-- [[kube-prometheus-stack] bump win and node exporter deps](https://github.com/prometheus-community/helm-charts/pull/4189) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-nats-exporter] bump to 0.14.0](https://github.com/prometheus-community/helm-charts/pull/4188) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
