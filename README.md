@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.3.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.6), 1 day ago) - ArgoProj Helm Charts
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 2 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.36.0), 4 days ago) - Terraform AWS provider
