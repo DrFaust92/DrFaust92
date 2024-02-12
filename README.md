@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.16.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.16.0), today) - Terraform Google Cloud Platform provider
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.0.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.7), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.1), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.6), 1 day ago) - ArgoProj Helm Charts
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 2 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.36.0), 4 days ago) - Terraform AWS provider
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.15.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.15.0), 1 week ago) - Terraform Google Cloud Platform provider
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.0.0), 1 week ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 2 months ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.3), 2 months ago) - 
