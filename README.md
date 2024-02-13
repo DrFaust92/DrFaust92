@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (today)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (today)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (3 days ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
@@ -11,7 +12,6 @@
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (3 weeks ago)
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS. (2 months ago)
-- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS. (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.0.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.11), today) - ArgoProj Helm Charts
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.6.6](https://github.com/argoproj/argo-rollouts/releases/tag/v1.6.6), today) - Progressive Delivery for Kubernetes
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.0.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.12), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.16.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.16.0), 1 day ago) - Terraform Google Cloud Platform provider
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.1), 1 day ago) - Prometheus community Helm charts
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 3 days ago) - 
