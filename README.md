@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (today)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (3 days ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 days ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (6 days ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.5.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.37.0), 1 day ago) - Terraform AWS provider
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.14), 2 days ago) - ArgoProj Helm Charts
@@ -36,7 +37,6 @@
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 6 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.0.0), 2 weeks ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 2 months ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.3), 2 months ago) - 
 - [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 4 months ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
 
 #### 🔨 My recent Pull Requests
@@ -78,11 +78,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [lucikoli](https://github.com/lucikoli)
 - [yonigolob1](https://github.com/yonigolob1)
 - [mariana-mendes](https://github.com/mariana-mendes)
 - [deepakbshetty](https://github.com/deepakbshetty)
 - [Blackmi90](https://github.com/Blackmi90)
-- [silazare](https://github.com/silazare)
 
 #### 💬 Feedback
 
