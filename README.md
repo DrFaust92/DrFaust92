@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (2 days ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 days ago)
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (5 days ago)
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (3 days ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 days ago)
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (6 days ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.37.0), today) - Terraform AWS provider
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.12.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.14), 1 day ago) - ArgoProj Helm Charts
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.6.6](https://github.com/argoproj/argo-rollouts/releases/tag/v1.6.6), 2 days ago) - Progressive Delivery for Kubernetes
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.16.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.16.0), 3 days ago) - Terraform Google Cloud Platform provider
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 5 days ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.37.0), 1 day ago) - Terraform AWS provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.12.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.14), 2 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.6.6](https://github.com/argoproj/argo-rollouts/releases/tag/v1.6.6), 3 days ago) - Progressive Delivery for Kubernetes
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.16.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.16.0), 4 days ago) - Terraform Google Cloud Platform provider
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 6 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.0.0), 2 weeks ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 2 months ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.1.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.1.3), 2 months ago) - 
@@ -41,14 +41,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [project user and group permission resources](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/196) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (5 days ago)
-- [use api for deploy delete call](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/195) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (5 days ago)
-- [deployments data source](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/194) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (5 days ago)
+- [project user and group permission resources](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/196) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (6 days ago)
+- [use api for deploy delete call](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/195) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (6 days ago)
+- [deployments data source](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/194) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (6 days ago)
 - [[kube-prometheus-stack] allow setting reloader scheme for svc monitor](https://github.com/prometheus-community/helm-charts/pull/4230) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [chore(argo-cd): refresh from upstream](https://github.com/argoproj/argo-helm/pull/2474) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [feat: allow setting traefik versions](https://github.com/argoproj/argo-rollouts/pull/3348) on [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) (1 week ago)
-- [feat: add missing dns_cache output in non beta](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1864) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [[bitnami/rabbitmq-cluster-operator] add missing operatorpolicies crd](https://github.com/bitnami/charts/pull/23037) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
+- [feat: allow setting traefik versions](https://github.com/argoproj/argo-rollouts/pull/3348) on [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) (2 weeks ago)
+- [feat: add missing dns_cache output in non beta](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1864) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
+- [[bitnami/rabbitmq-cluster-operator] add missing operatorpolicies crd](https://github.com/bitnami/charts/pull/23037) on [bitnami/charts](https://github.com/bitnami/charts) (2 weeks ago)
 - [[prom-label-proxy] bump to 0.8.1](https://github.com/prometheus-community/helm-charts/pull/4213) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [feat(argo-cd): bump redis deps to fix cves](https://github.com/argoproj/argo-helm/pull/2466) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 
@@ -62,8 +62,8 @@
 
 #### ⭐ Recent Stars
 
-- [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (5 days ago)
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 week ago)
+- [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (6 days ago)
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (5 months ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (5 months ago)
