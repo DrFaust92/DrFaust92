@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump deps](https://github.com/prometheus-community/helm-charts/pull/4263) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus] bump deps](https://github.com/prometheus-community/helm-charts/pull/4262) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-redis-exporter] bump to 1.58.0](https://github.com/prometheus-community/helm-charts/pull/4261) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-pingmesh-exporter] bump to 1.2.1](https://github.com/prometheus-community/helm-charts/pull/4260) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-conntrack-stats-exporter] bump to 0.4.18](https://github.com/prometheus-community/helm-charts/pull/4259) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [project user and group permission resources](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/196) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [use api for deploy delete call](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/195) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [deployments data source](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/194) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [[kube-prometheus-stack] allow setting reloader scheme for svc monitor](https://github.com/prometheus-community/helm-charts/pull/4230) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [chore(argo-cd): refresh from upstream](https://github.com/argoproj/argo-helm/pull/2474) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [feat: allow setting traefik versions](https://github.com/argoproj/argo-rollouts/pull/3348) on [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) (2 weeks ago)
-- [feat: add missing dns_cache output in non beta](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1864) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
-- [[bitnami/rabbitmq-cluster-operator] add missing operatorpolicies crd](https://github.com/bitnami/charts/pull/23037) on [bitnami/charts](https://github.com/bitnami/charts) (2 weeks ago)
-- [[prom-label-proxy] bump to 0.8.1](https://github.com/prometheus-community/helm-charts/pull/4213) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [feat(argo-cd): bump redis deps to fix cves](https://github.com/argoproj/argo-helm/pull/2466) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
