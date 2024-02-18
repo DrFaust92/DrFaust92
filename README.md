@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 days ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (5 days ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (4 weeks ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.2.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.13.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.9.4](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.4), today) - ArgoProj Helm Charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), 2 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.37.0), 3 days ago) - Terraform AWS provider
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.6.6](https://github.com/argoproj/argo-rollouts/releases/tag/v1.6.6), 5 days ago) - Progressive Delivery for Kubernetes
