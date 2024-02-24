@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump prom 2.50.0 and thanos to 0.34.1](https://github.com/prometheus-community/helm-charts/pull/4290) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus] bump to 2.50.0](https://github.com/prometheus-community/helm-charts/pull/4289) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat(argo-cd): bump redis chart dep and redis exporter](https://github.com/argoproj/argo-helm/pull/2524) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (6 days ago)
 - [Expand results for group members &#43; move to use sdk](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/198) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (6 days ago)
 - [[prometheus-elasticsearch-exporter] add support for podmonitor](https://github.com/prometheus-community/helm-charts/pull/4264) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -49,8 +51,6 @@
 - [[prometheus-redis-exporter] bump to 1.58.0](https://github.com/prometheus-community/helm-charts/pull/4261) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-pingmesh-exporter] bump to 1.2.1](https://github.com/prometheus-community/helm-charts/pull/4260) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-conntrack-stats-exporter] bump to 0.4.18](https://github.com/prometheus-community/helm-charts/pull/4259) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [project user and group permission resources](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/196) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 weeks ago)
-- [use api for deploy delete call](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/195) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
