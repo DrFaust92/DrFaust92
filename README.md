@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.4.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.4.1), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.15.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ([v5.18.0](https://github.com/hashicorp/terraform-provider-google/releases/tag/v5.18.0), 2 days ago) - Terraform Google Cloud Platform provider
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.38.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.38.0), 6 days ago) - Terraform AWS provider
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), 1 week ago) - 
