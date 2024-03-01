@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] bump alertmanager dep](https://github.com/prometheus-community/helm-charts/pull/4322) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[alertmanager] bump to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4321) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4320) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/DrFaust92/helm-charts-2/pull/3) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 day ago)
@@ -50,7 +51,6 @@
 - [feat(argo-cd): bump redis chart dep and redis exporter](https://github.com/argoproj/argo-helm/pull/2524) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [Expand results for group members &#43; move to use sdk](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/198) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [[prometheus-elasticsearch-exporter] add support for podmonitor](https://github.com/prometheus-community/helm-charts/pull/4264) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] bump deps](https://github.com/prometheus-community/helm-charts/pull/4263) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
