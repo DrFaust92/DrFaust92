@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (2 weeks ago)
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.6.0), today) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.39.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.39.1), 1 day ago) - Terraform AWS provider
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.16.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.6.0), 1 day ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.39.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.39.1), 2 days ago) - Terraform AWS provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.16.0), 2 days ago) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), 2 weeks ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.6.6](https://github.com/argoproj/argo-rollouts/releases/tag/v1.6.6), 2 weeks ago) - Progressive Delivery for Kubernetes
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 3 weeks ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.0.0), 1 month ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 2 months ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
-- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 4 months ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
+- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 5 months ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus] bump alertmanager dep](https://github.com/prometheus-community/helm-charts/pull/4322) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[alertmanager] bump to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4321) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4320) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/DrFaust92/helm-charts-2/pull/3) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (2 days ago)
-- [[alertmanager] bump to 0.27.0](https://github.com/DrFaust92/helm-charts-2/pull/2) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (2 days ago)
+- [[prometheus] bump alertmanager dep](https://github.com/prometheus-community/helm-charts/pull/4322) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[alertmanager] bump to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4321) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4320) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/DrFaust92/helm-charts-2/pull/3) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (3 days ago)
+- [[alertmanager] bump to 0.27.0](https://github.com/DrFaust92/helm-charts-2/pull/2) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (3 days ago)
 - [[kube-prometheus-stack] bump prom 2.50.1 and thanos to 0.34.1](https://github.com/prometheus-community/helm-charts/pull/4290) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus] bump to 2.50.0](https://github.com/prometheus-community/helm-charts/pull/4289) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [feat(argo-cd): bump redis chart dep and redis exporter](https://github.com/argoproj/argo-helm/pull/2524) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [Expand results for group members &#43; move to use sdk](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/198) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
+- [feat(argo-cd): bump redis chart dep and redis exporter](https://github.com/argoproj/argo-helm/pull/2524) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
+- [Expand results for group members &#43; move to use sdk](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/198) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 weeks ago)
 - [[prometheus-elasticsearch-exporter] add support for podmonitor](https://github.com/prometheus-community/helm-charts/pull/4264) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -62,7 +62,7 @@
 #### ⭐ Recent Stars
 
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (3 weeks ago)
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (4 weeks ago)
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (5 months ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (6 months ago)
