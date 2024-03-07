@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.10.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.8.0), today) - Prometheus community Helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.1.0), 2 days ago) - Configures opinionated GKE clusters
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.14), 4 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.39.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.39.1), 6 days ago) - Terraform AWS provider
