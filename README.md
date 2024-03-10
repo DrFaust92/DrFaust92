@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add support for kubernetesIngress.ingressEndpoint.hostname](https://github.com/traefik/traefik-helm-chart/pull/1017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
 - [Helm Chart - allow setting revisionHistoryLimit](https://github.com/linkerd/linkerd2/pull/12234) on [linkerd/linkerd2](https://github.com/linkerd/linkerd2) (1 day ago)
 - [Helm Chart - allow setting revisionHistoryLimit](https://github.com/DrFaust92/linkerd2/pull/1) on [DrFaust92/linkerd2](https://github.com/DrFaust92/linkerd2) (1 day ago)
 - [[kube-prometheus-stack] bump operator to 0.72.0](https://github.com/prometheus-community/helm-charts/pull/4352) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -49,7 +50,6 @@
 - [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4320) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/DrFaust92/helm-charts-2/pull/3) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 week ago)
 - [[alertmanager] bump to 0.27.0](https://github.com/DrFaust92/helm-charts-2/pull/2) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 week ago)
-- [[kube-prometheus-stack] bump prom 2.50.1 and thanos to 0.34.1](https://github.com/prometheus-community/helm-charts/pull/4290) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
