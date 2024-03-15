@@ -77,11 +77,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Psaltweed](https://github.com/Psaltweed)
 - [shlomitubul](https://github.com/shlomitubul)
 - [lucikoli](https://github.com/lucikoli)
 - [yonigolob1](https://github.com/yonigolob1)
 - [mariana-mendes](https://github.com/mariana-mendes)
-- [deepakbshetty](https://github.com/deepakbshetty)
 
 #### 💬 Feedback
 
