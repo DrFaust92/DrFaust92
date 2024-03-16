@@ -59,6 +59,10 @@
 - [Attaching an EFS file system to an ECS Task](https://medium.com/@ilia.lazebnik/attaching-an-efs-file-system-to-an-ecs-task-7bd15b76a6ef?source=rss-cac402f06fa8------2) (4 years ago)
 - [Simplifying AWS Private API Gateway VPC Endpoint Association with Terraform](https://medium.com/@ilia.lazebnik/simplifying-aws-private-api-gateway-vpc-endpoint-association-with-terraform-b379a247afbf?source=rss-cac402f06fa8------2) (4 years ago)
 
+#### 🎙️ My recent podcasts
+- [https://youtu.be/UGsZ34RBAjs?si=yJHwGc1pjmaTyK2l](Contributing to the Terraform AWS Provider with Ilia Lazebnik - The IaC Podcast)
+- [ttps://www.youtube.com/live/aAdit9BdGu0?si=TZiXvFs6vhfIUfIC](Terraform AWS provider with Ilia Lazebnik - Anton Babenko)
+
 #### ⭐ Recent Stars
 
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (1 month ago)
@@ -93,4 +97,5 @@ Say Hello, I don't bite!
 - Blog: https://medium.com/@ilia.lazebnik
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+
 
