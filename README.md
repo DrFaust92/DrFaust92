@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [metastore - add support for scheduled backups](https://github.com/GoogleCloudPlatform/magic-modules/pull/10213) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [add support for kubernetesIngress.ingressEndpoint.hostname](https://github.com/traefik/traefik-helm-chart/pull/1017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (6 days ago)
 - [Helm Chart - allow setting revisionHistoryLimit](https://github.com/linkerd/linkerd2/pull/12234) on [linkerd/linkerd2](https://github.com/linkerd/linkerd2) (1 week ago)
 - [Helm Chart - allow setting revisionHistoryLimit](https://github.com/DrFaust92/linkerd2/pull/1) on [DrFaust92/linkerd2](https://github.com/DrFaust92/linkerd2) (1 week ago)
@@ -49,7 +50,6 @@
 - [[alertmanager] bump to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4321) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4320) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/DrFaust92/helm-charts-2/pull/3) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (2 weeks ago)
-- [[alertmanager] bump to 0.27.0](https://github.com/DrFaust92/helm-charts-2/pull/2) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
