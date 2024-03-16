@@ -27,7 +27,7 @@
 
 #### 🎙️ My recent podcasts
 - [https://youtu.be/UGsZ34RBAjs?si=yJHwGc1pjmaTyK2l](Contributing to the Terraform AWS Provider with Ilia Lazebnik - The IaC Podcast)
-- [ttps://www.youtube.com/live/aAdit9BdGu0?si=TZiXvFs6vhfIUfIC](Terraform AWS provider with Ilia Lazebnik - Anton Babenko)
+- [https://www.youtube.com/live/aAdit9BdGu0?si=TZiXvFs6vhfIUfIC](Terraform AWS provider with Ilia Lazebnik - Anton Babenko)
 
 #### ⭐ Recent Stars
 {{range recentStars 10}}
