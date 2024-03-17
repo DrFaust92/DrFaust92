@@ -4,7 +4,7 @@
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 weeks ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 month ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 month ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 month ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.1), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.41.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.41.0), 2 days ago) - Terraform AWS provider
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.2), 3 days ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.1), 2 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.41.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.41.0), 3 days ago) - Terraform AWS provider
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.2), 4 days ago) - ArgoProj Helm Charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.2.0), 1 week ago) - Configures opinionated GKE clusters
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), 4 weeks ago) - 
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), 1 month ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.6.6](https://github.com/argoproj/argo-rollouts/releases/tag/v1.6.6), 1 month ago) - Progressive Delivery for Kubernetes
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 1 month ago) - 
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 3 months ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
@@ -40,9 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bq table - add geojson support](https://github.com/GoogleCloudPlatform/magic-modules/pull/10215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
-- [metastore - add support for scheduled backups](https://github.com/GoogleCloudPlatform/magic-modules/pull/10213) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
-- [add support for kubernetesIngress.ingressEndpoint.hostname](https://github.com/traefik/traefik-helm-chart/pull/1017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (6 days ago)
+- [bq table - add geojson support](https://github.com/GoogleCloudPlatform/magic-modules/pull/10215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [metastore - add support for scheduled backups](https://github.com/GoogleCloudPlatform/magic-modules/pull/10213) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [add support for kubernetesIngress.ingressEndpoint.hostname](https://github.com/traefik/traefik-helm-chart/pull/1017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
 - [Helm Chart - allow setting revisionHistoryLimit](https://github.com/linkerd/linkerd2/pull/12234) on [linkerd/linkerd2](https://github.com/linkerd/linkerd2) (1 week ago)
 - [Helm Chart - allow setting revisionHistoryLimit](https://github.com/DrFaust92/linkerd2/pull/1) on [DrFaust92/linkerd2](https://github.com/DrFaust92/linkerd2) (1 week ago)
 - [[kube-prometheus-stack] bump operator to 0.72.0](https://github.com/prometheus-community/helm-charts/pull/4352) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
