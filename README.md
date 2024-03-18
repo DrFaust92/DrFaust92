@@ -65,6 +65,7 @@
 
 #### ⭐ Recent Stars
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (today)
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (1 month ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
@@ -74,7 +75,6 @@
 - [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) - Watches k8s cluster events and logs them to stdout in JSON (9 months ago)
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links. (9 months ago)
 - [terraform-google-modules/terraform-google-network](https://github.com/terraform-google-modules/terraform-google-network) - Sets up a new VPC network on Google Cloud (9 months ago)
-- [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring (9 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
