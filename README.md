@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (4 weeks ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 month ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 month ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.1), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.3), 1 day ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.41.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.41.0), 5 days ago) - Terraform AWS provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.1), 2 days ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.3), 2 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.41.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.41.0), 6 days ago) - Terraform AWS provider
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.2.0), 1 week ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), 1 month ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.6.6](https://github.com/argoproj/argo-rollouts/releases/tag/v1.6.6), 1 month ago) - Progressive Delivery for Kubernetes
@@ -40,8 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bq table - add geojson support](https://github.com/GoogleCloudPlatform/magic-modules/pull/10215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
-- [metastore - add support for scheduled backups](https://github.com/GoogleCloudPlatform/magic-modules/pull/10213) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
+- [bq table - add geojson support](https://github.com/GoogleCloudPlatform/magic-modules/pull/10215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
+- [metastore - add support for scheduled backups](https://github.com/GoogleCloudPlatform/magic-modules/pull/10213) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
 - [add support for kubernetesIngress.ingressEndpoint.hostname](https://github.com/traefik/traefik-helm-chart/pull/1017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
 - [Helm Chart - allow setting revisionHistoryLimit](https://github.com/linkerd/linkerd2/pull/12234) on [linkerd/linkerd2](https://github.com/linkerd/linkerd2) (1 week ago)
 - [Helm Chart - allow setting revisionHistoryLimit](https://github.com/DrFaust92/linkerd2/pull/1) on [DrFaust92/linkerd2](https://github.com/DrFaust92/linkerd2) (1 week ago)
@@ -65,7 +65,7 @@
 
 #### ⭐ Recent Stars
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (1 day ago)
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (2 days ago)
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (1 month ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
