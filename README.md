@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-stackdriver-exporter] bump to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4376) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-pgbouncer-exporter] pin image &#43; use appVersion correctly](https://github.com/prometheus-community/helm-charts/pull/4375) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-operator-admission-webhook] bump to 0.72.0](https://github.com/prometheus-community/helm-charts/pull/4374) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] bump prometheus to 2.51.0](https://github.com/prometheus-community/helm-charts/pull/4373) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus] bump to 2.51.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4372) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-state-metrics] bump to 2.11.0](https://github.com/prometheus-community/helm-charts/pull/4371) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-state-metrics] bump to 2.11.0](https://github.com/DrFaust92/helm-charts-2/pull/5) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (today)
 - [bq table - add geojson support](https://github.com/GoogleCloudPlatform/magic-modules/pull/10215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
 - [metastore - add support for scheduled backups](https://github.com/GoogleCloudPlatform/magic-modules/pull/10213) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
 - [add support for kubernetesIngress.ingressEndpoint.hostname](https://github.com/traefik/traefik-helm-chart/pull/1017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
-- [Helm Chart - allow setting revisionHistoryLimit](https://github.com/linkerd/linkerd2/pull/12234) on [linkerd/linkerd2](https://github.com/linkerd/linkerd2) (1 week ago)
-- [Helm Chart - allow setting revisionHistoryLimit](https://github.com/DrFaust92/linkerd2/pull/1) on [DrFaust92/linkerd2](https://github.com/DrFaust92/linkerd2) (1 week ago)
-- [[kube-prometheus-stack] bump operator to 0.72.0](https://github.com/prometheus-community/helm-charts/pull/4352) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] bump operator to 0.72.0](https://github.com/DrFaust92/helm-charts-2/pull/4) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 week ago)
-- [[prometheus] bump alertmanager dep](https://github.com/prometheus-community/helm-charts/pull/4322) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[alertmanager] bump to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4321) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [[kube-prometheus-stack] bump alertmanager to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/4320) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
