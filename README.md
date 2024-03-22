@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] bump deps](https://github.com/prometheus-community/helm-charts/pull/4383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-stackdriver-exporter] bump to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4376) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-pgbouncer-exporter] pin image &#43; use appVersion correctly](https://github.com/prometheus-community/helm-charts/pull/4375) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-operator-admission-webhook] bump to 0.72.0](https://github.com/prometheus-community/helm-charts/pull/4374) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -49,7 +50,6 @@
 - [[kube-state-metrics] bump to 2.11.0](https://github.com/DrFaust92/helm-charts-2/pull/5) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 day ago)
 - [bq table - add geojson support](https://github.com/GoogleCloudPlatform/magic-modules/pull/10215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (6 days ago)
 - [metastore - add support for scheduled backups](https://github.com/GoogleCloudPlatform/magic-modules/pull/10213) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (6 days ago)
-- [add support for kubernetesIngress.ingressEndpoint.hostname](https://github.com/traefik/traefik-helm-chart/pull/1017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
 
 #### 📜 My recent blog posts
 
