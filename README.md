@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.1.1), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.4), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.42.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.42.0), 1 day ago) - Terraform AWS provider
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.2.0), 2 weeks ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), 1 month ago) - 
