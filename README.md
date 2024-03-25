@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.32.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.2.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.0), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.42.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.42.0), 3 days ago) - Terraform AWS provider
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.2.0), 2 weeks ago) - Configures opinionated GKE clusters
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add gpu_driver_version to recreate list](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1913) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [Helm chart - document and add to schema nameOverride](https://github.com/cert-manager/trust-manager/pull/330) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (today)
 - [[prometheus-node-exporter] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4385) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-state-metrics] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -49,7 +50,6 @@
 - [[prometheus-operator-admission-webhook] bump to 0.72.0](https://github.com/prometheus-community/helm-charts/pull/4374) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] bump prometheus to 2.51.0](https://github.com/prometheus-community/helm-charts/pull/4373) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus] bump to 2.51.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4372) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[kube-state-metrics] bump to 2.11.0](https://github.com/prometheus-community/helm-charts/pull/4371) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
