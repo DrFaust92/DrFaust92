@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Helm chart - document and add to schema nameOverride](https://github.com/cert-manager/trust-manager/pull/330) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (today)
 - [[prometheus-node-exporter] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4385) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-state-metrics] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prometheus] bump deps](https://github.com/prometheus-community/helm-charts/pull/4383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -49,7 +50,6 @@
 - [[kube-prometheus-stack] bump prometheus to 2.51.0](https://github.com/prometheus-community/helm-charts/pull/4373) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus] bump to 2.51.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4372) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-state-metrics] bump to 2.11.0](https://github.com/prometheus-community/helm-charts/pull/4371) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[kube-state-metrics] bump to 2.11.0](https://github.com/DrFaust92/helm-charts-2/pull/5) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (4 days ago)
 
 #### 📜 My recent blog posts
 
