@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (1 day ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (2 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 month ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.35.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.35.1), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.42.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.42.0), 4 days ago) - Terraform AWS provider
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.35.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.35.1), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.2.0), 2 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.42.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.42.0), 5 days ago) - Terraform AWS provider
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.2.0), 2 weeks ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), 1 month ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.6.6](https://github.com/argoproj/argo-rollouts/releases/tag/v1.6.6), 1 month ago) - Progressive Delivery for Kubernetes
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add gpu_driver_version to recreate list](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1913) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
-- [Helm chart - document and add to schema nameOverride](https://github.com/cert-manager/trust-manager/pull/330) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (1 day ago)
-- [[prometheus-node-exporter] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4385) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[kube-state-metrics] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[prometheus] bump deps](https://github.com/prometheus-community/helm-charts/pull/4383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-stackdriver-exporter] bump to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4376) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[prometheus-pgbouncer-exporter] pin image &#43; use appVersion correctly](https://github.com/prometheus-community/helm-charts/pull/4375) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[prometheus-operator-admission-webhook] bump to 0.72.0](https://github.com/prometheus-community/helm-charts/pull/4374) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] bump prometheus to 2.51.0](https://github.com/prometheus-community/helm-charts/pull/4373) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[prometheus] bump to 2.51.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4372) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [fix: add gpu_driver_version to recreate list](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1913) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
+- [Helm chart - document and add to schema nameOverride](https://github.com/cert-manager/trust-manager/pull/330) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (2 days ago)
+- [[prometheus-node-exporter] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4385) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[kube-state-metrics] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[prometheus] bump deps](https://github.com/prometheus-community/helm-charts/pull/4383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus-stackdriver-exporter] bump to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4376) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[prometheus-pgbouncer-exporter] pin image &#43; use appVersion correctly](https://github.com/prometheus-community/helm-charts/pull/4375) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[prometheus-operator-admission-webhook] bump to 0.72.0](https://github.com/prometheus-community/helm-charts/pull/4374) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[kube-prometheus-stack] bump prometheus to 2.51.0](https://github.com/prometheus-community/helm-charts/pull/4373) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[prometheus] bump to 2.51.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4372) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -69,7 +69,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (1 week ago)
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (1 month ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 months ago)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (6 months ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (7 months ago)
 - [opsgenie/terraform-provider-opsgenie](https://github.com/opsgenie/terraform-provider-opsgenie) - Terraform OpsGenie provider (9 months ago)
