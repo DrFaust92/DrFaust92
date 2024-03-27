@@ -82,7 +82,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [zhaoqian888](https://github.com/zhaoqian888)
+- [xoldyckk](https://github.com/xoldyckk)
 - [shlomitubul](https://github.com/shlomitubul)
 - [lucikoli](https://github.com/lucikoli)
 - [yonigolob1](https://github.com/yonigolob1)
