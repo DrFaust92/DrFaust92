@@ -82,7 +82,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [owen-carter](https://github.com/owen-carter)
+- [sn00pyd0g3](https://github.com/sn00pyd0g3)
 - [shlomitubul](https://github.com/shlomitubul)
 - [lucikoli](https://github.com/lucikoli)
 - [yonigolob1](https://github.com/yonigolob1)
