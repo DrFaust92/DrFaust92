@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.2.0), today) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.35.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.35.1), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.2.0), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.42.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.42.0), 5 days ago) - Terraform AWS provider
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.2.0), 2 weeks ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), 1 month ago) - 
