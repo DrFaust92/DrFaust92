@@ -82,7 +82,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [aciidb0mb3r](https://github.com/aciidb0mb3r)
+- [valerie-makes](https://github.com/valerie-makes)
 - [shlomitubul](https://github.com/shlomitubul)
 - [lucikoli](https://github.com/lucikoli)
 - [yonigolob1](https://github.com/yonigolob1)
