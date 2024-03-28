@@ -82,7 +82,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [simonpersson](https://github.com/simonpersson)
+- [myeveryheart](https://github.com/myeveryheart)
 - [shlomitubul](https://github.com/shlomitubul)
 - [lucikoli](https://github.com/lucikoli)
 - [yonigolob1](https://github.com/yonigolob1)
