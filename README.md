@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4407) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/DrFaust92/helm-charts-2/pull/6) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (today)
 - [feat(argo-cd): Generate crd from upstream](https://github.com/argoproj/argo-helm/pull/2614) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [WIP - Generate-crd ](https://github.com/DrFaust92/argo-helm/pull/1) on [DrFaust92/argo-helm](https://github.com/DrFaust92/argo-helm) (today)
 - [fix(argo-cd): add missing crd change from 2.10.5](https://github.com/argoproj/argo-helm/pull/2612) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
@@ -49,8 +51,6 @@
 - [[prometheus-node-exporter] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4385) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[kube-state-metrics] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus] bump deps](https://github.com/prometheus-community/helm-charts/pull/4383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-stackdriver-exporter] bump to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4376) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-pgbouncer-exporter] pin image &#43; use appVersion correctly](https://github.com/prometheus-community/helm-charts/pull/4375) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
