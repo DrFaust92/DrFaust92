@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [jackishere](https://github.com/jackishere)
 - [myeveryheart](https://github.com/myeveryheart)
 - [shlomitubul](https://github.com/shlomitubul)
 - [lucikoli](https://github.com/lucikoli)
 - [yonigolob1](https://github.com/yonigolob1)
-- [mariana-mendes](https://github.com/mariana-mendes)
 
 #### 💬 Feedback
 
