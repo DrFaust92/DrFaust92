@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (4 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 day ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (5 days ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 month ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 month ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 month ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 months ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (2 months ago)
 
 #### 🌱 My latest projects
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.6), today) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.43.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.43.0), 1 day ago) - Terraform AWS provider
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.7.0), 1 day ago) - Prometheus community Helm charts
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.6), 1 day ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.43.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.43.0), 2 days ago) - Terraform AWS provider
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.7.0), 2 days ago) - Prometheus community Helm charts
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.2.0), 3 weeks ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.2.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.2.0), 1 month ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.6.6](https://github.com/argoproj/argo-rollouts/releases/tag/v1.6.6), 1 month ago) - Progressive Delivery for Kubernetes
@@ -41,15 +41,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4407) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/DrFaust92/helm-charts-2/pull/6) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (today)
-- [feat(argo-cd): Generate crd from upstream](https://github.com/argoproj/argo-helm/pull/2614) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
-- [WIP - Generate-crd ](https://github.com/DrFaust92/argo-helm/pull/1) on [DrFaust92/argo-helm](https://github.com/DrFaust92/argo-helm) (today)
-- [fix(argo-cd): add missing crd change from 2.10.5](https://github.com/argoproj/argo-helm/pull/2612) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
-- [fix: add gpu_driver_version to recreate list](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1913) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
-- [Helm chart - document and add to schema nameOverride](https://github.com/cert-manager/trust-manager/pull/330) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (4 days ago)
-- [[prometheus-node-exporter] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4385) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[kube-state-metrics] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4407) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/DrFaust92/helm-charts-2/pull/6) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 day ago)
+- [feat(argo-cd): Generate crd from upstream](https://github.com/argoproj/argo-helm/pull/2614) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 day ago)
+- [WIP - Generate-crd ](https://github.com/DrFaust92/argo-helm/pull/1) on [DrFaust92/argo-helm](https://github.com/DrFaust92/argo-helm) (1 day ago)
+- [fix(argo-cd): add missing crd change from 2.10.5](https://github.com/argoproj/argo-helm/pull/2612) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 day ago)
+- [fix: add gpu_driver_version to recreate list](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1913) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
+- [Helm chart - document and add to schema nameOverride](https://github.com/cert-manager/trust-manager/pull/330) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (5 days ago)
+- [[prometheus-node-exporter] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4385) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[kube-state-metrics] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus] bump deps](https://github.com/prometheus-community/helm-charts/pull/4383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
