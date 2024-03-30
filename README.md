@@ -83,7 +83,7 @@
 #### 👯 Check out some of my recent followers
 
 - [jackishere](https://github.com/jackishere)
-- [sfsfasdfasgdfgsdfgsdafasddfas](https://github.com/sfsfasdfasgdfgsdfgsdafasddfas)
+- [shortnd](https://github.com/shortnd)
 - [shlomitubul](https://github.com/shlomitubul)
 - [lucikoli](https://github.com/lucikoli)
 - [yonigolob1](https://github.com/yonigolob1)
