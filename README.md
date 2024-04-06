@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump operator 0.73.0](https://github.com/prometheus-community/helm-charts/pull/4422) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4407) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/DrFaust92/helm-charts-2/pull/6) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 week ago)
 - [feat(argo-cd): Generate crd from upstream](https://github.com/argoproj/argo-helm/pull/2614) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
@@ -50,7 +51,6 @@
 - [Helm chart - document and add to schema nameOverride](https://github.com/cert-manager/trust-manager/pull/330) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (1 week ago)
 - [[prometheus-node-exporter] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4385) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-state-metrics] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus] bump deps](https://github.com/prometheus-community/helm-charts/pull/4383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
