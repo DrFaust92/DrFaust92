@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.9.0), today) - Prometheus community Helm charts
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 1 day ago) - Progressive Delivery for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.10), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.44.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.44.0), 2 days ago) - Terraform AWS provider
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-pushgateway] bump to 1.8.0](https://github.com/prometheus-community/helm-charts/pull/4428) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-pgbouncer-exporter] bump to 0.8.0](https://github.com/prometheus-community/helm-charts/pull/4427) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-pgbouncer-exporter] bump to 0.8.0](https://github.com/DrFaust92/helm-charts-2/pull/8) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (today)
+- [[prometheus-operator-crds] bump to 0.73.0](https://github.com/prometheus-community/helm-charts/pull/4426) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-operator-admission-webhook] bump to 0.73.0](https://github.com/prometheus-community/helm-charts/pull/4425) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-operator-admission-webhook] bump to 0.73.0](https://github.com/DrFaust92/helm-charts-2/pull/7) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (today)
 - [[kube-prometheus-stack] bump operator 0.73.0](https://github.com/prometheus-community/helm-charts/pull/4422) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4407) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/DrFaust92/helm-charts-2/pull/6) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 week ago)
 - [feat(argo-cd): Generate crd from upstream](https://github.com/argoproj/argo-helm/pull/2614) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [WIP - Generate-crd ](https://github.com/DrFaust92/argo-helm/pull/1) on [DrFaust92/argo-helm](https://github.com/DrFaust92/argo-helm) (1 week ago)
-- [fix(argo-cd): add missing crd change from 2.10.5](https://github.com/argoproj/argo-helm/pull/2612) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [fix: add gpu_driver_version to recreate list](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1913) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [Helm chart - document and add to schema nameOverride](https://github.com/cert-manager/trust-manager/pull/330) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (1 week ago)
-- [[prometheus-node-exporter] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4385) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-state-metrics] bump kube-rbac-proxy to support K8s 1.28](https://github.com/prometheus-community/helm-charts/pull/4384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
