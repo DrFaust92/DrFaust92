@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-statsd-exporter] bump to 0.26.1](https://github.com/prometheus-community/helm-charts/pull/4431) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-statsd-exporter] bump to 0.26.1](https://github.com/DrFaust92/helm-charts-2/pull/9) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (today)
+- [[prometheus-smartctl-exporter] bump to 0.12.0](https://github.com/prometheus-community/helm-charts/pull/4430) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-pushgateway] bump to 1.8.0](https://github.com/prometheus-community/helm-charts/pull/4428) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-pgbouncer-exporter] bump to 0.8.0](https://github.com/prometheus-community/helm-charts/pull/4427) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-pgbouncer-exporter] bump to 0.8.0](https://github.com/DrFaust92/helm-charts-2/pull/8) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (today)
@@ -48,9 +51,6 @@
 - [[prometheus-operator-admission-webhook] bump to 0.73.0](https://github.com/prometheus-community/helm-charts/pull/4425) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-admission-webhook] bump to 0.73.0](https://github.com/DrFaust92/helm-charts-2/pull/7) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (today)
 - [[kube-prometheus-stack] bump operator 0.73.0](https://github.com/prometheus-community/helm-charts/pull/4422) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4407) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus] bump to 2.51.1 &#43; deps](https://github.com/DrFaust92/helm-charts-2/pull/6) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 week ago)
-- [feat(argo-cd): Generate crd from upstream](https://github.com/argoproj/argo-helm/pull/2614) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 
 #### 📜 My recent blog posts
 
