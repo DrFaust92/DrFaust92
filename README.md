@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.3.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.10.0), today) - Prometheus community Helm charts
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 1 day ago) - Progressive Delivery for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.10), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.44.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.44.0), 2 days ago) - Terraform AWS provider
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [bigquerydatapolicy: support routine](https://github.com/GoogleCloudPlatform/magic-modules/pull/10388) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [[prometheus-statsd-exporter] bump to 0.26.1](https://github.com/prometheus-community/helm-charts/pull/4431) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-statsd-exporter] bump to 0.26.1](https://github.com/DrFaust92/helm-charts-2/pull/9) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (today)
 - [[prometheus-smartctl-exporter] bump to 0.12.0](https://github.com/prometheus-community/helm-charts/pull/4430) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -50,7 +51,6 @@
 - [[prometheus-operator-crds] bump to 0.73.0](https://github.com/prometheus-community/helm-charts/pull/4426) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-admission-webhook] bump to 0.73.0](https://github.com/prometheus-community/helm-charts/pull/4425) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-admission-webhook] bump to 0.73.0](https://github.com/DrFaust92/helm-charts-2/pull/7) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (today)
-- [[kube-prometheus-stack] bump operator 0.73.0](https://github.com/prometheus-community/helm-charts/pull/4422) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 
 #### 📜 My recent blog posts
 
