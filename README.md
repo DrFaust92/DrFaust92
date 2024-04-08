@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.1), today) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.10.0), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 3 days ago) - Progressive Delivery for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.10), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.44.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.44.0), 4 days ago) - Terraform AWS provider
