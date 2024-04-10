@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.7.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.14.0), today) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 3 days ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 5 days ago) - Progressive Delivery for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.10), 5 days ago) - ArgoProj Helm Charts
