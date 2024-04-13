@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (6 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.11.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.1.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.45.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.45.0), 2 days ago) - Terraform AWS provider
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.11), 3 days ago) - ArgoProj Helm Charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 6 days ago) - 
