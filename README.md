@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (3 weeks ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (2 months ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (2 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.9.7](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.7), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.2.1), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.45.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.45.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.46.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.46.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.9.7](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.7), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.2.1), 2 days ago) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 1 week ago) - 
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 1 week ago) - Progressive Delivery for Kubernetes
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 2 weeks ago) - Progressive Delivery for Kubernetes
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), 3 weeks ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.2.0), 1 month ago) - Configures opinionated GKE clusters
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 2 months ago) - 
@@ -41,8 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump prom to 2.51.2](https://github.com/prometheus-community/helm-charts/pull/4459) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[kube-prometheus-stack] bump to 0.73.1](https://github.com/prometheus-community/helm-charts/pull/4450) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[kube-prometheus-stack] bump prom to 2.51.2](https://github.com/prometheus-community/helm-charts/pull/4459) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-prometheus-stack] bump to 0.73.1](https://github.com/prometheus-community/helm-charts/pull/4450) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus-modbus-exporter] update to 0.4.1](https://github.com/prometheus-community/helm-charts/pull/4444) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-memcached-exporter] bump to 0.14.3](https://github.com/prometheus-community/helm-charts/pull/4443) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-blackbox-exporter] bump to 0.25.0](https://github.com/prometheus-community/helm-charts/pull/4442) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
