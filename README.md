@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump operator to 0.73.2](https://github.com/prometheus-community/helm-charts/pull/4475) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] bump prom to 2.51.2](https://github.com/prometheus-community/helm-charts/pull/4459) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] bump to 0.73.1](https://github.com/prometheus-community/helm-charts/pull/4450) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-modbus-exporter] update to 0.4.1](https://github.com/prometheus-community/helm-charts/pull/4444) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [bigquerydatapolicy: support routine](https://github.com/GoogleCloudPlatform/magic-modules/pull/10388) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
 - [[prometheus-statsd-exporter] bump to 0.26.1](https://github.com/prometheus-community/helm-charts/pull/4431) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-statsd-exporter] bump to 0.26.1](https://github.com/DrFaust92/helm-charts-2/pull/9) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (2 weeks ago)
-- [[prometheus-smartctl-exporter] bump to 0.12.0](https://github.com/prometheus-community/helm-charts/pull/4430) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [KyriosGN0](https://github.com/KyriosGN0)
 - [jackishere](https://github.com/jackishere)
 - [shortnd](https://github.com/shortnd)
 - [shlomitubul](https://github.com/shlomitubul)
 - [lucikoli](https://github.com/lucikoli)
-- [yonigolob1](https://github.com/yonigolob1)
 
 #### 💬 Feedback
 
