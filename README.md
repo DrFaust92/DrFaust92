@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.16.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.15), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.2.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.46.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.46.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 2 weeks ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 2 weeks ago) - Progressive Delivery for Kubernetes
