@@ -2,8 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 days ago)
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
@@ -11,7 +12,6 @@
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (2 months ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (2 months ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (2 months ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.16.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.15), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.46.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.46.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.4.4](https://github.com/linkerd/linkerd2/releases/tag/edge-24.4.4), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 2 weeks ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 2 weeks ago) - Progressive Delivery for Kubernetes
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), 1 month ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.2.0), 1 month ago) - Configures opinionated GKE clusters
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 2 months ago) - 
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 4 months ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
-- [DrFaust92/terraform-kubernetes-ebs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver) ([v3.10.0](https://github.com/DrFaust92/terraform-kubernetes-ebs-csi-driver/releases/tag/v3.10.0), 6 months ago) - Terraform module which creates Kubernetes EBS CSI controller resources on AWS EKS.
 
 #### 🔨 My recent Pull Requests
 
