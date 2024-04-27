@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 days ago)
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (4 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (4 weeks ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.17), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.2.0), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.47.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.4.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.4.5), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.17), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.2.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.47.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.4.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.4.5), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 2 weeks ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 3 weeks ago) - Progressive Delivery for Kubernetes
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), 1 month ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [r/sagemaker_app_image_config - add `code_editor_app_image_config`](https://github.com/hashicorp/terraform-provider-aws/pull/37059) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
-- [[prometheus] bump to 2.51.2 &#43; dependencies](https://github.com/prometheus-community/helm-charts/pull/4476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[kube-prometheus-stack] bump operator to 0.73.2](https://github.com/prometheus-community/helm-charts/pull/4475) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [r/sagemaker_app_image_config - add `code_editor_app_image_config`](https://github.com/hashicorp/terraform-provider-aws/pull/37059) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (4 days ago)
+- [[prometheus] bump to 2.51.2 &#43; dependencies](https://github.com/prometheus-community/helm-charts/pull/4476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[kube-prometheus-stack] bump operator to 0.73.2](https://github.com/prometheus-community/helm-charts/pull/4475) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump prom to 2.51.2](https://github.com/prometheus-community/helm-charts/pull/4459) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] bump to 0.73.1](https://github.com/prometheus-community/helm-charts/pull/4450) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[kube-prometheus-stack] bump to 0.73.1](https://github.com/prometheus-community/helm-charts/pull/4450) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-modbus-exporter] update to 0.4.1](https://github.com/prometheus-community/helm-charts/pull/4444) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-memcached-exporter] bump to 0.14.3](https://github.com/prometheus-community/helm-charts/pull/4443) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-blackbox-exporter] bump to 0.25.0](https://github.com/prometheus-community/helm-charts/pull/4442) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [allow empty urls](https://github.com/DrFaust92/terraform-provider-mapbox/pull/29) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (2 weeks ago)
-- [bigquerydatapolicy: support routine](https://github.com/GoogleCloudPlatform/magic-modules/pull/10388) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
+- [bigquerydatapolicy: support routine](https://github.com/GoogleCloudPlatform/magic-modules/pull/10388) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
