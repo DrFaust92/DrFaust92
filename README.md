@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [r/sagemaker_domain - add GenAI block](https://github.com/hashicorp/terraform-provider-aws/pull/37139) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
 - [r/sagemaker_app_image_config - add `code_editor_app_image_config`](https://github.com/hashicorp/terraform-provider-aws/pull/37059) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (4 days ago)
 - [[prometheus] bump to 2.51.2 &#43; dependencies](https://github.com/prometheus-community/helm-charts/pull/4476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump operator to 0.73.2](https://github.com/prometheus-community/helm-charts/pull/4475) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [[prometheus-memcached-exporter] bump to 0.14.3](https://github.com/prometheus-community/helm-charts/pull/4443) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-blackbox-exporter] bump to 0.25.0](https://github.com/prometheus-community/helm-charts/pull/4442) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [allow empty urls](https://github.com/DrFaust92/terraform-provider-mapbox/pull/29) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (2 weeks ago)
-- [bigquerydatapolicy: support routine](https://github.com/GoogleCloudPlatform/magic-modules/pull/10388) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
