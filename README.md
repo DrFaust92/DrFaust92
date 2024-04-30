@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. (5 days ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.33.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.3), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.0), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.18](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.18), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.47.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.4.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.4.5), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 3 weeks ago) - 
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack ] bump deps](https://github.com/prometheus-community/helm-charts/pull/4501) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [bigquery_table - add support for `external_data_configuration.bigtable_options``](https://github.com/GoogleCloudPlatform/magic-modules/pull/10557) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [r/sagemaker_domain - add GenAI block](https://github.com/hashicorp/terraform-provider-aws/pull/37139) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
 - [r/sagemaker_app_image_config - add `code_editor_app_image_config`](https://github.com/hashicorp/terraform-provider-aws/pull/37059) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
@@ -50,7 +51,6 @@
 - [[kube-prometheus-stack] bump to 0.73.1](https://github.com/prometheus-community/helm-charts/pull/4450) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-modbus-exporter] update to 0.4.1](https://github.com/prometheus-community/helm-charts/pull/4444) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-memcached-exporter] bump to 0.14.3](https://github.com/prometheus-community/helm-charts/pull/4443) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-blackbox-exporter] bump to 0.25.0](https://github.com/prometheus-community/helm-charts/pull/4442) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
