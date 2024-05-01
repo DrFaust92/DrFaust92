@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.4), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.1), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.18](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.18), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.47.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.4.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.4.5), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 3 weeks ago) - 
