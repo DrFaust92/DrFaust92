@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [bigqueryanalyticshub - add support for sharing settings to data exchange](https://github.com/GoogleCloudPlatform/magic-modules/pull/10570) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [bump metastore federation to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/10569) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [[kube-prometheus-stack] remove job ttl api check](https://github.com/prometheus-community/helm-charts/pull/4503) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] align pdb to single check](https://github.com/prometheus-community/helm-charts/pull/4502) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@
 - [r/sagemaker_app_image_config - add `code_editor_app_image_config`](https://github.com/hashicorp/terraform-provider-aws/pull/37059) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [[prometheus] bump to 2.51.2 &#43; dependencies](https://github.com/prometheus-community/helm-charts/pull/4476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump operator to 0.73.2](https://github.com/prometheus-community/helm-charts/pull/4475) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] bump prom to 2.51.2](https://github.com/prometheus-community/helm-charts/pull/4459) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
