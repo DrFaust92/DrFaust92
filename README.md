@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 weeks ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.4), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.1), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.47.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.4.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.4.5), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.4), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.1), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.47.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.4.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.4.5), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 3 weeks ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 3 weeks ago) - Progressive Delivery for Kubernetes
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), 1 month ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
@@ -41,13 +41,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bigqueryanalyticshub - add support for sharing settings to data exchange](https://github.com/GoogleCloudPlatform/magic-modules/pull/10570) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
-- [bump metastore federation to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/10569) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
-- [[kube-prometheus-stack] remove job ttl api check](https://github.com/prometheus-community/helm-charts/pull/4503) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack] align pdb to single check](https://github.com/prometheus-community/helm-charts/pull/4502) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack ] bump deps](https://github.com/prometheus-community/helm-charts/pull/4501) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [bigquery_table - add support for `external_data_configuration.bigtable_options``](https://github.com/GoogleCloudPlatform/magic-modules/pull/10557) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
-- [r/sagemaker_domain - add GenAI block](https://github.com/hashicorp/terraform-provider-aws/pull/37139) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (4 days ago)
+- [bigqueryanalyticshub - add support for sharing settings to data exchange](https://github.com/GoogleCloudPlatform/magic-modules/pull/10570) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [bump metastore federation to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/10569) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [[kube-prometheus-stack] remove job ttl api check](https://github.com/prometheus-community/helm-charts/pull/4503) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack] align pdb to single check](https://github.com/prometheus-community/helm-charts/pull/4502) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack ] bump deps](https://github.com/prometheus-community/helm-charts/pull/4501) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [bigquery_table - add support for `external_data_configuration.bigtable_options``](https://github.com/GoogleCloudPlatform/magic-modules/pull/10557) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
+- [r/sagemaker_domain - add GenAI block](https://github.com/hashicorp/terraform-provider-aws/pull/37139) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
 - [r/sagemaker_app_image_config - add `code_editor_app_image_config`](https://github.com/hashicorp/terraform-provider-aws/pull/37059) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [[prometheus] bump to 2.51.2 &#43; dependencies](https://github.com/prometheus-community/helm-charts/pull/4476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump operator to 0.73.2](https://github.com/prometheus-community/helm-charts/pull/4475) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -69,7 +69,7 @@
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 weeks ago)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (1 month ago)
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (2 months ago)
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (2 months ago)
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (3 months ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 months ago)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (7 months ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (8 months ago)
