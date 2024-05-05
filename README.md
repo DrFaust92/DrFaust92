@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [hayk96](https://github.com/hayk96)
 - [KyriosGN0](https://github.com/KyriosGN0)
 - [jackishere](https://github.com/jackishere)
 - [shortnd](https://github.com/shortnd)
 - [shlomitubul](https://github.com/shlomitubul)
-- [lucikoli](https://github.com/lucikoli)
 
 #### 💬 Feedback
 
