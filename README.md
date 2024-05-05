@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-fastly-exporter] bump to 8.0.0](https://github.com/prometheus-community/helm-charts/pull/4518) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-redis-exporter] bump to 1.59.0](https://github.com/prometheus-community/helm-charts/pull/4517) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] bump thanos to 0.35.0](https://github.com/prometheus-community/helm-charts/pull/4516) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prometheus] bump dependencies](https://github.com/prometheus-community/helm-charts/pull/4515) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -50,7 +51,6 @@
 - [[kube-prometheus-stack] remove job ttl api check](https://github.com/prometheus-community/helm-charts/pull/4503) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[kube-prometheus-stack] align pdb to single check](https://github.com/prometheus-community/helm-charts/pull/4502) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[kube-prometheus-stack ] bump deps](https://github.com/prometheus-community/helm-charts/pull/4501) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [bigquery_table - add support for `external_data_configuration.bigtable_options``](https://github.com/GoogleCloudPlatform/magic-modules/pull/10557) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
 
 #### 📜 My recent blog posts
 
