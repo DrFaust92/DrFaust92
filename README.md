@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.3.0), today) - Configures opinionated GKE clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.8.0), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.48.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.48.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
@@ -35,7 +36,6 @@
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 1 month ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 1 month ago) - Progressive Delivery for Kubernetes
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), 1 month ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.2.0), 2 months ago) - Configures opinionated GKE clusters
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 2 months ago) - 
 - [DrFaust92/terraform-kubernetes-efs-csi-driver](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver) ([v2.5.0](https://github.com/DrFaust92/terraform-kubernetes-efs-csi-driver/releases/tag/v2.5.0), 5 months ago) - Terraform module which creates Kubernetes EFS CSI driver resources on AWS EKS.
 
