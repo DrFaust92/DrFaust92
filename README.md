@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: lint gke docs &#43; make terraform config more secure](https://github.com/kubernetes-sigs/external-dns/pull/4456) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
 - [[kube-prometheus-stack] bump prom to 2.52.0](https://github.com/prometheus-community/helm-charts/pull/4530) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [feat(argo-cd): Upgrade argocd to 2.11.0 &#43; crd changes](https://github.com/argoproj/argo-helm/pull/2681) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 days ago)
 - [[prometheus-fastly-exporter] bump to 8.0.0](https://github.com/prometheus-community/helm-charts/pull/4518) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
@@ -50,7 +51,6 @@
 - [[kube-prometheus-stack] set ttlSecondsAfterFinished relevant for argocd](https://github.com/prometheus-community/helm-charts/pull/4510) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [bigqueryanalyticshub - add support for sharing settings to data exchange](https://github.com/GoogleCloudPlatform/magic-modules/pull/10570) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [bump metastore federation to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/10569) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [[kube-prometheus-stack] remove job ttl api check](https://github.com/prometheus-community/helm-charts/pull/4503) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
