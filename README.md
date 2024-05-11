@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.20.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.8.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.8.1), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.49.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.49.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.3.0), 2 days ago) - Configures opinionated GKE clusters
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.0), 2 days ago) - Prometheus community Helm charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.5.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.5.1), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 1 month ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 1 month ago) - Progressive Delivery for Kubernetes
