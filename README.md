@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.10.0-alpha.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.10.0-alpha.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.4.0), today) - Prometheus community Helm charts
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.10.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.10.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.9.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.0), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.49.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.49.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.3.0), 4 days ago) - Configures opinionated GKE clusters
