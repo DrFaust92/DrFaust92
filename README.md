@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.10.0-alpha.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.10.0-alpha.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.9.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.0), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.49.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.49.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
@@ -36,7 +37,6 @@
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 1 month ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 1 month ago) - Progressive Delivery for Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.4](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.4), 1 month ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.9.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.9.2), 1 month ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
