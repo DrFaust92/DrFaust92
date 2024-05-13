@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.9.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.1), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.1.0), today) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.10.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.10.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.9.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.0), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.49.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.49.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.3.0), 4 days ago) - Configures opinionated GKE clusters
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.5.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.5.1), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
