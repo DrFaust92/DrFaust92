@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.2), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.3), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.9.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.2), 1 day ago) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.5.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.5.2), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.10.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.10.0), 2 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
