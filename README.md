@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (4 days ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (4 days ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (5 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (5 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. (2 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 month ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.2), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.9.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.2), today) - ArgoProj Helm Charts
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.5.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.5.2), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.10.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.10.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.49.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.49.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.3.0), 5 days ago) - Configures opinionated GKE clusters
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.2), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.9.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.2), 1 day ago) - ArgoProj Helm Charts
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.5.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.5.2), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.10.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.10.0), 2 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.49.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.49.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.3.0), 6 days ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 1 month ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 1 month ago) - Progressive Delivery for Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.4](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.4), 1 month ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: lint gke docs &#43; make terraform config more secure](https://github.com/kubernetes-sigs/external-dns/pull/4456) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (4 days ago)
-- [[kube-prometheus-stack] bump prom to 2.52.0](https://github.com/prometheus-community/helm-charts/pull/4530) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [docs: lint gke docs &#43; make terraform config more secure](https://github.com/kubernetes-sigs/external-dns/pull/4456) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (5 days ago)
+- [[kube-prometheus-stack] bump prom to 2.52.0](https://github.com/prometheus-community/helm-charts/pull/4530) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [feat(argo-cd): Upgrade argocd to 2.11.0 &#43; crd changes](https://github.com/argoproj/argo-helm/pull/2681) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [[prometheus-fastly-exporter] bump to 8.0.0](https://github.com/prometheus-community/helm-charts/pull/4518) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-redis-exporter] bump to 1.59.0](https://github.com/prometheus-community/helm-charts/pull/4517) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump thanos to 0.35.0](https://github.com/prometheus-community/helm-charts/pull/4516) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus] bump dependencies](https://github.com/prometheus-community/helm-charts/pull/4515) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] set ttlSecondsAfterFinished relevant for argocd](https://github.com/prometheus-community/helm-charts/pull/4510) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [bigqueryanalyticshub - add support for sharing settings to data exchange](https://github.com/GoogleCloudPlatform/magic-modules/pull/10570) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [bump metastore federation to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/10569) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
+- [bigqueryanalyticshub - add support for sharing settings to data exchange](https://github.com/GoogleCloudPlatform/magic-modules/pull/10570) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
+- [bump metastore federation to ga](https://github.com/GoogleCloudPlatform/magic-modules/pull/10569) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -73,7 +73,7 @@
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 months ago)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (8 months ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (8 months ago)
-- [opsgenie/terraform-provider-opsgenie](https://github.com/opsgenie/terraform-provider-opsgenie) - Terraform OpsGenie provider (10 months ago)
+- [opsgenie/terraform-provider-opsgenie](https://github.com/opsgenie/terraform-provider-opsgenie) - Terraform OpsGenie provider (11 months ago)
 - [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) - Watches k8s cluster events and logs them to stdout in JSON (11 months ago)
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links. (11 months ago)
 
