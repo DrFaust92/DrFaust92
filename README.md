@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.11.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.11.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.6.1), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.35.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.35.3), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.50.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.50.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.2), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.5.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.5.3), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
