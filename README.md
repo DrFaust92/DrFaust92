@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.0.0), today) - Configures opinionated GKE clusters
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.0.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-12.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-12.0.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.51.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.51.1), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.5.4](https://github.com/linkerd/linkerd2/releases/tag/edge-24.5.4), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.2), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.10.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.10.0), 2 weeks ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v30.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v30.3.0), 2 weeks ago) - Configures opinionated GKE clusters
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.3.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.3.0), 1 month ago) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0-rc1), 1 month ago) - Progressive Delivery for Kubernetes
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.10.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.10.0), 3 months ago) - 
