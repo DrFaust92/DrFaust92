@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.1.2), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.13.0), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.11.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.11.0), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.5.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.5.5), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.52.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.52.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
