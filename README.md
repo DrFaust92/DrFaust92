@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.4.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.0.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.53.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.53.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.1.2), 1 day ago) - ArgoProj Helm Charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.11.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.11.0), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump thanos to 0.35.1](https://github.com/prometheus-community/helm-charts/pull/4596) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-operator-admission-webhook] bump to 0.74.0](https://github.com/prometheus-community/helm-charts/pull/4595) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-node-exporter] bump exporter to 1.8.1 &#43; kube-rbac-proxy to 0.18.0](https://github.com/prometheus-community/helm-charts/pull/4594) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-state-metrics] bump kube-rbac-proxy to 0.18.0](https://github.com/prometheus-community/helm-charts/pull/4593) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-adapter] bump adapter to 0.12.0](https://github.com/prometheus-community/helm-charts/pull/4569) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump operator to 0.74.0](https://github.com/prometheus-community/helm-charts/pull/4568) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -48,9 +51,6 @@
 - [chore(docs): remove beta from docs from non beta arguments](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1957) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [feat: bump `enable_intranode_visibility` to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1956) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [docs: lint gke docs &#43; make terraform config more secure](https://github.com/kubernetes-sigs/external-dns/pull/4456) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (4 weeks ago)
-- [[kube-prometheus-stack] bump prom to 2.52.0](https://github.com/prometheus-community/helm-charts/pull/4530) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 weeks ago)
-- [feat(argo-cd): Upgrade argocd to 2.11.0 &#43; crd changes](https://github.com/argoproj/argo-helm/pull/2681) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 month ago)
-- [[prometheus-fastly-exporter] bump to 8.0.0](https://github.com/prometheus-community/helm-charts/pull/4518) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 month ago)
 
 #### 📜 My recent blog posts
 
