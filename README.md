@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (4 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 weeks ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (4 weeks ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.13.0), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.53.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.53.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.1.2), 1 day ago) - ArgoProj Helm Charts
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.11.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.11.0), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.13.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.53.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.53.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.1.2), 2 days ago) - ArgoProj Helm Charts
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.11.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.11.0), 5 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.5.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.5.5), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.0.0), 1 week ago) - Configures opinionated GKE clusters
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.0.1](https://github.com/traefik/traefik/releases/tag/v3.0.1), 2 weeks ago) - The Cloud Native Application Proxy
@@ -41,10 +41,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump thanos to 0.35.1](https://github.com/prometheus-community/helm-charts/pull/4596) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-operator-admission-webhook] bump to 0.74.0](https://github.com/prometheus-community/helm-charts/pull/4595) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-node-exporter] bump exporter to 1.8.1 &#43; kube-rbac-proxy to 0.18.0](https://github.com/prometheus-community/helm-charts/pull/4594) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[kube-state-metrics] bump kube-rbac-proxy to 0.18.0](https://github.com/prometheus-community/helm-charts/pull/4593) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] bump thanos to 0.35.1](https://github.com/prometheus-community/helm-charts/pull/4596) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-operator-admission-webhook] bump to 0.74.0](https://github.com/prometheus-community/helm-charts/pull/4595) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-node-exporter] bump exporter to 1.8.1 &#43; kube-rbac-proxy to 0.18.0](https://github.com/prometheus-community/helm-charts/pull/4594) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[kube-state-metrics] bump kube-rbac-proxy to 0.18.0](https://github.com/prometheus-community/helm-charts/pull/4593) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-adapter] bump adapter to 0.12.0](https://github.com/prometheus-community/helm-charts/pull/4569) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump operator to 0.74.0](https://github.com/prometheus-community/helm-charts/pull/4568) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [bump otel dependencies](https://github.com/traefik/traefik/pull/10763) on [traefik/traefik](https://github.com/traefik/traefik) (1 week ago)
