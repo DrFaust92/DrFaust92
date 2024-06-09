@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (5 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.0.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.35.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.1.3), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.53.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.53.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.11.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.11.0), 6 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
