@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (6 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 weeks ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 month ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.8), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.8.1), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.53.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.53.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.11.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.11.0), 6 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.8), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.8.1), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.53.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.53.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.11.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.11.0), 1 week ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.5.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.5.5), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.0.0), 1 week ago) - Configures opinionated GKE clusters
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.0.1](https://github.com/traefik/traefik/releases/tag/v3.0.1), 2 weeks ago) - The Cloud Native Application Proxy
@@ -41,15 +41,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump thanos to 0.35.1](https://github.com/prometheus-community/helm-charts/pull/4596) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-operator-admission-webhook] bump to 0.74.0](https://github.com/prometheus-community/helm-charts/pull/4595) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-node-exporter] bump exporter to 1.8.1 &#43; kube-rbac-proxy to 0.18.0](https://github.com/prometheus-community/helm-charts/pull/4594) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[kube-state-metrics] bump kube-rbac-proxy to 0.18.0](https://github.com/prometheus-community/helm-charts/pull/4593) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-adapter] bump adapter to 0.12.0](https://github.com/prometheus-community/helm-charts/pull/4569) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] bump operator to 0.74.0](https://github.com/prometheus-community/helm-charts/pull/4568) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [bump otel dependencies](https://github.com/traefik/traefik/pull/10763) on [traefik/traefik](https://github.com/traefik/traefik) (1 week ago)
-- [chore(docs): remove beta from docs from non beta arguments](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1957) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [feat: bump `enable_intranode_visibility` to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1956) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
+- [[kube-prometheus-stack] bump thanos to 0.35.1](https://github.com/prometheus-community/helm-charts/pull/4596) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-operator-admission-webhook] bump to 0.74.0](https://github.com/prometheus-community/helm-charts/pull/4595) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-node-exporter] bump exporter to 1.8.1 &#43; kube-rbac-proxy to 0.18.0](https://github.com/prometheus-community/helm-charts/pull/4594) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-state-metrics] bump kube-rbac-proxy to 0.18.0](https://github.com/prometheus-community/helm-charts/pull/4593) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-adapter] bump adapter to 0.12.0](https://github.com/prometheus-community/helm-charts/pull/4569) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
+- [[kube-prometheus-stack] bump operator to 0.74.0](https://github.com/prometheus-community/helm-charts/pull/4568) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
+- [bump otel dependencies](https://github.com/traefik/traefik/pull/10763) on [traefik/traefik](https://github.com/traefik/traefik) (2 weeks ago)
+- [chore(docs): remove beta from docs from non beta arguments](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1957) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
+- [feat: bump `enable_intranode_visibility` to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1956) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [docs: lint gke docs &#43; make terraform config more secure](https://github.com/kubernetes-sigs/external-dns/pull/4456) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
 
 #### 📜 My recent blog posts
