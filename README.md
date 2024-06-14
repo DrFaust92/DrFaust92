@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.54.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.54.1), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.36.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.36.0), today) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.54.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.54.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.0), 1 day ago) - Progressive Delivery for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.1.0), 2 days ago) - Prometheus community Helm charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.6.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.6.1), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
