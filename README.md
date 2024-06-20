@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.2.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.21.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.21.1), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.1.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.1.5), 1 day ago) - ArgoProj Helm Charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.0.3](https://github.com/traefik/traefik/releases/tag/v3.0.3), 2 days ago) - The Cloud Native Application Proxy
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.6.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.6.2), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.54.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.54.1), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
