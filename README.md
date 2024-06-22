@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.2.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.2.1), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.36.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.36.1), today) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.6.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.6.3), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.55.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.55.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.22.0), 2 days ago) - Prometheus community Helm charts
