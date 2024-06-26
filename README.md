@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.7), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.37.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.37.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.12.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.1), 1 day ago) - Progressive Delivery for Kubernetes
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.6.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.6.3), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
