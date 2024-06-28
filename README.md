@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.5.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.56.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.56.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.6.4](https://github.com/linkerd/linkerd2/releases/tag/edge-24.6.4), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.12.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.2), 2 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.1), 3 days ago) - Progressive Delivery for Kubernetes
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.0.3](https://github.com/traefik/traefik/releases/tag/v3.0.3), 1 week ago) - The Cloud Native Application Proxy
