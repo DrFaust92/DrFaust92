@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [hu8813](https://github.com/hu8813)
 - [UjjwalSilwal](https://github.com/UjjwalSilwal)
 - [combrink](https://github.com/combrink)
 - [hayk96](https://github.com/hayk96)
 - [KyriosGN0](https://github.com/KyriosGN0)
-- [jackishere](https://github.com/jackishere)
 
 #### 💬 Feedback
 
