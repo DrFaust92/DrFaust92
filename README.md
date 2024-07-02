@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.0.4](https://github.com/traefik/traefik/releases/tag/v3.0.4), today) - The Cloud Native Application Proxy
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0-rc3](https://github.com/traefik/traefik/releases/tag/v3.1.0-rc3), today) - The Cloud Native Application Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.21.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.37.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.37.2), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.56.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.56.1), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
