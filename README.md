@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.6](https://github.com/traefik/traefik/releases/tag/v2.11.6), today) - The Cloud Native Application Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.21.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.37.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.37.2), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.56.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.56.1), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.1.0), 4 days ago) - Configures opinionated GKE clusters
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.1.0-rc2), 4 days ago) - The Cloud Native Application Proxy
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.6.4](https://github.com/linkerd/linkerd2/releases/tag/edge-24.6.4), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.1), 1 week ago) - Progressive Delivery for Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.5](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.5), 3 weeks ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
