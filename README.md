@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.14.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.9.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.14.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.14.0), today) - 
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.1), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.57.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.57.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
