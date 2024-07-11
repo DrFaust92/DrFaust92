@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.6](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.6), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.3), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.3.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.5), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.0.1), 1 day ago) - Prometheus community Helm charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.1), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.57.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.57.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0-rc3](https://github.com/traefik/traefik/releases/tag/v3.1.0-rc3), 1 week ago) - The Cloud Native Application Proxy
