@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.5.1](https://github.com/grafana/helm-charts/releases/tag/alloy-0.5.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.3.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.5), 1 day ago) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.1), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
