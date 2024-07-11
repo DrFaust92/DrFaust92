@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump operator to 0.75.1 and prom to 2.53.1](https://github.com/prometheus-community/helm-charts/pull/4716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus] bump prom deps](https://github.com/prometheus-community/helm-charts/pull/4701) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-sql-exporter] bump sql exporter to 0.5.5](https://github.com/prometheus-community/helm-charts/pull/4700) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-pushgateway] bump pushgateway to 1.9.0](https://github.com/prometheus-community/helm-charts/pull/4699) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
@@ -50,7 +51,6 @@
 - [[tempo-distributed] bump rollout-operator and grafana-agent-operator deps to latest](https://github.com/grafana/helm-charts/pull/3204) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [[prometheus-elasticsearch-exporter] add support for revisionhistorylimit](https://github.com/prometheus-community/helm-charts/pull/4644) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [r/sagemaker_workteam - add support for `worker_access_configuration`](https://github.com/hashicorp/terraform-provider-aws/pull/38087) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (2 weeks ago)
-- [r/sagemaker_endpoint_configuration - add support for `inference_ami_version`](https://github.com/hashicorp/terraform-provider-aws/pull/38085) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
