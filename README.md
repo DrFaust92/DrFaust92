@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [WIP - Sagemaker - support sdk v2](https://github.com/hashicorp/terraform-provider-aws/pull/38364) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
 - [feat: bump kubelet config to ga &#43; minor doc fixes](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1994) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [[kube-prometheus-stack] bump operator to 0.75.1 and prom to 2.53.1](https://github.com/prometheus-community/helm-charts/pull/4716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prometheus] bump prom deps](https://github.com/prometheus-community/helm-charts/pull/4701) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [[prometheus-memcached-exporter] bump memcached exporter to 0.14.4](https://github.com/prometheus-community/helm-charts/pull/4697) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[tempo-vulture] bump tempo vulture to 2.5.0](https://github.com/grafana/helm-charts/pull/3214) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [[tempo-distributed] bump rollout-operator and grafana-agent-operator deps to latest](https://github.com/grafana/helm-charts/pull/3204) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [[prometheus-elasticsearch-exporter] add support for revisionhistorylimit](https://github.com/prometheus-community/helm-charts/pull/4644) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
