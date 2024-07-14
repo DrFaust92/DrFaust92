@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 weeks ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 weeks ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 month ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.3), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.4), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.6), 2 days ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.58.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.58.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.3), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.4), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.6), 3 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.58.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.58.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.1), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0-rc3](https://github.com/traefik/traefik/releases/tag/v3.1.0-rc3), 1 week ago) - The Cloud Native Application Proxy
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.1.0), 2 weeks ago) - Configures opinionated GKE clusters
@@ -41,9 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [WIP - Sagemaker - support sdk v2](https://github.com/hashicorp/terraform-provider-aws/pull/38364) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
-- [feat: bump kubelet config to ga &#43; minor doc fixes](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1994) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
-- [[kube-prometheus-stack] bump operator to 0.75.1 and prom to 2.53.1](https://github.com/prometheus-community/helm-charts/pull/4716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [WIP - Sagemaker - support sdk v2](https://github.com/hashicorp/terraform-provider-aws/pull/38364) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 day ago)
+- [feat: bump kubelet config to ga &#43; minor doc fixes](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1994) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
+- [[kube-prometheus-stack] bump operator to 0.75.1 and prom to 2.53.1](https://github.com/prometheus-community/helm-charts/pull/4716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[prometheus] bump prom deps](https://github.com/prometheus-community/helm-charts/pull/4701) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-sql-exporter] bump sql exporter to 0.5.5](https://github.com/prometheus-community/helm-charts/pull/4700) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-pushgateway] bump pushgateway to 1.9.0](https://github.com/prometheus-community/helm-charts/pull/4699) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
