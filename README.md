@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.2), today) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.16.4](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.4), today) - 
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.11.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.11.1), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.3), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.6), 4 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.58.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.58.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.1), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0-rc3](https://github.com/traefik/traefik/releases/tag/v3.1.0-rc3), 1 week ago) - The Cloud Native Application Proxy
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.1.0), 2 weeks ago) - Configures opinionated GKE clusters
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.1), 2 weeks ago) - Progressive Delivery for Kubernetes
