@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for additive_vpc_scope_dns_domain](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1998) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
+- [[kube-prometheus-stack] fix rbac for kube-state-metrics when using kube-rbac-proxy](https://github.com/prometheus-community/helm-charts/pull/4722) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-node-exporter] bump node exporter to 1.8.2](https://github.com/prometheus-community/helm-charts/pull/4721) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat: bump identity_service_config to ga](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1997) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [feat: add notification event filter](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1996) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [WIP - Sagemaker - support sdk v2](https://github.com/hashicorp/terraform-provider-aws/pull/38364) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
@@ -48,9 +51,6 @@
 - [[kube-prometheus-stack] bump operator to 0.75.1 and prom to 2.53.1](https://github.com/prometheus-community/helm-charts/pull/4716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus] bump prom deps](https://github.com/prometheus-community/helm-charts/pull/4701) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-sql-exporter] bump sql exporter to 0.5.5](https://github.com/prometheus-community/helm-charts/pull/4700) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-pushgateway] bump pushgateway to 1.9.0](https://github.com/prometheus-community/helm-charts/pull/4699) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-operator-admission-webhook] bump admission webhook to 0.75.1](https://github.com/prometheus-community/helm-charts/pull/4698) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-memcached-exporter] bump memcached exporter to 0.14.4](https://github.com/prometheus-community/helm-charts/pull/4697) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
