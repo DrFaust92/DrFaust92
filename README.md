@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.7.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.7.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.6.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.7), today) - ArgoProj Helm Charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0](https://github.com/traefik/traefik/releases/tag/v3.1.0), 1 day ago) - The Cloud Native Application Proxy
