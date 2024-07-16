@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.6.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.7), today) - ArgoProj Helm Charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0](https://github.com/traefik/traefik/releases/tag/v3.1.0), 1 day ago) - The Cloud Native Application Proxy
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.2), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.16.4](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.4), 1 day ago) - 
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.11.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.11.1), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.58.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.58.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.1.0), 2 weeks ago) - Configures opinionated GKE clusters
