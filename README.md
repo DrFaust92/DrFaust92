@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 weeks ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 month ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.3.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.7.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.7.1), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.6.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.7), 1 day ago) - ArgoProj Helm Charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0](https://github.com/traefik/traefik/releases/tag/v3.1.0), 2 days ago) - The Cloud Native Application Proxy
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.2), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
