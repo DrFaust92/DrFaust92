@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.37.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.37.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.1.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.8), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.5), 1 day ago) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0](https://github.com/traefik/traefik/releases/tag/v3.1.0), 3 days ago) - The Cloud Native Application Proxy
