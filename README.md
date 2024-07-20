@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-stackdriver-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/4732) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-state-metrics] bump to 2.13.0](https://github.com/prometheus-community/helm-charts/pull/4731) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-redis-exporter] bump redis exporter to 1.62](https://github.com/prometheus-community/helm-charts/pull/4730) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat(cluster.tf): add support for setting cgroup mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2001) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
 - [chore: bump rollout operator and grafana agent deps](https://github.com/grafana/loki/pull/13577) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
 - [[tempo-distributed] add ingress with no gateway](https://github.com/grafana/helm-charts/pull/3231) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
@@ -48,9 +51,6 @@
 - [[kube-prometheus-stack] fix rbac for kube-state-metrics when using kube-rbac-proxy](https://github.com/prometheus-community/helm-charts/pull/4722) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-node-exporter] bump node exporter to 1.8.2](https://github.com/prometheus-community/helm-charts/pull/4721) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [feat: bump identity_service_config to ga](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1997) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
-- [feat: add notification event filter](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1996) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
-- [WIP - Sagemaker - support sdk v2](https://github.com/hashicorp/terraform-provider-aws/pull/38364) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
-- [feat: bump kubelet config to ga &#43; minor doc fixes](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1994) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 
 #### 📜 My recent blog posts
 
