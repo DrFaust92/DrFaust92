@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add support for delta lake for big tables](https://github.com/GoogleCloudPlatform/magic-modules/pull/11215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [[prometheus-stackdriver-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/4732) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-state-metrics] bump to 2.13.0](https://github.com/prometheus-community/helm-charts/pull/4731) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-redis-exporter] bump redis exporter to 1.62](https://github.com/prometheus-community/helm-charts/pull/4730) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@
 - [feat: add support for additive_vpc_scope_dns_domain](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1998) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
 - [[kube-prometheus-stack] fix rbac for kube-state-metrics when using kube-rbac-proxy](https://github.com/prometheus-community/helm-charts/pull/4722) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-node-exporter] bump node exporter to 1.8.2](https://github.com/prometheus-community/helm-charts/pull/4721) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [feat: bump identity_service_config to ga](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1997) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
 
 #### 📜 My recent blog posts
 
