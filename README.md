@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.6.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.22.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.6), 2 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.59.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.59.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.12.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.12.0), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
