@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (4 weeks ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 month ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 months ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 months ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.10), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.22.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.6), 2 days ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.59.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.59.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.12.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.12.0), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.3), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.10), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.22.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.6), 3 days ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.59.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.59.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.12.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.12.0), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.3), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0](https://github.com/traefik/traefik/releases/tag/v3.1.0), 1 week ago) - The Cloud Native Application Proxy
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.1.0), 3 weeks ago) - Configures opinionated GKE clusters
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.1), 3 weeks ago) - Progressive Delivery for Kubernetes
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.1), 4 weeks ago) - Progressive Delivery for Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.5](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.5), 1 month ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add support for confidential storage &#43; docs fixes](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2003) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
-- [add support for delta lake for big tables](https://github.com/GoogleCloudPlatform/magic-modules/pull/11215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
-- [[prometheus-stackdriver-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/4732) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[kube-state-metrics] bump to 2.13.0](https://github.com/prometheus-community/helm-charts/pull/4731) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-redis-exporter] bump redis exporter to 1.62](https://github.com/prometheus-community/helm-charts/pull/4730) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [feat(cluster.tf): add support for setting cgroup mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2001) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
-- [chore: bump rollout operator and grafana agent deps](https://github.com/grafana/loki/pull/13577) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
-- [[tempo-distributed] add ingress with no gateway](https://github.com/grafana/helm-charts/pull/3231) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
-- [feat: add support for additive_vpc_scope_dns_domain](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1998) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (6 days ago)
-- [[kube-prometheus-stack] fix rbac for kube-state-metrics when using kube-rbac-proxy](https://github.com/prometheus-community/helm-charts/pull/4722) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [feat: add support for confidential storage &#43; docs fixes](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2003) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
+- [add support for delta lake for big tables](https://github.com/GoogleCloudPlatform/magic-modules/pull/11215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
+- [[prometheus-stackdriver-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/4732) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-state-metrics] bump to 2.13.0](https://github.com/prometheus-community/helm-charts/pull/4731) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-redis-exporter] bump redis exporter to 1.62](https://github.com/prometheus-community/helm-charts/pull/4730) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [feat(cluster.tf): add support for setting cgroup mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2001) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
+- [chore: bump rollout operator and grafana agent deps](https://github.com/grafana/loki/pull/13577) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
+- [[tempo-distributed] add ingress with no gateway](https://github.com/grafana/helm-charts/pull/3231) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (5 days ago)
+- [feat: add support for additive_vpc_scope_dns_domain](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1998) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
+- [[kube-prometheus-stack] fix rbac for kube-state-metrics when using kube-rbac-proxy](https://github.com/prometheus-community/helm-charts/pull/4722) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
