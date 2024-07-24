@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.4.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.4.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.6), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.11), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.6.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.59.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.59.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
