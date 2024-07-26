@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] allow setting annotations for admission webhooks](https://github.com/prometheus-community/helm-charts/pull/4748) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-crds] bump to 0.75.2](https://github.com/prometheus-community/helm-charts/pull/4747) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-admission-webhook] bump to 0.75.2](https://github.com/prometheus-community/helm-charts/pull/4746) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus] bump prom deps](https://github.com/prometheus-community/helm-charts/pull/4745) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -50,7 +51,6 @@
 - [feat: support reservation affinity](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2010) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [feat: add support for confidential storage &#43; docs fixes](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2003) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
 - [add support for delta lake for big tables](https://github.com/GoogleCloudPlatform/magic-modules/pull/11215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
-- [[prometheus-stackdriver-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/4732) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
