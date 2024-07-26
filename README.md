@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support workload_identity_config on autopilot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2011) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
+- [feat: support reservation affinity](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2010) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [feat: add support for confidential storage &#43; docs fixes](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2003) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
 - [add support for delta lake for big tables](https://github.com/GoogleCloudPlatform/magic-modules/pull/11215) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
 - [[prometheus-stackdriver-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/4732) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
@@ -49,8 +51,6 @@
 - [feat(cluster.tf): add support for setting cgroup mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2001) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [chore: bump rollout operator and grafana agent deps](https://github.com/grafana/loki/pull/13577) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [[tempo-distributed] add ingress with no gateway](https://github.com/grafana/helm-charts/pull/3231) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [feat: add support for additive_vpc_scope_dns_domain](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/1998) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [[kube-prometheus-stack] fix rbac for kube-state-metrics when using kube-rbac-proxy](https://github.com/prometheus-community/helm-charts/pull/4722) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
