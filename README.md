@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 month ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.24.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-13.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-13.0.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.60.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.60.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.4](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.4), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.8](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.8), 1 day ago) - 
