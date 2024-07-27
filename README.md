@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [tungbq](https://github.com/tungbq)
 - [jmeisele](https://github.com/jmeisele)
 - [hu8813](https://github.com/hu8813)
 - [UjjwalSilwal](https://github.com/UjjwalSilwal)
 - [combrink](https://github.com/combrink)
-- [hayk96](https://github.com/hayk96)
 
 #### 💬 Feedback
 
