@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.37.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.37.3), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.5.0), 1 day ago) - Prometheus community Helm charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.5), 3 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.3), 3 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.60.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.60.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.11), 5 days ago) - ArgoProj Helm Charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.12.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.12.0), 1 week ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.0](https://github.com/traefik/traefik/releases/tag/v3.1.0), 2 weeks ago) - The Cloud Native Application Proxy
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.1.0), 1 month ago) - Configures opinionated GKE clusters
