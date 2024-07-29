@@ -50,7 +50,7 @@
 - [[prometheus] bump prom deps](https://github.com/prometheus-community/helm-charts/pull/4745) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[kube-prometheus-stack] bump operator to 0.75.2 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4744) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [feat: support enable_nested_virtualization](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2012) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
-- [feat: support workload_identity_config on autopilot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2011) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
+- [feat(TPG&gt;=5.31)!: support workload_identity_config on autopilot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2011) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
 
 #### 📜 My recent blog posts
 
