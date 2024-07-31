@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 month ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.2.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.15.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.15.3), today) - 
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.1](https://github.com/traefik/traefik/releases/tag/v3.1.1), today) - The Cloud Native Application Proxy
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.12), today) - ArgoProj Helm Charts
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.5), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.60.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.60.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.2.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.15.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.15.3), 1 day ago) - 
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.1](https://github.com/traefik/traefik/releases/tag/v3.1.1), 1 day ago) - The Cloud Native Application Proxy
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.12), 1 day ago) - ArgoProj Helm Charts
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.5), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.60.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.60.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.12.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.12.0), 1 week ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.1.0), 1 month ago) - Configures opinionated GKE clusters
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.1), 1 month ago) - Progressive Delivery for Kubernetes
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump kube-state-metrics to 5.25.x](https://github.com/prometheus-community/helm-charts/pull/4754) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-state-metrics] add pod labels for ksm](https://github.com/prometheus-community/helm-charts/pull/4752) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [add support for github app auth](https://github.com/zapier/kubechecks/pull/249) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (4 days ago)
-- [[kube-prometheus-stack] allow setting annotations for admission webhooks](https://github.com/prometheus-community/helm-charts/pull/4748) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-operator-crds] bump to 0.75.2](https://github.com/prometheus-community/helm-charts/pull/4747) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-operator-admission-webhook] bump to 0.75.2](https://github.com/prometheus-community/helm-charts/pull/4746) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus] bump prom deps](https://github.com/prometheus-community/helm-charts/pull/4745) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[kube-prometheus-stack] bump operator to 0.75.2 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4744) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [feat: support enable_nested_virtualization](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2012) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
-- [feat(TPG&gt;=5.31)!: support workload_identity_config on autopilot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2011) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
+- [[kube-prometheus-stack] bump kube-state-metrics to 5.25.x](https://github.com/prometheus-community/helm-charts/pull/4754) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-state-metrics] add pod labels for ksm](https://github.com/prometheus-community/helm-charts/pull/4752) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [add support for github app auth](https://github.com/zapier/kubechecks/pull/249) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (5 days ago)
+- [[kube-prometheus-stack] allow setting annotations for admission webhooks](https://github.com/prometheus-community/helm-charts/pull/4748) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus-operator-crds] bump to 0.75.2](https://github.com/prometheus-community/helm-charts/pull/4747) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus-operator-admission-webhook] bump to 0.75.2](https://github.com/prometheus-community/helm-charts/pull/4746) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus] bump prom deps](https://github.com/prometheus-community/helm-charts/pull/4745) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[kube-prometheus-stack] bump operator to 0.75.2 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4744) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [feat: support enable_nested_virtualization](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2012) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
+- [feat(TPG&gt;=5.31)!: support workload_identity_config on autopilot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2011) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -66,11 +66,11 @@
 
 #### ⭐ Recent Stars
 
-- [SygniaLabs/Cirrus](https://github.com/SygniaLabs/Cirrus) -  (today)
+- [SygniaLabs/Cirrus](https://github.com/SygniaLabs/Cirrus) -  (1 day ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 months ago)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (4 months ago)
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (5 months ago)
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (5 months ago)
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (6 months ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 months ago)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (10 months ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (11 months ago)
