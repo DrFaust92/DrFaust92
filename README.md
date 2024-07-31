@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.25.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.15.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.15.3), 1 day ago) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.1](https://github.com/traefik/traefik/releases/tag/v3.1.1), 1 day ago) - The Cloud Native Application Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.12), 1 day ago) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.5), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
