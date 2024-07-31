@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: enable_confidential_storage fix](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2018) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [[kube-prometheus-stack] bump kube-state-metrics to 5.25.x](https://github.com/prometheus-community/helm-charts/pull/4754) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-state-metrics] add pod labels for ksm](https://github.com/prometheus-community/helm-charts/pull/4752) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [add support for github app auth](https://github.com/zapier/kubechecks/pull/249) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (5 days ago)
@@ -50,7 +51,6 @@
 - [[prometheus] bump prom deps](https://github.com/prometheus-community/helm-charts/pull/4745) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[kube-prometheus-stack] bump operator to 0.75.2 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4744) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [feat: support enable_nested_virtualization](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2012) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
-- [feat(TPG&gt;=5.31)!: support workload_identity_config on autopilot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2011) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
 
 #### 📜 My recent blog posts
 
