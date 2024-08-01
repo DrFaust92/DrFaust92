@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.13), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.6.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.0), 1 day ago) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.1](https://github.com/traefik/traefik/releases/tag/v3.1.1), 2 days ago) - The Cloud Native Application Proxy
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.12), 2 days ago) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.5), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.60.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.60.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.12.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.12.0), 1 week ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
