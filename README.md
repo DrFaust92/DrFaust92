@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.7.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.7.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.15.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.15.4), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.13), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.6.1), today) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.1](https://github.com/traefik/traefik/releases/tag/v3.1.1), 2 days ago) - The Cloud Native Application Proxy
