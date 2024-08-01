@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.7.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.7.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.13), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.6.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.0), 1 day ago) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.1](https://github.com/traefik/traefik/releases/tag/v3.1.1), 2 days ago) - The Cloud Native Application Proxy
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.5), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.60.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.60.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [duyhenryer](https://github.com/duyhenryer)
 - [eust-w](https://github.com/eust-w)
 - [tungbq](https://github.com/tungbq)
 - [jmeisele](https://github.com/jmeisele)
 - [hu8813](https://github.com/hu8813)
-- [UjjwalSilwal](https://github.com/UjjwalSilwal)
 
 #### 💬 Feedback
 
