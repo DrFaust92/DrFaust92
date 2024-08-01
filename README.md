@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 day ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 month ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 month ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.6.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.25.1), 1 day ago) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.1](https://github.com/traefik/traefik/releases/tag/v3.1.1), 2 days ago) - The Cloud Native Application Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.12), 2 days ago) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.7.5](https://github.com/linkerd/linkerd2/releases/tag/edge-24.7.5), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
