@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[tempo-distributed] bump gateway nginx, memcached, and memcached exporter deps](https://github.com/grafana/helm-charts/pull/3258) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [fix: add missing gpu node pool param docs ](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2023) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
 - [feate: add resource_manager_tags](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2022) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
 - [[prometheus-windows-exporter] bump to 0.26.1](https://github.com/prometheus-community/helm-charts/pull/4762) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
@@ -50,7 +51,6 @@
 - [add support for github app auth](https://github.com/zapier/kubechecks/pull/249) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (1 week ago)
 - [[kube-prometheus-stack] allow setting annotations for admission webhooks](https://github.com/prometheus-community/helm-charts/pull/4748) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-operator-crds] bump to 0.75.2](https://github.com/prometheus-community/helm-charts/pull/4747) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-operator-admission-webhook] bump to 0.75.2](https://github.com/prometheus-community/helm-charts/pull/4746) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
