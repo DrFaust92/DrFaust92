@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for structure logs](https://github.com/SeleniumHQ/docker-selenium/pull/2342) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (today)
 - [feat(chart): add support for revisionhistorylimit](https://github.com/SeleniumHQ/docker-selenium/pull/2339) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 day ago)
 - [[tempo-distributed] bump gateway nginx, memcached, and memcached exporter deps](https://github.com/grafana/helm-charts/pull/3258) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
 - [fix: add missing gpu node pool param docs ](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2023) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
@@ -50,7 +51,6 @@
 - [[kube-prometheus-stack] bump kube-state-metrics to 5.25.x](https://github.com/prometheus-community/helm-charts/pull/4754) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-state-metrics] add pod labels for ksm](https://github.com/prometheus-community/helm-charts/pull/4752) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [add support for github app auth](https://github.com/zapier/kubechecks/pull/249) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (1 week ago)
-- [[kube-prometheus-stack] allow setting annotations for admission webhooks](https://github.com/prometheus-community/helm-charts/pull/4748) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
