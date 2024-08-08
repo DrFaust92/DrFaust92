@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.4.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.4.2), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.7.2), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.37.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.37.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.16.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.16.1), today) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.2](https://github.com/traefik/traefik/releases/tag/v3.1.2), 2 days ago) - The Cloud Native Application Proxy
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.4.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.4.1), 2 days ago) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.8.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.8.2), 3 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.61.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.61.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.12.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.12.0), 2 weeks ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
