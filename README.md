@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [gmourahub](https://github.com/gmourahub)
 - [duyhenryer](https://github.com/duyhenryer)
 - [eust-w](https://github.com/eust-w)
 - [tungbq](https://github.com/tungbq)
 - [jmeisele](https://github.com/jmeisele)
-- [hu8813](https://github.com/hu8813)
 
 #### 💬 Feedback
 
