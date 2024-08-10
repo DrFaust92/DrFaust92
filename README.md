@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.8.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.4), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.5.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.62.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.62.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.4.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.4.2), 2 days ago) - ArgoProj Helm Charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.2](https://github.com/traefik/traefik/releases/tag/v3.1.2), 4 days ago) - The Cloud Native Application Proxy
