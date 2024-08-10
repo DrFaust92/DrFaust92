@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] bump prom to 2.54.0](https://github.com/prometheus-community/helm-charts/pull/4782) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] bump prom to 2.54.0](https://github.com/prometheus-community/helm-charts/pull/4781) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat: add support for structure logs](https://github.com/SeleniumHQ/docker-selenium/pull/2342) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (2 days ago)
 - [feat(chart): add support for revisionhistorylimit](https://github.com/SeleniumHQ/docker-selenium/pull/2339) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (3 days ago)
 - [[tempo-distributed] bump gateway nginx, memcached, and memcached exporter deps](https://github.com/grafana/helm-charts/pull/3258) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (6 days ago)
@@ -49,8 +51,6 @@
 - [[prometheus-windows-exporter] bump to 0.26.1](https://github.com/prometheus-community/helm-charts/pull/4762) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [fix: enable_confidential_storage fix](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2018) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [[kube-prometheus-stack] bump kube-state-metrics to 5.25.x](https://github.com/prometheus-community/helm-charts/pull/4754) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-state-metrics] add pod labels for ksm](https://github.com/prometheus-community/helm-charts/pull/4752) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [add support for github app auth](https://github.com/zapier/kubechecks/pull/249) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
