@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v32.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v32.0.0), today) - Configures opinionated GKE clusters
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.2](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.2), today) - Progressive Delivery for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.9.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.34.1](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.34.1), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.10.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.10.3), 1 day ago) - 
@@ -36,8 +38,6 @@
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.2](https://github.com/traefik/traefik/releases/tag/v3.1.2), 1 week ago) - The Cloud Native Application Proxy
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.8.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.8.2), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0), 1 week ago) - Declarative Continuous Deployment for Kubernetes
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.12.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.12.0), 3 weeks ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v31.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v31.1.0), 1 month ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
