@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.11](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.11), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.12](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.12), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.37.5](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.37.5), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v32.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v32.0.0), 1 day ago) - Configures opinionated GKE clusters
