@@ -86,7 +86,7 @@
 - [libermanov](https://github.com/libermanov)
 - [gmourahub](https://github.com/gmourahub)
 - [duyhenryer](https://github.com/duyhenryer)
-- [eust-w](https://github.com/eust-w)
+- [tungbq](https://github.com/tungbq)
 
 #### 💬 Feedback
 
