@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.7](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.7), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.8](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.8), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.42.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.0), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.63.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.63.1), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.34.2](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.34.2), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
