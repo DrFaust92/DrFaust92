@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] update deps](https://github.com/prometheus-community/helm-charts/pull/4797) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-windows-exporter] bump to 0.27.1](https://github.com/prometheus-community/helm-charts/pull/4793) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [fix: remove duplicte enable_secure_boot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2040) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
 - [chore(dex): bump dex to 2.41.1](https://github.com/argoproj/argo-cd/pull/19484) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (1 week ago)
@@ -50,7 +51,6 @@
 - [feat: add support for structure logs](https://github.com/SeleniumHQ/docker-selenium/pull/2342) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
 - [feat(chart): add support for revisionhistorylimit](https://github.com/SeleniumHQ/docker-selenium/pull/2339) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
 - [[tempo-distributed] bump gateway nginx, memcached, and memcached exporter deps](https://github.com/grafana/helm-charts/pull/3258) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
-- [fix: add missing gpu node pool param docs ](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2023) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
