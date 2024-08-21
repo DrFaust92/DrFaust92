@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.2.1), today) - Prometheus community Helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v32.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v32.0.2), today) - Configures opinionated GKE clusters
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.9](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.9), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.34.3](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.34.3), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.42.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.0), 1 day ago) - ArgoProj Helm Charts
