@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.8](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.8), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.42.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.0), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.63.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.63.1), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.34.2](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.34.2), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.1.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.1](https://github.com/argoproj/argo-cd/releases/tag/v2.12.1), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v32.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v32.0.0), 1 week ago) - Configures opinionated GKE clusters
