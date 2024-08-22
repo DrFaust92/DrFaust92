@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.39.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.39.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.7](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.7), today) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.8.21](https://github.com/argoproj/argo-cd/releases/tag/v2.8.21), today) - Declarative Continuous Deployment for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.2.1), 1 day ago) - Prometheus community Helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v32.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v32.0.2), 1 day ago) - Configures opinionated GKE clusters
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.9](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.9), 1 day ago) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.34.3](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.34.3), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.42.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.0), 2 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.63.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.63.1), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
