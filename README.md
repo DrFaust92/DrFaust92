@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.0.1](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.0.1), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.14.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.8](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.8), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.4.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.4.5), 3 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.2](https://github.com/argoproj/argo-cd/releases/tag/v2.12.2), 3 days ago) - Declarative Continuous Deployment for Kubernetes
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v32.0.3](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v32.0.3), 3 days ago) - Configures opinionated GKE clusters
