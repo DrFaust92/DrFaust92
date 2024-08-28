@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.10.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.10.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.4.7), 1 day ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), 1 day ago) - Declarative Continuous Deployment for Kubernetes
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.4.0), 2 days ago) - Prometheus community Helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v32.0.4](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v32.0.4), 2 days ago) - Configures opinionated GKE clusters
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.64.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.64.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
