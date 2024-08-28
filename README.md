@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (2 weeks ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation (2 weeks ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-weekly.305](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.305), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.4.7), today) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), today) - Declarative Continuous Deployment for Kubernetes
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.4.0), 1 day ago) - Prometheus community Helm charts
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v32.0.4](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v32.0.4), 1 day ago) - Configures opinionated GKE clusters
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.64.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.64.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.10.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.10.1), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.4.7), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), 1 day ago) - Declarative Continuous Deployment for Kubernetes
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.4.0), 2 days ago) - Prometheus community Helm charts
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v32.0.4](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v32.0.4), 2 days ago) - Configures opinionated GKE clusters
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.64.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.64.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.7.2](https://github.com/argoproj/argo-rollouts/releases/tag/v1.7.2), 2 weeks ago) - Progressive Delivery for Kubernetes
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.2](https://github.com/traefik/traefik/releases/tag/v3.1.2), 3 weeks ago) - The Cloud Native Application Proxy
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.8.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.8.2), 3 weeks ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-operator-admission-webhook] bump to 0.76.0](https://github.com/prometheus-community/helm-charts/pull/4817) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus] bump deps](https://github.com/prometheus-community/helm-charts/pull/4816) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-windows-exporter] bump to 0.27.2](https://github.com/prometheus-community/helm-charts/pull/4815) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-statsd-exporter] bump to 0.27.1](https://github.com/prometheus-community/helm-charts/pull/4814) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-cloudwatch-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/4813) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prom-label-proxy] bump to 0.11.0](https://github.com/prometheus-community/helm-charts/pull/4812) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [container: bump `additive_vpc_scope_dns_domain` to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/11545) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
-- [container: bump gcsfs to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/11542) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
-- [container - add hugepages config](https://github.com/GoogleCloudPlatform/magic-modules/pull/11541) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
+- [[prometheus-operator-admission-webhook] bump to 0.76.0](https://github.com/prometheus-community/helm-charts/pull/4817) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus] bump deps](https://github.com/prometheus-community/helm-charts/pull/4816) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-windows-exporter] bump to 0.27.2](https://github.com/prometheus-community/helm-charts/pull/4815) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-statsd-exporter] bump to 0.27.1](https://github.com/prometheus-community/helm-charts/pull/4814) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-cloudwatch-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/4813) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prom-label-proxy] bump to 0.11.0](https://github.com/prometheus-community/helm-charts/pull/4812) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [container: bump `additive_vpc_scope_dns_domain` to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/11545) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
+- [container: bump gcsfs to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/11542) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
+- [container - add hugepages config](https://github.com/GoogleCloudPlatform/magic-modules/pull/11541) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
 - [[kube-prometheus-stack] update deps](https://github.com/prometheus-community/helm-charts/pull/4797) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
