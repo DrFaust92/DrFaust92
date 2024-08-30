@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([synthetic-monitoring-agent-0.4.0](https://github.com/grafana/helm-charts/releases/tag/synthetic-monitoring-agent-0.4.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.20](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.20), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.65.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.65.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.8.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.8.3), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.3.1), 1 day ago) - Prometheus community Helm charts
