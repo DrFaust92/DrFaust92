@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.12.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.12.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-weekly.306](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.306), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.5.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.5.2), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.65.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.65.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
