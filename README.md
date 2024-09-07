@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.0), 1 day ago) - 
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.9.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.9.1), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.66.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.66.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
