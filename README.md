@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-weekly.307](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.307), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.23](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.23), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-62.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.6.0), 2 days ago) - Prometheus community Helm charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.9.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.9.1), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
