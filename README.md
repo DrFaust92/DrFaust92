@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.4.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.2), today) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.0), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.24](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.24), today) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.11.8](https://github.com/argoproj/argo-cd/releases/tag/v2.11.8), today) - Declarative Continuous Deployment for Kubernetes
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v33.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v33.0.0), today) - Configures opinionated GKE clusters
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
