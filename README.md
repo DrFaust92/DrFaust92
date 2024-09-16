@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.9](https://github.com/traefik/traefik/releases/tag/v2.11.9), today) - The Cloud Native Application Proxy
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.3](https://github.com/traefik/traefik/releases/tag/v3.1.3), today) - The Cloud Native Application Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.37.7](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.37.7), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc1), today) - Declarative Continuous Deployment for Kubernetes
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
