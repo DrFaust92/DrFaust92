@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v33.0.4](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v33.0.4), today) - Configures opinionated GKE clusters
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.5.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.2), 1 day ago) - 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.7.0), 2 days ago) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.3](https://github.com/traefik/traefik/releases/tag/v3.1.3), 3 days ago) - The Cloud Native Application Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.37.7](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.37.7), 3 days ago) - ArgoProj Helm Charts
