@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.0), today) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc2), today) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.1), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.68.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.4](https://github.com/traefik/traefik/releases/tag/v3.1.4), 1 day ago) - The Cloud Native Application Proxy
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v33.0.4](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v33.0.4), 1 day ago) - Configures opinionated GKE clusters
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.5.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.2), 2 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.7.0), 3 days ago) - Prometheus community Helm charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc1), 4 days ago) - Declarative Continuous Deployment for Kubernetes
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.9.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.9.2), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.0), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
