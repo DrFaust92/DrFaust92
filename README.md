@@ -30,7 +30,7 @@
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.5.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.4), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.11](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.11), 1 day ago) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.36.1](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.36.1), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.2), 2 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc2), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.68.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
