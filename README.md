@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.4](https://github.com/argoproj/argo-cd/releases/tag/v2.12.4), today) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.5), today) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.17](https://github.com/argoproj/argo-cd/releases/tag/v2.10.17), today) - Declarative Continuous Deployment for Kubernetes
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.4), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.8.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.8.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.11](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.11), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.68.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
