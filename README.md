@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.9.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.9.3), today) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.79.4](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.79.4), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.42.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.4), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-63.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-63.1.0), today) - Prometheus community Helm charts
@@ -36,7 +37,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.17](https://github.com/argoproj/argo-cd/releases/tag/v2.10.17), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.4](https://github.com/traefik/traefik/releases/tag/v3.1.4), 1 week ago) - The Cloud Native Application Proxy
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v33.0.4](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v33.0.4), 1 week ago) - Configures opinionated GKE clusters
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.9.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.9.2), 2 weeks ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.0), 2 weeks ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
