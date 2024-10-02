@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-rc.0), today) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.11](https://github.com/traefik/traefik/releases/tag/v2.11.11), today) - The Cloud Native Application Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.2), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.42.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.5), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.5.1), 4 days ago) - Prometheus community Helm charts
