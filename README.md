@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump to 0.77.1](https://github.com/prometheus-community/helm-charts/pull/4889) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-windows-exporter] bump to 0.29.1](https://github.com/prometheus-community/helm-charts/pull/4888) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-pushgateway] bump to 1.10.0](https://github.com/prometheus-community/helm-charts/pull/4887) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-mongodb-exporter] bump to 0.41.1](https://github.com/prometheus-community/helm-charts/pull/4886) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -50,7 +51,6 @@
 - [Metastore: add `deletion_protection`](https://github.com/GoogleCloudPlatform/magic-modules/pull/11731) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
 - [[prometheus-redis-exporter] bump to 1.63.0](https://github.com/prometheus-community/helm-charts/pull/4862) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-mongodb-exporter] bump to 0.41.0](https://github.com/prometheus-community/helm-charts/pull/4861) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-fastly-exporter] bump to 9.0.0](https://github.com/prometheus-community/helm-charts/pull/4860) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
