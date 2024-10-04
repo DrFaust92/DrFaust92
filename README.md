@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.12](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.12), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-weekly.310](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.310), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.70.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.70.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.10.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.10.1), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] support kubelet endpoint slices](https://github.com/prometheus-community/helm-charts/pull/4899) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] bump to 0.77.1](https://github.com/prometheus-community/helm-charts/pull/4889) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prometheus-windows-exporter] bump to 0.29.1](https://github.com/prometheus-community/helm-charts/pull/4888) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prometheus-pushgateway] bump to 1.10.0](https://github.com/prometheus-community/helm-charts/pull/4887) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -50,7 +51,6 @@
 - [feat: support gcp_filestore_csi_driver_config for autopilot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2126) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
 - [Metastore: add `deletion_protection`](https://github.com/GoogleCloudPlatform/magic-modules/pull/11731) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
 - [[prometheus-redis-exporter] bump to 1.63.0](https://github.com/prometheus-community/helm-charts/pull/4862) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-mongodb-exporter] bump to 0.41.0](https://github.com/prometheus-community/helm-charts/pull/4861) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
