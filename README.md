@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.71.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.71.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.36.2](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.36.2), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.6.2), today) - Prometheus community Helm charts
@@ -35,7 +36,6 @@
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v33.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v33.1.0), 1 day ago) - Configures opinionated GKE clusters
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.2.0-rc2), 1 day ago) - The Cloud Native Application Proxy
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc3), 3 days ago) - Declarative Continuous Deployment for Kubernetes
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.70.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.70.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.8), 1 week ago) - ArgoProj Helm Charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.0), 4 weeks ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
