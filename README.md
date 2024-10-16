@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.18.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.18.0), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.72.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.72.1), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.19.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.19.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.10), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.14.0), 3 days ago) - Prometheus community Helm charts
