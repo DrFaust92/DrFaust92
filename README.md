@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [r/sagemaker_domain - refresh missing arguments](https://github.com/hashicorp/terraform-provider-aws/pull/39774) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
 - [[prometheus-operator-admission-webhook] bump to 0.77.1](https://github.com/prometheus-community/helm-charts/pull/4918) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-mongodb-exporter] bump to 0.41.2](https://github.com/prometheus-community/helm-charts/pull/4917) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] support kubelet endpoint slices](https://github.com/prometheus-community/helm-charts/pull/4899) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [[prometheus-mongodb-exporter] bump to 0.41.1](https://github.com/prometheus-community/helm-charts/pull/4886) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-elasticsearch-exporter] bump to 1.8.0](https://github.com/prometheus-community/helm-charts/pull/4885) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-conntrack-stats-exporter] bump to 0.4.20](https://github.com/prometheus-community/helm-charts/pull/4884) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [feat(TPG&gt;=6.5.0)!: support gcp_filestore_csi_driver_config for autopilot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2126) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
