@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.1), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.8](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.8), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.12), 3 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 3 days ago) - Declarative Continuous Deployment for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.4.0), 3 days ago) - Prometheus community Helm charts
