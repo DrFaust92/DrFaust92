@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.20.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.20.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.2), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.12), 4 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 4 days ago) - Declarative Continuous Deployment for Kubernetes
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.10.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.10.3), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
