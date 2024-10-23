@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (4 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (2 months ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.36.4](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.36.4), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.20.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.20.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.2), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.12), 4 days ago) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 4 days ago) - Declarative Continuous Deployment for Kubernetes
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.10.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.10.3), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.72.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.72.1), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v33.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v33.1.0), 1 week ago) - Configures opinionated GKE clusters
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.2.0-rc2), 1 week ago) - The Cloud Native Application Proxy
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.36.4](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.36.4), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.20.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.20.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.2), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.12), 5 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 5 days ago) - Declarative Continuous Deployment for Kubernetes
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.10.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.10.3), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.72.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.72.1), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v33.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v33.1.0), 2 weeks ago) - Configures opinionated GKE clusters
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.2.0-rc2), 2 weeks ago) - The Cloud Native Application Proxy
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.0), 1 month ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
-- [r/glue_connection - add support for `salesforce` connection type](https://github.com/hashicorp/terraform-provider-aws/pull/39809) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
-- [r/sagemaker_app_image and image_version - log errors better](https://github.com/hashicorp/terraform-provider-aws/pull/39808) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
-- [r/sagemaker_hub - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/39807) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
-- [r/sagemaker_feature_group - add support for `feature_definition.collection_config`, `feature_definition.collection_type`, and `throughput_config`](https://github.com/hashicorp/terraform-provider-aws/pull/39805) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
-- [r/sagemaker_space - support app lifecycle management](https://github.com/hashicorp/terraform-provider-aws/pull/39800) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (4 days ago)
-- [r/sagemaker_mlflow_tracking_server - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/39796) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (4 days ago)
-- [r/sagemaker_domain - refresh missing arguments](https://github.com/hashicorp/terraform-provider-aws/pull/39774) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
-- [[prometheus-operator-admission-webhook] bump to 0.77.1](https://github.com/prometheus-community/helm-charts/pull/4918) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[prometheus-mongodb-exporter] bump to 0.41.2](https://github.com/prometheus-community/helm-charts/pull/4917) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [r/glue_connection - add support for `salesforce` connection type](https://github.com/hashicorp/terraform-provider-aws/pull/39809) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (4 days ago)
+- [r/sagemaker_app_image and image_version - log errors better](https://github.com/hashicorp/terraform-provider-aws/pull/39808) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (4 days ago)
+- [r/sagemaker_hub - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/39807) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (4 days ago)
+- [r/sagemaker_feature_group - add support for `feature_definition.collection_config`, `feature_definition.collection_type`, and `throughput_config`](https://github.com/hashicorp/terraform-provider-aws/pull/39805) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (4 days ago)
+- [r/sagemaker_space - support app lifecycle management](https://github.com/hashicorp/terraform-provider-aws/pull/39800) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
+- [r/sagemaker_mlflow_tracking_server - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/39796) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
+- [r/sagemaker_domain - refresh missing arguments](https://github.com/hashicorp/terraform-provider-aws/pull/39774) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
+- [[prometheus-operator-admission-webhook] bump to 0.77.1](https://github.com/prometheus-community/helm-charts/pull/4918) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[prometheus-mongodb-exporter] bump to 0.41.2](https://github.com/prometheus-community/helm-charts/pull/4917) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] support kubelet endpoint slices](https://github.com/prometheus-community/helm-charts/pull/4899) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -72,7 +72,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (7 months ago)
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (8 months ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (8 months ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (8 months ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (9 months ago)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (1 year ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (1 year ago)
 - [opsgenie/terraform-provider-opsgenie](https://github.com/opsgenie/terraform-provider-opsgenie) - Terraform OpsGenie provider (1 year ago)
