@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.5), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.73.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.73.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.36.5](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.36.5), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.4.0), today) - Prometheus community Helm charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.10.4](https://github.com/linkerd/linkerd2/releases/tag/edge-24.10.4), today) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.313](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.313), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.12), 6 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 6 days ago) - Declarative Continuous Deployment for Kubernetes
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v33.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v33.1.0), 2 weeks ago) - Configures opinionated GKE clusters
