@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (5 days ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (6 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.5), today) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.73.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.73.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.36.5](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.36.5), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.4.0), today) - Prometheus community Helm charts
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.10.4](https://github.com/linkerd/linkerd2/releases/tag/edge-24.10.4), today) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.12), 6 days ago) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 6 days ago) - Declarative Continuous Deployment for Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.5), 1 day ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.73.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.73.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.36.5](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.36.5), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.4.0), 1 day ago) - Prometheus community Helm charts
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.10.4](https://github.com/linkerd/linkerd2/releases/tag/edge-24.10.4), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.12), 1 week ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v33.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v33.1.0), 2 weeks ago) - Configures opinionated GKE clusters
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.2.0-rc2), 2 weeks ago) - The Cloud Native Application Proxy
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.0), 1 month ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
-- [r/glue_connection - add support for `salesforce` connection type](https://github.com/hashicorp/terraform-provider-aws/pull/39809) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
-- [r/sagemaker_app_image and image_version - log errors better](https://github.com/hashicorp/terraform-provider-aws/pull/39808) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
-- [r/sagemaker_hub - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/39807) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
-- [r/sagemaker_feature_group - add support for `feature_definition.collection_config`, `feature_definition.collection_type`, and `throughput_config`](https://github.com/hashicorp/terraform-provider-aws/pull/39805) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
-- [r/sagemaker_space - support app lifecycle management](https://github.com/hashicorp/terraform-provider-aws/pull/39800) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
-- [r/sagemaker_mlflow_tracking_server - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/39796) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
+- [r/glue_connection - add support for `salesforce` connection type](https://github.com/hashicorp/terraform-provider-aws/pull/39809) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
+- [r/sagemaker_app_image and image_version - log errors better](https://github.com/hashicorp/terraform-provider-aws/pull/39808) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
+- [r/sagemaker_hub - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/39807) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
+- [r/sagemaker_feature_group - add support for `feature_definition.collection_config`, `feature_definition.collection_type`, and `throughput_config`](https://github.com/hashicorp/terraform-provider-aws/pull/39805) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
+- [r/sagemaker_space - support app lifecycle management](https://github.com/hashicorp/terraform-provider-aws/pull/39800) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
+- [r/sagemaker_mlflow_tracking_server - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/39796) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [r/sagemaker_domain - refresh missing arguments](https://github.com/hashicorp/terraform-provider-aws/pull/39774) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [[prometheus-operator-admission-webhook] bump to 0.77.1](https://github.com/prometheus-community/helm-charts/pull/4918) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-mongodb-exporter] bump to 0.41.2](https://github.com/prometheus-community/helm-charts/pull/4917) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] support kubelet endpoint slices](https://github.com/prometheus-community/helm-charts/pull/4899) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
+- [[kube-prometheus-stack] support kubelet endpoint slices](https://github.com/prometheus-community/helm-charts/pull/4899) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
