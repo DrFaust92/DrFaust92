@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-ipmi-exporter] bump to 1.9.0](https://github.com/prometheus-community/helm-charts/pull/4945) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-pgbouncer-exporter ]bump to 0.10.2](https://github.com/prometheus-community/helm-charts/pull/4944) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-redis-exporter] bump to 1.65.0](https://github.com/prometheus-community/helm-charts/pull/4943) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-statsd-exporter] bump to 0.28.0](https://github.com/prometheus-community/helm-charts/pull/4942) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus] bump to 2.55.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4938) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-sql-exporter] bump to 0.5.8](https://github.com/prometheus-community/helm-charts/pull/4937) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-mongodb-exporter] bump to 0.42.0](https://github.com/prometheus-community/helm-charts/pull/4936) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-windows-exporter] bump to 0.29.2](https://github.com/prometheus-community/helm-charts/pull/4935) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] bump operator to 0.77.2 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4934) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [r/glue_connection - add support for `salesforce` connection type](https://github.com/hashicorp/terraform-provider-aws/pull/39809) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
-- [r/sagemaker_app_image and image_version - log errors better](https://github.com/hashicorp/terraform-provider-aws/pull/39808) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
-- [r/sagemaker_hub - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/39807) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
-- [r/sagemaker_feature_group - add support for `feature_definition.collection_config`, `feature_definition.collection_type`, and `throughput_config`](https://github.com/hashicorp/terraform-provider-aws/pull/39805) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
-- [r/sagemaker_space - support app lifecycle management](https://github.com/hashicorp/terraform-provider-aws/pull/39800) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 
 #### 📜 My recent blog posts
 
