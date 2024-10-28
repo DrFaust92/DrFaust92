@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.0](https://github.com/traefik/traefik/releases/tag/v3.2.0), today) - The Cloud Native Application Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.314](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.314), today) - 
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.1.7](https://github.com/traefik/traefik/releases/tag/v3.1.7), today) - The Cloud Native Application Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.5.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.73.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.73.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
