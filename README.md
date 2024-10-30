@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.13.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.13.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.0](https://github.com/traefik/traefik/releases/tag/v3.2.0), 2 days ago) - The Cloud Native Application Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.314](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.314), 2 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.5.0), 2 days ago) - Prometheus community Helm charts
