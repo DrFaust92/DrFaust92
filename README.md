@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v34.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v34.0.0), today) - Configures opinionated GKE clusters
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.11](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.11), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.2.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.42.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.6), today) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.73.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.73.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.10.4](https://github.com/linkerd/linkerd2/releases/tag/edge-24.10.4), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 1 week ago) - Declarative Continuous Deployment for Kubernetes
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v33.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v33.1.0), 3 weeks ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
