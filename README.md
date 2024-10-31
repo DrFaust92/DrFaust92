@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(TPG&gt;=6.8.0)!: add KCP log params](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2166) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [add missing mongo pmm params](https://github.com/percona/percona-helm-charts/pull/406) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (today)
 - [[prometheus-ipmi-exporter] bump to 1.9.0](https://github.com/prometheus-community/helm-charts/pull/4945) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-pgbouncer-exporter ]bump to 0.10.2](https://github.com/prometheus-community/helm-charts/pull/4944) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
@@ -50,7 +51,6 @@
 - [[prometheus-sql-exporter] bump to 0.5.8](https://github.com/prometheus-community/helm-charts/pull/4937) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus-mongodb-exporter] bump to 0.42.0](https://github.com/prometheus-community/helm-charts/pull/4936) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus-windows-exporter] bump to 0.29.2](https://github.com/prometheus-community/helm-charts/pull/4935) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[kube-prometheus-stack] bump operator to 0.77.2 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/4934) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
