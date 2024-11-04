@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0), today) - Declarative Continuous Deployment for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.15.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.15.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.8.0), 1 day ago) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
@@ -37,7 +38,6 @@
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v34.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v34.0.0), 5 days ago) - Configures opinionated GKE clusters
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.13.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.13.0), 6 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.0](https://github.com/traefik/traefik/releases/tag/v3.2.0), 1 week ago) - The Cloud Native Application Proxy
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 2 weeks ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
