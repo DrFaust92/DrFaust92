@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.21.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.21.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.12.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.12.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.1.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.11.12](https://github.com/argoproj/argo-cd/releases/tag/v2.11.12), 1 day ago) - Declarative Continuous Deployment for Kubernetes
