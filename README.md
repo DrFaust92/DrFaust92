@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.6), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.75.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.75.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.19.0-weekly.227](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.19.0-weekly.227), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.17.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.17.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.11.1](https://github.com/linkerd/linkerd2/releases/tag/edge-24.11.1), today) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.1.0), 1 day ago) - Prometheus community Helm charts
