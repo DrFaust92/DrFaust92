@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.27.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.11.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.11.2), today) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.11.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.11.2), today) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump deps](https://github.com/prometheus-community/helm-charts/pull/4989) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-memcached-exporter] bump to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4988) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-stackdriver-exporter] bump to 0.17.0](https://github.com/prometheus-community/helm-charts/pull/4987) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-admission-webhook] bump to 0.78.1](https://github.com/prometheus-community/helm-charts/pull/4986) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -50,7 +51,6 @@
 - [[kube-state-metrics] bump to 2.14.0](https://github.com/prometheus-community/helm-charts/pull/4982) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-redis-exporter] bump to 1.66](https://github.com/prometheus-community/helm-charts/pull/4962) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [feat(TPG&gt;=6.8.0)!: add KCP log params](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2166) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [K8SPSMDB-1207 - add missing mongo pmm params](https://github.com/percona/percona-helm-charts/pull/406) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
