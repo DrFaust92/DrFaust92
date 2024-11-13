@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.10.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.10.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.10.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.10.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.3), today) - ArgoProj Helm Charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.3.0-rc4](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.3.0-rc4), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.1), 1 day ago) - Prometheus community Helm charts
