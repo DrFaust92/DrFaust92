@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.19.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.19.1), 1 day ago) - 
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.11.3](https://github.com/linkerd/linkerd2/releases/tag/edge-24.11.3), today) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.18.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.18.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.76.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.76.0), today) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.7), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.3), 1 day ago) - ArgoProj Helm Charts
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.3.0-rc4](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.3.0-rc4), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.1), 2 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.75.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.75.1), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 3 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.11.2](https://github.com/linkerd/linkerd2/releases/tag/edge-24.11.2), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.11.12](https://github.com/argoproj/argo-cd/releases/tag/v2.11.12), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v34.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v34.0.0), 2 weeks ago) - Configures opinionated GKE clusters
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.13.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.13.0), 2 weeks ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
