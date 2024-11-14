@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [schwartz-oren](https://github.com/schwartz-oren)
 - [srevinsaju](https://github.com/srevinsaju)
 - [lsc](https://github.com/lsc)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [kalvarahul](https://github.com/kalvarahul)
-- [pogiship](https://github.com/pogiship)
 
 #### 💬 Feedback
 
