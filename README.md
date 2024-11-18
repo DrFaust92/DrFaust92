@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.317](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.317), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.12](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.12), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.1), 2 days ago) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.3.0-rc5](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.3.0-rc5), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
