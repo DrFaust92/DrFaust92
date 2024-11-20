@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.4), today) - ArgoProj Helm Charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.1](https://github.com/traefik/traefik/releases/tag/v3.2.1), today) - The Cloud Native Application Proxy
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.1](https://github.com/argoproj/argo-cd/releases/tag/v2.13.1), today) - Declarative Continuous Deployment for Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.21.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.21.0), today) - 
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.4.6](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.4.6), today) - Check your Kubernetes changes before they hit the cluster
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.11.4](https://github.com/linkerd/linkerd2/releases/tag/edge-24.11.4), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
