@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.22.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.22.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.44.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.44.0), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.2), today) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.1](https://github.com/traefik/traefik/releases/tag/v3.2.1), 1 day ago) - The Cloud Native Application Proxy
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.1](https://github.com/argoproj/argo-cd/releases/tag/v2.13.1), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.4.6](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.4.6), 1 day ago) - Check your Kubernetes changes before they hit the cluster
