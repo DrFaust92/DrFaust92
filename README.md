@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-postgres-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/5018) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus] bump to 3.0.0](https://github.com/prometheus-community/helm-charts/pull/5017) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] bump to 0.78.2](https://github.com/prometheus-community/helm-charts/pull/5016) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] regenerate dashboards and alerts](https://github.com/prometheus-community/helm-charts/pull/4997) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump deps](https://github.com/prometheus-community/helm-charts/pull/4989) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-memcached-exporter] bump to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4988) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
@@ -48,9 +51,6 @@
 - [[prometheus-operator-admission-webhook] bump to 0.78.1](https://github.com/prometheus-community/helm-charts/pull/4986) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-mysql-exporter] bump to 0.16.0 &#43; cloudsql proxy image bump](https://github.com/prometheus-community/helm-charts/pull/4985) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus] bump to 2.55.1](https://github.com/prometheus-community/helm-charts/pull/4984) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-conntrack-stats-exporter] bump to 0.4.21](https://github.com/prometheus-community/helm-charts/pull/4983) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-state-metrics] bump to 2.14.0](https://github.com/prometheus-community/helm-charts/pull/4982) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-redis-exporter] bump to 1.66](https://github.com/prometheus-community/helm-charts/pull/4962) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
