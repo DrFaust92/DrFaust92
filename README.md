@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.6.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.6.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.5.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.5.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.11.7](https://github.com/linkerd/linkerd2/releases/tag/edge-24.11.7), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-db-2.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pg-db-2.5.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
