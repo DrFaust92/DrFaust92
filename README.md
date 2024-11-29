@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [r/apigateway_domain_name - support for private endpoints](https://github.com/hashicorp/terraform-provider-aws/pull/40364) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
 - [[kube-state-metrics] Bump kube-rbac-proxy &#43; CI - WIP](https://github.com/prometheus-community/helm-charts/pull/5023) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [feat(update-variant)!: allow updating disk_type, disk_size_gb, machine_type, enable_gcfs in place](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2195) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
 - [feat: promote additive_vpc_scope_dns_domain to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2194) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
@@ -50,7 +51,6 @@
 - [[kube-prometheus-stack] regenerate dashboards and alerts](https://github.com/prometheus-community/helm-charts/pull/4997) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] bump deps](https://github.com/prometheus-community/helm-charts/pull/4989) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-memcached-exporter] bump to 0.15.0](https://github.com/prometheus-community/helm-charts/pull/4988) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus-stackdriver-exporter] bump to 0.17.0](https://github.com/prometheus-community/helm-charts/pull/4987) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
