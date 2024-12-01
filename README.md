@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.6.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.6.4), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.21.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.21.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.6), 3 days ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.3.0), 4 days ago) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.38.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.38.0), 4 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
