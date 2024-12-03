@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.23.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.23.2), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.6), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.1), 1 day ago) - ArgoProj Helm Charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.14.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.14.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.3.0), 6 days ago) - Prometheus community Helm charts
