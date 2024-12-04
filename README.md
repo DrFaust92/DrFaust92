@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.13), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.38.1](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.38.1), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.10.1](https://github.com/grafana/helm-charts/releases/tag/alloy-0.10.1), 1 day ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.79.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.79.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.1), 2 days ago) - ArgoProj Helm Charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.14.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.14.0), 2 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
