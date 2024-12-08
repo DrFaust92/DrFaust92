@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [OrenSchwartz](https://github.com/OrenSchwartz)
 - [emerconn](https://github.com/emerconn)
 - [schwartz-oren](https://github.com/schwartz-oren)
 - [srevinsaju](https://github.com/srevinsaju)
-- [lsc](https://github.com/lsc)
 
 #### 💬 Feedback
 
