@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0-rc1), today) - Progressive Delivery for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.8), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.7.2), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.14.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.14.0), 1 week ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.11.8](https://github.com/linkerd/linkerd2/releases/tag/edge-24.11.8), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.1](https://github.com/traefik/traefik/releases/tag/v3.2.1), 2 weeks ago) - The Cloud Native Application Proxy
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.1](https://github.com/argoproj/argo-cd/releases/tag/v2.13.1), 2 weeks ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
