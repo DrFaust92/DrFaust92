@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.24.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.24.0), today) - 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0-rc1), today) - Progressive Delivery for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.8), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.7.2), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.9](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.9), 3 days ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc1), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.80.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.80.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.14.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.14.0), 1 week ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
