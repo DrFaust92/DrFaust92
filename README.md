@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[tempo-distributed] Bump rollout operator to 0.21.0](https://github.com/grafana/helm-charts/pull/3471) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [feat: support parallelstore csi driver](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2203) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
 - [r/apigateway_base_path_mapping - add support `domain_name_id`](https://github.com/hashicorp/terraform-provider-aws/pull/40447) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (4 days ago)
 - [r/apigateway_domain_name - support for private endpoints](https://github.com/hashicorp/terraform-provider-aws/pull/40364) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
@@ -50,7 +51,6 @@
 - [[prometheus-postgres-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/5018) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus] bump prometheus to 3.0.0](https://github.com/prometheus-community/helm-charts/pull/5017) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] bump to 0.78.2](https://github.com/prometheus-community/helm-charts/pull/5016) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-prometheus-stack] regenerate dashboards and alerts](https://github.com/prometheus-community/helm-charts/pull/4997) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
