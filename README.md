@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.24.0-weekly.232](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.24.0-weekly.232), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.25.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.25.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.7.1), today) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.2](https://github.com/traefik/traefik/releases/tag/v3.2.2), today) - The Cloud Native Application Proxy
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc1), today) - Collection of Helm charts for Percona Kubernetes Operators.
