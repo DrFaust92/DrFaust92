@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: min_cpu_platform ref in cluster autoscaling](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2208) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [[rollout-operator] allow setting extra args](https://github.com/grafana/helm-charts/pull/3473) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [feat: support total_egress_bandwidth_tier](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2207) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
 - [[tempo-distributed] Bump rollout operator to 0.21.0 and grafana-agent-operator to 0.5.0](https://github.com/grafana/helm-charts/pull/3471) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@
 - [[kube-state-metrics] Bump kube-rbac-proxy &#43; CI - WIP](https://github.com/prometheus-community/helm-charts/pull/5023) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [feat(update-variant)!: allow updating disk_type, disk_size_gb, machine_type, enable_gcfs in place](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2195) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [feat: promote additive_vpc_scope_dns_domain to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2194) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
-- [[prometheus-postgres-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/5018) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
