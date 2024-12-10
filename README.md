@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.15](https://github.com/traefik/traefik/releases/tag/v2.11.15), today) - The Cloud Native Application Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.320](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.320), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.80.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.80.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.14.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.14.0), 1 week ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-24.11.8](https://github.com/linkerd/linkerd2/releases/tag/edge-24.11.8), 2 weeks ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.1](https://github.com/traefik/traefik/releases/tag/v3.2.1), 2 weeks ago) - The Cloud Native Application Proxy
 
 #### 🔨 My recent Pull Requests
 
