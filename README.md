@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.81.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.81.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.7.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.7.0), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.4.0), today) - Prometheus community Helm charts
@@ -36,7 +37,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.8](https://github.com/argoproj/argo-cd/releases/tag/v2.12.8), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.2](https://github.com/traefik/traefik/releases/tag/v3.2.2), 2 days ago) - The Cloud Native Application Proxy
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0-rc1), 3 days ago) - Progressive Delivery for Kubernetes
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.80.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.80.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.14.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.14.0), 1 week ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 
 #### 🔨 My recent Pull Requests
@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [SubbuTechTutorials](https://github.com/SubbuTechTutorials)
 - [XiaomingX](https://github.com/XiaomingX)
 - [OrenSchwartz](https://github.com/OrenSchwartz)
 - [emerconn](https://github.com/emerconn)
 - [schwartz-oren](https://github.com/schwartz-oren)
-- [srevinsaju](https://github.com/srevinsaju)
 
 #### 💬 Feedback
 
