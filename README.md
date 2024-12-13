@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.11.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.11.3), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.5.0), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.9](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.9), today) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.0), 1 day ago) - Configures opinionated GKE clusters
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.81.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.81.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.10), 1 day ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.8](https://github.com/argoproj/argo-cd/releases/tag/v2.12.8), 2 days ago) - Declarative Continuous Deployment for Kubernetes
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.2](https://github.com/traefik/traefik/releases/tag/v3.2.2), 3 days ago) - The Cloud Native Application Proxy
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0-rc1), 4 days ago) - Progressive Delivery for Kubernetes
