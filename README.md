@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] bump to 3.0.1](https://github.com/prometheus-community/helm-charts/pull/5056) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] bump thanos 0.37.2 &#43; deps and refresh dashboards](https://github.com/prometheus-community/helm-charts/pull/5055) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [fix: min_cpu_platform ref in cluster autoscaling](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2208) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
 - [[rollout-operator] allow setting extra args](https://github.com/grafana/helm-charts/pull/3473) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
 - [feat: support total_egress_bandwidth_tier](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2207) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
@@ -49,8 +51,6 @@
 - [r/apigateway_base_path_mapping - add support `domain_name_id`](https://github.com/hashicorp/terraform-provider-aws/pull/40447) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [r/apigateway_domain_name - support for private endpoints](https://github.com/hashicorp/terraform-provider-aws/pull/40364) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (2 weeks ago)
 - [[kube-state-metrics] Bump kube-rbac-proxy &#43; CI - WIP](https://github.com/prometheus-community/helm-charts/pull/5023) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [feat(update-variant)!: allow updating disk_type, disk_size_gb, machine_type, enable_gcfs in place](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2195) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
-- [feat: promote additive_vpc_scope_dns_domain to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2194) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
