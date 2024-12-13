@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.6.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-26.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-26.0.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.1), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.3.21](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.3.21), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.11.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.11.3), today) - ArgoProj Helm Charts
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [r/api_gateway_domain_name_access_association - new resource](https://github.com/hashicorp/terraform-provider-aws/pull/40566) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
 - [[prometheus-nats-exporter] bump to 0.16.0](https://github.com/prometheus-community/helm-charts/pull/5059) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-mongodb-exporter] bump to 0.43.1](https://github.com/prometheus-community/helm-charts/pull/5058) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-conntrack-stats-exporter] bump to 0.4.23](https://github.com/prometheus-community/helm-charts/pull/5057) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -50,7 +51,6 @@
 - [[rollout-operator] allow setting extra args](https://github.com/grafana/helm-charts/pull/3473) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
 - [feat: support total_egress_bandwidth_tier](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2207) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
 - [[tempo-distributed] Bump rollout operator to 0.21.0 and grafana-agent-operator to 0.5.0](https://github.com/grafana/helm-charts/pull/3471) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
-- [feat: support parallelstore csi driver](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2203) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (6 days ago)
 
 #### 📜 My recent blog posts
 
