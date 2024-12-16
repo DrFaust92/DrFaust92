@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.321](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.321), today) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.3](https://github.com/traefik/traefik/releases/tag/v3.2.3), today) - The Cloud Native Application Proxy
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.0.0), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.3.21](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.3.21), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.11.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.11.3), 3 days ago) - ArgoProj Helm Charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.0), 4 days ago) - Configures opinionated GKE clusters
