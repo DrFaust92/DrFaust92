@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.2), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.3), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.18.0), today) - Prometheus community Helm charts
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.0](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.0), today) - Check your Kubernetes changes before they hit the cluster
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0-rc1](https://github.com/traefik/traefik/releases/tag/v3.3.0-rc1), today) - The Cloud Native Application Proxy
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.3.21](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.3.21), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.11.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.11.3), 3 days ago) - ArgoProj Helm Charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.0), 4 days ago) - Configures opinionated GKE clusters
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.81.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.81.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.8](https://github.com/argoproj/argo-cd/releases/tag/v2.12.8), 5 days ago) - Declarative Continuous Deployment for Kubernetes
