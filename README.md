@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.0](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.0), today) - Check your Kubernetes changes before they hit the cluster
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0-rc1](https://github.com/traefik/traefik/releases/tag/v3.3.0-rc1), today) - The Cloud Native Application Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.1.0), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.0), 4 days ago) - Configures opinionated GKE clusters
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.81.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.81.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.8](https://github.com/argoproj/argo-cd/releases/tag/v2.12.8), 5 days ago) - Declarative Continuous Deployment for Kubernetes
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0-rc1), 1 week ago) - Progressive Delivery for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
