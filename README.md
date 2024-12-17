@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-17.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-17.0.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.2.1), today) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc2), today) - Declarative Continuous Deployment for Kubernetes
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.2), 1 day ago) - ArgoProj Helm Charts
