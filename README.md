@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.2](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.2), today) - Check your Kubernetes changes before they hit the cluster
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.1](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.1), today) - Check your Kubernetes changes before they hit the cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.3.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc2), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.2), 2 days ago) - ArgoProj Helm Charts
