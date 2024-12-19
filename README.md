@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.8.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.24.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.24.0), today) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc3), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc2](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc2), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.2](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.2), 1 day ago) - Check your Kubernetes changes before they hit the cluster
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.2), 3 days ago) - ArgoProj Helm Charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0-rc1](https://github.com/traefik/traefik/releases/tag/v3.3.0-rc1), 3 days ago) - The Cloud Native Application Proxy
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.0), 1 week ago) - Configures opinionated GKE clusters
