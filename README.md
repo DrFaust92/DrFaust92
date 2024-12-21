@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add support for hugepages_config &#43; fix setting cgroup_name via &#34;all&#34;&#34;](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2223) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
+- [feat: add support for hugepages_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2223) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [fix: remove fuse csi driver from autopilot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2218) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
 - [Helm: upgrade rollout operator to 0.22.0](https://github.com/grafana/mimir/pull/10241) on [grafana/mimir](https://github.com/grafana/mimir) (5 days ago)
 - [[prometheus-operator-crds] bump to 0.79.0](https://github.com/prometheus-community/helm-charts/pull/5065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
