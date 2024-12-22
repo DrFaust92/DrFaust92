@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.11), 1 day ago) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.1.0](https://github.com/zapier/kubechecks/releases/tag/v2.1.0), 2 days ago) - Check your Kubernetes changes before they hit the cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.28.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.28.0), 2 days ago) - 
