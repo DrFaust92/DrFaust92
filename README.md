@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.12.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.27.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.27.1), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc4](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc4), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.11), 2 days ago) - 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-state-metrics] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prom-label-proxy] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5096) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-node-exporter] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5095) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] regenerate mixins](https://github.com/prometheus-community/helm-charts/pull/5094) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-nginx-exporter] bump to 1.4.0](https://github.com/prometheus-community/helm-charts/pull/5093) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-admission-webhook] bump to 0.79.2](https://github.com/prometheus-community/helm-charts/pull/5092) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-pingmesh-exporter] bump to 1.2.2](https://github.com/prometheus-community/helm-charts/pull/5091) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-smartctl-exporter] bump to 0.13.0](https://github.com/prometheus-community/helm-charts/pull/5089) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat(TPG&gt;=6.14)!: promote enable_fqdn_network_policy to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2225) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
 - [[prometheus-redis-exporter] bump redis 1.67.0](https://github.com/prometheus-community/helm-charts/pull/5084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [fix: node_pools_cgroup_mode var does not correctly handle the &#34;all&#34; map key ](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2224) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
-- [feat: add support for hugepages_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2223) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
-- [fix: remove fuse csi driver from autopilot](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2218) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [Helm: upgrade rollout operator to 0.22.0](https://github.com/grafana/mimir/pull/10241) on [grafana/mimir](https://github.com/grafana/mimir) (1 week ago)
 
 #### 📜 My recent blog posts
 
