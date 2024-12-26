@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.13.0), today) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.38.2](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.38.2), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc4](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc4), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.11), 3 days ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.11), 4 days ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.1.0](https://github.com/zapier/kubechecks/releases/tag/v2.1.0), 5 days ago) - Check your Kubernetes changes before they hit the cluster
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.3.0-rc2), 5 days ago) - The Cloud Native Application Proxy
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.15.1), 6 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.13.0), 1 day ago) - Prometheus community Helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.38.2](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.38.2), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc4](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc4), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.11), 4 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.11), 5 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.1.0](https://github.com/zapier/kubechecks/releases/tag/v2.1.0), 6 days ago) - Check your Kubernetes changes before they hit the cluster
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.3.0-rc2), 6 days ago) - The Cloud Native Application Proxy
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.15.1), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc3), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-state-metrics] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prom-label-proxy] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5096) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-node-exporter] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5095) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack] regenerate mixins](https://github.com/prometheus-community/helm-charts/pull/5094) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-nginx-exporter] bump to 1.4.0](https://github.com/prometheus-community/helm-charts/pull/5093) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-operator-admission-webhook] bump to 0.79.2](https://github.com/prometheus-community/helm-charts/pull/5092) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-pingmesh-exporter] bump to 1.2.2](https://github.com/prometheus-community/helm-charts/pull/5091) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-smartctl-exporter] bump to 0.13.0](https://github.com/prometheus-community/helm-charts/pull/5089) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [feat(TPG&gt;=6.14)!: promote enable_fqdn_network_policy to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2225) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
-- [[prometheus-redis-exporter] bump redis 1.67.0](https://github.com/prometheus-community/helm-charts/pull/5084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[kube-state-metrics] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prom-label-proxy] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5096) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-node-exporter] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5095) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack] regenerate mixins](https://github.com/prometheus-community/helm-charts/pull/5094) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-nginx-exporter] bump to 1.4.0](https://github.com/prometheus-community/helm-charts/pull/5093) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-operator-admission-webhook] bump to 0.79.2](https://github.com/prometheus-community/helm-charts/pull/5092) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-pingmesh-exporter] bump to 1.2.2](https://github.com/prometheus-community/helm-charts/pull/5091) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-smartctl-exporter] bump to 0.13.0](https://github.com/prometheus-community/helm-charts/pull/5089) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [feat(TPG&gt;=6.14)!: promote enable_fqdn_network_policy to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2225) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
+- [[prometheus-redis-exporter] bump redis 1.67.0](https://github.com/prometheus-community/helm-charts/pull/5084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
