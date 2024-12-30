@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.11.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.11.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.14.1), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.12), 3 days ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.16.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.16.1), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.11), 1 week ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
