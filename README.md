@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (1 month ago)
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[thanos/thanos] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5110) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-rabbitmq-exporter] upgrade to 1.0.0](https://github.com/prometheus-community/helm-charts/pull/5100) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-json-exporter] add home link in chart.yaml](https://github.com/prometheus-community/helm-charts/pull/5098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-state-metrics] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -49,8 +51,6 @@
 - [[kube-prometheus-stack] regenerate mixins](https://github.com/prometheus-community/helm-charts/pull/5094) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-nginx-exporter] bump to 1.4.0](https://github.com/prometheus-community/helm-charts/pull/5093) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-operator-admission-webhook] bump to 0.79.2](https://github.com/prometheus-community/helm-charts/pull/5092) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-pingmesh-exporter] bump to 1.2.2](https://github.com/prometheus-community/helm-charts/pull/5091) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-smartctl-exporter] bump to 0.13.0](https://github.com/prometheus-community/helm-charts/pull/5089) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
