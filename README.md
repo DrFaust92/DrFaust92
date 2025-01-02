@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc6](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc6), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.12), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.38.3](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.38.3), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.16.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.323](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.323), 2 days ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc5](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc5), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.1.0](https://github.com/zapier/kubechecks/releases/tag/v2.1.0), 1 week ago) - Check your Kubernetes changes before they hit the cluster
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.3.0-rc2), 1 week ago) - The Cloud Native Application Proxy
