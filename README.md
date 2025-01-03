@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 weeks ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (1 month ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (2 months ago)
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.1), today) - Configures opinionated GKE clusters
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc4](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc4), today) - Declarative Continuous Deployment for Kubernetes
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc6](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc6), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.12), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.38.3](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.38.3), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.16.0), 2 days ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.323](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.323), 2 days ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.1.0](https://github.com/zapier/kubechecks/releases/tag/v2.1.0), 1 week ago) - Check your Kubernetes changes before they hit the cluster
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.3.0-rc2), 1 week ago) - The Cloud Native Application Proxy
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.1), 1 day ago) - Configures opinionated GKE clusters
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc4](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc4), 1 day ago) - Declarative Continuous Deployment for Kubernetes
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc6](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc6), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.12), 1 day ago) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.38.3](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.38.3), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.16.0), 3 days ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.323](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.323), 3 days ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 2 weeks ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.1.0](https://github.com/zapier/kubechecks/releases/tag/v2.1.0), 2 weeks ago) - Check your Kubernetes changes before they hit the cluster
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.3.0-rc2), 2 weeks ago) - The Cloud Native Application Proxy
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5110) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5110) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-rabbitmq-exporter] upgrade to 1.0.0](https://github.com/prometheus-community/helm-charts/pull/5100) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-json-exporter] add home link in chart.yaml](https://github.com/prometheus-community/helm-charts/pull/5098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-state-metrics] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -58,7 +58,7 @@
 - [Managing your software packages in AWS CodeArtifact](https://medium.com/@ilia.lazebnik/managing-your-software-packages-in-aws-codeartifact-12d00053e243?source=rss-cac402f06fa8------2) (4 years ago)
 - [Securing EFS File Systems with Terraform: IAM](https://medium.com/@ilia.lazebnik/securing-efs-file-systems-with-terraform-iam-d2a066c198ab?source=rss-cac402f06fa8------2) (4 years ago)
 - [Attaching an EFS file system to an ECS Task](https://medium.com/@ilia.lazebnik/attaching-an-efs-file-system-to-an-ecs-task-7bd15b76a6ef?source=rss-cac402f06fa8------2) (4 years ago)
-- [Simplifying AWS Private API Gateway VPC Endpoint Association with Terraform](https://medium.com/@ilia.lazebnik/simplifying-aws-private-api-gateway-vpc-endpoint-association-with-terraform-b379a247afbf?source=rss-cac402f06fa8------2) (4 years ago)
+- [Simplifying AWS Private API Gateway VPC Endpoint Association with Terraform](https://medium.com/@ilia.lazebnik/simplifying-aws-private-api-gateway-vpc-endpoint-association-with-terraform-b379a247afbf?source=rss-cac402f06fa8------2) (5 years ago)
 
 #### 🎙️ My recent podcasts
 - [https://youtu.be/UGsZ34RBAjs?si=yJHwGc1pjmaTyK2l](Contributing to the Terraform AWS Provider with Ilia Lazebnik - The IaC Podcast)
