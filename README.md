@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.1), today) - 
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.2), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.1), 1 day ago) - Configures opinionated GKE clusters
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc4](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc4), 1 day ago) - Declarative Continuous Deployment for Kubernetes
