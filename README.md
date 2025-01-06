@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.14.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.14.0), today) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0](https://github.com/traefik/traefik/releases/tag/v3.3.0), today) - The Cloud Native Application Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.324](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.324), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.8.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.11](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.11), 2 days ago) - ArgoProj Helm Charts
