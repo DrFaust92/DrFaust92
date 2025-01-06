@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 days ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (1 month ago)
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.11](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.11), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.17](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.17), 1 day ago) - 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.3), 2 days ago) - Declarative Continuous Deployment for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-26.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-26.1.0), 2 days ago) - Prometheus community Helm charts
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.2), 2 days ago) - 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.1), 3 days ago) - Configures opinionated GKE clusters
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc6](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc6), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.11](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.11), 2 days ago) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.17](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.17), 2 days ago) - 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.3), 3 days ago) - Declarative Continuous Deployment for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-26.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-26.1.0), 3 days ago) - Prometheus community Helm charts
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.2), 3 days ago) - 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.1), 4 days ago) - Configures opinionated GKE clusters
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc6](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc6), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 2 weeks ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.1.0](https://github.com/zapier/kubechecks/releases/tag/v2.1.0), 2 weeks ago) - Check your Kubernetes changes before they hit the cluster
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[prometheus] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5110) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-prometheus-stack] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[prometheus] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5110) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-rabbitmq-exporter] upgrade to 1.0.0](https://github.com/prometheus-community/helm-charts/pull/5100) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-json-exporter] add home link in chart.yaml](https://github.com/prometheus-community/helm-charts/pull/5098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-state-metrics] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
