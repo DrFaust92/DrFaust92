@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.17](https://github.com/traefik/traefik/releases/tag/v2.11.17), today) - The Cloud Native Application Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.324](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.324), today) - 
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.2.4](https://github.com/traefik/traefik/releases/tag/v3.2.4), today) - The Cloud Native Application Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.8.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.11](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.11), 2 days ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.17](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.17), 2 days ago) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.3), 3 days ago) - Declarative Continuous Deployment for Kubernetes
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.2), 3 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.1), 4 days ago) - Configures opinionated GKE clusters
