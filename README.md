@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.14), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.23.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.23.0), 1 day ago) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0](https://github.com/traefik/traefik/releases/tag/v3.3.0), 1 day ago) - The Cloud Native Application Proxy
@@ -36,7 +37,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.3), 4 days ago) - Declarative Continuous Deployment for Kubernetes
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.2), 4 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v35.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v35.0.1), 5 days ago) - Configures opinionated GKE clusters
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0-rc6](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0-rc6), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 2 weeks ago) - The AWS Provider enables Terraform to manage AWS resources.
 
 #### 🔨 My recent Pull Requests
