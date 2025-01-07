@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.14.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.14.1), today) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.18](https://github.com/traefik/traefik/releases/tag/v2.11.18), today) - The Cloud Native Application Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.7.1), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.14), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.23.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.23.0), 1 day ago) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.3), 4 days ago) - Declarative Continuous Deployment for Kubernetes
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.2), 4 days ago) - 
