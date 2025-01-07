@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.11.4](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.11.4), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.14), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.23.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.23.0), 1 day ago) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.0](https://github.com/traefik/traefik/releases/tag/v3.3.0), 1 day ago) - The Cloud Native Application Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.8.0), 1 day ago) - Prometheus community Helm charts
