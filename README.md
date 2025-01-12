@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [r/sagemaker_endpoint_configuration - allow scaling endpoints to zero](https://github.com/hashicorp/terraform-provider-aws/pull/40882) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
 - [[prometheus-snmp-exporter] bump to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/5118) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] regenerate dashboards and rules](https://github.com/prometheus-community/helm-charts/pull/5117) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5111) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [[kube-state-metrics] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prom-label-proxy] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5096) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-node-exporter] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5095) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-prometheus-stack] regenerate mixins](https://github.com/prometheus-community/helm-charts/pull/5094) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
