@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.15.0-alpha.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.15.0-alpha.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.15.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.15.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.325](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.325), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.11.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
