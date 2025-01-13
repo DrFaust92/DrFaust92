@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (2 months ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (2 months ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.1](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.0.0), today) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.15.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.15.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.11.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.13](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.13), 2 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.83.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.83.1), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
