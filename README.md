@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([yet-another-cloudwatch-exporter-0.39.0](https://github.com/prometheus-community/helm-charts/releases/tag/yet-another-cloudwatch-exporter-0.39.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([yet-another-cloudwatch-exporter-0.39.1](https://github.com/prometheus-community/helm-charts/releases/tag/yet-another-cloudwatch-exporter-0.39.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.16), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.19](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.19), 1 day ago) - 
