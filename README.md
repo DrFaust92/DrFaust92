@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-rc.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.39.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.39.2), 1 day ago) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.2](https://github.com/traefik/traefik/releases/tag/v3.3.2), 1 day ago) - The Cloud Native Application Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.16), 1 day ago) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.15.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.15.0), 2 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.83.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.83.1), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc5), 1 week ago) - Declarative Continuous Deployment for Kubernetes
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-windows-exporter] bump to 0.30.0](https://github.com/prometheus-community/helm-charts/pull/5172) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-nginx-exporter] bump to 1.4.1](https://github.com/prometheus-community/helm-charts/pull/5171) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-pushgateway] bump to 1.11.0](https://github.com/prometheus-community/helm-charts/pull/5170) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [r/sagemaker_endpoint_configuration - allow scaling endpoints to zero](https://github.com/hashicorp/terraform-provider-aws/pull/40882) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 days ago)
 - [[prometheus-snmp-exporter] bump to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/5118) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -49,8 +51,6 @@
 - [[prometheus] bump prom to 3.1.0 &#43; deps](https://github.com/prometheus-community/helm-charts/pull/5110) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-rabbitmq-exporter] upgrade to 1.0.0](https://github.com/prometheus-community/helm-charts/pull/5100) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-json-exporter] add home link in chart.yaml](https://github.com/prometheus-community/helm-charts/pull/5098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-state-metrics] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [[prom-label-proxy] bump kube-rbac-proxy to 0.18.2](https://github.com/prometheus-community/helm-charts/pull/5096) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
