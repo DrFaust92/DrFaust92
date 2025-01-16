@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0-rc2](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0-rc2), today) - Progressive Delivery for Kubernetes
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.84.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.84.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.31.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.31.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.39.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.39.3), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.2](https://github.com/traefik/traefik/releases/tag/v3.3.2), 2 days ago) - The Cloud Native Application Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.16), 2 days ago) - ArgoProj Helm Charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.15.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.15.0), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.83.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.83.1), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc5), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.4.0), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.2), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
