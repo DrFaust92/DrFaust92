@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [arslanbekov](https://github.com/arslanbekov)
 - [itsKayWat](https://github.com/itsKayWat)
 - [standardgalactic](https://github.com/standardgalactic)
 - [steblynskyi](https://github.com/steblynskyi)
 - [SubbuTechTutorials](https://github.com/SubbuTechTutorials)
-- [OrenSchwartz](https://github.com/OrenSchwartz)
 
 #### 💬 Feedback
 
