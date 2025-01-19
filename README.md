@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.14.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.38.5](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.38.5), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.18.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.1), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.1.0), 1 day ago) - Prometheus community Helm charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.1.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.1.1), 3 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0-rc2](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0-rc2), 3 days ago) - Progressive Delivery for Kubernetes
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.84.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.84.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
