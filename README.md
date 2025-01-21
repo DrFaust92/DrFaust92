@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.326](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.326), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.15](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.15), today) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.1.1](https://github.com/zapier/kubechecks/releases/tag/v2.1.1), today) - Check your Kubernetes changes before they hit the cluster
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.1.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.1.1), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0-rc2](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0-rc2), 4 days ago) - Progressive Delivery for Kubernetes
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.84.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.84.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.2](https://github.com/traefik/traefik/releases/tag/v3.3.2), 6 days ago) - The Cloud Native Application Proxy
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.16), 6 days ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.2.2), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.326](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.326), 1 day ago) - 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.1.1](https://github.com/zapier/kubechecks/releases/tag/v2.1.1), 1 day ago) - Check your Kubernetes changes before they hit the cluster
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.1.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.1.1), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0-rc2](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0-rc2), 5 days ago) - Progressive Delivery for Kubernetes
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.84.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.84.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.2](https://github.com/traefik/traefik/releases/tag/v3.3.2), 1 week ago) - The Cloud Native Application Proxy
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.16), 1 week ago) - ArgoProj Helm Charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.15.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.15.0), 1 week ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-modbus-exporter] add links to chart.yaml](https://github.com/prometheus-community/helm-charts/pull/5207) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-conntrack-stats-exporter ]bump to 0.4.24](https://github.com/prometheus-community/helm-charts/pull/5206) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack] regenerate mixins](https://github.com/prometheus-community/helm-charts/pull/5205) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack] bump alertmanager to 0.28.0](https://github.com/prometheus-community/helm-charts/pull/5189) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[alertmanager] bump to 0.28.0](https://github.com/prometheus-community/helm-charts/pull/5188) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-windows-exporter] bump to 0.30.0](https://github.com/prometheus-community/helm-charts/pull/5172) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[prometheus-nginx-exporter] bump to 1.4.1](https://github.com/prometheus-community/helm-charts/pull/5171) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[prometheus-pushgateway] bump to 1.11.0](https://github.com/prometheus-community/helm-charts/pull/5170) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus-modbus-exporter] add links to chart.yaml](https://github.com/prometheus-community/helm-charts/pull/5207) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-conntrack-stats-exporter ]bump to 0.4.24](https://github.com/prometheus-community/helm-charts/pull/5206) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack] regenerate mixins](https://github.com/prometheus-community/helm-charts/pull/5205) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack] bump alertmanager to 0.28.0](https://github.com/prometheus-community/helm-charts/pull/5189) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[alertmanager] bump to 0.28.0](https://github.com/prometheus-community/helm-charts/pull/5188) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus-windows-exporter] bump to 0.30.0](https://github.com/prometheus-community/helm-charts/pull/5172) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[prometheus-nginx-exporter] bump to 1.4.1](https://github.com/prometheus-community/helm-charts/pull/5171) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[prometheus-pushgateway] bump to 1.11.0](https://github.com/prometheus-community/helm-charts/pull/5170) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [r/sagemaker_endpoint_configuration - allow scaling endpoints to zero](https://github.com/hashicorp/terraform-provider-aws/pull/40882) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [[prometheus-snmp-exporter] bump to 0.27.0](https://github.com/prometheus-community/helm-charts/pull/5118) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
@@ -72,7 +72,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (10 months ago)
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (11 months ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (11 months ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (11 months ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 year ago)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (1 year ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (1 year ago)
 - [opsgenie/terraform-provider-opsgenie](https://github.com/opsgenie/terraform-provider-opsgenie) - Terraform OpsGenie provider (2 years ago)
