@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.3.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.326](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.326), 1 day ago) - 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.39.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.39.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.5), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-2.0.0), today) - Prometheus community Helm charts
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.1.1](https://github.com/zapier/kubechecks/releases/tag/v2.1.1), 1 day ago) - Check your Kubernetes changes before they hit the cluster
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.1.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.1.1), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0-rc2](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0-rc2), 5 days ago) - Progressive Delivery for Kubernetes
