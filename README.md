@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.19.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.19.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.39.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.39.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-2.0.0), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.84.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.84.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.2](https://github.com/traefik/traefik/releases/tag/v3.3.2), 1 week ago) - The Cloud Native Application Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.16), 1 week ago) - ArgoProj Helm Charts
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.15.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.15.0), 1 week ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 
 #### 🔨 My recent Pull Requests
 
