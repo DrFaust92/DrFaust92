@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.28.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.28.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.1](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.1), today) - 
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.0](https://github.com/zapier/kubechecks/releases/tag/v2.2.0), today) - Check your Kubernetes changes before they hit the cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.0), today) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.19](https://github.com/traefik/traefik/releases/tag/v2.11.19), today) - The Cloud Native Application Proxy
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.21](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.21), 1 day ago) - ArgoProj Helm Charts
