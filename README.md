@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.1](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.1), today) - 
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.0](https://github.com/zapier/kubechecks/releases/tag/v2.2.0), today) - Check your Kubernetes changes before they hit the cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.0), today) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.19](https://github.com/traefik/traefik/releases/tag/v2.11.19), today) - The Cloud Native Application Proxy
