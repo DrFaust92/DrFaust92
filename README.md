@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 weeks ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 weeks ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (2 months ago)
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (2 months ago)
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (3 months ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (4 months ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (5 months ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (5 months ago)
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.22](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.22), today) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc7), today) - Declarative Continuous Deployment for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.28.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.28.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.1](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.1), today) - 
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.0](https://github.com/zapier/kubechecks/releases/tag/v2.2.0), today) - Check your Kubernetes changes before they hit the cluster
-- [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.19](https://github.com/traefik/traefik/releases/tag/v2.11.19), today) - The Cloud Native Application Proxy
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.1), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.1.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.1.2), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.22](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.22), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc7), 1 day ago) - Declarative Continuous Deployment for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.28.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.28.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.1](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.1), 1 day ago) - 
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.0](https://github.com/zapier/kubechecks/releases/tag/v2.2.0), 1 day ago) - Check your Kubernetes changes before they hit the cluster
+- [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.19](https://github.com/traefik/traefik/releases/tag/v2.11.19), 1 day ago) - The Cloud Native Application Proxy
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.1), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.1.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.1.2), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.19.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.19.0), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus] bump to dependencies](https://github.com/prometheus-community/helm-charts/pull/5253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-conntrack-stats-exporter] bump to 0.4.25](https://github.com/prometheus-community/helm-charts/pull/5252) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-sql-exporter] bump to 0.5.9](https://github.com/prometheus-community/helm-charts/pull/5237) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[prometheus] bump to dependencies](https://github.com/prometheus-community/helm-charts/pull/5253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-conntrack-stats-exporter] bump to 0.4.25](https://github.com/prometheus-community/helm-charts/pull/5252) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-sql-exporter] bump to 0.5.9](https://github.com/prometheus-community/helm-charts/pull/5237) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-modbus-exporter] add links to chart.yaml](https://github.com/prometheus-community/helm-charts/pull/5207) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-conntrack-stats-exporter ]bump to 0.4.24](https://github.com/prometheus-community/helm-charts/pull/5206) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] regenerate mixins](https://github.com/prometheus-community/helm-charts/pull/5205) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] bump alertmanager to 0.28.0](https://github.com/prometheus-community/helm-charts/pull/5189) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[alertmanager] bump to 0.28.0](https://github.com/prometheus-community/helm-charts/pull/5188) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[kube-prometheus-stack] bump alertmanager to 0.28.0](https://github.com/prometheus-community/helm-charts/pull/5189) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
+- [[alertmanager] bump to 0.28.0](https://github.com/prometheus-community/helm-charts/pull/5188) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-windows-exporter] bump to 0.30.0](https://github.com/prometheus-community/helm-charts/pull/5172) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-nginx-exporter] bump to 1.4.1](https://github.com/prometheus-community/helm-charts/pull/5171) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (2 days ago)
+- [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (3 days ago)
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (5 months ago)
 - [SygniaLabs/Cirrus](https://github.com/SygniaLabs/Cirrus) -  (6 months ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (9 months ago)
