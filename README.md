@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 weeks ago)
@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.23](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.23), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.3), today) - Prometheus community Helm charts
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0), today) - Progressive Delivery for Kubernetes
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.22](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.22), 1 day ago) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc7), 1 day ago) - Declarative Continuous Deployment for Kubernetes
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.0](https://github.com/zapier/kubechecks/releases/tag/v2.2.0), 1 day ago) - Check your Kubernetes changes before they hit the cluster
-- [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.19](https://github.com/traefik/traefik/releases/tag/v2.11.19), 1 day ago) - The Cloud Native Application Proxy
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.1), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.23](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.23), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.3), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0), 1 day ago) - Progressive Delivery for Kubernetes
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.22](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.22), 2 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc7), 2 days ago) - Declarative Continuous Deployment for Kubernetes
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.0](https://github.com/zapier/kubechecks/releases/tag/v2.2.0), 2 days ago) - Check your Kubernetes changes before they hit the cluster
+- [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.19](https://github.com/traefik/traefik/releases/tag/v2.11.19), 2 days ago) - The Cloud Native Application Proxy
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.1), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus] bump to dependencies](https://github.com/prometheus-community/helm-charts/pull/5253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-conntrack-stats-exporter] bump to 0.4.25](https://github.com/prometheus-community/helm-charts/pull/5252) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-sql-exporter] bump to 0.5.9](https://github.com/prometheus-community/helm-charts/pull/5237) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus] bump to dependencies](https://github.com/prometheus-community/helm-charts/pull/5253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-conntrack-stats-exporter] bump to 0.4.25](https://github.com/prometheus-community/helm-charts/pull/5252) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-sql-exporter] bump to 0.5.9](https://github.com/prometheus-community/helm-charts/pull/5237) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus-modbus-exporter] add links to chart.yaml](https://github.com/prometheus-community/helm-charts/pull/5207) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-conntrack-stats-exporter ]bump to 0.4.24](https://github.com/prometheus-community/helm-charts/pull/5206) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] regenerate mixins](https://github.com/prometheus-community/helm-charts/pull/5205) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (3 days ago)
+- [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (4 days ago)
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (5 months ago)
 - [SygniaLabs/Cirrus](https://github.com/SygniaLabs/Cirrus) -  (6 months ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (9 months ago)
