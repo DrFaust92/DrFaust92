@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.39.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.39.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.23](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.23), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.3), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0), 1 day ago) - Progressive Delivery for Kubernetes
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.22](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.22), 2 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc7), 2 days ago) - Declarative Continuous Deployment for Kubernetes
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.0](https://github.com/zapier/kubechecks/releases/tag/v2.2.0), 2 days ago) - Check your Kubernetes changes before they hit the cluster
 - [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.19](https://github.com/traefik/traefik/releases/tag/v2.11.19), 2 days ago) - The Cloud Native Application Proxy
