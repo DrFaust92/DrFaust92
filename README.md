@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.6), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.4.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.4), today) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.3](https://github.com/traefik/traefik/releases/tag/v3.3.3), today) - The Cloud Native Application Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.39.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.39.0), today) - ArgoProj Helm Charts
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0), 1 day ago) - Progressive Delivery for Kubernetes
