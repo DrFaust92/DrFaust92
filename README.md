@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.328](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.328), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.14.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.14.3), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.3.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.23](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.23), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.39.2](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.39.2), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.14.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.14.2), 1 day ago) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.3](https://github.com/traefik/traefik/releases/tag/v3.3.3), 3 days ago) - The Cloud Native Application Proxy
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0), 4 days ago) - Progressive Delivery for Kubernetes
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
