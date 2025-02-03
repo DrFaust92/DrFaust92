@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.1](https://github.com/argoproj/argo-cd/releases/tag/v2.14.1), today) - Declarative Continuous Deployment for Kubernetes
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.1](https://github.com/zapier/kubechecks/releases/tag/v2.2.1), today) - Check your Kubernetes changes before they hit the cluster
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0), today) - Declarative Continuous Deployment for Kubernetes
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.85.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.85.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.14.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.14.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.3.0), today) - Prometheus community Helm charts
