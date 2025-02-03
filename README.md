@@ -28,6 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.1](https://github.com/zapier/kubechecks/releases/tag/v2.2.1), today) - Check your Kubernetes changes before they hit the cluster
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0), today) - Declarative Continuous Deployment for Kubernetes
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.85.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.85.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.14.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.14.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.3.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.23](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.23), today) - ArgoProj Helm Charts
@@ -35,9 +38,6 @@
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.3](https://github.com/traefik/traefik/releases/tag/v3.3.3), 3 days ago) - The Cloud Native Application Proxy
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.0), 4 days ago) - Progressive Delivery for Kubernetes
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc7), 5 days ago) - Declarative Continuous Deployment for Kubernetes
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.0](https://github.com/zapier/kubechecks/releases/tag/v2.2.0), 5 days ago) - Check your Kubernetes changes before they hit the cluster
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.1), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
