@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.7), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.8), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.4.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.5), 1 day ago) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
