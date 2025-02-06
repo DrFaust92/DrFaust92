@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.1), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-db-2.5.2](https://github.com/percona/percona-helm-charts/releases/tag/pg-db-2.5.2), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.86.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.86.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.0.1), today) - Configures opinionated GKE clusters
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-18.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-18.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.2), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.2](https://github.com/argoproj/argo-cd/releases/tag/v2.14.2), today) - Declarative Continuous Deployment for Kubernetes
