@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.1.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.15.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.1), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-db-2.5.2](https://github.com/percona/percona-helm-charts/releases/tag/pg-db-2.5.2), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.86.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.86.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
