@@ -7,7 +7,7 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 month ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 months ago)
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (2 months ago)
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (3 months ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (3 months ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (4 months ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (6 months ago)
@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.24](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.24), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.2), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.6), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-db-2.5.2](https://github.com/percona/percona-helm-charts/releases/tag/pg-db-2.5.2), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.86.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.86.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.0.1), 4 days ago) - Configures opinionated GKE clusters
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.2](https://github.com/argoproj/argo-cd/releases/tag/v2.14.2), 4 days ago) - Declarative Continuous Deployment for Kubernetes
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.86.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.86.1), today) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.24](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.24), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.2), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.6), 1 day ago) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-db-2.5.2](https://github.com/percona/percona-helm-charts/releases/tag/pg-db-2.5.2), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.0.1), 5 days ago) - Configures opinionated GKE clusters
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.2](https://github.com/argoproj/argo-cd/releases/tag/v2.14.2), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.1](https://github.com/zapier/kubechecks/releases/tag/v2.2.1), 1 week ago) - Check your Kubernetes changes before they hit the cluster
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.3](https://github.com/traefik/traefik/releases/tag/v3.3.3), 1 week ago) - The Cloud Native Application Proxy
 
@@ -70,7 +70,7 @@
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (6 months ago)
 - [SygniaLabs/Cirrus](https://github.com/SygniaLabs/Cirrus) -  (6 months ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (10 months ago)
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (10 months ago)
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (11 months ago)
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (1 year ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 year ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 year ago)
