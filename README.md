@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.16.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.16.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.86.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.86.1), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.24](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.24), 1 day ago) - 
@@ -37,7 +38,6 @@
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.0.1), 5 days ago) - Configures opinionated GKE clusters
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.2](https://github.com/argoproj/argo-cd/releases/tag/v2.14.2), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.1](https://github.com/zapier/kubechecks/releases/tag/v2.2.1), 1 week ago) - Check your Kubernetes changes before they hit the cluster
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.3](https://github.com/traefik/traefik/releases/tag/v3.3.3), 1 week ago) - The Cloud Native Application Proxy
 
 #### 🔨 My recent Pull Requests
 
