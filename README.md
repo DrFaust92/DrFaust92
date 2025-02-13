@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.25](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.25), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.4), 1 day ago) - Prometheus community Helm charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.1), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.26.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.26.0), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.9.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.9.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.0.2), 2 days ago) - Configures opinionated GKE clusters
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.16.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.16.0), 2 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
