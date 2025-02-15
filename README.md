@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.7), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.27.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.27.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.3.0), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.1), 3 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.9.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.9.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.0.2), 4 days ago) - Configures opinionated GKE clusters
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.16.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.16.0), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 
 #### 🔨 My recent Pull Requests
 
