@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [LinuxJS](https://github.com/LinuxJS)
 - [fabiottini](https://github.com/fabiottini)
 - [nholuongut](https://github.com/nholuongut)
 - [arslanbekov](https://github.com/arslanbekov)
 - [itsKayWat](https://github.com/itsKayWat)
-- [standardgalactic](https://github.com/standardgalactic)
 
 #### 💬 Feedback
 
