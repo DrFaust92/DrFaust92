@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-7.0.0), today) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.7), 1 day ago) - ArgoProj Helm Charts
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.2](https://github.com/zapier/kubechecks/releases/tag/v2.2.2), 2 days ago) - Check your Kubernetes changes before they hit the cluster
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.2), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.87.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.87.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.1), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.9.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.9.0), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.0.2), 5 days ago) - Configures opinionated GKE clusters
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.1), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-7.0.0), 1 day ago) - Prometheus community Helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.7), 2 days ago) - ArgoProj Helm Charts
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.2.2](https://github.com/zapier/kubechecks/releases/tag/v2.2.2), 3 days ago) - Check your Kubernetes changes before they hit the cluster
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.2), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.87.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.87.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.1), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.9.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.9.0), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.0.2), 6 days ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (2 weeks ago)
+- [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (3 weeks ago)
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (6 months ago)
 - [SygniaLabs/Cirrus](https://github.com/SygniaLabs/Cirrus) -  (6 months ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (10 months ago)
