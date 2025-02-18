@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.6.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.3.2), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.330](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.330), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.7), 3 days ago) - ArgoProj Helm Charts
