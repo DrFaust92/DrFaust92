@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.3), today) - 
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.4](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.4), today) - Check your Kubernetes changes before they hit the cluster
 - [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.21](https://github.com/traefik/traefik/releases/tag/v2.11.21), today) - The Cloud Native Application Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.12.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.12.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.8), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.40.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.40.0), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.11.1), 2 days ago) - Prometheus community Helm charts
