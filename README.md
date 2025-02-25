@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.6.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.44.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.44.1), today) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.4](https://github.com/traefik/traefik/releases/tag/v3.3.4), today) - The Cloud Native Application Proxy
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.0](https://github.com/zapier/kubechecks/releases/tag/v2.3.0), today) - Check your Kubernetes changes before they hit the cluster
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[alertmanager] bump prometheus-config-reloader to 0.80.1](https://github.com/prometheus-community/helm-charts/pull/5369) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-state-metrics] add missing role grants from upstream](https://github.com/prometheus-community/helm-charts/pull/5357) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-postgres-exporter] bump to v0.17.0](https://github.com/prometheus-community/helm-charts/pull/5356) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-operator-crds] bump to v0.80.1](https://github.com/prometheus-community/helm-charts/pull/5355) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@
 - [[prometheus-ipmi-exporter] bump to v1.10.0](https://github.com/prometheus-community/helm-charts/pull/5351) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-fastly-exporter] bump to v9.0.1](https://github.com/prometheus-community/helm-charts/pull/5350) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[alertmanager-snmp-notifier] bump to v1.6.1](https://github.com/prometheus-community/helm-charts/pull/5349) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus] bump promethues to v3.2.0 &#43; chart deps](https://github.com/prometheus-community/helm-charts/pull/5348) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
