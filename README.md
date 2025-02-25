@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.4](https://github.com/traefik/traefik/releases/tag/v3.3.4), today) - The Cloud Native Application Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.5.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.0](https://github.com/zapier/kubechecks/releases/tag/v2.3.0), today) - Check your Kubernetes changes before they hit the cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.3), 1 day ago) - 
-- [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.21](https://github.com/traefik/traefik/releases/tag/v2.11.21), 1 day ago) - The Cloud Native Application Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.8), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.88.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.88.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.19.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.19.1), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
