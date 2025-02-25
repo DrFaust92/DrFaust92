@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.6.0), today) - Prometheus community Helm charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.4](https://github.com/traefik/traefik/releases/tag/v3.3.4), today) - The Cloud Native Application Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.5.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.0](https://github.com/zapier/kubechecks/releases/tag/v2.3.0), today) - Check your Kubernetes changes before they hit the cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.3), 1 day ago) - 
