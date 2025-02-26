@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.15.1), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-db-2.5.3](https://github.com/percona/percona-helm-charts/releases/tag/pg-db-2.5.3), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.4](https://github.com/traefik/traefik/releases/tag/v3.3.4), 1 day ago) - The Cloud Native Application Proxy
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.0](https://github.com/zapier/kubechecks/releases/tag/v2.3.0), 1 day ago) - Check your Kubernetes changes before they hit the cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.3), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.8), 2 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.88.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.88.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.2), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
