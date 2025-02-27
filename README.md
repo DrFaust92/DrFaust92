@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.3](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.3), today) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.27](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.27), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.5.0), 1 day ago) - Prometheus community Helm charts
@@ -36,7 +37,6 @@
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.0](https://github.com/zapier/kubechecks/releases/tag/v2.3.0), 2 days ago) - Check your Kubernetes changes before they hit the cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.8), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.88.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.88.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.2), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.2), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
