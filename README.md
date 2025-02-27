@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add lables to google_compute_ha_vpn_gateway](https://github.com/terraform-google-modules/terraform-google-vpn/pull/176) on [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) (today)
 - [[alertmanager] bump prometheus-config-reloader to 0.80.1](https://github.com/prometheus-community/helm-charts/pull/5369) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-state-metrics] add missing role grants from upstream](https://github.com/prometheus-community/helm-charts/pull/5357) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[prometheus-postgres-exporter] bump to v0.17.0](https://github.com/prometheus-community/helm-charts/pull/5356) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -50,7 +51,6 @@
 - [[prometheus-kafka-exporter] bump to v1.9.0](https://github.com/prometheus-community/helm-charts/pull/5352) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[prometheus-ipmi-exporter] bump to v1.10.0](https://github.com/prometheus-community/helm-charts/pull/5351) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[prometheus-fastly-exporter] bump to v9.0.1](https://github.com/prometheus-community/helm-charts/pull/5350) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[alertmanager-snmp-notifier] bump to v1.6.1](https://github.com/prometheus-community/helm-charts/pull/5349) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
