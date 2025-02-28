@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update deps](https://github.com/DrFaust92/terraform-provider-airflow/pull/46) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [bump deps](https://github.com/houqp/terraform-provider-airflow/pull/12) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (today)
 - [[prometheus-mysql-exporter] bump to 0.17.2](https://github.com/prometheus-community/helm-charts/pull/5384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-conntrack-stats-exporter] bump to 0.4.26](https://github.com/prometheus-community/helm-charts/pull/5383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-blackbox-exporter] bump to 0.26.0](https://github.com/prometheus-community/helm-charts/pull/5382) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -49,8 +51,6 @@
 - [feat(TPG&gt;= 6.21)!: Add lables to google_compute_ha_vpn_gateway](https://github.com/terraform-google-modules/terraform-google-vpn/pull/176) on [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) (1 day ago)
 - [[alertmanager] bump prometheus-config-reloader to 0.80.1](https://github.com/prometheus-community/helm-charts/pull/5369) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[kube-state-metrics] add missing role grants from upstream](https://github.com/prometheus-community/helm-charts/pull/5357) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-postgres-exporter] bump to v0.17.0](https://github.com/prometheus-community/helm-charts/pull/5356) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-operator-crds] bump to v0.80.1](https://github.com/prometheus-community/helm-charts/pull/5355) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
