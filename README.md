@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.39.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.39.4), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.16](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.16), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.5.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.10.0), today) - Prometheus community Helm charts
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.1](https://github.com/zapier/kubechecks/releases/tag/v2.3.1), today) - Check your Kubernetes changes before they hit the cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.9), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
