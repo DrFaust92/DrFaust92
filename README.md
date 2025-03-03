@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.16](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.16), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.5.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.10.0), today) - Prometheus community Helm charts
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.1](https://github.com/zapier/kubechecks/releases/tag/v2.3.1), today) - Check your Kubernetes changes before they hit the cluster
@@ -36,7 +37,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.3](https://github.com/argoproj/argo-cd/releases/tag/v2.14.3), 3 days ago) - Declarative Continuous Deployment for Kubernetes
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.89.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.89.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.3](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.3), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.27](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.27), 4 days ago) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.4](https://github.com/traefik/traefik/releases/tag/v3.3.4), 6 days ago) - The Cloud Native Application Proxy
 
 #### 🔨 My recent Pull Requests
