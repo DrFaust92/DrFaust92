@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (5 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 month ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 months ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.39.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.39.4), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.16](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.16), today) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.5.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.1](https://github.com/zapier/kubechecks/releases/tag/v2.3.1), today) - Check your Kubernetes changes before they hit the cluster
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.9), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.3](https://github.com/argoproj/argo-cd/releases/tag/v2.14.3), 3 days ago) - Declarative Continuous Deployment for Kubernetes
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.89.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.89.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.3](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.3), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.4](https://github.com/traefik/traefik/releases/tag/v3.3.4), 6 days ago) - The Cloud Native Application Proxy
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.39.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.39.4), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.16](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.16), 1 day ago) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.5.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.1](https://github.com/zapier/kubechecks/releases/tag/v2.3.1), 1 day ago) - Check your Kubernetes changes before they hit the cluster
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.9), 1 day ago) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.3](https://github.com/argoproj/argo-cd/releases/tag/v2.14.3), 4 days ago) - Declarative Continuous Deployment for Kubernetes
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.89.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.89.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.3](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.3), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.4](https://github.com/traefik/traefik/releases/tag/v3.3.4), 1 week ago) - The Cloud Native Application Proxy
 
 #### 🔨 My recent Pull Requests
 
-- [Update deps](https://github.com/DrFaust92/terraform-provider-airflow/pull/46) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
-- [bump deps](https://github.com/houqp/terraform-provider-airflow/pull/12) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (3 days ago)
-- [[prometheus-mysql-exporter] bump to 0.17.2](https://github.com/prometheus-community/helm-charts/pull/5384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-conntrack-stats-exporter] bump to 0.4.26](https://github.com/prometheus-community/helm-charts/pull/5383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-blackbox-exporter] bump to 0.26.0](https://github.com/prometheus-community/helm-charts/pull/5382) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus] bump prom to 3.2.1](https://github.com/prometheus-community/helm-charts/pull/5381) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[kube-prometheus-stack] bump prom to 3.2.1 &#43; windows chart dep](https://github.com/prometheus-community/helm-charts/pull/5380) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [feat(TPG&gt;= 6.21)!: Add lables to google_compute_ha_vpn_gateway](https://github.com/terraform-google-modules/terraform-google-vpn/pull/176) on [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) (4 days ago)
-- [[alertmanager] bump prometheus-config-reloader to 0.80.1](https://github.com/prometheus-community/helm-charts/pull/5369) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [Update deps](https://github.com/DrFaust92/terraform-provider-airflow/pull/46) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (4 days ago)
+- [bump deps](https://github.com/houqp/terraform-provider-airflow/pull/12) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (4 days ago)
+- [[prometheus-mysql-exporter] bump to 0.17.2](https://github.com/prometheus-community/helm-charts/pull/5384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus-conntrack-stats-exporter] bump to 0.4.26](https://github.com/prometheus-community/helm-charts/pull/5383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus-blackbox-exporter] bump to 0.26.0](https://github.com/prometheus-community/helm-charts/pull/5382) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus] bump prom to 3.2.1](https://github.com/prometheus-community/helm-charts/pull/5381) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[kube-prometheus-stack] bump prom to 3.2.1 &#43; windows chart dep](https://github.com/prometheus-community/helm-charts/pull/5380) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [feat(TPG&gt;= 6.21)!: Add lables to google_compute_ha_vpn_gateway](https://github.com/terraform-google-modules/terraform-google-vpn/pull/176) on [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) (5 days ago)
+- [[alertmanager] bump prometheus-config-reloader to 0.80.1](https://github.com/prometheus-community/helm-charts/pull/5369) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-state-metrics] add missing role grants from upstream](https://github.com/prometheus-community/helm-charts/pull/5357) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -74,7 +74,7 @@
 - [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns. (1 year ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 year ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 year ago)
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (1 year ago)
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation (2 years ago)
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
