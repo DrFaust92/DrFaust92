@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.3](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.3), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.40.1](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.40.1), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.0.3), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.8), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.4](https://github.com/argoproj/argo-cd/releases/tag/v2.14.4), 1 day ago) - Declarative Continuous Deployment for Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.332](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.332), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.5.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.5.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.1](https://github.com/zapier/kubechecks/releases/tag/v2.3.1), 2 days ago) - Check your Kubernetes changes before they hit the cluster
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.89.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.89.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
