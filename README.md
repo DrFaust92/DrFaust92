@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.8), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.4](https://github.com/argoproj/argo-cd/releases/tag/v2.14.4), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.332](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.332), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.5.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.5.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.13.0), 1 day ago) - Prometheus community Helm charts
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.3.1](https://github.com/zapier/kubechecks/releases/tag/v2.3.1), 2 days ago) - Check your Kubernetes changes before they hit the cluster
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.89.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.89.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.2.3](https://github.com/linkerd/linkerd2/releases/tag/edge-25.2.3), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.4](https://github.com/traefik/traefik/releases/tag/v3.3.4), 1 week ago) - The Cloud Native Application Proxy
