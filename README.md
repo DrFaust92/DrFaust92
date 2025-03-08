@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.9), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.3), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.0), 1 day ago) - Prometheus community Helm charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.1), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.90.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.90.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.0](https://github.com/zapier/kubechecks/releases/tag/v2.4.0), 2 days ago) - Check your Kubernetes changes before they hit the cluster
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump Alertmanager to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5411) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[alertmanager] bump to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Update deps](https://github.com/DrFaust92/terraform-provider-airflow/pull/46) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [bump deps](https://github.com/houqp/terraform-provider-airflow/pull/12) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 week ago)
 - [[prometheus-mysql-exporter] bump to 0.17.2](https://github.com/prometheus-community/helm-charts/pull/5384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -49,8 +51,6 @@
 - [[prometheus] bump prom to 3.2.1](https://github.com/prometheus-community/helm-charts/pull/5381) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump prom to 3.2.1 &#43; windows chart dep](https://github.com/prometheus-community/helm-charts/pull/5380) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [feat(TPG&gt;= 6.21)!: Add lables to google_compute_ha_vpn_gateway](https://github.com/terraform-google-modules/terraform-google-vpn/pull/176) on [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) (1 week ago)
-- [[alertmanager] bump prometheus-config-reloader to 0.80.1](https://github.com/prometheus-community/helm-charts/pull/5369) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-state-metrics] add missing role grants from upstream](https://github.com/prometheus-community/helm-charts/pull/5357) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
