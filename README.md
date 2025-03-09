@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.15.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.15.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.9), 1 day ago) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.3), 2 days ago) - 
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.1), 3 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.90.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.90.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
