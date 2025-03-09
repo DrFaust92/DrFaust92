@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.1), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.9), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.3), 1 day ago) - 
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.1), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.90.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.90.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.0](https://github.com/zapier/kubechecks/releases/tag/v2.4.0), 2 days ago) - Check your Kubernetes changes before they hit the cluster
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.4](https://github.com/argoproj/argo-cd/releases/tag/v2.14.4), 4 days ago) - Declarative Continuous Deployment for Kubernetes
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.5.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.5.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.1), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.9), 1 day ago) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.3), 2 days ago) - 
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.1), 3 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.90.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.90.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.0](https://github.com/zapier/kubechecks/releases/tag/v2.4.0), 3 days ago) - Check your Kubernetes changes before they hit the cluster
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.4](https://github.com/argoproj/argo-cd/releases/tag/v2.14.4), 5 days ago) - Declarative Continuous Deployment for Kubernetes
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.5.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.5.0), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.4](https://github.com/traefik/traefik/releases/tag/v3.3.4), 1 week ago) - The Cloud Native Application Proxy
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump Alertmanager to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5411) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[alertmanager] bump to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] bump Alertmanager to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5411) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[alertmanager] bump to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Update deps](https://github.com/DrFaust92/terraform-provider-airflow/pull/46) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [bump deps](https://github.com/houqp/terraform-provider-airflow/pull/12) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 week ago)
 - [[prometheus-mysql-exporter] bump to 0.17.2](https://github.com/prometheus-community/helm-charts/pull/5384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
