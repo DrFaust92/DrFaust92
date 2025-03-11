@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.10), today) - ArgoProj Helm Charts
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), today) - Sets up a Cloud VPN gateway
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.5](https://github.com/argoproj/argo-cd/releases/tag/v2.14.5), today) - Declarative Continuous Deployment for Kubernetes
@@ -35,7 +36,6 @@
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.1.0), 1 day ago) - Configures opinionated GKE clusters
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.90.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.90.1), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.2), 2 days ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.9), 3 days ago) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.1), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.0](https://github.com/zapier/kubechecks/releases/tag/v2.4.0), 5 days ago) - Check your Kubernetes changes before they hit the cluster
 
