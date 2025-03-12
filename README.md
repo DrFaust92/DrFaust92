@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 month ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 months ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 months ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (3 months ago)
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.17.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.17.0), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.11](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.11), today) - ArgoProj Helm Charts
-- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), today) - Sets up a Cloud VPN gateway
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.5](https://github.com/argoproj/argo-cd/releases/tag/v2.14.5), today) - Declarative Continuous Deployment for Kubernetes
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.1.0), 1 day ago) - Configures opinionated GKE clusters
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.90.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.90.1), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.2), 2 days ago) - Prometheus community Helm charts
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.1), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.0](https://github.com/zapier/kubechecks/releases/tag/v2.4.0), 5 days ago) - Check your Kubernetes changes before they hit the cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.17.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.17.0), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.11](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.11), 1 day ago) - ArgoProj Helm Charts
+- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), 1 day ago) - Sets up a Cloud VPN gateway
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.5](https://github.com/argoproj/argo-cd/releases/tag/v2.14.5), 1 day ago) - Declarative Continuous Deployment for Kubernetes
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.1.0), 2 days ago) - Configures opinionated GKE clusters
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.90.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.90.1), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.2), 3 days ago) - Prometheus community Helm charts
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.1), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.0](https://github.com/zapier/kubechecks/releases/tag/v2.4.0), 6 days ago) - Check your Kubernetes changes before they hit the cluster
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump Alertmanager to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5411) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[alertmanager] bump to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-prometheus-stack] bump Alertmanager to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5411) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[alertmanager] bump to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [Update deps](https://github.com/DrFaust92/terraform-provider-airflow/pull/46) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [bump deps](https://github.com/houqp/terraform-provider-airflow/pull/12) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 week ago)
 - [[prometheus-mysql-exporter] bump to 0.17.2](https://github.com/prometheus-community/helm-charts/pull/5384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
