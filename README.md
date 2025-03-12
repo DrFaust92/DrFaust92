@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.0), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.17.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.17.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.11](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.11), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.90.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.90.1), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.2), 3 days ago) - Prometheus community Helm charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.1), 6 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.0](https://github.com/zapier/kubechecks/releases/tag/v2.4.0), 6 days ago) - Check your Kubernetes changes before they hit the cluster
 
 #### 🔨 My recent Pull Requests
 
