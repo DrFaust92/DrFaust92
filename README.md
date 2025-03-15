@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.1), today) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.11), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-windows-exporter] bump to 0.30.5](https://github.com/prometheus-community/helm-charts/pull/5422) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-redis-exporter] bump to 1.69](https://github.com/prometheus-community/helm-charts/pull/5421) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-fastly-exporter] bump to 9.1.1](https://github.com/prometheus-community/helm-charts/pull/5420) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] bump Alertmanager to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5411) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[alertmanager] bump to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Update deps](https://github.com/DrFaust92/terraform-provider-airflow/pull/46) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
@@ -48,9 +51,6 @@
 - [[prometheus-mysql-exporter] bump to 0.17.2](https://github.com/prometheus-community/helm-charts/pull/5384) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-conntrack-stats-exporter] bump to 0.4.26](https://github.com/prometheus-community/helm-charts/pull/5383) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prometheus-blackbox-exporter] bump to 0.26.0](https://github.com/prometheus-community/helm-charts/pull/5382) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prometheus] bump prom to 3.2.1](https://github.com/prometheus-community/helm-charts/pull/5381) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-prometheus-stack] bump prom to 3.2.1 &#43; windows chart dep](https://github.com/prometheus-community/helm-charts/pull/5380) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [feat(TPG&gt;= 6.21)!: Add lables to google_compute_ha_vpn_gateway](https://github.com/terraform-google-modules/terraform-google-vpn/pull/176) on [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
