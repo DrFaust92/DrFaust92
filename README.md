@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 months ago)
@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.1), today) - Prometheus community Helm charts
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.11), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.29), 1 day ago) - 
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.2), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.91.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.91.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), 4 days ago) - Sets up a Cloud VPN gateway
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.5](https://github.com/argoproj/argo-cd/releases/tag/v2.14.5), 4 days ago) - Declarative Continuous Deployment for Kubernetes
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.1.0), 5 days ago) - Configures opinionated GKE clusters
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.1), 1 day ago) - Prometheus community Helm charts
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.11), 1 day ago) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.29), 2 days ago) - 
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.2), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.91.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.91.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), 5 days ago) - Sets up a Cloud VPN gateway
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.5](https://github.com/argoproj/argo-cd/releases/tag/v2.14.5), 5 days ago) - Declarative Continuous Deployment for Kubernetes
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.1.0), 6 days ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-windows-exporter] bump to 0.30.5](https://github.com/prometheus-community/helm-charts/pull/5422) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-redis-exporter] bump to 1.69](https://github.com/prometheus-community/helm-charts/pull/5421) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-fastly-exporter] bump to 9.1.1](https://github.com/prometheus-community/helm-charts/pull/5420) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-windows-exporter] bump to 0.30.5](https://github.com/prometheus-community/helm-charts/pull/5422) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-redis-exporter] bump to 1.69](https://github.com/prometheus-community/helm-charts/pull/5421) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-fastly-exporter] bump to 9.1.1](https://github.com/prometheus-community/helm-charts/pull/5420) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] bump Alertmanager to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5411) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[alertmanager] bump to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Update deps](https://github.com/DrFaust92/terraform-provider-airflow/pull/46) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
