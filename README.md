@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-db-1.16.2](https://github.com/percona/percona-helm-charts/releases/tag/pxc-db-1.16.2), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.6.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.6.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.0.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.4), 1 day ago) - 
