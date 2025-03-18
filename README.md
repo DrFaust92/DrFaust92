@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.12), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.6](https://github.com/argoproj/argo-cd/releases/tag/v2.14.6), today) - Declarative Continuous Deployment for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.0](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.27.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.6.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.6.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.11), 3 days ago) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.2), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.91.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.91.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), 1 week ago) - Sets up a Cloud VPN gateway
