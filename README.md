@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.7), today) - Declarative Continuous Deployment for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.19](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.19), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.12), 1 day ago) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.6](https://github.com/argoproj/argo-cd/releases/tag/v2.14.6), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.6.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.6.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
