@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.0.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.334](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.334), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.12), 1 day ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.6](https://github.com/argoproj/argo-cd/releases/tag/v2.14.6), 1 day ago) - Declarative Continuous Deployment for Kubernetes
