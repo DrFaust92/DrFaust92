@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.39.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.39.2), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.6.0), 1 day ago) - Prometheus community Helm charts
@@ -36,7 +37,6 @@
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.3](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.3), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.7), 2 days ago) - Declarative Continuous Deployment for Kubernetes
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), 6 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), 1 week ago) - Sets up a Cloud VPN gateway
 
 #### 🔨 My recent Pull Requests
