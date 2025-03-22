@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.40.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.40.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.30), today) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.39.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.39.2), 1 day ago) - ArgoProj Helm Charts
