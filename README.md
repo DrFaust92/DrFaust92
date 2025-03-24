@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([4.30.0-20250323](https://github.com/SeleniumHQ/docker-selenium/releases/tag/4.30.0-20250323), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.39.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.39.3), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.7.0), 2 days ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.30), 2 days ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.92.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.92.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.1), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
