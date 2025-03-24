@@ -4,7 +4,7 @@
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (3 weeks ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 months ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 months ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 months ago)
@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.39.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.39.3), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.7.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.30), 1 day ago) - 
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.92.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.92.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.1), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.3](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.3), 3 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.7), 4 days ago) - Declarative Continuous Deployment for Kubernetes
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.41.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.41.0), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.39.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.39.3), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.7.0), 2 days ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.30), 2 days ago) - 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.92.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.92.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.1), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.3](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.3), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.7), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), 1 week ago) - Sets up a Cloud VPN gateway
 
 #### 🔨 My recent Pull Requests
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (5 days ago)
+- [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (6 days ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (1 month ago)
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (7 months ago)
 - [SygniaLabs/Mirage](https://github.com/SygniaLabs/Mirage) -  (7 months ago)
