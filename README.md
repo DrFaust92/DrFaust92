@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.21.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.21](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.21), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([4.30.0-20250323](https://github.com/SeleniumHQ/docker-selenium/releases/tag/4.30.0-20250323), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.39.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.39.3), 1 day ago) - ArgoProj Helm Charts
