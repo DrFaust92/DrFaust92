@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-rc.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([4.30.0-20250323](https://github.com/SeleniumHQ/docker-selenium/releases/tag/4.30.0-20250323), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.39.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.39.3), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.7.0), 2 days ago) - Prometheus community Helm charts
