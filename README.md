@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.19.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.19.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.5.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.14), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.0-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.0-beta.1), 1 day ago) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.11](https://github.com/argoproj/argo-cd/releases/tag/v2.12.11), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.92.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.92.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
