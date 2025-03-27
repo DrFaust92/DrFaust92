@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.2), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.29.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.29.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.3.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.14), 2 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.11](https://github.com/argoproj/argo-cd/releases/tag/v2.12.11), 3 days ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), 6 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
