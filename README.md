@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.16), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.5](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.5), today) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0-rc1](https://github.com/traefik/traefik/releases/tag/v3.4.0-rc1), today) - The Cloud Native Application Proxy
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.3](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.3), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.15), 2 days ago) - ArgoProj Helm Charts
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.4](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.4), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.93.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.93.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.2), 4 days ago) - Prometheus community Helm charts
