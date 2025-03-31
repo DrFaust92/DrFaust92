@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.2](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.2), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.3](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.3), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.5](https://github.com/traefik/traefik/releases/tag/v3.3.5), today) - The Cloud Native Application Proxy
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.15), 2 days ago) - ArgoProj Helm Charts
