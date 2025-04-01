@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.4.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.11.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.11.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.39.4](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.39.4), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.4.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.32](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.32), 1 day ago) - 
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0-rc1](https://github.com/traefik/traefik/releases/tag/v3.4.0-rc1), 1 day ago) - The Cloud Native Application Proxy
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.3](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.3), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.3.4](https://github.com/linkerd/linkerd2/releases/tag/edge-25.3.4), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
