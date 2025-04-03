@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.94.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.94.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.11.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.11.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.8.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.22](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.22), today) - ArgoProj Helm Charts
@@ -36,7 +37,6 @@
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.1), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0-rc1](https://github.com/traefik/traefik/releases/tag/v3.4.0-rc1), 3 days ago) - The Cloud Native Application Proxy
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.3](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.3), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.93.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.93.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
