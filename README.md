@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [r/sagemaker_notebook_lifecycle_config - support tags](https://github.com/hashicorp/terraform-provider-aws/pull/42141) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (today)
 - [r/glue_job - add support for source_control_details](https://github.com/hashicorp/terraform-provider-aws/pull/42046) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (5 days ago)
 - [r/sagemaker_domain - use DomainId from API](https://github.com/hashicorp/terraform-provider-aws/pull/41979) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [feat(helm): add support for keda based autoscaling for querier](https://github.com/grafana/loki/pull/16873) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
@@ -50,7 +51,6 @@
 - [[kube-prometheus-stack] bump Alertmanager to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5411) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 weeks ago)
 - [[alertmanager] bump to 0.28.1](https://github.com/prometheus-community/helm-charts/pull/5410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 weeks ago)
 - [Update deps](https://github.com/DrFaust92/terraform-provider-airflow/pull/46) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 month ago)
-- [bump deps](https://github.com/houqp/terraform-provider-airflow/pull/12) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 month ago)
 
 #### 📜 My recent blog posts
 
