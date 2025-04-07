@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-state-metrics] add renovate for kube-state-metrics](https://github.com/prometheus-community/helm-charts/pull/5520) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-mongodb-exporter] add renovate for mongodb](https://github.com/prometheus-community/helm-charts/pull/5518) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-node-exporter] add renovate for node exporter](https://github.com/prometheus-community/helm-charts/pull/5517) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [r/sagemaker_domain - allow removing custom file config](https://github.com/hashicorp/terraform-provider-aws/pull/42144) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (2 days ago)
@@ -50,7 +51,6 @@
 - [r/sagemaker_domain - use DomainId from API](https://github.com/hashicorp/terraform-provider-aws/pull/41979) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 - [feat(helm): add support for keda based autoscaling for querier](https://github.com/grafana/loki/pull/16873) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
 - [[prometheus-windows-exporter] bump to 0.30.5](https://github.com/prometheus-community/helm-charts/pull/5422) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [[prometheus-redis-exporter] bump to 1.69](https://github.com/prometheus-community/helm-charts/pull/5421) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
