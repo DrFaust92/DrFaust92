@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.2), today) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.32.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
@@ -35,7 +36,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.94.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.94.1), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.2.0), 6 days ago) - Configures opinionated GKE clusters
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.9](https://github.com/argoproj/argo-cd/releases/tag/v2.14.9), 1 week ago) - Declarative Continuous Deployment for Kubernetes
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.1](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.1), 1 week ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0-rc1](https://github.com/traefik/traefik/releases/tag/v3.4.0-rc1), 1 week ago) - The Cloud Native Application Proxy
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.3](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.3), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
