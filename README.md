@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.1](https://github.com/zapier/kubechecks/releases/tag/v2.4.1), today) - Check your Kubernetes changes before they hit the cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), today) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.1), today) - 
@@ -37,7 +38,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.15](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.15), 4 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.94.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.94.1), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.2.0), 1 week ago) - Configures opinionated GKE clusters
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.9](https://github.com/argoproj/argo-cd/releases/tag/v2.14.9), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
