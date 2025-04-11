@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.6.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.6.0-rc1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.2), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.32.0), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.15](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.15), 4 days ago) - ArgoProj Helm Charts
