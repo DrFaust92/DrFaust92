@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add local_ssd_encryption_mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2328) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [feat: add storage_pools support](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2326) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
 - [helm: add PDB for patternIngester](https://github.com/grafana/loki/pull/17058) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
 - [feat(TPG&gt;=6.27)!: add support for HPA profile &#43; logs](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2323) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
@@ -50,7 +51,6 @@
 - [r/sagemaker_domain - allow removing custom file config](https://github.com/hashicorp/terraform-provider-aws/pull/42144) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
 - [r/sagemaker_image_version - add args](https://github.com/hashicorp/terraform-provider-aws/pull/42143) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
 - [r/sagemaker_notebook_lifecycle_config - support tags](https://github.com/hashicorp/terraform-provider-aws/pull/42141) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (6 days ago)
-- [r/glue_job - add support for source_control_details](https://github.com/hashicorp/terraform-provider-aws/pull/42046) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 
 #### 📜 My recent blog posts
 
