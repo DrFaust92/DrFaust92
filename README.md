@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [container: allow updating storage_pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/13657) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
+- [container: allow updating accelerators](https://github.com/GoogleCloudPlatform/magic-modules/pull/13656) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [feat: add local_ssd_encryption_mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2328) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
 - [feat: add storage_pools support](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2326) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
 - [helm: add PDB for patternIngester](https://github.com/grafana/loki/pull/17058) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
@@ -49,8 +51,6 @@
 - [[prometheus-mongodb-exporter] add renovate for mongodb](https://github.com/prometheus-community/helm-charts/pull/5518) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus-node-exporter] add renovate for node exporter](https://github.com/prometheus-community/helm-charts/pull/5517) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [r/sagemaker_domain - allow removing custom file config](https://github.com/hashicorp/terraform-provider-aws/pull/42144) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
-- [r/sagemaker_image_version - add args](https://github.com/hashicorp/terraform-provider-aws/pull/42143) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
-- [r/sagemaker_notebook_lifecycle_config - support tags](https://github.com/hashicorp/terraform-provider-aws/pull/42141) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 
 #### 📜 My recent blog posts
 
