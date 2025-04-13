@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [container: allow updating gvnic in place for node_pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/13660) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [container: allow updating confidential_nodes in place for node_pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/13659) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [container: allow updating windows_node_config in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/13658) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [container: allow updating storage_pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/13657) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
@@ -50,7 +51,6 @@
 - [helm: add PDB for patternIngester](https://github.com/grafana/loki/pull/17058) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
 - [feat(TPG&gt;=6.27)!: add support for HPA profile &#43; logs](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2323) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (6 days ago)
 - [[kube-state-metrics] add renovate for kube-state-metrics](https://github.com/prometheus-community/helm-charts/pull/5520) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[prometheus-mongodb-exporter] add renovate for mongodb](https://github.com/prometheus-community/helm-charts/pull/5518) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
