@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.24](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.24), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.2](https://github.com/zapier/kubechecks/releases/tag/v2.4.2), 1 day ago) - Check your Kubernetes changes before they hit the cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), 2 days ago) - Prometheus community Helm charts
@@ -35,7 +36,6 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.1), 2 days ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.6.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.6.0-rc1), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.2), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.15](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.15), 6 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.94.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.94.1), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.2.0), 1 week ago) - Configures opinionated GKE clusters
 
