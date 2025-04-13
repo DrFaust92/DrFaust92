@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [container: allow updating windows_node_config in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/13658) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [container: allow updating storage_pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/13657) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
 - [container: allow updating accelerators](https://github.com/GoogleCloudPlatform/magic-modules/pull/13656) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
 - [feat: add local_ssd_encryption_mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2328) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
@@ -50,7 +51,6 @@
 - [[kube-state-metrics] add renovate for kube-state-metrics](https://github.com/prometheus-community/helm-charts/pull/5520) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[prometheus-mongodb-exporter] add renovate for mongodb](https://github.com/prometheus-community/helm-charts/pull/5518) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-node-exporter] add renovate for node exporter](https://github.com/prometheus-community/helm-charts/pull/5517) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [r/sagemaker_domain - allow removing custom file config](https://github.com/hashicorp/terraform-provider-aws/pull/42144) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
 
 #### 📜 My recent blog posts
 
