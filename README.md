@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.10](https://github.com/argoproj/argo-cd/releases/tag/v2.14.10), today) - Declarative Continuous Deployment for Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.38.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.38.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.42.1](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.42.1), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.17.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.17.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.37.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.37.0), today) - 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.12](https://github.com/argoproj/argo-cd/releases/tag/v2.12.12), today) - Declarative Continuous Deployment for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.24](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.24), 1 day ago) - ArgoProj Helm Charts
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.2](https://github.com/zapier/kubechecks/releases/tag/v2.4.2), 2 days ago) - Check your Kubernetes changes before they hit the cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), 3 days ago) - Prometheus community Helm charts
