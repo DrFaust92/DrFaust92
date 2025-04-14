@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 week ago)
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (1 month ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 months ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.24](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.24), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.2](https://github.com/zapier/kubechecks/releases/tag/v2.4.2), 1 day ago) - Check your Kubernetes changes before they hit the cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), 2 days ago) - Prometheus community Helm charts
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.1), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.1), 2 days ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.6.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.6.0-rc1), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.2), 4 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.24](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.24), 1 day ago) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.4.2](https://github.com/zapier/kubechecks/releases/tag/v2.4.2), 2 days ago) - Check your Kubernetes changes before they hit the cluster
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), 3 days ago) - Prometheus community Helm charts
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.1), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.1), 3 days ago) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.6.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.6.0-rc1), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.2](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.2), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.94.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.94.1), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.2.0), 1 week ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
-- [monitoring: add logCheckFailures to uptime checks](https://github.com/GoogleCloudPlatform/magic-modules/pull/13661) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
-- [container: allow updating gvnic in place for node_pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/13660) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
-- [container: allow updating confidential_nodes in place for node_pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/13659) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
-- [container: allow updating windows_node_config in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/13658) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
-- [container: allow updating storage_pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/13657) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
-- [container: allow updating accelerators](https://github.com/GoogleCloudPlatform/magic-modules/pull/13656) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
-- [feat: add local_ssd_encryption_mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2328) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
-- [feat: add storage_pools support](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2326) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
-- [helm: add PDB for patternIngester](https://github.com/grafana/loki/pull/17058) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
-- [feat(TPG&gt;=6.27)!: add support for HPA profile &#43; logs](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2323) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (6 days ago)
+- [monitoring: add logCheckFailures to uptime checks](https://github.com/GoogleCloudPlatform/magic-modules/pull/13661) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [container: allow updating gvnic in place for node_pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/13660) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [container: allow updating confidential_nodes in place for node_pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/13659) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [container: allow updating windows_node_config in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/13658) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [container: allow updating storage_pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/13657) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
+- [container: allow updating accelerators](https://github.com/GoogleCloudPlatform/magic-modules/pull/13656) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
+- [feat: add local_ssd_encryption_mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2328) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
+- [feat: add storage_pools support](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2326) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
+- [helm: add PDB for patternIngester](https://github.com/grafana/loki/pull/17058) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
+- [feat(TPG&gt;=6.27)!: add support for HPA profile &#43; logs](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2323) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 
 #### 📜 My recent blog posts
 
