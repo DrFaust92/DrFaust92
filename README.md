@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (today)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 week ago)
@@ -10,7 +11,6 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 months ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (5 months ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (5 months ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (6 months ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (8 months ago)
 
 #### 🌱 My latest projects
