@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.15.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.15.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.38.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.38.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.7.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.3.0), 1 day ago) - Configures opinionated GKE clusters
