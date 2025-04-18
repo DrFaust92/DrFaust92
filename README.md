@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [traefik/traefik](https://github.com/traefik/traefik) ([v2.11.24](https://github.com/traefik/traefik/releases/tag/v2.11.24), today) - The Cloud Native Application Proxy
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.6](https://github.com/traefik/traefik/releases/tag/v3.3.6), today) - The Cloud Native Application Proxy
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.95.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.95.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.25](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.25), 1 day ago) - 
