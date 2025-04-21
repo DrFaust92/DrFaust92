@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.38.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.38.2), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.10.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.27](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.27), 1 day ago) - ArgoProj Helm Charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.4.0-rc2), 3 days ago) - The Cloud Native Application Proxy
