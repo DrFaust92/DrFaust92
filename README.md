@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.4](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.4), today) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.38.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.38.2), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
@@ -35,7 +36,6 @@
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.4.0-rc2), 3 days ago) - The Cloud Native Application Proxy
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.95.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.95.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.3.0), 5 days ago) - Configures opinionated GKE clusters
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.3](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.3), 5 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.6.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.6.0), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.10](https://github.com/argoproj/argo-cd/releases/tag/v2.14.10), 6 days ago) - Declarative Continuous Deployment for Kubernetes
 
