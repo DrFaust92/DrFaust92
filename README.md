@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.34](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.34), today) - 
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.4](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.4), 1 day ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.1.1), 1 day ago) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.27](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.27), 2 days ago) - ArgoProj Helm Charts
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.4.0-rc2), 4 days ago) - The Cloud Native Application Proxy
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.95.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.95.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
