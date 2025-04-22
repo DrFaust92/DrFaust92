@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.0-rc4](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0-rc4), today) - Declarative Continuous Deployment for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.18](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.18), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.2](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.2), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.95.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.95.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.3.0), 6 days ago) - Configures opinionated GKE clusters
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.6.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.6.0), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.10](https://github.com/argoproj/argo-cd/releases/tag/v2.14.10), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
