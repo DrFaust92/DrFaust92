@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (5 days ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (6 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 weeks ago)
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (1 month ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 months ago)
@@ -28,23 +28,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.4-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.4-beta.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.1.2), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.28](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.28), 1 day ago) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.0-rc4](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0-rc4), 1 day ago) - Declarative Continuous Deployment for Kubernetes
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.4](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.4), 2 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.4.0-rc2), 5 days ago) - The Cloud Native Application Proxy
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.95.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.95.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.14.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.4-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.4-beta.1), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.28](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.28), 2 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.0-rc4](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0-rc4), 2 days ago) - Declarative Continuous Deployment for Kubernetes
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) ([edge-25.4.4](https://github.com/linkerd/linkerd2/releases/tag/edge-25.4.4), 3 days ago) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0-rc2](https://github.com/traefik/traefik/releases/tag/v3.4.0-rc2), 6 days ago) - The Cloud Native Application Proxy
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.95.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.95.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.3.0), 1 week ago) - Configures opinionated GKE clusters
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.6.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.6.0), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
-- [trigger rollout on cm change](https://github.com/zapier/kubechecks/pull/404) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (2 days ago)
-- [[prometheus-conntrack-stats-exporter] add renovate hint for conntrack-stats-exporter](https://github.com/prometheus-community/helm-charts/pull/5552) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-pushgateway] add renovate hint for prometheus-pushgateway](https://github.com/prometheus-community/helm-charts/pull/5551) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-postgres-exporter] add renovate hint for prometheus-postgres-exporter](https://github.com/prometheus-community/helm-charts/pull/5550) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [trigger rollout on cm change](https://github.com/zapier/kubechecks/pull/404) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (3 days ago)
+- [[prometheus-conntrack-stats-exporter] add renovate hint for conntrack-stats-exporter](https://github.com/prometheus-community/helm-charts/pull/5552) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-pushgateway] add renovate hint for prometheus-pushgateway](https://github.com/prometheus-community/helm-charts/pull/5551) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-postgres-exporter] add renovate hint for prometheus-postgres-exporter](https://github.com/prometheus-community/helm-charts/pull/5550) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [monitoring: add logCheckFailures to uptime checks](https://github.com/GoogleCloudPlatform/magic-modules/pull/13661) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [container: allow updating gvnic in place for node_pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/13660) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [container: allow updating confidential_nodes in place for node_pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/13659) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
