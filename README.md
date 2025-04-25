@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.6.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.5-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.5-beta.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.45.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.45.3), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.96.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.96.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.13.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.13.1), 1 day ago) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.8.28](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.8.28), 3 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.0-rc4](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0-rc4), 3 days ago) - Declarative Continuous Deployment for Kubernetes
