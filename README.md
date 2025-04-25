@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.5-beta.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.5-beta.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.5-beta.3](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.5-beta.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.45.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.45.3), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.96.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.96.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add JOBSET to monitoring_enabled_components](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2336) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [trigger rollout on cm change](https://github.com/zapier/kubechecks/pull/404) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (4 days ago)
 - [[prometheus-conntrack-stats-exporter] add renovate hint for conntrack-stats-exporter](https://github.com/prometheus-community/helm-charts/pull/5552) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-pushgateway] add renovate hint for prometheus-pushgateway](https://github.com/prometheus-community/helm-charts/pull/5551) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
@@ -50,7 +51,6 @@
 - [container: allow updating confidential_nodes in place for node_pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/13659) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [container: allow updating windows_node_config in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/13658) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [container: allow updating storage_pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/13657) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [container: allow updating accelerators](https://github.com/GoogleCloudPlatform/magic-modules/pull/13656) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 
 #### 📜 My recent blog posts
 
