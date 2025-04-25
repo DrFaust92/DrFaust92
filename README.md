@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.8.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.4.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.96.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.96.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.13.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.13.1), 1 day ago) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
