@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feate: add support for disable_l4_lb_firewall_reconciliation](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2338) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
+- [[prometheus-nginx-exporter] add renovate hint to nginx](https://github.com/prometheus-community/helm-charts/pull/5578) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[rometheus-operator-crds] bump operator v0.82](https://github.com/prometheus-community/helm-charts/pull/5577) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] bump operator to v0.82](https://github.com/prometheus-community/helm-charts/pull/5572) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [feat: add more IPV6 support and missing description fields](https://github.com/terraform-google-modules/terraform-google-vpn/pull/187) on [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) (3 days ago)
 - [feat: add new kubelet params](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2337) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
@@ -48,9 +51,6 @@
 - [helm: trigger rollout on cm change](https://github.com/zapier/kubechecks/pull/404) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (1 week ago)
 - [[prometheus-conntrack-stats-exporter] add renovate hint for conntrack-stats-exporter](https://github.com/prometheus-community/helm-charts/pull/5552) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-pushgateway] add renovate hint for prometheus-pushgateway](https://github.com/prometheus-community/helm-charts/pull/5551) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-postgres-exporter] add renovate hint for prometheus-postgres-exporter](https://github.com/prometheus-community/helm-charts/pull/5550) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [monitoring: add logCheckFailures to uptime checks](https://github.com/GoogleCloudPlatform/magic-modules/pull/13661) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
-- [container: allow updating gvnic in place for node_pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/13660) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
