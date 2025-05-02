@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-71.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-71.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.14.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.14.2), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.46.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.46.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.14), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.97.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.97.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
