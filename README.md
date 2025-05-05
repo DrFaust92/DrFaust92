@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([4.32.0-20250505](https://github.com/SeleniumHQ/docker-selenium/releases/tag/4.32.0-20250505), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.339&#43;dev.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.339%2Bdev.1), today) - 
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.3.7](https://github.com/traefik/traefik/releases/tag/v3.3.7), today) - The Cloud Native Application Proxy
+- [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0](https://github.com/traefik/traefik/releases/tag/v3.4.0), today) - The Cloud Native Application Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.339-dev.2](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.339-dev.2), today) - 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.43.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.43.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.0-rc6](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0-rc6), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.2), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.14), 3 days ago) - ArgoProj Helm Charts
