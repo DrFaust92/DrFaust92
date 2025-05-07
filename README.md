@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.39.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.39.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.17.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.13.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.13.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.0.0), 1 day ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.0](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0), 1 day ago) - Declarative Continuous Deployment for Kubernetes
