@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.36](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.36), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.13.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.7](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.7), 1 day ago) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.0.0-beta1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.0.0-beta1), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.0.0), 3 days ago) - ArgoProj Helm Charts
