@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [container: added in_transit_encryption_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/13909) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [Default_branch_deletion](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/229) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (5 days ago)
 - [feat(TPG&gt;=6.28)!: add support for disable_l4_lb_firewall_reconciliation](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2338) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [[prometheus-nginx-exporter] add renovate hint to nginx](https://github.com/prometheus-community/helm-charts/pull/5578) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [feat: add new kubelet params](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2337) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [feat: add JOBSET to monitoring_enabled_components](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2336) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [helm: trigger rollout on cm change](https://github.com/zapier/kubechecks/pull/404) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (2 weeks ago)
-- [[prometheus-conntrack-stats-exporter] add renovate hint for conntrack-stats-exporter](https://github.com/prometheus-community/helm-charts/pull/5552) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
