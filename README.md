@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.7.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.13.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.13.1), 2 days ago) - 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 3 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.0.0-beta1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.0.0-beta1), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.0](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0](https://github.com/traefik/traefik/releases/tag/v3.4.0), 6 days ago) - The Cloud Native Application Proxy
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.5](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.5), 2 weeks ago) - Check your Kubernetes changes before they hit the cluster
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.3.0), 3 weeks ago) - Configures opinionated GKE clusters
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.6.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.6.0), 3 weeks ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.1), 1 month ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), 2 months ago) - Sets up a Cloud VPN gateway
 
 #### 🔨 My recent Pull Requests
 
