@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[grafana] dont create image renderer svc mon if image renderer is not enabled](https://github.com/grafana/helm-charts/pull/3716) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [container: allow updating stack_type in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/14001) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
 - [container: allow updating enable_multi_networking](https://github.com/GoogleCloudPlatform/magic-modules/pull/14000) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
 - [container: bump pod_autoscaling to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/13997) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
@@ -50,7 +51,6 @@
 - [Default_branch_deletion](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/229) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [feat(TPG&gt;=6.28)!: add support for disable_l4_lb_firewall_reconciliation](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2338) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [[prometheus-nginx-exporter] add renovate hint to nginx](https://github.com/prometheus-community/helm-charts/pull/5578) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[rometheus-operator-crds] bump operator v0.82](https://github.com/prometheus-community/helm-charts/pull/5577) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
