@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.19.0), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.4](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.4), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.2](https://github.com/argoproj/argo-cd/releases/tag/v3.0.2), today) - Declarative Continuous Deployment for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.5.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.4), 3 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.98.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.98.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
