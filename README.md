@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.20.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.20.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.19.0), today) - Prometheus community Helm charts
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.4](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.4), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.2](https://github.com/argoproj/argo-cd/releases/tag/v3.0.2), today) - Declarative Continuous Deployment for Kubernetes
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.4), 3 days ago) - 
