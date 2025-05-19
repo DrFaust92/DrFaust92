@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-redis-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5655) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-snmp-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5654) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-nats-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5653) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[grafana] dont create image renderer svc mon if image renderer is not enabled](https://github.com/grafana/helm-charts/pull/3716) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
 - [container: allow updating stack_type in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/14001) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
 - [container: allow updating enable_multi_networking](https://github.com/GoogleCloudPlatform/magic-modules/pull/14000) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
@@ -48,9 +51,6 @@
 - [container: add docs for user_managed_keys_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/13996) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
 - [container: add rbac config binding](https://github.com/GoogleCloudPlatform/magic-modules/pull/13987) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
 - [container: added in_transit_encryption_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/13909) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [Default_branch_deletion](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/229) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 weeks ago)
-- [feat(TPG&gt;=6.28)!: add support for disable_l4_lb_firewall_reconciliation](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2338) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
-- [[prometheus-nginx-exporter] add renovate hint to nginx](https://github.com/prometheus-community/helm-charts/pull/5578) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
