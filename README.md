@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.5.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.8](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.8), today) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.12](https://github.com/argoproj/argo-cd/releases/tag/v2.14.12), today) - Declarative Continuous Deployment for Kubernetes
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.7.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.7.0-rc1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.3.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.98.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.98.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0](https://github.com/traefik/traefik/releases/tag/v3.4.0), 2 weeks ago) - The Cloud Native Application Proxy
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.5](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.5), 3 weeks ago) - Check your Kubernetes changes before they hit the cluster
