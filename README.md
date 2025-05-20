@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [hitman0290](https://github.com/hitman0290)
 - [rlvdx](https://github.com/rlvdx)
 - [LinuxJS](https://github.com/LinuxJS)
 - [fabiottini](https://github.com/fabiottini)
 - [nholuongut](https://github.com/nholuongut)
-- [arslanbekov](https://github.com/arslanbekov)
 
 #### 💬 Feedback
 
