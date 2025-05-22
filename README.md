@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (3 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 month ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.30.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.30.0), today) - 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.3](https://github.com/argoproj/argo-cd/releases/tag/v3.0.3), today) - Declarative Continuous Deployment for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.5.3), today) - Prometheus community Helm charts
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.7.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.7.0-rc1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.98.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.98.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.30.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.30.0), 1 day ago) - 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.3](https://github.com/argoproj/argo-cd/releases/tag/v3.0.3), 1 day ago) - Declarative Continuous Deployment for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.5.3), 1 day ago) - Prometheus community Helm charts
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.7.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.7.0-rc1), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.98.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.98.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.0](https://github.com/traefik/traefik/releases/tag/v3.4.0), 2 weeks ago) - The Cloud Native Application Proxy
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.5](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.5), 3 weeks ago) - Check your Kubernetes changes before they hit the cluster
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.3.0), 1 month ago) - Configures opinionated GKE clusters
@@ -41,15 +41,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-redis-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5655) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-snmp-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5654) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[prometheus-nats-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5653) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[grafana] dont create image renderer svc mon if image renderer is not enabled](https://github.com/grafana/helm-charts/pull/3716) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
-- [container: allow updating stack_type in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/14001) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
-- [container: allow updating enable_multi_networking](https://github.com/GoogleCloudPlatform/magic-modules/pull/14000) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
-- [container: bump pod_autoscaling to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/13997) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
-- [container: add docs for user_managed_keys_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/13996) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
-- [container: add rbac config binding](https://github.com/GoogleCloudPlatform/magic-modules/pull/13987) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
+- [[prometheus-redis-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5655) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-snmp-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5654) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[prometheus-nats-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5653) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[grafana] dont create image renderer svc mon if image renderer is not enabled](https://github.com/grafana/helm-charts/pull/3716) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
+- [container: allow updating stack_type in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/14001) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
+- [container: allow updating enable_multi_networking](https://github.com/GoogleCloudPlatform/magic-modules/pull/14000) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (6 days ago)
+- [container: bump pod_autoscaling to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/13997) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (6 days ago)
+- [container: add docs for user_managed_keys_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/13996) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (6 days ago)
+- [container: add rbac config binding](https://github.com/GoogleCloudPlatform/magic-modules/pull/13987) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (6 days ago)
 - [container: added in_transit_encryption_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/13909) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 
 #### 📜 My recent blog posts
