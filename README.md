@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [container: allow updating user_managed_keys_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/14082) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
+- [[prom-label-proxy] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5675) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-redis-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5655) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-snmp-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5654) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-nats-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5653) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
@@ -49,8 +51,6 @@
 - [container: allow updating enable_multi_networking](https://github.com/GoogleCloudPlatform/magic-modules/pull/14000) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [container: bump pod_autoscaling to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/13997) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [container: add docs for user_managed_keys_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/13996) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [container: add rbac config binding](https://github.com/GoogleCloudPlatform/magic-modules/pull/13987) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [container: added in_transit_encryption_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/13909) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 
 #### 📜 My recent blog posts
 
