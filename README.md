@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [container: bump flex_start to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/14094) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [container: allow updating user_managed_keys_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/14082) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
 - [[prom-label-proxy] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5675) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-redis-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5655) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
@@ -50,7 +51,6 @@
 - [container: allow updating stack_type in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/14001) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [container: allow updating enable_multi_networking](https://github.com/GoogleCloudPlatform/magic-modules/pull/14000) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [container: bump pod_autoscaling to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/13997) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [container: add docs for user_managed_keys_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/13996) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 
 #### 📜 My recent blog posts
 
