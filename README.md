@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] drop support for deprecated ingress version](https://github.com/prometheus-community/helm-charts/pull/5684) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-fastly-exporter] add renovate](https://github.com/prometheus-community/helm-charts/pull/5683) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-memcached-exporter] add renovate](https://github.com/prometheus-community/helm-charts/pull/5682) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [container: add support for network_performance_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/14095) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
 - [container: bump flex_start to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/14094) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 days ago)
 - [container: allow updating user_managed_keys_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/14082) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
@@ -48,9 +51,6 @@
 - [[prometheus-redis-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5655) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-snmp-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5654) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-nats-exporter] add renovate config](https://github.com/prometheus-community/helm-charts/pull/5653) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[grafana] dont create image renderer svc mon if image renderer is not enabled](https://github.com/grafana/helm-charts/pull/3716) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [container: allow updating stack_type in place](https://github.com/GoogleCloudPlatform/magic-modules/pull/14001) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [container: allow updating enable_multi_networking](https://github.com/GoogleCloudPlatform/magic-modules/pull/14000) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 
 #### 📜 My recent blog posts
 
