@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.1), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.40.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.40.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.33.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.33.2), 1 day ago) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.44.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.44.0), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.0.0-beta2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.0.0-beta2), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
