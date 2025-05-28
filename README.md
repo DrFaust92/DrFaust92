@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.7.0-rc2](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.7.0-rc2), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.30.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.30.1), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-db-1.17.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-db-1.17.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.1](https://github.com/traefik/traefik/releases/tag/v3.4.1), 1 day ago) - The Cloud Native Application Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.33.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.33.2), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.0.0-beta2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.0.0-beta2), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
