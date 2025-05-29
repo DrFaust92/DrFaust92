@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.17.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.17.0), today) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.4](https://github.com/argoproj/argo-cd/releases/tag/v3.0.4), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.7.0-rc2](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.7.0-rc2), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.30.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.30.1), 1 day ago) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.1](https://github.com/traefik/traefik/releases/tag/v3.4.1), 2 days ago) - The Cloud Native Application Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.33.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.33.2), 3 days ago) - Prometheus community Helm charts
