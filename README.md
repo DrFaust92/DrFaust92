@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.7.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.7.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.9.1](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.9.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.6.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.6.4), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.17.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.17.0), today) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.4](https://github.com/argoproj/argo-cd/releases/tag/v3.0.4), 1 day ago) - Declarative Continuous Deployment for Kubernetes
