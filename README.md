@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-20.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-20.0.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.9.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.99.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.99.1), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.5](https://github.com/argoproj/argo-cd/releases/tag/v3.0.5), 2 days ago) - Declarative Continuous Deployment for Kubernetes
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.9.1](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.9.1), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
