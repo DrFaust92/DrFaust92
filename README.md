@@ -41,7 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] remove support for deprecated ingress version](https://github.com/prometheus-community/helm-charts/pull/5721) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[kube-state-metrics] remove support for deprecated psp resources](https://github.com/prometheus-community/helm-charts/pull/5724) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] remove support for deprecated apis](https://github.com/prometheus-community/helm-charts/pull/5721) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-state-metrics] remove support for deprecated pdb version](https://github.com/prometheus-community/helm-charts/pull/5720) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[alertmanager] remove support for deprecated pdb version](https://github.com/prometheus-community/helm-charts/pull/5719) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [feat(TPG&gt;=6.33)!: allow update in-place for `enable_gvnic` and `enable_confidential_nodes`](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2359) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 days ago)
@@ -50,7 +51,6 @@
 - [[prometheus-memcached-exporter] add renovate](https://github.com/prometheus-community/helm-charts/pull/5682) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [container: add support for network_performance_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/14095) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [container: bump flex_start to GA](https://github.com/GoogleCloudPlatform/magic-modules/pull/14094) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [container: allow updating user_managed_keys_config](https://github.com/GoogleCloudPlatform/magic-modules/pull/14082) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 
 #### 📜 My recent blog posts
 
