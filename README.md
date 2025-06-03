@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-blackbox-exporter] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5729) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prom-label-proxy] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5728) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-pushgateway] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5727) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-node-exporter] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5726) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5725) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -49,8 +51,6 @@
 - [[kube-state-metrics] remove support for deprecated pdb version](https://github.com/prometheus-community/helm-charts/pull/5720) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[alertmanager] remove support for deprecated pdb version](https://github.com/prometheus-community/helm-charts/pull/5719) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [feat(TPG&gt;=6.33)!: allow update in-place for `enable_gvnic` and `enable_confidential_nodes`](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2359) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
-- [[prometheus] drop support for deprecated ingress version](https://github.com/prometheus-community/helm-charts/pull/5684) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-fastly-exporter] add renovate](https://github.com/prometheus-community/helm-charts/pull/5683) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
