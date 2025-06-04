@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.24.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.24.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.25.0), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.20.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.20.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.41.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.41.1), 1 day ago) - 
