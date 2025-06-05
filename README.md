@@ -34,10 +34,10 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.41.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.41.1), 2 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.99.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.99.1), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.5](https://github.com/argoproj/argo-cd/releases/tag/v3.0.5), 1 week ago) - Declarative Continuous Deployment for Kubernetes
-- [traefik/traefik](https://github.com/traefik/traefik) ([v3.4.1](https://github.com/traefik/traefik/releases/tag/v3.4.1), 1 week ago) - The Cloud Native Application Proxy
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.5](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.5), 1 month ago) - Check your Kubernetes changes before they hit the cluster
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.3.0), 1 month ago) - Configures opinionated GKE clusters
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), 2 months ago) - Sets up a Cloud VPN gateway
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.2), 5 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
