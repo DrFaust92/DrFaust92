@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-crd-1.0.0](https://github.com/grafana/helm-charts/releases/tag/alloy-crd-1.0.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.13.1), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.20.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.20.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
