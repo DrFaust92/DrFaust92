@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(TPG&gt;=6.38): bump hpa_profile to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2362) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
+- [feat(TPG&gt;=6.38)!: bump hpa_profile to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2362) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [[prometheus-blackbox-exporter] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5729) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prom-label-proxy] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5728) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prometheus-pushgateway] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5727) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
