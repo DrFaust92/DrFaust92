@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-73.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-73.2.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.0.0-beta3](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.0.0-beta3), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.0), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.20.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.20.1), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.5](https://github.com/argoproj/argo-cd/releases/tag/v3.0.5), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-0.5.5](https://github.com/zapier/kubechecks/releases/tag/kubechecks-0.5.5), 1 month ago) - Check your Kubernetes changes before they hit the cluster
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v36.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v36.3.0), 1 month ago) - Configures opinionated GKE clusters
