@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.2.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.42.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.42.2), today) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v37.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v37.0.0), today) - Configures opinionated GKE clusters
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.2.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.15](https://github.com/argoproj/argo-cd/releases/tag/v2.14.15), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.100.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.100.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
