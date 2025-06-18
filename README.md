@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.3.2), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.7](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.7), today) - 
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.5.1](https://github.com/zapier/kubechecks/releases/tag/v2.5.1), today) - Check your Kubernetes changes before they hit the cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.3.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.0.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.0.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.2), 1 day ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v37.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v37.0.0), 1 day ago) - Configures opinionated GKE clusters
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.15](https://github.com/argoproj/argo-cd/releases/tag/v2.14.15), 2 days ago) - Declarative Continuous Deployment for Kubernetes
