@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.40](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.40), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.3.2), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.7](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.7), today) - 
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.5.1](https://github.com/zapier/kubechecks/releases/tag/v2.5.1), today) - Check your Kubernetes changes before they hit the cluster
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.0.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.0.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v37.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v37.0.0), 1 day ago) - Configures opinionated GKE clusters
