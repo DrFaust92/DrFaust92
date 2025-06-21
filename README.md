@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-adapter] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5809) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat: add tpu_topology and policy_name args in placement_policy](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2363) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [feat(TPG&gt;=6.38)!: bump hpa_profile to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2362) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [[prometheus-blackbox-exporter] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5729) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
@@ -50,7 +51,6 @@
 - [[prometheus] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5725) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-state-metrics] remove support for deprecated psp resources](https://github.com/prometheus-community/helm-charts/pull/5724) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] remove support for deprecated apis](https://github.com/prometheus-community/helm-charts/pull/5721) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-state-metrics] remove support for deprecated pdb version](https://github.com/prometheus-community/helm-charts/pull/5720) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
