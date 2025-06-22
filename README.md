@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.8.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.13.0), today) - Prometheus community Helm charts
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.5.2](https://github.com/zapier/kubechecks/releases/tag/v2.5.2), 2 days ago) - Check your Kubernetes changes before they hit the cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.0.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.0.2), 3 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.0.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.0.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
