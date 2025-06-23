@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v6.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v6.0.0), today) - Sets up a Cloud VPN gateway
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.0.0), today) - Prometheus community Helm charts
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.5.2](https://github.com/zapier/kubechecks/releases/tag/v2.5.2), 3 days ago) - Check your Kubernetes changes before they hit the cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.0.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.0.2), 4 days ago) - 
@@ -36,7 +37,6 @@
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 6 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.15](https://github.com/argoproj/argo-cd/releases/tag/v2.14.15), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.10.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.10.0), 2 weeks ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v5.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v5.0.0), 3 months ago) - Sets up a Cloud VPN gateway
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.2), 5 months ago) - 
 
 #### 🔨 My recent Pull Requests
