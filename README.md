@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-6.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-6.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.5.0), today) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.1.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v3.1.0-rc1), today) - Declarative Continuous Deployment for Kubernetes
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v6.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v6.0.0), today) - Sets up a Cloud VPN gateway
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.5.2](https://github.com/zapier/kubechecks/releases/tag/v2.5.2), 3 days ago) - Check your Kubernetes changes before they hit the cluster
