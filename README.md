@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.2](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.9](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.9), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-6.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-6.1.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.1.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.1.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.1.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v3.1.0-rc1), 4 days ago) - Declarative Continuous Deployment for Kubernetes
