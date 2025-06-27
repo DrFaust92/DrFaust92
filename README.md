@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-6.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-6.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.1.0](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.1.0), 1 day ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.1.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.1.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.5.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.1.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v3.1.0-rc1), 4 days ago) - Declarative Continuous Deployment for Kubernetes
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v6.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v6.0.0), 4 days ago) - Sets up a Cloud VPN gateway
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.5.2](https://github.com/zapier/kubechecks/releases/tag/v2.5.2), 1 week ago) - Check your Kubernetes changes before they hit the cluster
