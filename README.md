@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.11](https://github.com/argoproj/argo-cd/releases/tag/v3.0.11), today) - Declarative Continuous Deployment for Kubernetes
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.1.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v3.1.0-rc2), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.44.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.44.1), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.8.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.8.0-rc1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.7.1), 2 days ago) - Prometheus community Helm charts
