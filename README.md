@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.6](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.6), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-db-2.6.1](https://github.com/percona/percona-helm-charts/releases/tag/pg-db-2.6.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.11](https://github.com/argoproj/argo-cd/releases/tag/v3.0.11), today) - Declarative Continuous Deployment for Kubernetes
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.44.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.44.1), 1 day ago) - 
