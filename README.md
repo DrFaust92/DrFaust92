@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.23](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.23), today) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.1.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v3.1.0-rc3), today) - Declarative Continuous Deployment for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.10.0), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.5](https://github.com/grafana/loki/releases/tag/v3.4.5), today) - Like Prometheus, but for logs.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.8.0-rc2](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.8.0-rc2), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.45.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.45.0), today) - 
