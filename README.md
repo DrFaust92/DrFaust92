@@ -84,9 +84,9 @@
 
 - [shamil](https://github.com/shamil)
 - [IshtarStar](https://github.com/IshtarStar)
-- [helallao](https://github.com/helallao)
 - [rensii-1996](https://github.com/rensii-1996)
 - [djvelimir](https://github.com/djvelimir)
+- [hitman209](https://github.com/hitman209)
 
 #### 💬 Feedback
 
