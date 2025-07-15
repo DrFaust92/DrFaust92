@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
+- [seckinyasar](https://github.com/seckinyasar)
 - [shamil](https://github.com/shamil)
 - [IshtarStar](https://github.com/IshtarStar)
 - [rensii-1996](https://github.com/rensii-1996)
-- [djvelimir](https://github.com/djvelimir)
-- [hitman209](https://github.com/hitman209)
 
 #### 💬 Feedback
 
