@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.38](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.38), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.4.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.4.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.4), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.45.2](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.45.2), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.9.2), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.8.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.8.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
