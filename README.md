@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.27.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.9.2), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.8.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.8.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.32.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.32.0), 2 days ago) - 
