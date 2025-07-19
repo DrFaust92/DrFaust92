@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(TPG&gt;=6.41)!: add support performance_monitoring_unit](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2391) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
+- [feat: add support for revisionHistoryLimit and priorityClassName](https://github.com/open-webui/helm-charts/pull/263) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (today)
 - [feat(TPG&gt;=6.39)!: add support for flex start](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2386) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
 - [feat: add support for multi networking](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2385) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
 - [feat: add support for windows config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2375) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 weeks ago)
@@ -49,8 +51,6 @@
 - [[prometheus-operator-admission-webhook] remove batch/v1alpha1 check](https://github.com/prometheus-community/helm-charts/pull/5847) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 - [[prometheus-pgbouncer-exporter] add renovate](https://github.com/prometheus-community/helm-charts/pull/5846) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 - [[prometheus-adapter] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5809) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 weeks ago)
-- [feat: add tpu_topology and policy_name args in placement_policy](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2363) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 month ago)
-- [feat(TPG&gt;=6.38)!: bump hpa_profile to GA](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2362) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 month ago)
 
 #### 📜 My recent blog posts
 
