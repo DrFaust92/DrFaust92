@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.10.2), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.11.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.11.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.46.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.46.0), 1 day ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v37.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v37.1.0), 2 days ago) - Configures opinionated GKE clusters
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.7.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.7.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
