@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (3 days ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 days ago)
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (4 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (4 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (2 months ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 months ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.5.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.5.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.352](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.352), today) - 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-6.29.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-6.29.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.47.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.47.3), 1 day ago) - Prometheus community Helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), 1 day ago) - Like Prometheus, but for logs.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v37.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v37.1.0), 6 days ago) - Configures opinionated GKE clusters
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.7.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.7.0), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.1.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v3.1.0-rc3), 1 week ago) - Declarative Continuous Deployment for Kubernetes
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.5.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.5.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.352](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.352), 1 day ago) - 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-6.29.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-6.29.0), 2 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.47.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.47.3), 2 days ago) - Prometheus community Helm charts
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), 2 days ago) - Like Prometheus, but for logs.
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v37.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v37.1.0), 1 week ago) - Configures opinionated GKE clusters
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.7.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.7.0), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.1.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v3.1.0-rc3), 2 weeks ago) - Declarative Continuous Deployment for Kubernetes
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v6.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v6.0.0), 1 month ago) - Sets up a Cloud VPN gateway
 
 #### 🔨 My recent Pull Requests
 
-- [feat(TPG&gt;=6.41)!: add support performance_monitoring_unit](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2391) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
-- [feat: add support for revisionHistoryLimit and priorityClassName](https://github.com/open-webui/helm-charts/pull/263) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (5 days ago)
+- [feat(TPG&gt;=6.41)!: add support performance_monitoring_unit](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2391) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (6 days ago)
+- [feat: add support for revisionHistoryLimit and priorityClassName](https://github.com/open-webui/helm-charts/pull/263) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (6 days ago)
 - [feat(TPG&gt;=6.39)!: add support for flex start](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2386) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [feat: add support for multi networking](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2385) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [feat: add support for windows config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2375) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 weeks ago)
 - [feat: add support for max_run_duration](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2374) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 weeks ago)
 - [[tempo-vulture] bump to 2.8.1](https://github.com/grafana/helm-charts/pull/3778) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 weeks ago)
 - [[prometheus-operator-admission-webhook] remove batch/v1alpha1 check](https://github.com/prometheus-community/helm-charts/pull/5847) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [[prometheus-pgbouncer-exporter] add renovate](https://github.com/prometheus-community/helm-charts/pull/5846) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
+- [[prometheus-pgbouncer-exporter] add renovate](https://github.com/prometheus-community/helm-charts/pull/5846) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 weeks ago)
 - [[prometheus-adapter] remove support for deprecated APIs](https://github.com/prometheus-community/helm-charts/pull/5809) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -66,14 +66,14 @@
 
 #### ⭐ Recent Stars
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (5 days ago)
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (6 days ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (4 weeks ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (1 month ago)
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (1 month ago)
 - [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (4 months ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (5 months ago)
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (11 months ago)
-- [SygniaLabs/Mirage](https://github.com/SygniaLabs/Mirage) -  (11 months ago)
+- [SygniaLabs/Mirage](https://github.com/SygniaLabs/Mirage) -  (1 year ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 year ago)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (1 year ago)
 
