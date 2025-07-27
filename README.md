@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (5 days ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (5 days ago)
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (6 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (6 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 weeks ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (3 months ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 months ago)
-- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (4 months ago)
+- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (5 months ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (6 months ago)
 
 #### 🌱 My latest projects
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.25](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.25), today) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.12](https://github.com/argoproj/argo-cd/releases/tag/v3.0.12), 1 day ago) - Declarative Continuous Deployment for Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.0), 1 day ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.5.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.5.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-6.29.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-6.29.0), 3 days ago) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), 3 days ago) - Like Prometheus, but for logs.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.25](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.25), 1 day ago) - Prometheus community Helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.12](https://github.com/argoproj/argo-cd/releases/tag/v3.0.12), 2 days ago) - Declarative Continuous Deployment for Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.0), 2 days ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.5.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.5.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-6.29.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-6.29.0), 4 days ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), 4 days ago) - Like Prometheus, but for logs.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v37.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v37.1.0), 1 week ago) - Configures opinionated GKE clusters
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-2.7.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-2.7.0), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v6.0.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v6.0.0), 1 month ago) - Sets up a Cloud VPN gateway
 
 #### 🔨 My recent Pull Requests
 
-- [feat(TPG&gt;=6.42)!: add support for gke_auto_upgrade_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2395) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
-- [feat: add support for cluster level total_egress_bandwidth_tier](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2394) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
+- [feat(TPG&gt;=6.42)!: add support for gke_auto_upgrade_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2395) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
+- [feat: add support for cluster level total_egress_bandwidth_tier](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2394) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
 - [feat(TPG&gt;=6.41)!: add support performance_monitoring_unit](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2391) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [feat: add support for revisionHistoryLimit and priorityClassName](https://github.com/open-webui/helm-charts/pull/263) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (1 week ago)
 - [feat(TPG&gt;=6.39)!: add support for flex start](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2386) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
