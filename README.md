@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.15.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.16.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.354](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.354), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.7](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.7), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [helm: Support revisionhistorylimit](https://github.com/grafana/mimir/pull/12323) on [grafana/mimir](https://github.com/grafana/mimir) (today)
+- [helm: Support revisionhistorylimit](https://github.com/robusta-dev/robusta/pull/1892) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (today)
+- [chart: Support revisionhistorylimit](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/pull/162) on [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) (today)
 - [feat: Support revisionhistorylimit](https://github.com/langfuse/langfuse-k8s/pull/211) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (today)
 - [Support revisionhistorylimit](https://github.com/8gears/n8n-helm-chart/pull/221) on [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) (today)
 - [Injector -  support revisionhistorylimit](https://github.com/hashicorp/vault-helm/pull/1126) on [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) (today)
@@ -48,9 +51,6 @@
 - [PSMDB operator - support revisionhistorylimit](https://github.com/percona/percona-helm-charts/pull/604) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (today)
 - [feat(helm): Support revisionhistorylimit](https://github.com/cert-manager/trust-manager/pull/676) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (today)
 - [support revisionhistorylimit](https://github.com/github/safe-settings/pull/869) on [github/safe-settings](https://github.com/github/safe-settings) (today)
-- [support revisionhistorylimit](https://github.com/apache/incubator-devlake-helm-chart/pull/344) on [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) (today)
-- [container: add support for transparent hugepage config](https://github.com/GoogleCloudPlatform/magic-modules/pull/14725) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
-- [feat(helm): add missing revisionHistoryLimit](https://github.com/grafana/loki/pull/18638) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 
 #### 📜 My recent blog posts
 
