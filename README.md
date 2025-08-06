@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (today)
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (1 day ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (2 weeks ago)
@@ -11,7 +12,6 @@
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 months ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (3 months ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (4 months ago)
-- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.16.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.17.1), today) - Prometheus community Helm charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.354](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.354), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.7](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.7), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
@@ -37,10 +38,10 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.0.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.0.1), 6 days ago) - 
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta3](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta3), 1 week ago) - Apache DevLake Helm Chart
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.12](https://github.com/argoproj/argo-cd/releases/tag/v3.0.12), 1 week ago) - Declarative Continuous Deployment for Kubernetes
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), 2 weeks ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
+- [Support revisionhistorylimit](https://github.com/robusta-dev/holmesgpt/pull/796) on [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) (today)
 - [helm: Support revisionhistorylimit](https://github.com/grafana/mimir/pull/12323) on [grafana/mimir](https://github.com/grafana/mimir) (today)
 - [helm: Support revisionhistorylimit](https://github.com/robusta-dev/robusta/pull/1892) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (today)
 - [chart: Support revisionhistorylimit](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/pull/162) on [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) (today)
@@ -50,7 +51,6 @@
 - [nominatim - support revisionhistorylimit](https://github.com/robjuz/helm-charts/pull/131) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (today)
 - [PSMDB operator - support revisionhistorylimit](https://github.com/percona/percona-helm-charts/pull/604) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (today)
 - [feat(helm): Support revisionhistorylimit](https://github.com/cert-manager/trust-manager/pull/676) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (today)
-- [support revisionhistorylimit](https://github.com/github/safe-settings/pull/869) on [github/safe-settings](https://github.com/github/safe-settings) (today)
 
 #### 📜 My recent blog posts
 
