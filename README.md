@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Support revisionhistorylimit](https://github.com/langfuse/langfuse-k8s/pull/211) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (today)
+- [Support revisionhistorylimit](https://github.com/8gears/n8n-helm-chart/pull/221) on [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) (today)
+- [Injector -  support revisionhistorylimit](https://github.com/hashicorp/vault-helm/pull/1126) on [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) (today)
+- [nominatim - support revisionhistorylimit](https://github.com/robjuz/helm-charts/pull/131) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (today)
+- [PSMDB operator - support revisionhistorylimit](https://github.com/percona/percona-helm-charts/pull/604) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (today)
+- [feat(helm): Support revisionhistorylimit](https://github.com/cert-manager/trust-manager/pull/676) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (today)
 - [support revisionhistorylimit](https://github.com/github/safe-settings/pull/869) on [github/safe-settings](https://github.com/github/safe-settings) (today)
 - [support revisionhistorylimit](https://github.com/apache/incubator-devlake-helm-chart/pull/344) on [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) (today)
 - [container: add support for transparent hugepage config](https://github.com/GoogleCloudPlatform/magic-modules/pull/14725) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
 - [feat(helm): add missing revisionHistoryLimit](https://github.com/grafana/loki/pull/18638) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
-- [feat(TPG&gt;=6.42)!: add support for gke_auto_upgrade_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2395) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [feat: add support for cluster level total_egress_bandwidth_tier](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2394) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [feat(TPG&gt;=6.41)!: add support performance_monitoring_unit](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2391) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
-- [feat: add support for revisionHistoryLimit and priorityClassName](https://github.com/open-webui/helm-charts/pull/263) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (2 weeks ago)
-- [feat(TPG&gt;=6.39)!: add support for flex start](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2386) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 weeks ago)
-- [feat: add support for multi networking](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2385) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
