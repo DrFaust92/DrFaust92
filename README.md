@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (1 day ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
@@ -11,7 +12,6 @@
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (3 months ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (4 months ago)
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) - Sets up a Cloud VPN gateway (5 months ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -35,9 +35,9 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.7.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.7.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.5.3](https://github.com/zapier/kubechecks/releases/tag/v2.5.3), 6 days ago) - Check your Kubernetes changes before they hit the cluster
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.0.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.0.1), 6 days ago) - 
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta3](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta3), 1 week ago) - Apache DevLake Helm Chart
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.0.12](https://github.com/argoproj/argo-cd/releases/tag/v3.0.12), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), 2 weeks ago) - Like Prometheus, but for logs.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v37.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v37.1.0), 2 weeks ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
