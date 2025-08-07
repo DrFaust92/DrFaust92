@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (today)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (today)
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (1 day ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 day ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 day ago)
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (2 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.3), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.17.1), today) - Prometheus community Helm charts
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.0), today) - 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.26.1](https://github.com/robusta-dev/robusta/releases/tag/0.26.1), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.7](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.7), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.7.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.7.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.5.3](https://github.com/zapier/kubechecks/releases/tag/v2.5.3), 6 days ago) - Check your Kubernetes changes before they hit the cluster
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.0.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.0.1), 6 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.3), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.17.1), 1 day ago) - Prometheus community Helm charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.0), 1 day ago) - 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.26.1](https://github.com/robusta-dev/robusta/releases/tag/0.26.1), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.7](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.7), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.7.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.7.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.5.3](https://github.com/zapier/kubechecks/releases/tag/v2.5.3), 1 week ago) - Check your Kubernetes changes before they hit the cluster
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.0.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.0.1), 1 week ago) - 
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta3](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta3), 1 week ago) - Apache DevLake Helm Chart
 
 #### 🔨 My recent Pull Requests
 
-- [Support revisionhistorylimit](https://github.com/robusta-dev/holmesgpt/pull/796) on [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) (today)
-- [helm: Support revisionhistorylimit](https://github.com/grafana/mimir/pull/12323) on [grafana/mimir](https://github.com/grafana/mimir) (today)
-- [helm: Support revisionhistorylimit](https://github.com/robusta-dev/robusta/pull/1892) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (today)
-- [chart: Support revisionhistorylimit](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/pull/162) on [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) (today)
-- [feat: Support revisionhistorylimit](https://github.com/langfuse/langfuse-k8s/pull/211) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (today)
-- [Support revisionhistorylimit](https://github.com/8gears/n8n-helm-chart/pull/221) on [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) (today)
-- [Injector -  support revisionhistorylimit](https://github.com/hashicorp/vault-helm/pull/1126) on [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) (today)
-- [nominatim - support revisionhistorylimit](https://github.com/robjuz/helm-charts/pull/131) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (today)
-- [PSMDB operator - support revisionhistorylimit](https://github.com/percona/percona-helm-charts/pull/604) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (today)
-- [feat(helm): Support revisionhistorylimit](https://github.com/cert-manager/trust-manager/pull/676) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (today)
+- [Support revisionhistorylimit](https://github.com/robusta-dev/holmesgpt/pull/796) on [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) (1 day ago)
+- [helm: Support revisionhistorylimit](https://github.com/grafana/mimir/pull/12323) on [grafana/mimir](https://github.com/grafana/mimir) (1 day ago)
+- [helm: Support revisionhistorylimit](https://github.com/robusta-dev/robusta/pull/1892) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 day ago)
+- [chart: Support revisionhistorylimit](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/pull/162) on [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) (1 day ago)
+- [feat: Support revisionhistorylimit](https://github.com/langfuse/langfuse-k8s/pull/211) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (1 day ago)
+- [Support revisionhistorylimit](https://github.com/8gears/n8n-helm-chart/pull/221) on [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) (1 day ago)
+- [Injector -  support revisionhistorylimit](https://github.com/hashicorp/vault-helm/pull/1126) on [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) (1 day ago)
+- [nominatim - support revisionhistorylimit](https://github.com/robjuz/helm-charts/pull/131) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 day ago)
+- [PSMDB operator - support revisionhistorylimit](https://github.com/percona/percona-helm-charts/pull/604) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (1 day ago)
+- [feat(helm): Support revisionhistorylimit](https://github.com/cert-manager/trust-manager/pull/676) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -72,7 +72,7 @@
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (2 months ago)
 - [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (4 months ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (6 months ago)
-- [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (11 months ago)
+- [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (1 year ago)
 - [SygniaLabs/Mirage](https://github.com/SygniaLabs/Mirage) -  (1 year ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 year ago)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (1 year ago)
