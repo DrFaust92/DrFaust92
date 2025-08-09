@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(TPG&gt;=6.47)!: add support for rbac_binding_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2401) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [[cloudcost-exporter] bump to 0.11.0](https://github.com/grafana/helm-charts/pull/3847) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
 - [[tempo-vulture] bump to 2.8.2](https://github.com/grafana/helm-charts/pull/3846) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
 - [[tempo-distributed] add missing revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3845) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@
 - [[kube-prometheus-stack] bump to 0.84.1](https://github.com/prometheus-community/helm-charts/pull/6025) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [feat: update helm deps](https://github.com/open-webui/helm-charts/pull/282) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (1 day ago)
 - [Support revisionhistorylimit](https://github.com/robusta-dev/holmesgpt/pull/796) on [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) (3 days ago)
-- [helm: Support revisionhistorylimit](https://github.com/grafana/mimir/pull/12323) on [grafana/mimir](https://github.com/grafana/mimir) (3 days ago)
 
 #### 📜 My recent blog posts
 
