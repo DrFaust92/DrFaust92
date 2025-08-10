@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 day ago)
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (2 days ago)
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (2 days ago)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (3 days ago)
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (3 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (4 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (2 days ago)
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (3 days ago)
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (3 days ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (4 days ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (4 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (5 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.15.0), today) - Prometheus community Helm charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.2.0), 1 day ago) - 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.3.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.3.5), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.40](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.40), 2 days ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.8.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.8.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.0), 3 days ago) - 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.26.1](https://github.com/robusta-dev/robusta/releases/tag/0.26.1), 5 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.15.0), 1 day ago) - Prometheus community Helm charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.2.0), 2 days ago) - 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.3.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.3.5), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.40](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.40), 3 days ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.8.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.8.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.0), 4 days ago) - 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.26.1](https://github.com/robusta-dev/robusta/releases/tag/0.26.1), 6 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.7](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.7), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.5.3](https://github.com/zapier/kubechecks/releases/tag/v2.5.3), 1 week ago) - Check your Kubernetes changes before they hit the cluster
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta3](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta3), 1 week ago) - Apache DevLake Helm Chart
 
 #### 🔨 My recent Pull Requests
 
-- [feat(TPG&gt;=6.47)!: add support for rbac_binding_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2401) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
-- [[cloudcost-exporter] bump to 0.11.0](https://github.com/grafana/helm-charts/pull/3847) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
-- [[tempo-vulture] bump to 2.8.2](https://github.com/grafana/helm-charts/pull/3846) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
-- [[tempo-distributed] add missing revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3845) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
-- [[rollout-operator] support setting revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3844) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
-- [[prometheus-pgbouncer-exporter] enable pgsql dep only in CI &#43; move refs to bitnami legacy](https://github.com/prometheus-community/helm-charts/pull/6027) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-sql-exporter] bump to 0.8](https://github.com/prometheus-community/helm-charts/pull/6026) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack] bump to 0.84.1](https://github.com/prometheus-community/helm-charts/pull/6025) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [feat: update helm deps](https://github.com/open-webui/helm-charts/pull/282) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (1 day ago)
-- [Support revisionhistorylimit](https://github.com/robusta-dev/holmesgpt/pull/796) on [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) (3 days ago)
+- [feat(TPG&gt;=6.47)!: add support for rbac_binding_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2401) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
+- [[cloudcost-exporter] bump to 0.11.0](https://github.com/grafana/helm-charts/pull/3847) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
+- [[tempo-vulture] bump to 2.8.2](https://github.com/grafana/helm-charts/pull/3846) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
+- [[tempo-distributed] add missing revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3845) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
+- [[rollout-operator] support setting revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3844) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
+- [[prometheus-pgbouncer-exporter] enable pgsql dep only in CI &#43; move refs to bitnami legacy](https://github.com/prometheus-community/helm-charts/pull/6027) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-sql-exporter] bump to 0.8](https://github.com/prometheus-community/helm-charts/pull/6026) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack] bump to 0.84.1](https://github.com/prometheus-community/helm-charts/pull/6025) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [feat: update helm deps](https://github.com/open-webui/helm-charts/pull/282) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (2 days ago)
+- [Support revisionhistorylimit](https://github.com/robusta-dev/holmesgpt/pull/796) on [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) (4 days ago)
 
 #### 📜 My recent blog posts
 
