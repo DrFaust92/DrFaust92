@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.2.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.9.0), today) - Prometheus community Helm charts
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.1), today) - Prometheus ephemeral storage metrics exporter
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.5), 1 day ago) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.2.0), 3 days ago) - 
