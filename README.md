@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-5.1.0), today) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.3.6](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.3.6), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.1), today) - 
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.1), today) - Prometheus ephemeral storage metrics exporter
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat:! add data cache count](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2404) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
+- [feat!: add data cache count](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2404) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
 - [feat(TPG&gt;=6.47)!: add support for rbac_binding_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2401) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
 - [[cloudcost-exporter] bump to 0.11.0](https://github.com/grafana/helm-charts/pull/3847) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
 - [[tempo-vulture] bump to 2.8.2](https://github.com/grafana/helm-charts/pull/3846) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
