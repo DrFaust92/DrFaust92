@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.41](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.41), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.2](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.2), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.4.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.4.0), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-5.1.0), 1 day ago) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.1), 1 day ago) - 
