@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.23.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.23.3), today) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.0), today) - Configures opinionated GKE clusters
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.3.0), 2 days ago) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.19.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.19.0), 2 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.4.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.4.0), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.1), 3 days ago) - 
