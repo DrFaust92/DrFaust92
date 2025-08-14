@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.3.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.23.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.23.3), today) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.0), today) - Configures opinionated GKE clusters
@@ -35,7 +36,6 @@
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.4.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.4.0), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.1), 3 days ago) - 
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.1), 3 days ago) - Prometheus ephemeral storage metrics exporter
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.2.0), 6 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.8.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.8.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.26.1](https://github.com/robusta-dev/robusta/releases/tag/0.26.1), 1 week ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
