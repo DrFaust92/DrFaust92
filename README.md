@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.36.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.36.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-2.1.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.9.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.9.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.18.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.18.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.3.0), 1 day ago) - 
