@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.4.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.7), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.36.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.36.1), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.9.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.9.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.18.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.18.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
