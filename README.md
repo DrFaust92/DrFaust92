@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter (6 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter (1 week ago)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (1 week ago)
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.8), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.1](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.1), today) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.9.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.9.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.18.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.18.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.3.0), 2 days ago) - 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.0), 2 days ago) - Configures opinionated GKE clusters
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.19.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.19.0), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.4.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.4.0), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.1), 5 days ago) - 
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.1), 5 days ago) - Prometheus ephemeral storage metrics exporter
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.8), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.1](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.1), 1 day ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.9.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.9.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.18.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.18.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.3.0), 3 days ago) - 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.0), 3 days ago) - Configures opinionated GKE clusters
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.19.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.19.0), 5 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.4.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.4.0), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.1), 6 days ago) - 
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.1), 6 days ago) - Prometheus ephemeral storage metrics exporter
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: add data cache count](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2404) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (6 days ago)
+- [feat!: add data cache count](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2404) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [feat(TPG&gt;=6.47)!: add support for rbac_binding_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2401) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [[cloudcost-exporter] bump to 0.11.0](https://github.com/grafana/helm-charts/pull/3847) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [[tempo-vulture] bump to 2.8.2](https://github.com/grafana/helm-charts/pull/3846) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
