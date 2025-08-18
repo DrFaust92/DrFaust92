@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-modbus-exporter-0.1.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-modbus-exporter-0.1.4), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.9), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.356](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.356), today) - 
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.12.5](https://github.com/robusta-dev/holmesgpt/releases/tag/0.12.5), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.9.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.9.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
