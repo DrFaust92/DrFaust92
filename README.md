@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.0), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.10.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.3.1), 1 day ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.4.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.4.1), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.12.5](https://github.com/robusta-dev/holmesgpt/releases/tag/0.12.5), 5 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.9.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.9.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.18.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.18.0), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.3.0), 6 days ago) - 
