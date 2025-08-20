@@ -66,6 +66,7 @@
 
 #### ⭐ Recent Stars
 
+- [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (today)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (1 month ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (1 month ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (2 months ago)
@@ -75,7 +76,6 @@
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (1 year ago)
 - [SygniaLabs/Mirage](https://github.com/SygniaLabs/Mirage) -  (1 year ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 year ago)
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
