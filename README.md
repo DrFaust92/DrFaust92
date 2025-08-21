@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.4.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.30.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.3), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.0), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.27.0-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.27.0-alpha.1), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
