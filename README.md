@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.37.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.37.0), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.0), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.27.0-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.27.0-alpha.1), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0), 1 day ago) - 
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.0), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.10.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.9.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.9.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
