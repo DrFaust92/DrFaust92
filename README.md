@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (4 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (5 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter (1 week ago)
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 week ago)
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (2 weeks ago)
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (2 weeks ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (2 weeks ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.10.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.10.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.30.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.3), today) - 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.0), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.27.0-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.27.0-alpha.1), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.0), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.7.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.10.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.10.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.3), 1 day ago) - 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.0), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.27.0-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.27.0-alpha.1), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.0), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.18.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.18.0), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.3.0), 1 week ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.0), 1 week ago) - Configures opinionated GKE clusters
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[tempo-distributed] bump rollout operator version to 0.31.0](https://github.com/grafana/helm-charts/pull/3862) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
-- [feat(helm): add dnsconfig to all missing resources](https://github.com/grafana/loki/pull/18903) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
+- [[tempo-distributed] bump rollout operator version to 0.31.0](https://github.com/grafana/helm-charts/pull/3862) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
+- [feat(helm): add dnsconfig to all missing resources](https://github.com/grafana/loki/pull/18903) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
 - [feat!: add data cache count](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2404) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [feat(TPG&gt;=6.47)!: add support for rbac_binding_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2401) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [[cloudcost-exporter] bump to 0.11.0](https://github.com/grafana/helm-charts/pull/3847) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [[tempo-vulture] bump to 2.8.2](https://github.com/grafana/helm-charts/pull/3846) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [[tempo-distributed] add missing revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3845) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [[rollout-operator] support setting revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3844) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [[prometheus-pgbouncer-exporter] enable pgsql dep only in CI &#43; move refs to bitnami legacy](https://github.com/prometheus-community/helm-charts/pull/6027) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-sql-exporter] bump to 0.8](https://github.com/prometheus-community/helm-charts/pull/6026) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[cloudcost-exporter] bump to 0.11.0](https://github.com/grafana/helm-charts/pull/3847) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
+- [[tempo-vulture] bump to 2.8.2](https://github.com/grafana/helm-charts/pull/3846) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
+- [[tempo-distributed] add missing revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3845) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
+- [[rollout-operator] support setting revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3844) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
+- [[prometheus-pgbouncer-exporter] enable pgsql dep only in CI &#43; move refs to bitnami legacy](https://github.com/prometheus-community/helm-charts/pull/6027) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
+- [[prometheus-sql-exporter] bump to 0.8](https://github.com/prometheus-community/helm-charts/pull/6026) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (1 day ago)
+- [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (2 days ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (1 month ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (1 month ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (2 months ago)
