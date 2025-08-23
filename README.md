@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump to 0.85.0](https://github.com/prometheus-community/helm-charts/pull/6084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat(helm): use named ports for memcached services targetports](https://github.com/grafana/loki/pull/18990) on [grafana/loki](https://github.com/grafana/loki) (today)
 - [[tempo-distributed] bump rollout operator version to 0.31.0](https://github.com/grafana/helm-charts/pull/3862) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
 - [feat(helm): add dnsconfig to all missing resources](https://github.com/grafana/loki/pull/18903) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
@@ -50,7 +51,6 @@
 - [[tempo-vulture] bump to 2.8.2](https://github.com/grafana/helm-charts/pull/3846) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 - [[tempo-distributed] add missing revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3845) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 - [[rollout-operator] support setting revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3844) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
-- [[prometheus-pgbouncer-exporter]  remove bitnami deps and simplify CI deps](https://github.com/prometheus-community/helm-charts/pull/6027) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
