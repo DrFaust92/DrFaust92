@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.3.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.3.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.5](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.3.1), today) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.27.0](https://github.com/robusta-dev/robusta/releases/tag/0.27.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.6.0), 2 days ago) - 
