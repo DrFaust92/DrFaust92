@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.28.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.1), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.1.2](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.1.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.0.2), 1 day ago) - Prometheus community Helm charts
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.27.0](https://github.com/robusta-dev/robusta/releases/tag/0.27.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.6.0), 4 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.1), 5 days ago) - Configures opinionated GKE clusters
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.12.6](https://github.com/robusta-dev/holmesgpt/releases/tag/0.12.6), 5 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.10.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.10.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.0), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.0](https://github.com/grafana/mimir/releases/tag/mimir-2.17.0), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
