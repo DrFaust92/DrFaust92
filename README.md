@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.14.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.14.2), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.28.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.1), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.1.2](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.1.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.0.2), 1 day ago) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.6.0), 4 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.1), 5 days ago) - Configures opinionated GKE clusters
