@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [CodeAdminDe](https://github.com/CodeAdminDe)
 - [sins921](https://github.com/sins921)
 - [shamil](https://github.com/shamil)
 - [IshtarStar](https://github.com/IshtarStar)
 - [rensii-1996](https://github.com/rensii-1996)
-- [djvelimir](https://github.com/djvelimir)
 
 #### 💬 Feedback
 
