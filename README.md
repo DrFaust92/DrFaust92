@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (5 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (6 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter (2 weeks ago)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (2 weeks ago)
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (2 weeks ago)
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (2 weeks ago)
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (3 weeks ago)
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.38.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.38.0), today) - 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.2), today) - 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.0](https://github.com/robusta-dev/robusta/releases/tag/0.28.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.1), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.0.2), 1 day ago) - Prometheus community Helm charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.6.0), 4 days ago) - 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.1), 5 days ago) - Configures opinionated GKE clusters
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.10.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.10.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.0), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.38.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.38.0), 1 day ago) - 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.2), 1 day ago) - 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.0](https://github.com/robusta-dev/robusta/releases/tag/0.28.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.1), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.0.2), 2 days ago) - Prometheus community Helm charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.6.0), 5 days ago) - 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.1), 6 days ago) - Configures opinionated GKE clusters
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.10.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.10.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.0), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.0](https://github.com/grafana/mimir/releases/tag/mimir-2.17.0), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump to 0.85.0](https://github.com/prometheus-community/helm-charts/pull/6084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [feat(helm): use named ports for memcached services targetports](https://github.com/grafana/loki/pull/18990) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
-- [[tempo-distributed] bump rollout operator version to 0.31.0](https://github.com/grafana/helm-charts/pull/3862) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (6 days ago)
+- [[kube-prometheus-stack] bump to 0.85.0](https://github.com/prometheus-community/helm-charts/pull/6084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [feat(helm): use named ports for memcached services targetports](https://github.com/grafana/loki/pull/18990) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
+- [[tempo-distributed] bump rollout operator version to 0.31.0](https://github.com/grafana/helm-charts/pull/3862) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [feat(helm): add dnsconfig to all missing resources](https://github.com/grafana/loki/pull/18903) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [feat!: add data cache count](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2404) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [feat(TPG&gt;=6.47)!: add support for rbac_binding_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2401) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
