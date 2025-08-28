@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta4](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta4), today) - Apache DevLake Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.38.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.38.0), 1 day ago) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.2), 1 day ago) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.0](https://github.com/robusta-dev/robusta/releases/tag/0.28.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
@@ -37,7 +38,6 @@
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.1), 6 days ago) - Configures opinionated GKE clusters
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.10.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.10.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.0), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.0](https://github.com/grafana/mimir/releases/tag/mimir-2.17.0), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
