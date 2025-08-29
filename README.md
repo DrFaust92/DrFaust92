@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [nominatim - expose images as params &#43; dont set UI annotation on deployment if not enabled](https://github.com/robjuz/helm-charts/pull/138) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (today)
 - [[kube-prometheus-stack] bump to 0.85.0](https://github.com/prometheus-community/helm-charts/pull/6084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [feat(helm): use named ports for memcached services targetports](https://github.com/grafana/loki/pull/18990) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
 - [[tempo-distributed] bump rollout operator version to 0.31.0](https://github.com/grafana/helm-charts/pull/3862) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [[cloudcost-exporter] bump to 0.11.0](https://github.com/grafana/helm-charts/pull/3847) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 weeks ago)
 - [[tempo-vulture] bump to 2.8.2](https://github.com/grafana/helm-charts/pull/3846) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 weeks ago)
 - [[tempo-distributed] add missing revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3845) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 weeks ago)
-- [[rollout-operator] support setting revisionHistoryLimit](https://github.com/grafana/helm-charts/pull/3844) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
