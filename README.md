@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-4.3.7](https://github.com/robjuz/helm-charts/releases/tag/kimai2-4.3.7), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.3), 2 days ago) - 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.3](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.3), 3 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.11.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.11.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.7.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.7.0), 3 days ago) - 
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta4](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta4), 3 days ago) - Apache DevLake Helm Chart
