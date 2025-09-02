@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 week ago)
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.33.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.358](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.358), today) - 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-4.3.7](https://github.com/robjuz/helm-charts/releases/tag/kimai2-4.3.7), today) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.11.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.11.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.7.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.7.0), 4 days ago) - 
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta4](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta4), 4 days ago) - Apache DevLake Helm Chart
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.0](https://github.com/robusta-dev/robusta/releases/tag/0.28.0), 5 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.1), 5 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.33.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.358](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.358), 1 day ago) - 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-4.3.7](https://github.com/robjuz/helm-charts/releases/tag/kimai2-4.3.7), 1 day ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.11.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.11.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.7.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.7.0), 5 days ago) - 
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta4](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta4), 5 days ago) - Apache DevLake Helm Chart
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.0](https://github.com/robusta-dev/robusta/releases/tag/0.28.0), 6 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.1), 6 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.0.1), 1 week ago) - Configures opinionated GKE clusters
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.0), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-state-metrics] use named port for service and probes](https://github.com/prometheus-community/helm-charts/pull/6098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [chore(argo-workflows): use named port for server service and probes](https://github.com/argoproj/argo-helm/pull/3459) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 days ago)
-- [chore(argo-cd): use named port for commit server service and probes](https://github.com/argoproj/argo-helm/pull/3456) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 days ago)
-- [chore(argo-rollouts): use named port for service](https://github.com/argoproj/argo-helm/pull/3455) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 days ago)
-- [add dnsconfig to controller](https://github.com/jenkinsci/helm-charts/pull/1478) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (3 days ago)
-- [[prometheus] use named targetport](https://github.com/prometheus-community/helm-charts/pull/6097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[grafana] upgrade kiwigrid/k8s-sidecar to 1.30.10](https://github.com/grafana/helm-charts/pull/3879) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
-- [nominatim - expose images as params &#43; dont set UI annotation on deployment if not enabled](https://github.com/robjuz/helm-charts/pull/138) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (3 days ago)
+- [[kube-state-metrics] use named port for service and probes](https://github.com/prometheus-community/helm-charts/pull/6098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [chore(argo-workflows): use named port for server service and probes](https://github.com/argoproj/argo-helm/pull/3459) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 days ago)
+- [chore(argo-cd): use named port for commit server service and probes](https://github.com/argoproj/argo-helm/pull/3456) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (4 days ago)
+- [chore(argo-rollouts): use named port for service](https://github.com/argoproj/argo-helm/pull/3455) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (4 days ago)
+- [add dnsconfig to controller](https://github.com/jenkinsci/helm-charts/pull/1478) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (4 days ago)
+- [[prometheus] use named targetport](https://github.com/prometheus-community/helm-charts/pull/6097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[grafana] upgrade kiwigrid/k8s-sidecar to 1.30.10](https://github.com/grafana/helm-charts/pull/3879) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
+- [nominatim - expose images as params &#43; dont set UI annotation on deployment if not enabled](https://github.com/robjuz/helm-charts/pull/138) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] bump to 0.85.0](https://github.com/prometheus-community/helm-charts/pull/6084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [feat(helm): use named ports for memcached services targetports](https://github.com/grafana/loki/pull/18990) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 
