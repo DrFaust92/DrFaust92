@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.26.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.35.0), today) - Prometheus community Helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.1.0), today) - Configures opinionated GKE clusters
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.1-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.28.1-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.3](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.3), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
