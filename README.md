@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for anonymous_authentication_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2436) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
+- [feat: add support for additional_pod_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2435) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [helm: add dnsConfig parameter](https://github.com/grafana/mimir/pull/12618) on [grafana/mimir](https://github.com/grafana/mimir) (today)
 - [[kube-state-metrics] use named port for service and probes](https://github.com/prometheus-community/helm-charts/pull/6098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [chore(argo-workflows): use named port for server service and probes](https://github.com/argoproj/argo-helm/pull/3459) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (5 days ago)
@@ -49,8 +51,6 @@
 - [add dnsconfig to controller](https://github.com/jenkinsci/helm-charts/pull/1478) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (6 days ago)
 - [[prometheus] use named targetport](https://github.com/prometheus-community/helm-charts/pull/6097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[grafana] upgrade kiwigrid/k8s-sidecar to 1.30.10](https://github.com/grafana/helm-charts/pull/3879) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (6 days ago)
-- [nominatim - expose images as params &#43; dont set UI annotation on deployment if not enabled](https://github.com/robjuz/helm-charts/pull/138) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (6 days ago)
-- [[kube-prometheus-stack] bump to 0.85.0](https://github.com/prometheus-community/helm-charts/pull/6084) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
