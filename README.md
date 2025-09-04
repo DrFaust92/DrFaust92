@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.4](https://github.com/grafana/loki/releases/tag/v3.5.4), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.35.0), 1 day ago) - Prometheus community Helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.1.0), 1 day ago) - Configures opinionated GKE clusters
@@ -37,7 +38,6 @@
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.1), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-4.3.7](https://github.com/robjuz/helm-charts/releases/tag/kimai2-4.3.7), 3 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.11.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.11.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-7.7.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-7.7.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
