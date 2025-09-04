@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta5](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta5), today) - Apache DevLake Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.4](https://github.com/grafana/loki/releases/tag/v3.5.4), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.35.0), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.11.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.11.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.1), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-4.3.7](https://github.com/robjuz/helm-charts/releases/tag/kimai2-4.3.7), 3 days ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.11.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.11.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 
 #### 🔨 My recent Pull Requests
 
