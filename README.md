@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.1.3](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.1.3), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.1](https://github.com/grafana/mimir/releases/tag/mimir-2.17.1), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.2.2), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([pipelines-0.8.0](https://github.com/open-webui/helm-charts/releases/tag/pipelines-0.8.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.14.0), today) - Prometheus community Helm charts
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.0-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.0-alpha), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
