@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.1](https://github.com/grafana/mimir/releases/tag/mimir-2.17.1), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.2.2), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([pipelines-0.8.0](https://github.com/open-webui/helm-charts/releases/tag/pipelines-0.8.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.14.0), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.9](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.9), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta5](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta5), 1 day ago) - Apache DevLake Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.4](https://github.com/grafana/loki/releases/tag/v3.5.4), 1 day ago) - Like Prometheus, but for logs.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.1.0), 2 days ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
