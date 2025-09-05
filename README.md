@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.13.3-tempo-freefrom-toolset](https://github.com/robusta-dev/holmesgpt/releases/tag/0.13.3-tempo-freefrom-toolset), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v6.1.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v6.1.0), 1 day ago) - Sets up a Cloud VPN gateway
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.12.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.12.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.39.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.39.0), 1 day ago) - 
@@ -37,7 +38,6 @@
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.4](https://github.com/grafana/loki/releases/tag/v3.5.4), 1 day ago) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.35.0), 2 days ago) - Prometheus community Helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v38.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v38.1.0), 2 days ago) - Configures opinionated GKE clusters
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.1-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.28.1-alpha), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
