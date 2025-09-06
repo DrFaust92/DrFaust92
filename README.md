@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.43](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.43), 1 day ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.1](https://github.com/grafana/mimir/releases/tag/mimir-2.17.1), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([pipelines-0.8.0](https://github.com/open-webui/helm-charts/releases/tag/pipelines-0.8.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.14.0), 1 day ago) - Prometheus community Helm charts
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.0-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.0-alpha), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v6.1.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v6.1.0), 2 days ago) - Sets up a Cloud VPN gateway
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.12.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.12.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
