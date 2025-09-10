@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.4.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.1), today) - 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.3.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.6.0), 1 day ago) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.10](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.10), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.2), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
