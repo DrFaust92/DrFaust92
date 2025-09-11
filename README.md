@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.4.0), today) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.6.0), 1 day ago) - Prometheus community Helm charts
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.10](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.10), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.2), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.1](https://github.com/grafana/mimir/releases/tag/mimir-2.17.1), 5 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.0-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.0-alpha), 5 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v6.1.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v6.1.0), 6 days ago) - Sets up a Cloud VPN gateway
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.12.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.12.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta5](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta5), 6 days ago) - Apache DevLake Helm Chart
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.4.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.1), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.6.0), 2 days ago) - Prometheus community Helm charts
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.10](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.10), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.2), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.1](https://github.com/grafana/mimir/releases/tag/mimir-2.17.1), 6 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.0-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.0-alpha), 6 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v6.1.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v6.1.0), 1 week ago) - Sets up a Cloud VPN gateway
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.12.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.12.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta5](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta5), 1 week ago) - Apache DevLake Helm Chart
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add support for anonymous_authentication_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2436) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (6 days ago)
-- [feat: add support for additional_pod_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2435) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (6 days ago)
-- [helm: add dnsConfig parameter](https://github.com/grafana/mimir/pull/12618) on [grafana/mimir](https://github.com/grafana/mimir) (6 days ago)
+- [feat: add support for anonymous_authentication_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2436) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
+- [feat: add support for additional_pod_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2435) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
+- [helm: add dnsConfig parameter](https://github.com/grafana/mimir/pull/12618) on [grafana/mimir](https://github.com/grafana/mimir) (1 week ago)
 - [[kube-state-metrics] use named port for service and probes](https://github.com/prometheus-community/helm-charts/pull/6098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [chore(argo-workflows): use named port for server service and probes](https://github.com/argoproj/argo-helm/pull/3459) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [chore(argo-cd): use named port for commit server service and probes](https://github.com/argoproj/argo-helm/pull/3456) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
