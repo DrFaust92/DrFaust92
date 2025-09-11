@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.4.6](https://github.com/grafana/loki/releases/tag/v3.4.6), today) - Like Prometheus, but for logs.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.4.0), 1 day ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.6.0), 2 days ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.0-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.0-alpha), 6 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [terraform-google-modules/terraform-google-vpn](https://github.com/terraform-google-modules/terraform-google-vpn) ([v6.1.0](https://github.com/terraform-google-modules/terraform-google-vpn/releases/tag/v6.1.0), 1 week ago) - Sets up a Cloud VPN gateway
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.12.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.12.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta5](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta5), 1 week ago) - Apache DevLake Helm Chart
 
 #### 🔨 My recent Pull Requests
 
