@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (2 weeks ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (3 weeks ago)
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (3 weeks ago)
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter (1 month ago)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.2), today) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.13.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.13.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.6.1), today) - Prometheus community Helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.5](https://github.com/grafana/loki/releases/tag/v3.5.5), today) - Like Prometheus, but for logs.
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.2), today) - Prometheus ephemeral storage metrics exporter
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.4.0), 1 day ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.10](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.10), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.2), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.1](https://github.com/grafana/mimir/releases/tag/mimir-2.17.1), 6 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.0-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.0-alpha), 6 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.2), 1 day ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.13.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.13.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.6.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.5](https://github.com/grafana/loki/releases/tag/v3.5.5), 1 day ago) - Like Prometheus, but for logs.
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.2), 1 day ago) - Prometheus ephemeral storage metrics exporter
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.4.0), 2 days ago) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.10](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.10), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.2), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.1](https://github.com/grafana/mimir/releases/tag/mimir-2.17.1), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.0-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.0-alpha), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
 #### 🔨 My recent Pull Requests
 
@@ -46,11 +46,11 @@
 - [helm: add dnsConfig parameter](https://github.com/grafana/mimir/pull/12618) on [grafana/mimir](https://github.com/grafana/mimir) (1 week ago)
 - [[kube-state-metrics] use named port for service and probes](https://github.com/prometheus-community/helm-charts/pull/6098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [chore(argo-workflows): use named port for server service and probes](https://github.com/argoproj/argo-helm/pull/3459) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [chore(argo-cd): use named port for commit server service and probes](https://github.com/argoproj/argo-helm/pull/3456) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [chore(argo-rollouts): use named port for service](https://github.com/argoproj/argo-helm/pull/3455) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [add dnsconfig to controller](https://github.com/jenkinsci/helm-charts/pull/1478) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (1 week ago)
-- [[prometheus] use named targetport](https://github.com/prometheus-community/helm-charts/pull/6097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[grafana] upgrade kiwigrid/k8s-sidecar to 1.30.10](https://github.com/grafana/helm-charts/pull/3879) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
+- [chore(argo-cd): use named port for commit server service and probes](https://github.com/argoproj/argo-helm/pull/3456) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
+- [chore(argo-rollouts): use named port for service](https://github.com/argoproj/argo-helm/pull/3455) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
+- [add dnsconfig to controller](https://github.com/jenkinsci/helm-charts/pull/1478) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (2 weeks ago)
+- [[prometheus] use named targetport](https://github.com/prometheus-community/helm-charts/pull/6097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
+- [[grafana] upgrade kiwigrid/k8s-sidecar to 1.30.10](https://github.com/grafana/helm-charts/pull/3879) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
