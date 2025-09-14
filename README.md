@@ -8,7 +8,7 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (3 weeks ago)
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (3 weeks ago)
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (4 weeks ago)
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter (1 month ago)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 month ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (1 month ago)
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.17.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.47.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.47.3), 1 day ago) - 
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.1-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.1-alpha), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.13.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.13.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.5](https://github.com/grafana/loki/releases/tag/v3.5.5), 2 days ago) - Like Prometheus, but for logs.
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.2), 2 days ago) - Prometheus ephemeral storage metrics exporter
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.4.0), 3 days ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.10](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.10), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.2), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.17.0), 2 days ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.47.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.47.3), 2 days ago) - 
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.1-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.1-alpha), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.13.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.13.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.5](https://github.com/grafana/loki/releases/tag/v3.5.5), 3 days ago) - Like Prometheus, but for logs.
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.2), 3 days ago) - Prometheus ephemeral storage metrics exporter
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.4.0), 4 days ago) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.10](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.10), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.2), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.1](https://github.com/grafana/mimir/releases/tag/mimir-2.17.1), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
-- [helm: remove nginx from helm chart](https://github.com/grafana/mimir/pull/12702) on [grafana/mimir](https://github.com/grafana/mimir) (today)
+- [helm: remove nginx from helm chart](https://github.com/grafana/mimir/pull/12702) on [grafana/mimir](https://github.com/grafana/mimir) (1 day ago)
 - [feat: add support for anonymous_authentication_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2436) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [feat: add support for additional_pod_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2435) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [helm: add dnsConfig parameter](https://github.com/grafana/mimir/pull/12618) on [grafana/mimir](https://github.com/grafana/mimir) (1 week ago)
@@ -71,7 +71,7 @@
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (2 months ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (3 months ago)
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (3 months ago)
-- [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (5 months ago)
+- [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (6 months ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (7 months ago)
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (1 year ago)
 - [SygniaLabs/Mirage](https://github.com/SygniaLabs/Mirage) -  (1 year ago)
