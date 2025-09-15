@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.17.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.3.0), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.9.0-rc1](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.9.0-rc1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.1-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.28.1-alpha.1), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.1), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.17.0), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.13.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.13.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.5](https://github.com/grafana/loki/releases/tag/v3.5.5), 4 days ago) - Like Prometheus, but for logs.
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.2), 4 days ago) - Prometheus ephemeral storage metrics exporter
