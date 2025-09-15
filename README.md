@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.1-alpha.1](https://github.com/robusta-dev/robusta/releases/tag/0.28.1-alpha.1), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.1), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.17.0), 3 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.47.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.47.3), 3 days ago) - 
@@ -37,7 +38,6 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.4.0), 5 days ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.10](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.10), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.2), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.1](https://github.com/grafana/mimir/releases/tag/mimir-2.17.1), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
