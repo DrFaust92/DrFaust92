@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.8.0), today) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.3), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v39.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v39.0.0), today) - Configures opinionated GKE clusters
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.7.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.360](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.360), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.1](https://github.com/robusta-dev/robusta/releases/tag/0.28.1), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.2](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.2), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
