@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.3), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v39.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v39.0.0), today) - Configures opinionated GKE clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.7.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.360](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.360), today) - 
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.13.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.13.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.5](https://github.com/grafana/loki/releases/tag/v3.5.5), 5 days ago) - Like Prometheus, but for logs.
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.18.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.18.2), 5 days ago) - Prometheus ephemeral storage metrics exporter
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.4.0), 6 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
