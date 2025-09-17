@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for pod_cidr_overprovision_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2452) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
+- [fix: properly implement additional_ip_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2451) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [helm: remove nginx from helm chart](https://github.com/grafana/mimir/pull/12702) on [grafana/mimir](https://github.com/grafana/mimir) (4 days ago)
 - [feat: add support for anonymous_authentication_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2436) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [feat: add support for additional_pod_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2435) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
@@ -49,8 +51,6 @@
 - [chore(argo-workflows): use named port for server service and probes](https://github.com/argoproj/argo-helm/pull/3459) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 - [chore(argo-cd): use named port for commit server service and probes](https://github.com/argoproj/argo-helm/pull/3456) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 - [chore(argo-rollouts): use named port for service](https://github.com/argoproj/argo-helm/pull/3455) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
-- [add dnsconfig to controller](https://github.com/jenkinsci/helm-charts/pull/1478) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (2 weeks ago)
-- [[prometheus] use named targetport](https://github.com/prometheus-community/helm-charts/pull/6097) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
