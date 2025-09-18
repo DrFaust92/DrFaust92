@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.48.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.48.0), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.11.1](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.11.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.6.0), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.6](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.6), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.9.1), 1 day ago) - Prometheus community Helm charts
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta6](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta6), 1 day ago) - Apache DevLake Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.3), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
