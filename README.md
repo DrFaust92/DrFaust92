@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.14.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.14.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.48.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.44](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.44), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.11.1](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.11.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
@@ -37,7 +38,6 @@
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v39.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v39.0.0), 2 days ago) - Configures opinionated GKE clusters
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.1](https://github.com/robusta-dev/robusta/releases/tag/0.28.1), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.2](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.2), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.13.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.13.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 
 #### 🔨 My recent Pull Requests
 
