@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 weeks ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.38.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.38.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.14.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.14.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.48.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.44](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.44), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.11.1](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.11.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.6.0), 1 day ago) - 
@@ -42,7 +42,7 @@
 #### 🔨 My recent Pull Requests
 
 - [feat: add support for pod_cidr_overprovision_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2452) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
-- [fix: properly implement additional_ip_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2451) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
+- [fix!: properly implement additional_ip_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2451) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
 - [helm: remove nginx from helm chart](https://github.com/grafana/mimir/pull/12702) on [grafana/mimir](https://github.com/grafana/mimir) (5 days ago)
 - [feat: add support for anonymous_authentication_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2436) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [feat: add support for additional_pod_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2435) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
