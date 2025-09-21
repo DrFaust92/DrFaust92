@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [alekp](https://github.com/alekp)
 - [dukkune1](https://github.com/dukkune1)
 - [alex-klikatech](https://github.com/alex-klikatech)
 - [CodeAdminDe](https://github.com/CodeAdminDe)
 - [sins921](https://github.com/sins921)
-- [shamil](https://github.com/shamil)
 
 #### 💬 Feedback
 
