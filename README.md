@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [allow updating pod_cidr_overprovision_config on node pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/15197) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [feat!: add support for pod_cidr_overprovision_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2452) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
 - [fix!: properly implement additional_ip_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2451) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
 - [helm: remove nginx from helm chart](https://github.com/grafana/mimir/pull/12702) on [grafana/mimir](https://github.com/grafana/mimir) (1 week ago)
@@ -50,7 +51,6 @@
 - [[kube-state-metrics] use named port for service and probes](https://github.com/prometheus-community/helm-charts/pull/6098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 - [chore(argo-workflows): use named port for server service and probes](https://github.com/argoproj/argo-helm/pull/3459) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 weeks ago)
 - [chore(argo-cd): use named port for commit server service and probes](https://github.com/argoproj/argo-helm/pull/3456) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 weeks ago)
-- [chore(argo-rollouts): use named port for service](https://github.com/argoproj/argo-helm/pull/3455) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
