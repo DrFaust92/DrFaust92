@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.9.0-rc3](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.9.0-rc3), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.11.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.1), 3 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.14.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.14.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.11.1](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.11.1), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.6.0), 5 days ago) - 
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta6](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta6), 5 days ago) - Apache DevLake Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.3), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
