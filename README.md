@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([everest-db-namespace-1.9.0](https://github.com/percona/percona-helm-charts/releases/tag/everest-db-namespace-1.9.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.12.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.12.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.361](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.361), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.14.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.14.1), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.4](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.4), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
