@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.41.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.41.0), today) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v40.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v40.0.0), today) - Configures opinionated GKE clusters
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-3.0.0), 1 day ago) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.12.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.12.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.14.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.14.1), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
