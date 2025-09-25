@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (today)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
@@ -11,7 +12,6 @@
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (1 month ago)
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter (1 month ago)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 month ago)
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.4), today) - 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.41.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.41.0), 1 day ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v40.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v40.0.0), 1 day ago) - Configures opinionated GKE clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-3.0.0), 2 days ago) - Prometheus community Helm charts
