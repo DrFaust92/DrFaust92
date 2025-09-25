@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.11.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.41.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.41.1), today) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.0), today) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v40.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v40.0.0), 1 day ago) - Configures opinionated GKE clusters
