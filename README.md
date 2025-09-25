@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.1.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.1.4), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.41.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.41.0), 1 day ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v40.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v40.0.0), 1 day ago) - Configures opinionated GKE clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-3.0.0), 2 days ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.6.0), 1 week ago) - 
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta6](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta6), 1 week ago) - Apache DevLake Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.1](https://github.com/robusta-dev/robusta/releases/tag/0.28.1), 1 week ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.2](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.2), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
 #### 🔨 My recent Pull Requests
 
