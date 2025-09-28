@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.12.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.31.1), today) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.7.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.7.0), 2 days ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.41.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.41.1), 3 days ago) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.0), 3 days ago) - 
