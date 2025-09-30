@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.3.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.2.1), 1 day ago) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.8.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.8.0), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.33.2](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.33.2), 2 days ago) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.0), 5 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v40.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v40.0.0), 6 days ago) - Configures opinionated GKE clusters
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.12.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.12.0), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
