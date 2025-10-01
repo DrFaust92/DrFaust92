@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (today)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (5 days ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (6 days ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 weeks ago)
