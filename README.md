@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.15.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.15.0), today) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.42.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.42.0), today) - 
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.4-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.4-alpha), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.40.5](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.40.5), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.3.0), 1 day ago) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.9.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.9.0), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.3.0), 2 days ago) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.0), 1 week ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v40.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v40.0.0), 1 week ago) - Configures opinionated GKE clusters
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-0.12.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-0.12.0), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.14.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.14.1), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.4](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.4), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
