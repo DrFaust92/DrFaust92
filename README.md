@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.3-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.3-alpha), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.3.0), 1 day ago) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.9.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.9.0), 1 day ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.3.0), 2 days ago) - 
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.14.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.14.1), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.4](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.4), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta6](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta6), 2 weeks ago) - Apache DevLake Helm Chart
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.28.1](https://github.com/robusta-dev/robusta/releases/tag/0.28.1), 2 weeks ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
