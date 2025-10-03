@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.12.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.16.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.15.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.15.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.42.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.42.0), 1 day ago) - 
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.4-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.4-alpha), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
