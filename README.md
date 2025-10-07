@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.27.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.14.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.5.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.5.9), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.363](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.363), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.5), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
