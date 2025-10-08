@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update actions](https://github.com/houqp/terraform-provider-airflow/pull/13) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (today)
 - [feat: add support for transparent huge pages configs](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2464) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
 - [fix: additional_ip_ranges_config - again](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2458) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [allow updating pod_cidr_overprovision_config on node pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/15197) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
@@ -50,7 +51,6 @@
 - [feat: add support for anonymous_authentication_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2436) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 month ago)
 - [feat: add support for additional_pod_ranges_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2435) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 month ago)
 - [helm: add dnsConfig parameter](https://github.com/grafana/mimir/pull/12618) on [grafana/mimir](https://github.com/grafana/mimir) (1 month ago)
-- [[kube-state-metrics] use named port for service and probes](https://github.com/prometheus-community/helm-charts/pull/6098) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 month ago)
 
 #### 📜 My recent blog posts
 
