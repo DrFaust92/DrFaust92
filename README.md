@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.13.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.13.0), today) - ArgoProj Helm Charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.2), 1 day ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.15.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.15.1), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.5.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.5.10), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.8.0), 1 day ago) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.10.0), 2 days ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.5), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
