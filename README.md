@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.34.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.34.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.40.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.40.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.13.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.13.0), today) - ArgoProj Helm Charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.2), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.15.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.15.1), 1 day ago) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.10.0), 2 days ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.5), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.15.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.15.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
