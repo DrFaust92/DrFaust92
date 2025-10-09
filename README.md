@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.9.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.16.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.16.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-78.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-78.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.34.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.34.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.13.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.13.0), today) - ArgoProj Helm Charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.2), 1 day ago) - 
