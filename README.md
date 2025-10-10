@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
@@ -11,7 +12,6 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (1 month ago)
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) - Prometheus ephemeral storage metrics exporter (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.100](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.100), today) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.3), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.9.0), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.10.0), 3 days ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.5), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.4-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.4-alpha), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v40.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v40.0.0), 2 weeks ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
