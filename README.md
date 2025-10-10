@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 week ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (2 weeks ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.3), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.0), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.9.0), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.16.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.16.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.2), 1 day ago) - 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.10.0), 2 days ago) - 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.5), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.3), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.0), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.9.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.16.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.16.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.2), 2 days ago) - 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.10.0), 3 days ago) - 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.5), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.14.4-alpha](https://github.com/robusta-dev/holmesgpt/releases/tag/0.14.4-alpha), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v40.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v40.0.0), 2 weeks ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6211) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack]bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6210) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [refresh actions](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/1) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (1 day ago)
-- [Change protocol version from 6.0 to 5.0](https://github.com/DrFaust92/terraform-provider-airflow/pull/53) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
-- [Actions-update](https://github.com/DrFaust92/terraform-provider-airflow/pull/52) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
-- [update actions](https://github.com/houqp/terraform-provider-airflow/pull/13) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 day ago)
-- [feat: add support for transparent huge pages configs](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2464) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (6 days ago)
-- [fix: additional_ip_ranges_config - again](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2458) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
+- [[kube-prometheus-stack] bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6211) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack]bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6210) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [refresh actions](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/1) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (2 days ago)
+- [Change protocol version from 6.0 to 5.0](https://github.com/DrFaust92/terraform-provider-airflow/pull/53) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
+- [Actions-update](https://github.com/DrFaust92/terraform-provider-airflow/pull/52) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
+- [update actions](https://github.com/houqp/terraform-provider-airflow/pull/13) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (2 days ago)
+- [feat: add support for transparent huge pages configs](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2464) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
+- [fix: additional_ip_ranges_config - again](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2458) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [allow updating pod_cidr_overprovision_config on node pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/15197) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
 - [feat!: add support for pod_cidr_overprovision_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2452) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 weeks ago)
 
