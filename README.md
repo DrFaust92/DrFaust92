@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.1), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.6](https://github.com/grafana/loki/releases/tag/v3.5.6), today) - Like Prometheus, but for logs.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.101](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.101), today) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.3), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.9.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.16.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.16.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.2), 2 days ago) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.10.0), 3 days ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.5), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
