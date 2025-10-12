@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-druid-exporter-1.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-druid-exporter-1.2.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-78.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-78.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.1.0](https://github.com/grafana/helm-charts/releases/tag/grafana-10.1.0), 2 days ago) - 
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.1), 2 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.6](https://github.com/grafana/loki/releases/tag/v3.5.6), 2 days ago) - Like Prometheus, but for logs.
