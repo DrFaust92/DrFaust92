@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.8.1), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.1), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.40.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.364](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.364), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), today) - Like Prometheus, but for logs.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.6](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.6), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.15.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.15.0), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.1), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.101](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.101), 3 days ago) - Jenkins helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.0), 4 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.16.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.16.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.2), 5 days ago) - 
 
