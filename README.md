@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (3 days ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (3 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (4 days ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (4 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
@@ -28,25 +28,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.1), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.40.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.364](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.364), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), today) - Like Prometheus, but for logs.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.6](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.6), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.15.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.15.0), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.1), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.101](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.101), 3 days ago) - Jenkins helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.16.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.16.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.2), 5 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.1), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.40.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.364](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.364), 1 day ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 1 day ago) - Like Prometheus, but for logs.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.6](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.6), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.15.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.15.0), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.1), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.101](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.101), 4 days ago) - Jenkins helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.16.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.16.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.2), 6 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6211) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack]bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6210) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [refresh actions](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/1) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (5 days ago)
-- [Change protocol version from 6.0 to 5.0](https://github.com/DrFaust92/terraform-provider-airflow/pull/53) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (5 days ago)
-- [Actions-update](https://github.com/DrFaust92/terraform-provider-airflow/pull/52) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (5 days ago)
-- [update actions](https://github.com/houqp/terraform-provider-airflow/pull/13) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (5 days ago)
+- [[kube-prometheus-stack] bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6211) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[kube-prometheus-stack]bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6210) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [refresh actions](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/1) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (6 days ago)
+- [Change protocol version from 6.0 to 5.0](https://github.com/DrFaust92/terraform-provider-airflow/pull/53) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (6 days ago)
+- [Actions-update](https://github.com/DrFaust92/terraform-provider-airflow/pull/52) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (6 days ago)
+- [update actions](https://github.com/houqp/terraform-provider-airflow/pull/13) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (6 days ago)
 - [feat: add support for transparent huge pages configs](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2464) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [fix: additional_ip_ranges_config - again](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2458) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
 - [allow updating pod_cidr_overprovision_config on node pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/15197) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 weeks ago)
@@ -66,13 +66,13 @@
 
 #### ⭐ Recent Stars
 
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 week ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 weeks ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (1 month ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (2 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (3 months ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (4 months ago)
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (4 months ago)
-- [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (6 months ago)
+- [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (7 months ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (8 months ago)
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (1 year ago)
 - [SygniaLabs/Mirage](https://github.com/SygniaLabs/Mirage) -  (1 year ago)
