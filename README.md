@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.3.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.3.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.11](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.11), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.7), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.13](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.13), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.1), 1 day ago) - ArgoProj Helm Charts
