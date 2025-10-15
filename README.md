@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.2), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.3), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.35.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.35.1), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.11.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.11.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.13.0), 1 day ago) - Prometheus community Helm charts
