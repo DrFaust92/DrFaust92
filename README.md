@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.102](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.102), today) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.41.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.41.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.48.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.48.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.3), today) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 2 days ago) - Like Prometheus, but for logs.
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.15.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.15.0), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.1), 5 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.101](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.101), 5 days ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
 
