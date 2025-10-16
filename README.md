@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.0), today) - Configures opinionated GKE clusters
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.1.4](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.1.4), today) - 
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.2), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-78.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-78.3.0), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.7), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.13](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.13), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 3 days ago) - Like Prometheus, but for logs.
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.15.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.15.0), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
 #### 🔨 My recent Pull Requests
 
