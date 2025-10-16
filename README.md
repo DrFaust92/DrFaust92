@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (5 days ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (5 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (6 days ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (6 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (3 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (1 month ago)
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.43.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.43.0), today) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.102](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.102), today) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.41.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.41.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.3), today) - ArgoProj Helm Charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.11.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.11.0), 1 day ago) - 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.7), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.13](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.13), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 2 days ago) - Like Prometheus, but for logs.
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.15.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.15.0), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.1), 5 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.43.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.43.0), 1 day ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.102](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.102), 1 day ago) - Jenkins helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.41.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.41.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.3), 1 day ago) - ArgoProj Helm Charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.11.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.11.0), 2 days ago) - 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.7), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.13](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.13), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 3 days ago) - Like Prometheus, but for logs.
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.15.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.15.0), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.1), 6 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 
 #### 🔨 My recent Pull Requests
 
