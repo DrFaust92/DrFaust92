@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.2), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-78.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-78.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.43.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.43.0), 1 day ago) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.102](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.102), 1 day ago) - Jenkins helm charts
@@ -37,7 +38,6 @@
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.13](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.13), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 3 days ago) - Like Prometheus, but for logs.
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.15.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.15.0), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.1), 6 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 
 #### 🔨 My recent Pull Requests
 
