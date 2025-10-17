@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (6 days ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (6 days ago)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (1 week ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (3 weeks ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 weeks ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (2 months ago)
 
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.17.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.17.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.0), today) - Configures opinionated GKE clusters
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.1.4](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.1.4), today) - 
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.2), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-78.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-78.3.0), today) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.102](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.102), 1 day ago) - Jenkins helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.3), 1 day ago) - ArgoProj Helm Charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.11.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.11.0), 2 days ago) - 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.7), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.13](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.13), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.17.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.17.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.0), 1 day ago) - Configures opinionated GKE clusters
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.1.4](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.1.4), 1 day ago) - 
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.2), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-78.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-78.3.0), 1 day ago) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.102](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.102), 2 days ago) - Jenkins helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-8.6.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-8.6.3), 2 days ago) - ArgoProj Helm Charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.11.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.11.0), 3 days ago) - 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.7), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.13](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.13), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
@@ -47,10 +47,10 @@
 - [Change protocol version from 6.0 to 5.0](https://github.com/DrFaust92/terraform-provider-airflow/pull/53) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [Actions-update](https://github.com/DrFaust92/terraform-provider-airflow/pull/52) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [update actions](https://github.com/houqp/terraform-provider-airflow/pull/13) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 week ago)
-- [feat: add support for transparent huge pages configs](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2464) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [fix: additional_ip_ranges_config - again](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2458) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
+- [feat: add support for transparent huge pages configs](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2464) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
+- [fix: additional_ip_ranges_config - again](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2458) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 weeks ago)
 - [allow updating pod_cidr_overprovision_config on node pools](https://github.com/GoogleCloudPlatform/magic-modules/pull/15197) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (3 weeks ago)
-- [feat!: add support for pod_cidr_overprovision_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2452) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 weeks ago)
+- [feat!: add support for pod_cidr_overprovision_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2452) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -68,7 +68,7 @@
 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 weeks ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (1 month ago)
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (2 months ago)
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (3 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (3 months ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (4 months ago)
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (4 months ago)
