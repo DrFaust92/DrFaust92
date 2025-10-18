@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (1 week ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (3 weeks ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.5.2), today) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([pipelines-0.10.0](https://github.com/open-webui/helm-charts/releases/tag/pipelines-0.10.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-78.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-78.3.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.1.2](https://github.com/grafana/helm-charts/releases/tag/grafana-10.1.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.1), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.17.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.17.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
