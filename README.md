@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.2), today) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.20.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.20.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.5.2), 2 days ago) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([pipelines-0.10.0](https://github.com/open-webui/helm-charts/releases/tag/pipelines-0.10.0), 2 days ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.1.2](https://github.com/grafana/helm-charts/releases/tag/grafana-10.1.2), 2 days ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.1), 2 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.17.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.17.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.0), 4 days ago) - Configures opinionated GKE clusters
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.2), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
