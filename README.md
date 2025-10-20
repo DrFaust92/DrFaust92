@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (1 week ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
@@ -28,23 +28,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.5.2), 1 day ago) - Prometheus community Helm charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([pipelines-0.10.0](https://github.com/open-webui/helm-charts/releases/tag/pipelines-0.10.0), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.1.2](https://github.com/grafana/helm-charts/releases/tag/grafana-10.1.2), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.1), 1 day ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.17.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.17.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.0), 3 days ago) - Configures opinionated GKE clusters
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.2), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.102](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.102), 4 days ago) - Jenkins helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.7), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.13](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.13), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.5.2), 2 days ago) - Prometheus community Helm charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([pipelines-0.10.0](https://github.com/open-webui/helm-charts/releases/tag/pipelines-0.10.0), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.1.2](https://github.com/grafana/helm-charts/releases/tag/grafana-10.1.2), 2 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.1), 2 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.17.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.17.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.0), 4 days ago) - Configures opinionated GKE clusters
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.2), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.102](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.102), 5 days ago) - Jenkins helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.7), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.13](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.13), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
-- [add OCI chart release](https://github.com/robjuz/helm-charts/pull/156) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 day ago)
-- [Refresh actions](https://github.com/robusta-dev/robusta/pull/1939) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 day ago)
-- [Remove non existant maintainer](https://github.com/prometheus-community/helm-charts/pull/6253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [Add support for OCI chart releases](https://github.com/runatlantis/helm-charts/pull/501) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (1 day ago)
+- [add OCI chart release](https://github.com/robjuz/helm-charts/pull/156) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 days ago)
+- [Refresh actions](https://github.com/robusta-dev/robusta/pull/1939) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 days ago)
+- [Remove non existant maintainer](https://github.com/prometheus-community/helm-charts/pull/6253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [Add support for OCI chart releases](https://github.com/runatlantis/helm-charts/pull/501) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6211) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack]bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6210) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [refresh actions](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/1) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (1 week ago)
