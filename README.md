@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.8](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.8), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.365](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.365), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.2), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.20.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.20.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.5.2), 2 days ago) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([pipelines-0.10.0](https://github.com/open-webui/helm-charts/releases/tag/pipelines-0.10.0), 2 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.17.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.17.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.0), 4 days ago) - Configures opinionated GKE clusters
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.2](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.2), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.102](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.102), 5 days ago) - Jenkins helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.7), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.4.13](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.4.13), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
