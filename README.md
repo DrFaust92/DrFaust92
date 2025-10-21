@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.0](https://github.com/robusta-dev/robusta/releases/tag/0.29.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.104](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.104), today) - Jenkins helm charts
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta7](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta7), today) - Apache DevLake Helm Chart
@@ -37,7 +38,6 @@
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.12.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.12.2), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.3), 1 day ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.8](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.8), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([pipelines-0.10.0](https://github.com/open-webui/helm-charts/releases/tag/pipelines-0.10.0), 3 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
