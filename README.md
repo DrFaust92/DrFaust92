@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (1 week ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 weeks ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (3 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-78.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-78.4.0), today) - Prometheus community Helm charts
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.0](https://github.com/robusta-dev/robusta/releases/tag/0.29.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.104](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.104), today) - Jenkins helm charts
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta7](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta7), today) - Apache DevLake Helm Chart
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.0.0-rc.0), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.0-rc.0), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.3), 1 day ago) - ArgoProj Helm Charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.8](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.8), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-78.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-78.4.0), 1 day ago) - Prometheus community Helm charts
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.0](https://github.com/robusta-dev/robusta/releases/tag/0.29.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.104](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.104), 1 day ago) - Jenkins helm charts
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta7](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta7), 1 day ago) - Apache DevLake Helm Chart
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.0.0-rc.0), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.0-rc.0), 2 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.3), 2 days ago) - ArgoProj Helm Charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.8](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.8), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
-- [add OCI chart release](https://github.com/robjuz/helm-charts/pull/156) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (3 days ago)
-- [Refresh actions](https://github.com/robusta-dev/robusta/pull/1939) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (3 days ago)
-- [Remove non existant maintainer](https://github.com/prometheus-community/helm-charts/pull/6253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [Add support for OCI chart releases](https://github.com/runatlantis/helm-charts/pull/501) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (3 days ago)
-- [[kube-prometheus-stack] bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6211) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack]bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6210) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [refresh actions](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/1) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (1 week ago)
-- [Change protocol version from 6.0 to 5.0](https://github.com/DrFaust92/terraform-provider-airflow/pull/53) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
-- [Actions-update](https://github.com/DrFaust92/terraform-provider-airflow/pull/52) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
-- [update actions](https://github.com/houqp/terraform-provider-airflow/pull/13) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 week ago)
+- [add OCI chart release](https://github.com/robjuz/helm-charts/pull/156) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (4 days ago)
+- [Refresh actions](https://github.com/robusta-dev/robusta/pull/1939) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (4 days ago)
+- [Remove non existant maintainer](https://github.com/prometheus-community/helm-charts/pull/6253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [Add support for OCI chart releases](https://github.com/runatlantis/helm-charts/pull/501) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (4 days ago)
+- [[kube-prometheus-stack] bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6211) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
+- [[kube-prometheus-stack]bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6210) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
+- [refresh actions](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/1) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (2 weeks ago)
+- [Change protocol version from 6.0 to 5.0](https://github.com/DrFaust92/terraform-provider-airflow/pull/53) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
+- [Actions-update](https://github.com/DrFaust92/terraform-provider-airflow/pull/52) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
+- [update actions](https://github.com/houqp/terraform-provider-airflow/pull/13) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
