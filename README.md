@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.9.9](https://github.com/grafana/helm-charts/releases/tag/beyla-1.9.9), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.44.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.44.0), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.16.2](https://github.com/grafana/mimir/releases/tag/mimir-2.16.2), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.4.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.4.4), today) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.0](https://github.com/robusta-dev/robusta/releases/tag/0.29.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
