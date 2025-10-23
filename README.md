@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.18.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.14.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.14.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.4), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.16.2](https://github.com/grafana/mimir/releases/tag/mimir-2.16.2), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
@@ -37,7 +38,6 @@
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta7](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta7), 2 days ago) - Apache DevLake Helm Chart
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.8](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.8), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
