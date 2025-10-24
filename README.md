@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-78.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-78.5.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.5), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.18.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
@@ -37,7 +38,6 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.104](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.104), 3 days ago) - Jenkins helm charts
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta7](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta7), 3 days ago) - Apache DevLake Helm Chart
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
