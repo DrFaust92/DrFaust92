@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (2 weeks ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (2 weeks ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 weeks ago)
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (4 weeks ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 months ago)
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (2 months ago)
@@ -28,23 +28,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.49.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.49.0), today) - Prometheus community Helm charts
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.5), today) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.18.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.4), 1 day ago) - 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.16.2](https://github.com/grafana/mimir/releases/tag/mimir-2.16.2), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.0](https://github.com/robusta-dev/robusta/releases/tag/0.29.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.104](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.104), 3 days ago) - Jenkins helm charts
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta7](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta7), 3 days ago) - Apache DevLake Helm Chart
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.5), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.49.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.49.0), 1 day ago) - Prometheus community Helm charts
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.5), 1 day ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.18.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.16.2](https://github.com/grafana/mimir/releases/tag/mimir-2.16.2), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.0](https://github.com/robusta-dev/robusta/releases/tag/0.29.0), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.104](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.104), 4 days ago) - Jenkins helm charts
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), 4 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta7](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta7), 4 days ago) - Apache DevLake Helm Chart
 
 #### 🔨 My recent Pull Requests
 
-- [add OCI chart release](https://github.com/robjuz/helm-charts/pull/156) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (6 days ago)
-- [Refresh actions](https://github.com/robusta-dev/robusta/pull/1939) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (6 days ago)
-- [Remove non existant maintainer](https://github.com/prometheus-community/helm-charts/pull/6253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [Add support for OCI chart releases](https://github.com/runatlantis/helm-charts/pull/501) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (6 days ago)
+- [add OCI chart release](https://github.com/robjuz/helm-charts/pull/156) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 week ago)
+- [Refresh actions](https://github.com/robusta-dev/robusta/pull/1939) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 week ago)
+- [Remove non existant maintainer](https://github.com/prometheus-community/helm-charts/pull/6253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [Add support for OCI chart releases](https://github.com/runatlantis/helm-charts/pull/501) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6211) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack]bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6210) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [refresh actions](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/1) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (2 weeks ago)
