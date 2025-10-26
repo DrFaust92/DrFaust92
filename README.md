@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.51.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.51.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.7.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.50.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.50.0), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.1), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.5), 2 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.18.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
