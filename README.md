@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.1), today) - Configures opinionated GKE clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.15.1), today) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.0-rc.1](https://github.com/grafana/mimir/releases/tag/mimir-3.0.0-rc.1), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.12](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.12), today) - 
@@ -37,7 +38,6 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.0](https://github.com/robusta-dev/robusta/releases/tag/0.29.0), 1 week ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.104](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.104), 1 week ago) - Jenkins helm charts
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta7](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta7), 1 week ago) - Apache DevLake Helm Chart
 
 #### 🔨 My recent Pull Requests
 
