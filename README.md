@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.1.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.1.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.1.4](https://github.com/grafana/helm-charts/releases/tag/grafana-10.1.4), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.2](https://github.com/grafana/mimir/releases/tag/mimir-2.17.2), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.1), 1 day ago) - Configures opinionated GKE clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.15.1), 1 day ago) - Prometheus community Helm charts
