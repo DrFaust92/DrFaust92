@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.42.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.42.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.366](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.366), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.30.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.0.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.37.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.37.0), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.2](https://github.com/grafana/mimir/releases/tag/mimir-2.17.2), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.1), 2 days ago) - Configures opinionated GKE clusters
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.1), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
