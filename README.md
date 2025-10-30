@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.45.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.45.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.45.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.45.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.4.2), today) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.0-rc.2](https://github.com/grafana/mimir/releases/tag/mimir-3.0.0-rc.2), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.2](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.2), today) - Collection of Helm charts for Percona Kubernetes Operators.
