@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.0.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.37.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.37.0), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.2](https://github.com/grafana/mimir/releases/tag/mimir-2.17.2), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.1), 2 days ago) - Configures opinionated GKE clusters
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.15.1), 2 days ago) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.21.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.21.1), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.5), 6 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.18.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
