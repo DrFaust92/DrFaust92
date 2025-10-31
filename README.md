@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.105](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.105), today) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.19.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.52.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.52.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.4.2), 1 day ago) - Prometheus community Helm charts
@@ -36,7 +37,6 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.30.0-alpha), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.1), 3 days ago) - Configures opinionated GKE clusters
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.5), 1 week ago) - ArgoProj Helm Charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.104](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.104), 1 week ago) - Jenkins helm charts
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
 #### 🔨 My recent Pull Requests
