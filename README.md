@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-4.3.10](https://github.com/robjuz/helm-charts/releases/tag/kimai2-4.3.10), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.42.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.42.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.5.2](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.5.2), today) - 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-4.3.9](https://github.com/robjuz/helm-charts/releases/tag/kimai2-4.3.9), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.0](https://github.com/grafana/mimir/releases/tag/mimir-3.0.0), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.105](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.105), 1 day ago) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.19.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
