@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Nominatim: add initcontainers for updates job](https://github.com/robjuz/helm-charts/pull/159) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (today)
 - [bump to 5.2](https://github.com/mediagis/nominatim-docker/pull/632) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (today)
 - [docs: OCI support](https://github.com/robjuz/helm-charts/pull/158) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 day ago)
 - [pool fixes &#43; better tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/56) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
@@ -50,7 +51,6 @@
 - [Refresh actions](https://github.com/robusta-dev/robusta/pull/1939) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
 - [Remove non existant maintainer](https://github.com/prometheus-community/helm-charts/pull/6253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Add support for OCI chart releases](https://github.com/runatlantis/helm-charts/pull/501) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 weeks ago)
-- [[kube-prometheus-stack] bump to 0.86.0](https://github.com/prometheus-community/helm-charts/pull/6211) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
