@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.1](https://github.com/robusta-dev/robusta/releases/tag/0.29.1), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.9](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.9), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.1), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.52.8](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.52.8), today) - 
@@ -36,7 +37,6 @@
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.0](https://github.com/grafana/mimir/releases/tag/mimir-3.0.0), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.105](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.105), 3 days ago) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.19.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.30.0-alpha), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.1), 6 days ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
