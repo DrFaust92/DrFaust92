@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.9](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.9), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.1), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.52.8](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.52.8), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.20.0), today) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.4), 2 days ago) - 
@@ -36,8 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.19.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.30.0-alpha), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.1), 6 days ago) - Configures opinionated GKE clusters
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.5), 1 week ago) - ArgoProj Helm Charts
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
 #### 🔨 My recent Pull Requests
 
