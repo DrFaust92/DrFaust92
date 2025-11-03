@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.12.3](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.12.3), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.1), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.20.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.20.2), today) - Atlantis Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.1](https://github.com/robusta-dev/robusta/releases/tag/0.29.1), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
@@ -37,10 +38,11 @@
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.4), 2 days ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.0](https://github.com/grafana/mimir/releases/tag/mimir-3.0.0), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.105](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.105), 3 days ago) - Jenkins helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.19.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 
 #### 🔨 My recent Pull Requests
 
+- [Add path filter for release workflow on master](https://github.com/robjuz/helm-charts/pull/161) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (today)
+- [Pin version for nominatim-api in Dockerfile](https://github.com/mediagis/nominatim-docker/pull/635) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (today)
 - [Nominatim: add initcontainers for updates job](https://github.com/robjuz/helm-charts/pull/159) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 day ago)
 - [bump to 5.2](https://github.com/mediagis/nominatim-docker/pull/632) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (1 day ago)
 - [docs: OCI support](https://github.com/robjuz/helm-charts/pull/158) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 days ago)
@@ -49,8 +51,6 @@
 - [use 2.7.x sdk folk &#43; deffered pool](https://github.com/houqp/terraform-provider-airflow/pull/14) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (3 days ago)
 - [add OCI chart release](https://github.com/robjuz/helm-charts/pull/156) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 weeks ago)
 - [Refresh actions](https://github.com/robusta-dev/robusta/pull/1939) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
-- [Remove non existant maintainer](https://github.com/prometheus-community/helm-charts/pull/6253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [Add support for OCI chart releases](https://github.com/runatlantis/helm-charts/pull/501) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
