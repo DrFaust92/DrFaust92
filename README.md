@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (today)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 day ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 day ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (3 weeks ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (3 weeks ago)
@@ -28,25 +28,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.1.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.52.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.52.7), today) - 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.4), 1 day ago) - 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.0](https://github.com/grafana/mimir/releases/tag/mimir-3.0.0), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.105](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.105), 2 days ago) - Jenkins helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.19.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.30.0-alpha), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.1), 5 days ago) - Configures opinionated GKE clusters
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.1.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.52.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.52.7), 1 day ago) - 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.4), 2 days ago) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.0](https://github.com/grafana/mimir/releases/tag/mimir-3.0.0), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.105](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.105), 3 days ago) - Jenkins helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.19.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.30.0-alpha), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.1), 6 days ago) - Configures opinionated GKE clusters
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.0.5), 1 week ago) - ArgoProj Helm Charts
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.0](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.0), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
 #### 🔨 My recent Pull Requests
 
-- [Nominatim: add initcontainers for updates job](https://github.com/robjuz/helm-charts/pull/159) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (today)
-- [bump to 5.2](https://github.com/mediagis/nominatim-docker/pull/632) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (today)
-- [docs: OCI support](https://github.com/robjuz/helm-charts/pull/158) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 day ago)
-- [pool fixes &#43; better tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/56) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
-- [Airflow-2.7.x-deffered_pools](https://github.com/DrFaust92/terraform-provider-airflow/pull/55) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
-- [use 2.7.x sdk folk &#43; deffered pool](https://github.com/houqp/terraform-provider-airflow/pull/14) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (2 days ago)
+- [Nominatim: add initcontainers for updates job](https://github.com/robjuz/helm-charts/pull/159) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 day ago)
+- [bump to 5.2](https://github.com/mediagis/nominatim-docker/pull/632) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (1 day ago)
+- [docs: OCI support](https://github.com/robjuz/helm-charts/pull/158) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 days ago)
+- [pool fixes &#43; better tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/56) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
+- [Airflow-2.7.x-deffered_pools](https://github.com/DrFaust92/terraform-provider-airflow/pull/55) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
+- [use 2.7.x sdk folk &#43; deffered pool](https://github.com/houqp/terraform-provider-airflow/pull/14) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (3 days ago)
 - [add OCI chart release](https://github.com/robjuz/helm-charts/pull/156) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 weeks ago)
 - [Refresh actions](https://github.com/robusta-dev/robusta/pull/1939) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
 - [Remove non existant maintainer](https://github.com/prometheus-community/helm-charts/pull/6253) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
