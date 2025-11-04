@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.52.10](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.52.10), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.28.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.52.9](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.52.9), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.17](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.17), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.106](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.106), today) - Jenkins helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.12.3](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.12.3), 1 day ago) - 
