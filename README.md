@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.8.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.17](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.17), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.106](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.106), today) - Jenkins helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.12.3](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.12.3), 1 day ago) - 
@@ -36,7 +37,6 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.1](https://github.com/robusta-dev/robusta/releases/tag/0.29.1), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.9](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.9), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.1), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.20.0), 1 day ago) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.3.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.3.4), 3 days ago) - 
 
 #### 🔨 My recent Pull Requests
