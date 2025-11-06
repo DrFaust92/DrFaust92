@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 day ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 days ago)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (4 days ago)
-- [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim (4 days ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 days ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 days ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (5 days ago)
+- [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (3 weeks ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (3 weeks ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 weeks ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
 
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.16](https://github.com/grafana/loki/releases/tag/v2.9.16), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.3](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.3), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.44.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.44.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.0), 1 day ago) - ArgoProj Helm Charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.106](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.106), 1 day ago) - Jenkins helm charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.12.3](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.12.3), 2 days ago) - 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.20.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.20.2), 2 days ago) - Atlantis Helm Chart
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.1](https://github.com/robusta-dev/robusta/releases/tag/0.29.1), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.9](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.9), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.1), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.16](https://github.com/grafana/loki/releases/tag/v2.9.16), 1 day ago) - Like Prometheus, but for logs.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.3](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.3), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.44.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.44.0), 2 days ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.0), 2 days ago) - ArgoProj Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.106](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.106), 2 days ago) - Jenkins helm charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.12.3](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.12.3), 3 days ago) - 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.20.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.20.2), 3 days ago) - Atlantis Helm Chart
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.1](https://github.com/robusta-dev/robusta/releases/tag/0.29.1), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.9](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.9), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.1), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
 #### 🔨 My recent Pull Requests
 
-- [Add path filter for release workflow on master](https://github.com/robjuz/helm-charts/pull/161) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 days ago)
-- [Pin version for nominatim-api in Dockerfile](https://github.com/mediagis/nominatim-docker/pull/635) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (2 days ago)
-- [Nominatim: add initcontainers for updates job](https://github.com/robjuz/helm-charts/pull/159) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (3 days ago)
-- [bump to 5.2](https://github.com/mediagis/nominatim-docker/pull/632) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (3 days ago)
-- [docs: OCI support](https://github.com/robjuz/helm-charts/pull/158) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (4 days ago)
-- [pool fixes &#43; better tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/56) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (5 days ago)
-- [Airflow-2.7.x-deffered_pools](https://github.com/DrFaust92/terraform-provider-airflow/pull/55) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (5 days ago)
-- [use 2.7.x sdk folk &#43; deffered pool](https://github.com/houqp/terraform-provider-airflow/pull/14) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (5 days ago)
+- [Add path filter for release workflow on master](https://github.com/robjuz/helm-charts/pull/161) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (3 days ago)
+- [Pin version for nominatim-api in Dockerfile](https://github.com/mediagis/nominatim-docker/pull/635) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (3 days ago)
+- [Nominatim: add initcontainers for updates job](https://github.com/robjuz/helm-charts/pull/159) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (4 days ago)
+- [bump to 5.2](https://github.com/mediagis/nominatim-docker/pull/632) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (4 days ago)
+- [docs: OCI support](https://github.com/robjuz/helm-charts/pull/158) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (5 days ago)
+- [pool fixes &#43; better tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/56) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (6 days ago)
+- [Airflow-2.7.x-deffered_pools](https://github.com/DrFaust92/terraform-provider-airflow/pull/55) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (6 days ago)
+- [use 2.7.x sdk folk &#43; deffered pool](https://github.com/houqp/terraform-provider-airflow/pull/14) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (6 days ago)
 - [add OCI chart release](https://github.com/robjuz/helm-charts/pull/156) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 weeks ago)
 - [Refresh actions](https://github.com/robusta-dev/robusta/pull/1939) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
 
