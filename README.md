@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.2.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.7](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.7), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.16](https://github.com/grafana/loki/releases/tag/v2.9.16), 1 day ago) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.3](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.3), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.0), 2 days ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.106](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.106), 2 days ago) - Jenkins helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.12.3](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.12.3), 3 days ago) - 
