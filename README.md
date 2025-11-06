@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.20.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.20.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.2.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.7](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.7), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.16](https://github.com/grafana/loki/releases/tag/v2.9.16), 1 day ago) - Like Prometheus, but for logs.
@@ -37,7 +38,6 @@
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.20.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.20.2), 3 days ago) - Atlantis Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.1](https://github.com/robusta-dev/robusta/releases/tag/0.29.1), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.9](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.9), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) ([0.16.1](https://github.com/robusta-dev/holmesgpt/releases/tag/0.16.1), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
 #### 🔨 My recent Pull Requests
 
