@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add artifact attestation](https://github.com/runatlantis/helm-charts/pull/505) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (today)
 - [add oci chart release for robusta](https://github.com/robusta-dev/robusta/pull/1954) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (today)
 - [Add path filter for release workflow on master](https://github.com/robjuz/helm-charts/pull/161) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (4 days ago)
 - [Pin version for nominatim-api in Dockerfile](https://github.com/mediagis/nominatim-docker/pull/635) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (4 days ago)
@@ -50,7 +51,6 @@
 - [pool fixes &#43; better tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/56) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [Airflow-2.7.x-deffered_pools](https://github.com/DrFaust92/terraform-provider-airflow/pull/55) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [use 2.7.x sdk folk &#43; deffered pool](https://github.com/houqp/terraform-provider-airflow/pull/14) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 week ago)
-- [add OCI chart release](https://github.com/robjuz/helm-charts/pull/156) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
