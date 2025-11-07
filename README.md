@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.17](https://github.com/grafana/loki/releases/tag/v2.9.17), today) - Like Prometheus, but for logs.
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.2), today) - Configures opinionated GKE clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.32.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.32.3), today) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.14.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.14.0), 1 day ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.20.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.20.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.7](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.7), 1 day ago) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.16](https://github.com/grafana/loki/releases/tag/v2.9.16), 2 days ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.0), 3 days ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.106](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.106), 3 days ago) - Jenkins helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.20.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.20.2), 4 days ago) - Atlantis Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.1](https://github.com/robusta-dev/robusta/releases/tag/0.29.1), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.9](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.9), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
