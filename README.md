@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.4.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-24.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-24.0.2), today) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.14.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.14.0), 1 day ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.20.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.20.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.7](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.7), 1 day ago) - 
