@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.368](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.368), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.54.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.54.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.4.1), 2 days ago) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.107](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.107), 2 days ago) - Jenkins helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.17](https://github.com/grafana/loki/releases/tag/v2.9.17), 3 days ago) - Like Prometheus, but for logs.
