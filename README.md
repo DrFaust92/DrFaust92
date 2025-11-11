@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.108](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.108), today) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.5.0), today) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.10](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.10), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.55.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.55.0), 1 day ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.107](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.107), 3 days ago) - Jenkins helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.17](https://github.com/grafana/loki/releases/tag/v2.9.17), 4 days ago) - Like Prometheus, but for logs.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.2), 4 days ago) - Configures opinionated GKE clusters
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.14.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.14.0), 5 days ago) - 
