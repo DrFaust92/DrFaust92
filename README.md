@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.56.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.56.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([synthetic-monitoring-agent-1.1.1](https://github.com/grafana/helm-charts/releases/tag/synthetic-monitoring-agent-1.1.1), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.21.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.21.0), today) - Atlantis Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.108](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.108), 1 day ago) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.0), 1 day ago) - ArgoProj Helm Charts
