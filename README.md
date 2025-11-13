@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add password wo for connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/57) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [add password wo for connection](https://github.com/houqp/terraform-provider-airflow/pull/15) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (today)
 - [remove deprecated ingress versions and logic](https://github.com/runatlantis/helm-charts/pull/506) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (6 days ago)
 - [add artifact attestation](https://github.com/runatlantis/helm-charts/pull/505) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (6 days ago)
 - [add oci chart release for robusta](https://github.com/robusta-dev/robusta/pull/1954) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (6 days ago)
@@ -49,8 +51,6 @@
 - [Nominatim: add initcontainers for updates job](https://github.com/robjuz/helm-charts/pull/159) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 week ago)
 - [bump to 5.2](https://github.com/mediagis/nominatim-docker/pull/632) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (1 week ago)
 - [docs: OCI support](https://github.com/robjuz/helm-charts/pull/158) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 week ago)
-- [pool fixes &#43; better tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/56) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
-- [Airflow-2.7.x-deffered_pools](https://github.com/DrFaust92/terraform-provider-airflow/pull/55) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 
 #### 📜 My recent blog posts
 
