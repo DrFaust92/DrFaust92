@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.3), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.2](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.2), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.21.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.21.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta8](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta8), 1 day ago) - Apache DevLake Helm Chart
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.28](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.28), 1 day ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.110](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.110), 2 days ago) - Jenkins helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.21.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.21.0), 2 days ago) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.5.0), 3 days ago) - Prometheus community Helm charts
