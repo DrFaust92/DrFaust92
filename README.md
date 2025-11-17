@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.11](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.11), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.7), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.1), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.21.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.21.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
@@ -35,7 +36,6 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.110](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.110), 5 days ago) - Jenkins helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.21.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.21.0), 5 days ago) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.5.0), 6 days ago) - Prometheus community Helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.10](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.10), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.17](https://github.com/grafana/loki/releases/tag/v2.9.17), 1 week ago) - Like Prometheus, but for logs.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.2), 1 week ago) - Configures opinionated GKE clusters
 
