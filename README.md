@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 week ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (2 weeks ago)
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim (2 weeks ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (1 month ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 month ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 month ago)
@@ -28,26 +28,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.7), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.1), 2 days ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.21.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.21.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta8](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta8), 3 days ago) - Apache DevLake Helm Chart
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.110](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.110), 4 days ago) - Jenkins helm charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.21.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.21.0), 4 days ago) - Atlantis Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.5.0), 5 days ago) - Prometheus community Helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.10](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.10), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.7), 2 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.1), 3 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.21.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.21.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta8](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta8), 4 days ago) - Apache DevLake Helm Chart
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.110](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.110), 5 days ago) - Jenkins helm charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.21.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.21.0), 5 days ago) - Atlantis Helm Chart
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.5.0), 6 days ago) - Prometheus community Helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.10](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.10), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.17](https://github.com/grafana/loki/releases/tag/v2.9.17), 1 week ago) - Like Prometheus, but for logs.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.2), 1 week ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
-- [add password wo for connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/57) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
-- [add password wo for connection](https://github.com/houqp/terraform-provider-airflow/pull/15) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (3 days ago)
+- [add password wo for connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/57) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (4 days ago)
+- [add password wo for connection](https://github.com/houqp/terraform-provider-airflow/pull/15) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (4 days ago)
 - [remove deprecated ingress versions and logic](https://github.com/runatlantis/helm-charts/pull/506) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (1 week ago)
 - [add artifact attestation](https://github.com/runatlantis/helm-charts/pull/505) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (1 week ago)
 - [add oci chart release for robusta](https://github.com/robusta-dev/robusta/pull/1954) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 week ago)
-- [Add path filter for release workflow on master](https://github.com/robjuz/helm-charts/pull/161) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 week ago)
-- [Pin version for nominatim-api in Dockerfile](https://github.com/mediagis/nominatim-docker/pull/635) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (1 week ago)
+- [Add path filter for release workflow on master](https://github.com/robjuz/helm-charts/pull/161) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 weeks ago)
+- [Pin version for nominatim-api in Dockerfile](https://github.com/mediagis/nominatim-docker/pull/635) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (2 weeks ago)
 - [Nominatim: add initcontainers for updates job](https://github.com/robjuz/helm-charts/pull/159) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 weeks ago)
 - [bump to 5.2](https://github.com/mediagis/nominatim-docker/pull/632) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (2 weeks ago)
 - [docs: OCI support](https://github.com/robjuz/helm-charts/pull/158) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 weeks ago)
