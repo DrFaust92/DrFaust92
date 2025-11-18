@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.56.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.56.2), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.0](https://github.com/grafana/loki/releases/tag/v3.6.0), 1 day ago) - Like Prometheus, but for logs.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.11](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.11), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.7), 3 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.1), 4 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.21.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.21.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta8](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta8), 5 days ago) - Apache DevLake Helm Chart
