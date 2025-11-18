@@ -66,6 +66,7 @@
 
 #### ⭐ Recent Stars
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (today)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 month ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (3 months ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (4 months ago)
@@ -75,7 +76,6 @@
 - [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (8 months ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (9 months ago)
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Provider for Google Cloud Platform (Beta) (1 year ago)
-- [SygniaLabs/Mirage](https://github.com/SygniaLabs/Mirage) -  (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
