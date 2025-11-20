@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 days ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (2 weeks ago)
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.1.5](https://github.com/grafana/helm-charts/releases/tag/grafana-10.1.5), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.0](https://github.com/grafana/loki/releases/tag/v3.6.0), 2 days ago) - Like Prometheus, but for logs.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.11](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.11), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.1), 5 days ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.21.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.21.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta8](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta8), 6 days ago) - Apache DevLake Helm Chart
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.29.2-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.6.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.1.5](https://github.com/grafana/helm-charts/releases/tag/grafana-10.1.5), 1 day ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.0](https://github.com/grafana/loki/releases/tag/v3.6.0), 3 days ago) - Like Prometheus, but for logs.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.11](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.11), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.1), 6 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.21.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.21.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta8](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta8), 1 week ago) - Apache DevLake Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.110](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.110), 1 week ago) - Jenkins helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.21.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.21.0), 1 week ago) - Atlantis Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.5.0), 1 week ago) - Prometheus community Helm charts
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v41.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v41.0.2), 1 week ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
-- [add password wo for connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/57) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (6 days ago)
-- [add password wo for connection](https://github.com/houqp/terraform-provider-airflow/pull/15) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (6 days ago)
+- [add password wo for connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/57) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
+- [add password wo for connection](https://github.com/houqp/terraform-provider-airflow/pull/15) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 week ago)
 - [remove deprecated ingress versions and logic](https://github.com/runatlantis/helm-charts/pull/506) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (1 week ago)
 - [add artifact attestation](https://github.com/runatlantis/helm-charts/pull/505) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (1 week ago)
 - [add oci chart release for robusta](https://github.com/robusta-dev/robusta/pull/1954) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 week ago)
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (1 day ago)
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (2 days ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 month ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (3 months ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (4 months ago)
@@ -82,11 +82,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [YumiUser1451](https://github.com/YumiUser1451)
 - [SridharRG](https://github.com/SridharRG)
 - [ross-armada](https://github.com/ross-armada)
 - [alekp](https://github.com/alekp)
 - [dukkune1](https://github.com/dukkune1)
-- [alex-klikatech](https://github.com/alex-klikatech)
 
 #### 💬 Feedback
 
