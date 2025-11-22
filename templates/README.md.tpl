@@ -20,10 +20,12 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+{{/*
 #### 📜 My recent blog posts
 {{range rss "https://medium.com/feed/@ilia.lazebnik" 5 userAgent="Mozilla/5.0" }}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+*/}}
 
 #### 🎙️ My recent podcasts
 - [https://youtu.be/UGsZ34RBAjs?si=yJHwGc1pjmaTyK2l](Contributing to the Terraform AWS Provider with Ilia Lazebnik - The IaC Podcast)
