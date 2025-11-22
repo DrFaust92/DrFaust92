@@ -21,7 +21,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://medium.com/feed/@ilia.lazebnik" 5}}
+{{range rss "https://medium.com/feed/@ilia.lazebnik" 5 userAgent="Mozilla/5.0" }}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
