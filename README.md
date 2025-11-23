@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.1), today) - A K8s operator to manager airflow resources as custom resources
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.2](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.2), today) - A K8s operator to manager airflow resources as custom resources
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2](https://github.com/robusta-dev/robusta/releases/tag/0.29.2), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.4), today) - ArgoProj Helm Charts
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add support for connection](https://github.com/DrFaust92/airflow-k8s-operator/pull/3) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [release docker flow](https://github.com/DrFaust92/airflow-k8s-operator/pull/2) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [Test GH workflow for test](https://github.com/DrFaust92/airflow-k8s-operator/pull/1) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
 - [add password wo for connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/57) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
@@ -50,7 +51,6 @@
 - [add oci chart release for robusta](https://github.com/robusta-dev/robusta/pull/1954) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
 - [Add path filter for release workflow on master](https://github.com/robjuz/helm-charts/pull/161) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 weeks ago)
 - [Pin version for nominatim-api in Dockerfile](https://github.com/mediagis/nominatim-docker/pull/635) on [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) (2 weeks ago)
-- [Nominatim: add initcontainers for updates job](https://github.com/robjuz/helm-charts/pull/159) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (3 weeks ago)
 
 
 
