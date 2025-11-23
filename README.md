@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3-alpha), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.4), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.2.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.20.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.22.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.22.1), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.1](https://github.com/grafana/loki/releases/tag/v3.6.1), 2 days ago) - Like Prometheus, but for logs.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.29.2-alpha), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.11](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.11), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.1), 1 week ago) - ArgoProj Helm Charts
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta8](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta8), 1 week ago) - Apache DevLake Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.110](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.110), 1 week ago) - Jenkins helm charts
 
