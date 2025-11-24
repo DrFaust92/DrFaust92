@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.16.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.16.0), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.12](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.12), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.5](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.5), today) - A K8s operator to manager airflow resources as custom resources
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.15.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.15.0), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2](https://github.com/robusta-dev/robusta/releases/tag/0.29.2), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.4), 1 day ago) - ArgoProj Helm Charts
