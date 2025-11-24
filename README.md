@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.4](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.4), today) - A K8s operator to manager airflow resources as custom resources
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.5](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.5), today) - A K8s operator to manager airflow resources as custom resources
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.15.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.15.0), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2](https://github.com/robusta-dev/robusta/releases/tag/0.29.2), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.4), 1 day ago) - ArgoProj Helm Charts
@@ -37,10 +38,11 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.22.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.22.1), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.1](https://github.com/grafana/loki/releases/tag/v3.6.1), 3 days ago) - Like Prometheus, but for logs.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.11](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.11), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta8](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta8), 1 week ago) - Apache DevLake Helm Chart
 
 #### 🔨 My recent Pull Requests
 
+- [Docs &#43; reconcile loop every 5 mins (by default)](https://github.com/DrFaust92/airflow-k8s-operator/pull/7) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [add rbac to operator chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/6) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [add liveness probe to helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/5) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [add helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/4) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [add support for connection](https://github.com/DrFaust92/airflow-k8s-operator/pull/3) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
@@ -49,8 +51,6 @@
 - [add password wo for connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/57) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [add password wo for connection](https://github.com/houqp/terraform-provider-airflow/pull/15) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 week ago)
 - [remove deprecated ingress versions and logic](https://github.com/runatlantis/helm-charts/pull/506) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 weeks ago)
-- [add artifact attestation](https://github.com/runatlantis/helm-charts/pull/505) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 weeks ago)
-- [add oci chart release for robusta](https://github.com/robusta-dev/robusta/pull/1954) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
 
 
 
