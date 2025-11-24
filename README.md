@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.3](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.3), 1 day ago) - A K8s operator to manager airflow resources as custom resources
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.4](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.4), today) - A K8s operator to manager airflow resources as custom resources
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2](https://github.com/robusta-dev/robusta/releases/tag/0.29.2), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.4), 1 day ago) - ArgoProj Helm Charts
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add liveness probe to helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/5) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [add helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/4) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [add support for connection](https://github.com/DrFaust92/airflow-k8s-operator/pull/3) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
 - [release docker flow](https://github.com/DrFaust92/airflow-k8s-operator/pull/2) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
@@ -50,7 +51,6 @@
 - [remove deprecated ingress versions and logic](https://github.com/runatlantis/helm-charts/pull/506) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 weeks ago)
 - [add artifact attestation](https://github.com/runatlantis/helm-charts/pull/505) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 weeks ago)
 - [add oci chart release for robusta](https://github.com/robusta-dev/robusta/pull/1954) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 weeks ago)
-- [Add path filter for release workflow on master](https://github.com/robjuz/helm-charts/pull/161) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (3 weeks ago)
 
 
 
