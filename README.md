@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.12](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.12), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.5](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.5), today) - A K8s operator to manager airflow resources as custom resources
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.15.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.15.0), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2](https://github.com/robusta-dev/robusta/releases/tag/0.29.2), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
@@ -37,7 +38,6 @@
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.20.1), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.22.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.22.1), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.1](https://github.com/grafana/loki/releases/tag/v3.6.1), 3 days ago) - Like Prometheus, but for logs.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.11](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.11), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
