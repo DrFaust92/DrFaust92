@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.38.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.38.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.8.1), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), today) - Like Prometheus, but for logs.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.18.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.18.0), today) - 
@@ -36,7 +37,6 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2](https://github.com/robusta-dev/robusta/releases/tag/0.29.2), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.4), 2 days ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.2.2), 2 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.22.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.22.1), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 
 #### 🔨 My recent Pull Requests
@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [YumiUser1451](https://github.com/YumiUser1451)
 - [SridharRG](https://github.com/SridharRG)
 - [ross-armada](https://github.com/ross-armada)
 - [alekp](https://github.com/alekp)
 - [dukkune1](https://github.com/dukkune1)
+- [alex-klikatech](https://github.com/alex-klikatech)
 
 #### 💬 Feedback
 
