@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add support for pools](https://github.com/DrFaust92/airflow-k8s-operator/pull/8) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [Docs &#43; reconcile loop every 5 mins (by default)](https://github.com/DrFaust92/airflow-k8s-operator/pull/7) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
 - [add rbac to operator chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/6) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
 - [add liveness probe to helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/5) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
@@ -50,7 +51,6 @@
 - [Test GH workflow for test](https://github.com/DrFaust92/airflow-k8s-operator/pull/1) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
 - [add password wo for connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/57) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [add password wo for connection](https://github.com/houqp/terraform-provider-airflow/pull/15) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 week ago)
-- [remove deprecated ingress versions and logic](https://github.com/runatlantis/helm-charts/pull/506) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 weeks ago)
 
 
 
