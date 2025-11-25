@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (3 weeks ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 weeks ago)
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim (3 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (3 weeks ago)
@@ -28,26 +28,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.16.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.16.0), today) - 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.12](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.12), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.5](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.5), today) - A K8s operator to manager airflow resources as custom resources
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2](https://github.com/robusta-dev/robusta/releases/tag/0.29.2), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.4), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.2.2), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.20.1), 2 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.22.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.22.1), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.1](https://github.com/grafana/loki/releases/tag/v3.6.1), 3 days ago) - Like Prometheus, but for logs.
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.16.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.16.0), 1 day ago) - 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.12](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.12), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.5](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.5), 1 day ago) - A K8s operator to manager airflow resources as custom resources
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2](https://github.com/robusta-dev/robusta/releases/tag/0.29.2), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.4), 2 days ago) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.2.2), 2 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.20.1), 3 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.22.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.22.1), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.1](https://github.com/grafana/loki/releases/tag/v3.6.1), 4 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
-- [Docs &#43; reconcile loop every 5 mins (by default)](https://github.com/DrFaust92/airflow-k8s-operator/pull/7) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [add rbac to operator chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/6) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [add liveness probe to helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/5) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [add helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/4) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [add support for connection](https://github.com/DrFaust92/airflow-k8s-operator/pull/3) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
-- [release docker flow](https://github.com/DrFaust92/airflow-k8s-operator/pull/2) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
-- [Test GH workflow for test](https://github.com/DrFaust92/airflow-k8s-operator/pull/1) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (3 days ago)
+- [Docs &#43; reconcile loop every 5 mins (by default)](https://github.com/DrFaust92/airflow-k8s-operator/pull/7) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [add rbac to operator chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/6) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [add liveness probe to helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/5) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [add helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/4) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [add support for connection](https://github.com/DrFaust92/airflow-k8s-operator/pull/3) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
+- [release docker flow](https://github.com/DrFaust92/airflow-k8s-operator/pull/2) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
+- [Test GH workflow for test](https://github.com/DrFaust92/airflow-k8s-operator/pull/1) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
 - [add password wo for connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/57) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [add password wo for connection](https://github.com/houqp/terraform-provider-airflow/pull/15) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (1 week ago)
 - [remove deprecated ingress versions and logic](https://github.com/runatlantis/helm-charts/pull/506) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 weeks ago)
@@ -60,9 +60,9 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments. (2 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 days ago)
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (6 days ago)
+- [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments. (3 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 days ago)
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (1 week ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 month ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (3 months ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (4 months ago)
