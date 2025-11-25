@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.8.0), today) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.18.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.18.0), today) - 
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.6](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.6), today) - A K8s operator to manager airflow resources as custom resources
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.12](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.12), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
@@ -35,7 +36,6 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.4), 2 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.2.2), 2 days ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.20.1), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.22.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.22.1), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.1](https://github.com/grafana/loki/releases/tag/v3.6.1), 4 days ago) - Like Prometheus, but for logs.
 
