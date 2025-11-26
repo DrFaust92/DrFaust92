@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.16.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.15.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.23.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.23.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.6.1), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 1 day ago) - Like Prometheus, but for logs.
