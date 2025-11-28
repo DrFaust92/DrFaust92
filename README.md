@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.4](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.4), today) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.1](https://github.com/grafana/mimir/releases/tag/mimir-3.0.1), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.9.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.23.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.23.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.6.1), 2 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 3 days ago) - Like Prometheus, but for logs.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.18.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.18.0), 3 days ago) - 
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.6](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.6), 3 days ago) - A K8s operator to manager airflow resources as custom resources
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.12](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.12), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.29.2](https://github.com/robusta-dev/robusta/releases/tag/0.29.2), 5 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.3), 5 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.4), 5 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
