@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add proper integration tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/58) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [add support for pools](https://github.com/DrFaust92/airflow-k8s-operator/pull/8) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
 - [Docs &#43; reconcile loop every 5 mins (by default)](https://github.com/DrFaust92/airflow-k8s-operator/pull/7) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (5 days ago)
 - [add rbac to operator chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/6) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (5 days ago)
@@ -50,7 +51,6 @@
 - [release docker flow](https://github.com/DrFaust92/airflow-k8s-operator/pull/2) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (6 days ago)
 - [Test GH workflow for test](https://github.com/DrFaust92/airflow-k8s-operator/pull/1) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [add password wo for connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/57) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
-- [add password wo for connection](https://github.com/houqp/terraform-provider-airflow/pull/15) on [houqp/terraform-provider-airflow](https://github.com/houqp/terraform-provider-airflow) (2 weeks ago)
 
 
 
