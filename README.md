@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.48.0), today) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.6.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.6.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.5), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.4](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.4), 2 days ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.1](https://github.com/grafana/mimir/releases/tag/mimir-3.0.1), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.9.0), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.23.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.23.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 5 days ago) - Like Prometheus, but for logs.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.18.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.18.0), 5 days ago) - 
