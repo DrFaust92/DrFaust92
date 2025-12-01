@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.4-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.4-alpha), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.4), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.3](https://github.com/grafana/mimir/releases/tag/mimir-2.17.3), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.7](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.7), today) - A K8s operator to manager airflow resources as custom resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.48.0), 1 day ago) - Prometheus community Helm charts
