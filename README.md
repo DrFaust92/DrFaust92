@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-10.3.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.5](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.5), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.00](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.00), today) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.4), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.3](https://github.com/grafana/mimir/releases/tag/mimir-2.17.3), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
