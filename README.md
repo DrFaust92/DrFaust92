@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.4-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.4-alpha), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.3](https://github.com/grafana/mimir/releases/tag/mimir-2.17.3), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.7](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.7), today) - A K8s operator to manager airflow resources as custom resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.48.0), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.23.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.23.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 6 days ago) - Like Prometheus, but for logs.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.18.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.18.0), 6 days ago) - 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.12](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.12), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
