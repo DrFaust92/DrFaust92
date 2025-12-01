@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 day ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (4 weeks ago)
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim (1 month ago)
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.7](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.7), today) - A K8s operator to manager airflow resources as custom resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.48.0), 1 day ago) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.6.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.6.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.5), 1 day ago) - ArgoProj Helm Charts
@@ -36,11 +37,11 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.23.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.23.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 6 days ago) - Like Prometheus, but for logs.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.18.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.18.0), 6 days ago) - 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.6](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.6), 6 days ago) - A K8s operator to manager airflow resources as custom resources
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.12](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.12), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
+- [add support and tests for airflow v3](https://github.com/DrFaust92/airflow-k8s-operator/pull/9) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [API v2 support (airflow v3)](https://github.com/DrFaust92/terraform-provider-airflow/pull/60) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
 - [connection password WO Test](https://github.com/DrFaust92/terraform-provider-airflow/pull/59) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
 - [Add proper integration tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/58) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
@@ -50,7 +51,6 @@
 - [add liveness probe to helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/5) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [add helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/4) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [add support for connection](https://github.com/DrFaust92/airflow-k8s-operator/pull/3) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
-- [release docker flow](https://github.com/DrFaust92/airflow-k8s-operator/pull/2) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 
 
 
