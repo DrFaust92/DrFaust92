@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.13](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.13), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.5](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.5), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.00](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.00), today) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.4), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
@@ -37,7 +38,6 @@
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.6.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.6.0), 1 day ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.23.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.23.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 6 days ago) - Like Prometheus, but for logs.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.18.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.18.0), 6 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
