@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.1), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.49.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.49.0), today) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.13](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.13), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.0.5](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.0.5), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.00](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.00), 1 day ago) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.4), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.3](https://github.com/grafana/mimir/releases/tag/mimir-2.17.3), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.7](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.7), 1 day ago) - A K8s operator to manager airflow resources as custom resources
