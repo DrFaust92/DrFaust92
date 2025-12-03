@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.18](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.18), today) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.3](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.3), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.24.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.19.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.19.0), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.6.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.6.2), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.11.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.1), 1 day ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.13](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.13), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.4), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.3](https://github.com/grafana/mimir/releases/tag/mimir-2.17.3), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
