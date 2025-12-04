@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.18](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.18), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.6), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.3](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.3), 1 day ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.24.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.19.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.19.0), 2 days ago) - 
