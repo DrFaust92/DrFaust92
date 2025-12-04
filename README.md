@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 days ago)
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (3 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 days ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (4 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 days ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 month ago)
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim (1 month ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 month ago)
@@ -28,23 +28,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.18](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.18), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.3](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.3), today) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.24.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.19.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.19.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.11.0), 1 day ago) - Prometheus community Helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.13](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.13), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.4), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.3](https://github.com/grafana/mimir/releases/tag/mimir-2.17.3), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.7](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.7), 2 days ago) - A K8s operator to manager airflow resources as custom resources
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.6.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.6.0), 3 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.18](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.18), 1 day ago) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.3](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.3), 1 day ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.24.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.19.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.19.0), 2 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.11.0), 2 days ago) - Prometheus community Helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.13](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.13), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.4), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.3](https://github.com/grafana/mimir/releases/tag/mimir-2.17.3), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.7](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.7), 3 days ago) - A K8s operator to manager airflow resources as custom resources
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-5.6.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-5.6.0), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [add support and tests for airflow v3](https://github.com/DrFaust92/airflow-k8s-operator/pull/9) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
-- [API v2 support (airflow v3)](https://github.com/DrFaust92/terraform-provider-airflow/pull/60) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
-- [connection password WO Test](https://github.com/DrFaust92/terraform-provider-airflow/pull/59) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
-- [Add proper integration tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/58) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (4 days ago)
+- [add support and tests for airflow v3](https://github.com/DrFaust92/airflow-k8s-operator/pull/9) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (3 days ago)
+- [API v2 support (airflow v3)](https://github.com/DrFaust92/terraform-provider-airflow/pull/60) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (4 days ago)
+- [connection password WO Test](https://github.com/DrFaust92/terraform-provider-airflow/pull/59) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (4 days ago)
+- [Add proper integration tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/58) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (5 days ago)
 - [add support for pools](https://github.com/DrFaust92/airflow-k8s-operator/pull/8) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [Docs &#43; reconcile loop every 5 mins (by default)](https://github.com/DrFaust92/airflow-k8s-operator/pull/7) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [add rbac to operator chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/6) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
