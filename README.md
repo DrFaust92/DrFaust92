@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.9](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.9), today) - A K8s operator to manager airflow resources as custom resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.4.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.6.0), today) - Prometheus community Helm charts
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.8](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.8), today) - A K8s operator to manager airflow resources as custom resources
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v42.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v42.0.0), today) - Configures opinionated GKE clusters
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.14](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.14), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.25.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
