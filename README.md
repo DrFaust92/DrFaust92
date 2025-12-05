@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.12.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.6.0), today) - Prometheus community Helm charts
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.8](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.8), today) - A K8s operator to manager airflow resources as custom resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.38.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.38.1), today) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v42.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v42.0.0), today) - Configures opinionated GKE clusters
