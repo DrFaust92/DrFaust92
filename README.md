@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (4 days ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (5 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 days ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 month ago)
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim (1 month ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 month ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update appVersion to 0.0.7 in Chart.yaml](https://github.com/DrFaust92/airflow-k8s-operator/pull/12) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [add support for revisionhistorylimit &#43; generate docs](https://github.com/sftpgo/helm-chart/pull/47) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (today)
 - [add support and tests for airflow v3](https://github.com/DrFaust92/airflow-k8s-operator/pull/9) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
 - [API v2 support (airflow v3)](https://github.com/DrFaust92/terraform-provider-airflow/pull/60) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (5 days ago)
@@ -50,7 +51,6 @@
 - [Docs &#43; reconcile loop every 5 mins (by default)](https://github.com/DrFaust92/airflow-k8s-operator/pull/7) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [add rbac to operator chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/6) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [add liveness probe to helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/5) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
-- [add helm chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/4) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 
 
 
