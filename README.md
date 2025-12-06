@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.6.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.19](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.19), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.50.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.50.0), 1 day ago) - Prometheus community Helm charts
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.9](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.9), 1 day ago) - A K8s operator to manager airflow resources as custom resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.4.2), 1 day ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v42.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v42.0.0), 1 day ago) - Configures opinionated GKE clusters
