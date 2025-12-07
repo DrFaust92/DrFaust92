@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.6.0](https://github.com/zapier/kubechecks/releases/tag/v2.6.0), today) - Check your Kubernetes changes before they hit the cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.39.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.39.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.19](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.19), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.25.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.9.0](https://github.com/grafana/loki/releases/tag/operator/v0.9.0), 3 days ago) - Like Prometheus, but for logs.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.19.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.19.0), 5 days ago) - 
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.16.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.16.4), 6 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
 #### 🔨 My recent Pull Requests
 
