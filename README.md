@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump operator to 0.87.0](https://github.com/prometheus-community/helm-charts/pull/6386) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Bump chart and app version to 0.4.3 and 0.0.8](https://github.com/DrFaust92/airflow-k8s-operator/pull/14) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
 - [Update appVersion to 0.0.7 in Chart.yaml](https://github.com/DrFaust92/airflow-k8s-operator/pull/12) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
 - [add support for revisionhistorylimit &#43; generate docs](https://github.com/sftpgo/helm-chart/pull/47) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (2 days ago)
@@ -50,7 +51,6 @@
 - [Add proper integration tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/58) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [add support for pools](https://github.com/DrFaust92/airflow-k8s-operator/pull/8) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [Docs &#43; reconcile loop every 5 mins (by default)](https://github.com/DrFaust92/airflow-k8s-operator/pull/7) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
-- [add rbac to operator chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/6) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 
 
 
