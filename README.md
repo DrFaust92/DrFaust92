@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.38.2](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.38.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.6.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.19](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.19), 1 day ago) - ArgoProj Helm Charts
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.9](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.9), 2 days ago) - A K8s operator to manager airflow resources as custom resources
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.4.2), 2 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v42.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v42.0.0), 2 days ago) - Configures opinionated GKE clusters
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.14](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.14), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.25.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
