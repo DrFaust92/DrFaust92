@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.4](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.4), today) - 
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.5.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.5.0), today) - 
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.6.0](https://github.com/zapier/kubechecks/releases/tag/v2.6.0), 1 day ago) - Check your Kubernetes changes before they hit the cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.0.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.39.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.39.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.19](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.19), 2 days ago) - ArgoProj Helm Charts
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.9](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.9), 3 days ago) - A K8s operator to manager airflow resources as custom resources
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v42.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v42.0.0), 3 days ago) - Configures opinionated GKE clusters
