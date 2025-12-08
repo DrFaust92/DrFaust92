@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 day ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 day ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 week ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.4.3](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.4.3), today) - 
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.5.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.5.0), today) - 
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.6.0](https://github.com/zapier/kubechecks/releases/tag/v2.6.0), 1 day ago) - Check your Kubernetes changes before they hit the cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.0.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.39.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.39.0), 1 day ago) - 
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [tidy up deps](https://github.com/DrFaust92/terraform-provider-mapbox/pull/76) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (today)
+- [Modify Terraform versions in test workflow](https://github.com/DrFaust92/terraform-provider-mapbox/pull/75) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (today)
 - [[kube-prometheus-stack] bump operator to 0.87.0](https://github.com/prometheus-community/helm-charts/pull/6386) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Bump chart and app version to 0.4.3 and 0.0.8](https://github.com/DrFaust92/airflow-k8s-operator/pull/14) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (3 days ago)
 - [Update appVersion to 0.0.7 in Chart.yaml](https://github.com/DrFaust92/airflow-k8s-operator/pull/12) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (3 days ago)
@@ -49,8 +51,6 @@
 - [API v2 support (airflow v3)](https://github.com/DrFaust92/terraform-provider-airflow/pull/60) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [connection password WO Test](https://github.com/DrFaust92/terraform-provider-airflow/pull/59) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [Add proper integration tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/58) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
-- [add support for pools](https://github.com/DrFaust92/airflow-k8s-operator/pull/8) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
-- [Docs &#43; reconcile loop every 5 mins (by default)](https://github.com/DrFaust92/airflow-k8s-operator/pull/7) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 weeks ago)
 
 
 
