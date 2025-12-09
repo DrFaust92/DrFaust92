@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.1.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.48.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.48.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.2.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.2), today) - ArgoProj Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.0](https://github.com/robusta-dev/robusta/releases/tag/0.30.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.17.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.17.0), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.4](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.4), 1 day ago) - 
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.5.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.5.0), 1 day ago) - 
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.6.0](https://github.com/zapier/kubechecks/releases/tag/v2.6.0), 2 days ago) - Check your Kubernetes changes before they hit the cluster
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.0.9](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.0.9), 4 days ago) - A K8s operator to manager airflow resources as custom resources
