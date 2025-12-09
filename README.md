@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.17.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.17.0), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-7.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-7.1.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.7), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.4](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.4), 1 day ago) - 
@@ -37,7 +38,6 @@
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v42.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v42.0.0), 4 days ago) - Configures opinionated GKE clusters
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.14](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.14), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.25.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.9.0](https://github.com/grafana/loki/releases/tag/operator/v0.9.0), 5 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
