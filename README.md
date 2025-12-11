@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.58.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.58.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.58.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.58.1), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.16.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.16.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.26.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.26.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-elasticsearch-exporter] fix params passed to elastic exporter after upgrade to 1.10.0](https://github.com/prometheus-community/helm-charts/pull/6404) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Add support for OCI chart releases](https://github.com/zapier/kubechecks/pull/471) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (3 days ago)
 - [add support for pdb and pod monitor](https://github.com/sftpgo/helm-chart/pull/48) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (3 days ago)
 - [tidy up deps](https://github.com/DrFaust92/terraform-provider-mapbox/pull/76) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (3 days ago)
@@ -50,7 +51,6 @@
 - [Update appVersion to 0.0.7 in Chart.yaml](https://github.com/DrFaust92/airflow-k8s-operator/pull/12) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (6 days ago)
 - [add support for revisionhistorylimit &#43; generate docs](https://github.com/sftpgo/helm-chart/pull/47) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (6 days ago)
 - [add support and tests for airflow v3](https://github.com/DrFaust92/airflow-k8s-operator/pull/9) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
-- [API v2 support (airflow v3)](https://github.com/DrFaust92/terraform-provider-airflow/pull/60) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 
 
 
