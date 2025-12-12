@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] allow unsetting reloader port on prometheus service](https://github.com/prometheus-community/helm-charts/pull/6410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] add missing rbac permission](https://github.com/prometheus-community/helm-charts/pull/6409) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [helm: add oci release for charts](https://github.com/HolmesGPT/holmesgpt/pull/1188) on [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) (today)
 - [add oci release for charts](https://github.com/opensearch-project/opensearch-k8s-operator/pull/1224) on [opensearch-project/opensearch-k8s-operator](https://github.com/opensearch-project/opensearch-k8s-operator) (today)
 - [helm: add revisionhistorylimit](https://github.com/backube/snapscheduler/pull/986) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (today)
@@ -49,8 +51,6 @@
 - [add support for pdb and pod monitor](https://github.com/sftpgo/helm-chart/pull/48) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (4 days ago)
 - [tidy up deps](https://github.com/DrFaust92/terraform-provider-mapbox/pull/76) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (4 days ago)
 - [Modify Terraform versions in test workflow](https://github.com/DrFaust92/terraform-provider-mapbox/pull/75) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (4 days ago)
-- [[kube-prometheus-stack] bump operator to 0.87.0](https://github.com/prometheus-community/helm-charts/pull/6386) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [Bump chart and app version to 0.4.3 and 0.0.8](https://github.com/DrFaust92/airflow-k8s-operator/pull/14) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 
 
 
