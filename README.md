@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [helm: add oci release for charts](https://github.com/HolmesGPT/holmesgpt/pull/1188) on [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) (today)
+- [add oci release for charts](https://github.com/opensearch-project/opensearch-k8s-operator/pull/1224) on [opensearch-project/opensearch-k8s-operator](https://github.com/opensearch-project/opensearch-k8s-operator) (today)
 - [helm: add revisionhistorylimit](https://github.com/backube/snapscheduler/pull/986) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (today)
 - [[prometheus-elasticsearch-exporter] fix params passed to elastic exporter after upgrade to 1.10.0](https://github.com/prometheus-community/helm-charts/pull/6404) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Add support for OCI chart releases](https://github.com/zapier/kubechecks/pull/471) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (4 days ago)
@@ -49,8 +51,6 @@
 - [Modify Terraform versions in test workflow](https://github.com/DrFaust92/terraform-provider-mapbox/pull/75) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (4 days ago)
 - [[kube-prometheus-stack] bump operator to 0.87.0](https://github.com/prometheus-community/helm-charts/pull/6386) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [Bump chart and app version to 0.4.3 and 0.0.8](https://github.com/DrFaust92/airflow-k8s-operator/pull/14) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
-- [Update appVersion to 0.0.7 in Chart.yaml](https://github.com/DrFaust92/airflow-k8s-operator/pull/12) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
-- [add support for revisionhistorylimit &#43; generate docs](https://github.com/sftpgo/helm-chart/pull/47) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (1 week ago)
 
 
 
