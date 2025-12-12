@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.4.3), today) - 
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.0), today) - A K8s operator to manager airflow resources as custom resources
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.10.2](https://github.com/grafana/helm-charts/releases/tag/beyla-1.10.2), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.23.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.23.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.2.2), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 1 day ago) - Like Prometheus, but for logs.
