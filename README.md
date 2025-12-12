@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 day ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (2 days ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (5 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 days ago)
 - [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) - Helm chart for SFTPGo (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 week ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.2.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.58.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.58.1), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), today) - Like Prometheus, but for logs.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.26.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.26.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.1-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.30.1-alpha), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.3](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.3), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.2), 1 day ago) - ArgoProj Helm Charts
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.17.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.17.0), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.5.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.5.0), 3 days ago) - 
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v2.6.0](https://github.com/zapier/kubechecks/releases/tag/v2.6.0), 4 days ago) - Check your Kubernetes changes before they hit the cluster
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.22.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.22.0), today) - Atlantis Helm Chart
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.2.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.58.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.58.1), 1 day ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 1 day ago) - Like Prometheus, but for logs.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.26.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.26.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.1-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.30.1-alpha), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.3](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.3), 2 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.2), 2 days ago) - ArgoProj Helm Charts
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.17.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.17.0), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.5.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.5.0), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-elasticsearch-exporter] fix params passed to elastic exporter after upgrade to 1.10.0](https://github.com/prometheus-community/helm-charts/pull/6404) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [Add support for OCI chart releases](https://github.com/zapier/kubechecks/pull/471) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (3 days ago)
-- [add support for pdb and pod monitor](https://github.com/sftpgo/helm-chart/pull/48) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (3 days ago)
-- [tidy up deps](https://github.com/DrFaust92/terraform-provider-mapbox/pull/76) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (3 days ago)
-- [Modify Terraform versions in test workflow](https://github.com/DrFaust92/terraform-provider-mapbox/pull/75) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (3 days ago)
-- [[kube-prometheus-stack] bump operator to 0.87.0](https://github.com/prometheus-community/helm-charts/pull/6386) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [Bump chart and app version to 0.4.3 and 0.0.8](https://github.com/DrFaust92/airflow-k8s-operator/pull/14) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (6 days ago)
-- [Update appVersion to 0.0.7 in Chart.yaml](https://github.com/DrFaust92/airflow-k8s-operator/pull/12) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (6 days ago)
-- [add support for revisionhistorylimit &#43; generate docs](https://github.com/sftpgo/helm-chart/pull/47) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (6 days ago)
-- [add support and tests for airflow v3](https://github.com/DrFaust92/airflow-k8s-operator/pull/9) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
+- [helm: add revisionhistorylimit](https://github.com/backube/snapscheduler/pull/986) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (today)
+- [[prometheus-elasticsearch-exporter] fix params passed to elastic exporter after upgrade to 1.10.0](https://github.com/prometheus-community/helm-charts/pull/6404) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [Add support for OCI chart releases](https://github.com/zapier/kubechecks/pull/471) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (4 days ago)
+- [add support for pdb and pod monitor](https://github.com/sftpgo/helm-chart/pull/48) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (4 days ago)
+- [tidy up deps](https://github.com/DrFaust92/terraform-provider-mapbox/pull/76) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (4 days ago)
+- [Modify Terraform versions in test workflow](https://github.com/DrFaust92/terraform-provider-mapbox/pull/75) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (4 days ago)
+- [[kube-prometheus-stack] bump operator to 0.87.0](https://github.com/prometheus-community/helm-charts/pull/6386) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [Bump chart and app version to 0.4.3 and 0.0.8](https://github.com/DrFaust92/airflow-k8s-operator/pull/14) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
+- [Update appVersion to 0.0.7 in Chart.yaml](https://github.com/DrFaust92/airflow-k8s-operator/pull/12) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
+- [add support for revisionhistorylimit &#43; generate docs](https://github.com/sftpgo/helm-chart/pull/47) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (1 week ago)
 
 
 
@@ -61,7 +61,7 @@
 #### ⭐ Recent Stars
 
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments. (2 weeks ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 weeks ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 weeks ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (3 weeks ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (3 months ago)
