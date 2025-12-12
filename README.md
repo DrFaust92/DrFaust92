@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (2 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 days ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (5 days ago)
 - [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) - Helm chart for SFTPGo (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.0), today) - A K8s operator to manager airflow resources as custom resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.10.2](https://github.com/grafana/helm-charts/releases/tag/beyla-1.10.2), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.23.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.23.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.2.2), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.3](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.3), 2 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.2), 2 days ago) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.17.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.17.0), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.5.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.5.0), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
