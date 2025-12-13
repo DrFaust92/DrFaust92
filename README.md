@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: add oci release for chart](https://github.com/launchdarkly/ld-relay-helm/pull/82) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
 - [add oci release for chart](https://github.com/kafbat/helm-charts/pull/61) on [kafbat/helm-charts](https://github.com/kafbat/helm-charts) (today)
 - [[kube-prometheus-stack] allow unsetting reloader port on prometheus service](https://github.com/prometheus-community/helm-charts/pull/6410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] add missing rbac permission](https://github.com/prometheus-community/helm-charts/pull/6409) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@
 - [[prometheus-elasticsearch-exporter] fix params passed to elastic exporter after upgrade to 1.10.0](https://github.com/prometheus-community/helm-charts/pull/6404) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Add support for OCI chart releases](https://github.com/zapier/kubechecks/pull/471) on [zapier/kubechecks](https://github.com/zapier/kubechecks) (5 days ago)
 - [add support for pdb and pod monitor](https://github.com/sftpgo/helm-chart/pull/48) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (5 days ago)
-- [tidy up deps](https://github.com/DrFaust92/terraform-provider-mapbox/pull/76) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (5 days ago)
 
 
 
