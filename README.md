@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.373](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.373), today) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.114](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114), 2 days ago) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.16.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.16.3), 2 days ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.26.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.26.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.1-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.30.1-alpha), 5 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.20.3](https://github.com/cert-manager/trust-manager/releases/tag/v0.20.3), 5 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.2), 5 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
