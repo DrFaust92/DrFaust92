@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.21.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.21.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.21.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.21.1), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.114](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114), 2 days ago) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.16.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.16.3), 2 days ago) - Prometheus community Helm charts
