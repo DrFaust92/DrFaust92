@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.21.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.21.0), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.373](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.373), today) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.114](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114), 2 days ago) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.16.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.16.3), 2 days ago) - Prometheus community Helm charts
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.0), 3 days ago) - A K8s operator to manager airflow resources as custom resources
