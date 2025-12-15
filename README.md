@@ -2,8 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (today)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (4 days ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (5 days ago)
@@ -11,7 +12,6 @@
 - [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) - Helm chart for SFTPGo (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
-- [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.30.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.21.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.21.1), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.114](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114), 2 days ago) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.16.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.16.3), 2 days ago) - Prometheus community Helm charts
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.0), 3 days ago) - A K8s operator to manager airflow resources as custom resources
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.23.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.23.0), 3 days ago) - Atlantis Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 4 days ago) - Like Prometheus, but for logs.
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [tidy up for initial release](https://github.com/DrFaust92/airflow-k8s-operator/pull/18) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [feat: publish oci chart](https://github.com/langfuse/langfuse-k8s/pull/293) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (2 days ago)
 - [feat: publish helm chart](https://github.com/apache/answer/pull/1458) on [apache/answer](https://github.com/apache/answer) (2 days ago)
 - [ci: add oci release for chart](https://github.com/launchdarkly/ld-relay-helm/pull/82) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (2 days ago)
@@ -50,7 +51,6 @@
 - [helm: add oci release for charts](https://github.com/HolmesGPT/holmesgpt/pull/1188) on [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) (3 days ago)
 - [add oci release for charts](https://github.com/opensearch-project/opensearch-k8s-operator/pull/1224) on [opensearch-project/opensearch-k8s-operator](https://github.com/opensearch-project/opensearch-k8s-operator) (3 days ago)
 - [helm: add revisionhistorylimit](https://github.com/backube/snapscheduler/pull/986) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (3 days ago)
-- [[prometheus-elasticsearch-exporter] fix params passed to elastic exporter after upgrade to 1.10.0](https://github.com/prometheus-community/helm-charts/pull/6404) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 
 
