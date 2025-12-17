@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.39.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.39.1), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.21.2](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.21.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.51.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.51.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.8), 1 day ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
