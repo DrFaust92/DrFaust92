@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.0](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.0), today) - Prometheus ephemeral storage metrics exporter
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.27.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.27.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.21.3](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.21.3), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.52.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.52.0), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.0), 6 days ago) - A K8s operator to manager airflow resources as custom resources
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.23.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.23.0), 6 days ago) - Atlantis Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 1 week ago) - Like Prometheus, but for logs.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.30.1-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.30.1-alpha), 1 week ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
