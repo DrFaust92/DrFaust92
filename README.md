@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.10.4](https://github.com/grafana/helm-charts/releases/tag/beyla-1.10.4), today) - 
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.1), today) - Prometheus ephemeral storage metrics exporter
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.5.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.9), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.0), today) - 
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.0](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.0), today) - Prometheus ephemeral storage metrics exporter
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.27.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.27.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.114](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114), 5 days ago) - Jenkins helm charts
