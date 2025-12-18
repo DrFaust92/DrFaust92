@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.10.4](https://github.com/grafana/helm-charts/releases/tag/beyla-1.10.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.0), today) - 
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.1), today) - Prometheus ephemeral storage metrics exporter
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.5.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.9), today) - ArgoProj Helm Charts
