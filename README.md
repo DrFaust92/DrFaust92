@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.1), today) - A K8s operator to manager airflow resources as custom resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.0), 1 day ago) - 
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.1), 1 day ago) - Prometheus ephemeral storage metrics exporter
@@ -35,7 +36,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.27.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.27.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.114](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114), 6 days ago) - Jenkins helm charts
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.0), 1 week ago) - A K8s operator to manager airflow resources as custom resources
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.23.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.23.0), 1 week ago) - Atlantis Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 1 week ago) - Like Prometheus, but for logs.
 
