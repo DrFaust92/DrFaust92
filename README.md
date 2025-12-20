@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (2 days ago)
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (4 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (3 days ago)
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (5 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 days ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (1 week ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 week ago)
@@ -28,24 +28,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.1), today) - A K8s operator to manager airflow resources as custom resources
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.6.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.0), 1 day ago) - 
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.1), 1 day ago) - Prometheus ephemeral storage metrics exporter
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.9), 1 day ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.27.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.27.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.114](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114), 6 days ago) - Jenkins helm charts
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.2), 1 day ago) - Prometheus ephemeral storage metrics exporter
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.1), 1 day ago) - A K8s operator to manager airflow resources as custom resources
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.6.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.0), 2 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.1.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.1.9), 2 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.27.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.27.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.114](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114), 1 week ago) - Jenkins helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.23.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.23.0), 1 week ago) - Atlantis Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 1 week ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
-- [tidy up for initial release](https://github.com/DrFaust92/airflow-k8s-operator/pull/18) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
-- [feat: publish oci chart](https://github.com/langfuse/langfuse-k8s/pull/293) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (6 days ago)
-- [feat: publish helm chart](https://github.com/apache/answer/pull/1458) on [apache/answer](https://github.com/apache/answer) (6 days ago)
-- [chore: Add oci release support](https://github.com/launchdarkly/ld-relay-helm/pull/82) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (6 days ago)
-- [add oci release for chart](https://github.com/kafbat/helm-charts/pull/61) on [kafbat/helm-charts](https://github.com/kafbat/helm-charts) (6 days ago)
+- [tidy up for initial release](https://github.com/DrFaust92/airflow-k8s-operator/pull/18) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (5 days ago)
+- [feat: publish oci chart](https://github.com/langfuse/langfuse-k8s/pull/293) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (1 week ago)
+- [feat: publish helm chart](https://github.com/apache/answer/pull/1458) on [apache/answer](https://github.com/apache/answer) (1 week ago)
+- [chore: Add oci release support](https://github.com/launchdarkly/ld-relay-helm/pull/82) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (1 week ago)
+- [add oci release for chart](https://github.com/kafbat/helm-charts/pull/61) on [kafbat/helm-charts](https://github.com/kafbat/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] allow unsetting reloader port on prometheus service](https://github.com/prometheus-community/helm-charts/pull/6410) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] add missing rbac permission](https://github.com/prometheus-community/helm-charts/pull/6409) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [helm: add oci release for charts](https://github.com/HolmesGPT/holmesgpt/pull/1188) on [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) (1 week ago)
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments. (3 weeks ago)
+- [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments. (4 weeks ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 weeks ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (1 month ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 months ago)
