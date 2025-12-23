@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.17.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.17.0), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.4](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.4), today) - ArgoProj Helm Charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.22.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.22.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.31](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.31), 1 day ago) - Prometheus community Helm charts
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.2), 4 days ago) - Prometheus ephemeral storage metrics exporter
