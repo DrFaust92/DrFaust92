@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (1 week ago)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 week ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (2 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
 - [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) - Helm chart for SFTPGo (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 weeks ago)
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.60.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.60.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.17.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.0), today) - ArgoProj Helm Charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.22.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.22.0), 1 day ago) - 
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.2), 4 days ago) - Prometheus ephemeral storage metrics exporter
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.1), 4 days ago) - A K8s operator to manager airflow resources as custom resources
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.27.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.27.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.60.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.60.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.17.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.0), 1 day ago) - ArgoProj Helm Charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.22.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.22.0), 2 days ago) - 
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.2), 5 days ago) - Prometheus ephemeral storage metrics exporter
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.1.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.1.1), 5 days ago) - A K8s operator to manager airflow resources as custom resources
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.27.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.27.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.114](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114), 1 week ago) - Jenkins helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.23.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.23.0), 1 week ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
-- [add support for initcontainers for lake deployment](https://github.com/apache/incubator-devlake-helm-chart/pull/359) on [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) (today)
-- [helm: add oci chart release](https://github.com/backube/snapscheduler/pull/1004) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (2 days ago)
+- [add support for initcontainers for lake deployment](https://github.com/apache/incubator-devlake-helm-chart/pull/359) on [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) (1 day ago)
+- [helm: add oci chart release](https://github.com/backube/snapscheduler/pull/1004) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (3 days ago)
 - [tidy up for initial release](https://github.com/DrFaust92/airflow-k8s-operator/pull/18) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [feat: publish oci chart](https://github.com/langfuse/langfuse-k8s/pull/293) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (1 week ago)
 - [feat: publish helm chart](https://github.com/apache/answer/pull/1458) on [apache/answer](https://github.com/apache/answer) (1 week ago)
