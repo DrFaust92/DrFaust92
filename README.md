@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.60.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.60.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-2.5.1](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-2.5.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.17.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.0), 1 day ago) - ArgoProj Helm Charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.22.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.22.0), 2 days ago) - 
