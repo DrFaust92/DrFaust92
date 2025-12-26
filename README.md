@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-4.3.12](https://github.com/robjuz/helm-charts/releases/tag/kimai2-4.3.12), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.2), today) - ArgoProj Helm Charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.0.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.0.0), today) - 
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.2.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.2.0), today) - A K8s operator to manager airflow resources as custom resources
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.0-alpha), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.1), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.1), 2 days ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.17.0), 3 days ago) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.22.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.22.0), 4 days ago) - 
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.2), 1 week ago) - Prometheus ephemeral storage metrics exporter
