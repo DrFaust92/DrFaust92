@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (today)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (today)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (2 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (2 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
-- [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) - Helm chart for SFTPGo (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-4.3.12](https://github.com/robjuz/helm-charts/releases/tag/kimai2-4.3.12), today) - 
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.2.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.2.0), today) - A K8s operator to manager airflow resources as custom resources
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.0-alpha), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.1), 1 day ago) - 
@@ -37,7 +38,6 @@
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.2), 1 week ago) - Prometheus ephemeral storage metrics exporter
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.27.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.27.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.15](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.15), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.114](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114), 1 week ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
 
