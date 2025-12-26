@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (today)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (2 weeks ago)
