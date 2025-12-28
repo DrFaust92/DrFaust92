@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.3), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.115](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.115), today) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.8.0), 1 day ago) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.0](https://github.com/robusta-dev/robusta/releases/tag/0.31.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.0), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.2), 2 days ago) - ArgoProj Helm Charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.0.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.0.0), 2 days ago) - 
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.2.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.2.0), 2 days ago) - A K8s operator to manager airflow resources as custom resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.1), 3 days ago) - 
