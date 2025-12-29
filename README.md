@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.375](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.375), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.1](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.17.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.17.2), 1 day ago) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.1](https://github.com/robusta-dev/robusta/releases/tag/0.31.1), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.1), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
