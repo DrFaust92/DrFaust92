@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.375](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.375), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.17.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.17.2), 1 day ago) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.1](https://github.com/robusta-dev/robusta/releases/tag/0.31.1), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.1), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
@@ -35,7 +36,6 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.115](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.115), 1 day ago) - Jenkins helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.0.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.0.0), 3 days ago) - 
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.2.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.2.0), 3 days ago) - A K8s operator to manager airflow resources as custom resources
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.1), 4 days ago) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.22.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.22.0), 1 week ago) - 
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.2), 1 week ago) - Prometheus ephemeral storage metrics exporter
 
