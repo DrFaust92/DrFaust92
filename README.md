@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (today)
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (3 days ago)
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (3 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 days ago)
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (1 day ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (4 days ago)
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (4 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (2 weeks ago)
@@ -28,24 +28,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.8.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.1](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.1), today) - 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.1](https://github.com/robusta-dev/robusta/releases/tag/0.31.1), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.1), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.3), 1 day ago) - ArgoProj Helm Charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.115](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.115), 1 day ago) - Jenkins helm charts
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.0.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.0.0), 3 days ago) - 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.2.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.2.0), 3 days ago) - A K8s operator to manager airflow resources as custom resources
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.8.2), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.1](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.1), 1 day ago) - 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.1](https://github.com/robusta-dev/robusta/releases/tag/0.31.1), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.1), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.3), 2 days ago) - ArgoProj Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.115](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.115), 2 days ago) - Jenkins helm charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.0.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.0.0), 4 days ago) - 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.2.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.2.0), 4 days ago) - A K8s operator to manager airflow resources as custom resources
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.22.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.22.0), 1 week ago) - 
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.2), 1 week ago) - Prometheus ephemeral storage metrics exporter
 
 #### 🔨 My recent Pull Requests
 
-- [fix crashes on invalid url](https://github.com/DrFaust92/terraform-provider-airflow/pull/64) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
-- [add AWS/MWAA support](https://github.com/DrFaust92/terraform-provider-airflow/pull/63) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
-- [add AWS/MWAA support](https://github.com/DrFaust92/airflow-k8s-operator/pull/19) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (3 days ago)
-- [Nominatim: fix updatesjob init container templating](https://github.com/robjuz/helm-charts/pull/175) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (4 days ago)
-- [add support for initcontainers for lake deployment](https://github.com/apache/incubator-devlake-helm-chart/pull/359) on [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) (6 days ago)
+- [fix crashes on invalid url](https://github.com/DrFaust92/terraform-provider-airflow/pull/64) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (4 days ago)
+- [add AWS/MWAA support](https://github.com/DrFaust92/terraform-provider-airflow/pull/63) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (4 days ago)
+- [add AWS/MWAA support](https://github.com/DrFaust92/airflow-k8s-operator/pull/19) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
+- [Nominatim: fix updatesjob init container templating](https://github.com/robjuz/helm-charts/pull/175) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (5 days ago)
+- [add support for initcontainers for lake deployment](https://github.com/apache/incubator-devlake-helm-chart/pull/359) on [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) (1 week ago)
 - [helm: add oci chart release](https://github.com/backube/snapscheduler/pull/1004) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (1 week ago)
 - [tidy up for initial release](https://github.com/DrFaust92/airflow-k8s-operator/pull/18) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 weeks ago)
 - [feat: publish oci chart](https://github.com/langfuse/langfuse-k8s/pull/293) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (2 weeks ago)
