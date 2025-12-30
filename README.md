@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.9.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.1](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.1), 1 day ago) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.1](https://github.com/robusta-dev/robusta/releases/tag/0.31.1), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.1), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.3), 2 days ago) - ArgoProj Helm Charts
