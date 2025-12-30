@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.23.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.23.1), today) - Atlantis Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.9.0), today) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.1](https://github.com/robusta-dev/robusta/releases/tag/0.31.1), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
@@ -37,7 +38,6 @@
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.0.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.0.0), 4 days ago) - 
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.2.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.2.0), 4 days ago) - A K8s operator to manager airflow resources as custom resources
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.22.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.22.0), 1 week ago) - 
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.19.2](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.19.2), 1 week ago) - Prometheus ephemeral storage metrics exporter
 
 #### 🔨 My recent Pull Requests
 
