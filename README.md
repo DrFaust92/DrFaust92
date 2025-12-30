@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.4](https://github.com/grafana/mimir/releases/tag/mimir-2.17.4), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.24.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.24.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.9.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.2), today) - 
@@ -37,7 +38,6 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.115](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.115), 2 days ago) - Jenkins helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.0.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.0.0), 4 days ago) - 
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.2.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.2.0), 4 days ago) - A K8s operator to manager airflow resources as custom resources
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.22.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.22.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
