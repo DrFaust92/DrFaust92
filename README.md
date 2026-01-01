@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.3), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.9.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.3), 1 day ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.4](https://github.com/grafana/mimir/releases/tag/mimir-2.17.4), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.24.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.24.0), 2 days ago) - Atlantis Helm Chart
