@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-9.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-9.0.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.10.0), today) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.2](https://github.com/grafana/mimir/releases/tag/mimir-3.0.2), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-8.22.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-8.22.1), today) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.116](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.116), 1 day ago) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.3), 2 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.3), 2 days ago) - 
