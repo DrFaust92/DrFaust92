@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kafbat/helm-charts](https://github.com/kafbat/helm-charts) - Helm charts for kafbat projects (today)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (6 days ago)
+- [kafbat/helm-charts](https://github.com/kafbat/helm-charts) - Helm charts for kafbat projects (1 day ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 days ago)
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (1 week ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (1 week ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 week ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (2 weeks ago)
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (3 weeks ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 weeks ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (3 weeks ago)
 
@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.3.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.3.0), 1 day ago) - A K8s operator to manager airflow resources as custom resources
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.4), 2 days ago) - ArgoProj Helm Charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-9.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-9.0.0), 2 days ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.10.0), 2 days ago) - Prometheus community Helm charts
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.2](https://github.com/grafana/mimir/releases/tag/mimir-3.0.2), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.116](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.116), 3 days ago) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.3), 4 days ago) - 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.24.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.24.0), 5 days ago) - Atlantis Helm Chart
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.3.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.3.0), 2 days ago) - A K8s operator to manager airflow resources as custom resources
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.4), 3 days ago) - ArgoProj Helm Charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-9.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-9.0.0), 3 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.10.0), 3 days ago) - Prometheus community Helm charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.2](https://github.com/grafana/mimir/releases/tag/mimir-3.0.2), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.116](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.116), 4 days ago) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.3), 5 days ago) - 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.24.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.24.0), 6 days ago) - Atlantis Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.1](https://github.com/robusta-dev/robusta/releases/tag/0.31.1), 1 week ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.1), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
@@ -47,7 +47,7 @@
 - [Nominatim: fix updatesjob init container templating](https://github.com/robjuz/helm-charts/pull/175) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 week ago)
 - [add support for initcontainers for lake deployment](https://github.com/apache/incubator-devlake-helm-chart/pull/359) on [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) (1 week ago)
 - [helm: add oci chart release](https://github.com/backube/snapscheduler/pull/1004) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (2 weeks ago)
-- [tidy up for initial release](https://github.com/DrFaust92/airflow-k8s-operator/pull/18) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 weeks ago)
+- [tidy up for initial release](https://github.com/DrFaust92/airflow-k8s-operator/pull/18) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (3 weeks ago)
 - [feat: publish oci chart](https://github.com/langfuse/langfuse-k8s/pull/293) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (3 weeks ago)
 - [feat: publish helm chart](https://github.com/apache/answer/pull/1458) on [apache/answer](https://github.com/apache/answer) (3 weeks ago)
 - [chore: Add oci release support](https://github.com/launchdarkly/ld-relay-helm/pull/82) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (3 weeks ago)
