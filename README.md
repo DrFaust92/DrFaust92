@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.10.0), today) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.24.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.24.1), today) - Atlantis Helm Chart
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.3.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.3.0), 2 days ago) - A K8s operator to manager airflow resources as custom resources
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.4), 3 days ago) - ArgoProj Helm Charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-9.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-9.0.0), 3 days ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.10.0), 3 days ago) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.2](https://github.com/grafana/mimir/releases/tag/mimir-3.0.2), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.116](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.116), 4 days ago) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.3), 5 days ago) - 
