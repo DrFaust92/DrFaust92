@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.3), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.2](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.2), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.2](https://github.com/robusta-dev/robusta/releases/tag/0.31.2), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.2), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
@@ -35,7 +36,6 @@
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.4.0), 1 day ago) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.24.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.24.1), 1 day ago) - Atlantis Helm Chart
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.3.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.3.0), 3 days ago) - A K8s operator to manager airflow resources as custom resources
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.2.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.2.4), 4 days ago) - ArgoProj Helm Charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-9.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-9.0.0), 4 days ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.2](https://github.com/grafana/mimir/releases/tag/mimir-3.0.2), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
