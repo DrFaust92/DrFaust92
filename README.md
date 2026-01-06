@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.12.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.3), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.1.0), today) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.16](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.16), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.3), today) - ArgoProj Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.2](https://github.com/robusta-dev/robusta/releases/tag/0.31.2), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
