@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.2), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v43.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v43.0.0), today) - Configures opinionated GKE clusters
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.21.4](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.21.4), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.4.0), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-9.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-9.0.0), 4 days ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.2](https://github.com/grafana/mimir/releases/tag/mimir-3.0.2), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.116](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.116), 5 days ago) - Jenkins helm charts
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.1](https://github.com/robusta-dev/robusta/releases/tag/0.31.1), 1 week ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
