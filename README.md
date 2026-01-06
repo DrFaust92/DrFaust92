@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.3), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.1.0), today) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.16](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.16), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.11.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.3), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.2](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.2), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.2](https://github.com/robusta-dev/robusta/releases/tag/0.31.2), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.2), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v43.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v43.0.0), today) - Configures opinionated GKE clusters
