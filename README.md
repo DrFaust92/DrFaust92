@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.7.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.4), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.13.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.13.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.5](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.5), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.28.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.28.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.3](https://github.com/robusta-dev/robusta/releases/tag/0.31.3), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
