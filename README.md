@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.4), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.13.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.13.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.5](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.5), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.28.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.28.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.3](https://github.com/robusta-dev/robusta/releases/tag/0.31.3), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.3), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.16](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.16), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.3), 3 days ago) - ArgoProj Helm Charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v43.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v43.0.0), 3 days ago) - Configures opinionated GKE clusters
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.24.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.24.1), 4 days ago) - Atlantis Helm Chart
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.3.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.3.0), 6 days ago) - A K8s operator to manager airflow resources as custom resources
