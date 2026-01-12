@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-10.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-10.2.0), 1 day ago) - 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-10.2.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-10.2.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.3.0), 3 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.46.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.46.4), 3 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.5](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.5), 3 days ago) - 
