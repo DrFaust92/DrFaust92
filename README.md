@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.1), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.24.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.24.3), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.31.1), today) - Prometheus community Helm charts
