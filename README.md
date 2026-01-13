@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.31.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.4.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.4.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.0), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.3), 6 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.16](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.16), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v43.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v43.0.0), 1 week ago) - Configures opinionated GKE clusters
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.24.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.24.1), 1 week ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
