@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.2), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.3), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.14.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.6](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.6), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), today) - Atlantis Helm Chart
