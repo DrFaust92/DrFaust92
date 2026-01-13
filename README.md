@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.2), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.17.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.14.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.6](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.6), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.0), today) - ArgoProj Helm Charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), today) - Atlantis Helm Chart
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-10.2.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-10.2.1), 1 day ago) - 
