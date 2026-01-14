@@ -7,9 +7,9 @@
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (2 weeks ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (2 weeks ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (3 weeks ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (4 weeks ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (4 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 weeks ago)
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 month ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 month ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (1 month ago)
 
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.3), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.14.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.6](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.6), today) - 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), today) - Atlantis Helm Chart
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-10.2.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-10.2.1), 1 day ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.28.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.28.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.3](https://github.com/robusta-dev/robusta/releases/tag/0.31.3), 6 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.3), 6 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.3), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.14.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.6](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.6), 1 day ago) - 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), 1 day ago) - Atlantis Helm Chart
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-10.2.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-10.2.1), 2 days ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.28.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.28.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.3](https://github.com/robusta-dev/robusta/releases/tag/0.31.3), 1 week ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.3), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.16](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.16), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v43.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v43.0.0), 1 week ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
-- [helm: Use dynamic imagePullPolicy from values](https://github.com/HolmesGPT/holmesgpt/pull/1345) on [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) (4 days ago)
-- [Update GitHub Actions workflows: standardize action versions and add Docker publish workflow](https://github.com/taylorwilsdon/google_workspace_mcp/pull/346) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (5 days ago)
+- [helm: Use dynamic imagePullPolicy from values](https://github.com/HolmesGPT/holmesgpt/pull/1345) on [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) (5 days ago)
+- [Update GitHub Actions workflows: standardize action versions and add Docker publish workflow](https://github.com/taylorwilsdon/google_workspace_mcp/pull/346) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (6 days ago)
 - [fix crashes on invalid url](https://github.com/DrFaust92/terraform-provider-airflow/pull/64) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
 - [add AWS/MWAA support](https://github.com/DrFaust92/terraform-provider-airflow/pull/63) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
 - [add AWS/MWAA support](https://github.com/DrFaust92/airflow-k8s-operator/pull/19) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 weeks ago)
 - [Nominatim: fix updatesjob init container templating](https://github.com/robjuz/helm-charts/pull/175) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 weeks ago)
 - [add support for initcontainers for lake deployment](https://github.com/apache/incubator-devlake-helm-chart/pull/359) on [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) (3 weeks ago)
 - [helm: add oci chart release](https://github.com/backube/snapscheduler/pull/1004) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (3 weeks ago)
-- [tidy up for initial release](https://github.com/DrFaust92/airflow-k8s-operator/pull/18) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 weeks ago)
+- [tidy up for initial release](https://github.com/DrFaust92/airflow-k8s-operator/pull/18) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 month ago)
 - [feat: publish oci chart](https://github.com/langfuse/langfuse-k8s/pull/293) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (1 month ago)
 
 
