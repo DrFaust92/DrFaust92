@@ -28,25 +28,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.4), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.4.0), today) - Prometheus community Helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.17](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.17), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.7](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.7), today) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.117](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.117), today) - Jenkins helm charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), 1 day ago) - Atlantis Helm Chart
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-10.2.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-10.2.1), 2 days ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.28.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.28.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.4), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.4.0), 1 day ago) - Prometheus community Helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.17](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.17), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.7](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.7), 1 day ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.117](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.117), 1 day ago) - Jenkins helm charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), 2 days ago) - Atlantis Helm Chart
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-10.2.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-10.2.1), 3 days ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.28.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.28.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.3](https://github.com/robusta-dev/robusta/releases/tag/0.31.3), 1 week ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.3), 1 week ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
 #### 🔨 My recent Pull Requests
 
-- [helm: Use dynamic imagePullPolicy from values](https://github.com/HolmesGPT/holmesgpt/pull/1345) on [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) (5 days ago)
-- [Update GitHub Actions workflows: standardize action versions and add Docker publish workflow](https://github.com/taylorwilsdon/google_workspace_mcp/pull/346) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (6 days ago)
+- [helm: Use dynamic imagePullPolicy from values](https://github.com/HolmesGPT/holmesgpt/pull/1345) on [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) (6 days ago)
+- [Update GitHub Actions workflows: standardize action versions and add Docker publish workflow](https://github.com/taylorwilsdon/google_workspace_mcp/pull/346) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
 - [fix crashes on invalid url](https://github.com/DrFaust92/terraform-provider-airflow/pull/64) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
 - [add AWS/MWAA support](https://github.com/DrFaust92/terraform-provider-airflow/pull/63) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
 - [add AWS/MWAA support](https://github.com/DrFaust92/airflow-k8s-operator/pull/19) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 weeks ago)
-- [Nominatim: fix updatesjob init container templating](https://github.com/robjuz/helm-charts/pull/175) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 weeks ago)
+- [Nominatim: fix updatesjob init container templating](https://github.com/robjuz/helm-charts/pull/175) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (3 weeks ago)
 - [add support for initcontainers for lake deployment](https://github.com/apache/incubator-devlake-helm-chart/pull/359) on [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) (3 weeks ago)
 - [helm: add oci chart release](https://github.com/backube/snapscheduler/pull/1004) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (3 weeks ago)
 - [tidy up for initial release](https://github.com/DrFaust92/airflow-k8s-operator/pull/18) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 month ago)
@@ -65,7 +65,7 @@
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (1 month ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (3 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (4 months ago)
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (5 months ago)
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (6 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (6 months ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (7 months ago)
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (7 months ago)
