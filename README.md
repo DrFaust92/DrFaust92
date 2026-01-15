@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [madmecodes](https://github.com/madmecodes)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [SridharRG](https://github.com/SridharRG)
 - [ross-armada](https://github.com/ross-armada)
-- [alekp](https://github.com/alekp)
 
 #### 💬 Feedback
 
