@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.118](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.118), today) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.18.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.18.0), today) - 
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta9](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta9), 1 day ago) - Apache DevLake Helm Chart
@@ -35,7 +36,6 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.4), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.4), 2 days ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.17](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.17), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.117](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.117), 2 days ago) - Jenkins helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), 3 days ago) - Atlantis Helm Chart
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-10.2.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-10.2.1), 4 days ago) - 
 
