@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.18.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.18.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.14.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.14.4), 1 day ago) - Prometheus community Helm charts
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta9](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta9), 1 day ago) - Apache DevLake Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.8](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.8), 1 day ago) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.4](https://github.com/robusta-dev/robusta/releases/tag/0.31.4), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.4), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.4), 2 days ago) - ArgoProj Helm Charts
