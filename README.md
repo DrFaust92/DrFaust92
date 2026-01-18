@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (today)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
 - [kafbat/helm-charts](https://github.com/kafbat/helm-charts) - Helm charts for kafbat projects (2 weeks ago)
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (2 weeks ago)
@@ -11,7 +12,6 @@
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 month ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 month ago)
-- [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.3.0), today) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.5-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.5-alpha), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.5.2), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.122](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.122), 1 day ago) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.18.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.18.0), 2 days ago) - 
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta9](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta9), 3 days ago) - Apache DevLake Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.4](https://github.com/robusta-dev/robusta/releases/tag/0.31.4), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.4), 4 days ago) - ArgoProj Helm Charts
