@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.5-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.5-alpha), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.5.2), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.122](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.122), 1 day ago) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.18.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.18.0), 2 days ago) - 
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta9](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta9), 3 days ago) - Apache DevLake Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.4](https://github.com/robusta-dev/robusta/releases/tag/0.31.4), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.4), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.4), 4 days ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.17](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.17), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), 5 days ago) - Atlantis Helm Chart
