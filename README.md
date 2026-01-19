@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-7.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-7.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.3.0), 1 day ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.5-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.5-alpha), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.122](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.122), 2 days ago) - Jenkins helm charts
