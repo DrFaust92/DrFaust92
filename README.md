@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.5-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.31.5-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.5](https://github.com/robusta-dev/robusta/releases/tag/0.31.5), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.5](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.5), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.3.0), 1 day ago) - 
