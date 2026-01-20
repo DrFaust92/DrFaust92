@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.378](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.378), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.18](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.18), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.1.0), today) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.31.5](https://github.com/robusta-dev/robusta/releases/tag/0.31.5), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.18.5](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.18.5), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.3.0), 2 days ago) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.122](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.122), 3 days ago) - Jenkins helm charts
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta9](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta9), 5 days ago) - Apache DevLake Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.4), 6 days ago) - ArgoProj Helm Charts
