@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.123](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.123), today) - Jenkins helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.124](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.124), today) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.2.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.378](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.378), 1 day ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.18](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.18), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
