@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.50.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.50.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.51.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.51.0), today) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.125](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.125), today) - Jenkins helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.4](https://github.com/grafana/loki/releases/tag/v3.6.4), today) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.1), today) - ArgoProj Helm Charts
