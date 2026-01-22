@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 days ago)
@@ -9,7 +10,6 @@
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (3 weeks ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (3 weeks ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 month ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 month ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 month ago)
 
