@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.11](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.11), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.12](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.12), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.2.1), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.128](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.128), today) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.20](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.20), today) - ArgoProj Helm Charts
