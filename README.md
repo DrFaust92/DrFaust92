@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
 - [kafbat/helm-charts](https://github.com/kafbat/helm-charts) - Helm charts for kafbat projects (3 weeks ago)
