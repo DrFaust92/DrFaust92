@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.379](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.379), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.6), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.130](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.130), 3 days ago) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.3), 3 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.2.2), 3 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.4](https://github.com/grafana/loki/releases/tag/v3.6.4), 5 days ago) - Like Prometheus, but for logs.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.18](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.18), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
