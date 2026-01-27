@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.379](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.379), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.4), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.6), 1 day ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.130](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.130), 4 days ago) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.2.2), 4 days ago) - Prometheus community Helm charts
