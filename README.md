@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.132](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.132), today) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.13](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.13), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.61.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.61.1), today) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.133](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.133), today) - Jenkins helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.32.0](https://github.com/robusta-dev/robusta/releases/tag/0.32.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.19.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.19.0), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.7), today) - ArgoProj Helm Charts
