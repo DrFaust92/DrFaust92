@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
 - [kafbat/helm-charts](https://github.com/kafbat/helm-charts) - Helm charts for kafbat projects (3 weeks ago)
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (4 weeks ago)
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (1 month ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 month ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 month ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 month ago)
@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.61.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.61.1), today) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.133](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.133), today) - Jenkins helm charts
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.32.0](https://github.com/robusta-dev/robusta/releases/tag/0.32.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.19.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.19.0), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.3.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.3.7), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.2.2), 4 days ago) - Prometheus community Helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.4](https://github.com/grafana/loki/releases/tag/v3.6.4), 6 days ago) - Like Prometheus, but for logs.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.5), today) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.61.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.61.1), 1 day ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.133](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.133), 1 day ago) - Jenkins helm charts
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.32.0](https://github.com/robusta-dev/robusta/releases/tag/0.32.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.19.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.19.0), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.2.2), 5 days ago) - Prometheus community Helm charts
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.4](https://github.com/grafana/loki/releases/tag/v3.6.4), 1 week ago) - Like Prometheus, but for logs.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.18](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.18), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta9](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta9), 1 week ago) - Apache DevLake Helm Chart
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), 2 weeks ago) - Atlantis Helm Chart
@@ -63,7 +63,7 @@
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments. (2 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (2 months ago)
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (3 months ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (4 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (5 months ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (6 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (7 months ago)
