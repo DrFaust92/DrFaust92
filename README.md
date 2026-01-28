@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.26.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.26.0), today) - Atlantis Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.61.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.61.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.5), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.133](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.133), 1 day ago) - Jenkins helm charts
@@ -37,7 +38,6 @@
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.4](https://github.com/grafana/loki/releases/tag/v3.6.4), 1 week ago) - Like Prometheus, but for logs.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.18](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.18), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta9](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta9), 1 week ago) - Apache DevLake Helm Chart
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.25.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.25.0), 2 weeks ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
