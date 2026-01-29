@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.3.1), today) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.5](https://github.com/grafana/mimir/releases/tag/mimir-2.17.5), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.14](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.14), today) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.134](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.134), today) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.30.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.3.0), 1 day ago) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.26.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.26.0), 1 day ago) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.5), 1 day ago) - ArgoProj Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.32.0](https://github.com/robusta-dev/robusta/releases/tag/0.32.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
