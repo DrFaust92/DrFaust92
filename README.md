@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.30.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.49](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.49), 1 day ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.29.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.29.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.3.0), 1 day ago) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.26.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.26.0), 1 day ago) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.5), 1 day ago) - ArgoProj Helm Charts
