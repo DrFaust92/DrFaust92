@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.18.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.18.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.14](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.14), today) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.134](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.134), today) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.30.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.3.0), 1 day ago) - Prometheus community Helm charts
