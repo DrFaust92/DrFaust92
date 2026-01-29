@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.134](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.134), today) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.30.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.49](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.49), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.3.0), 1 day ago) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.26.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.26.0), 1 day ago) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.0.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.0.5), 1 day ago) - ArgoProj Helm Charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.133](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.133), 2 days ago) - Jenkins helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.32.0](https://github.com/robusta-dev/robusta/releases/tag/0.32.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.19.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.19.0), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.4](https://github.com/grafana/loki/releases/tag/v3.6.4), 1 week ago) - Like Prometheus, but for logs.
