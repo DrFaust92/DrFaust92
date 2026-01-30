@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[grafana] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/31) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [[grafana] - set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana/helm-charts/pull/4123) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [[grafana-mcp] bump grafana-mcp to 0.8.2](https://github.com/grafana/helm-charts/pull/4090) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [bump deps](https://github.com/DrFaust92/airflow-k8s-operator/pull/21) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [helm: Use dynamic imagePullPolicy from values](https://github.com/HolmesGPT/holmesgpt/pull/1345) on [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) (3 weeks ago)
@@ -49,8 +51,6 @@
 - [add AWS/MWAA support](https://github.com/DrFaust92/terraform-provider-airflow/pull/63) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 month ago)
 - [add AWS/MWAA support](https://github.com/DrFaust92/airflow-k8s-operator/pull/19) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 month ago)
 - [Nominatim: fix updatesjob init container templating](https://github.com/robjuz/helm-charts/pull/175) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 month ago)
-- [add support for initcontainers for lake deployment](https://github.com/apache/incubator-devlake-helm-chart/pull/359) on [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) (1 month ago)
-- [helm: add oci chart release](https://github.com/backube/snapscheduler/pull/1004) on [backube/snapscheduler](https://github.com/backube/snapscheduler) (1 month ago)
 
 
 
