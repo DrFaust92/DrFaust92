@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.4.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.4.2), today) - Prometheus community Helm charts
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.4.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.4.1), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.2), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.15](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.15), today) - 
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump deps and modernize CI](https://github.com/FelGel/terraform-provider-mongodb/pull/9) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [Bump deps &#43; moderinze CI](https://github.com/Kaginari/terraform-provider-mongodb/pull/50) on [Kaginari/terraform-provider-mongodb](https://github.com/Kaginari/terraform-provider-mongodb) (today)
 - [[grafana] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/31) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [[grafana] - set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana/helm-charts/pull/4123) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [[grafana-mcp] bump grafana-mcp to 0.8.2](https://github.com/grafana/helm-charts/pull/4090) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
@@ -49,8 +51,6 @@
 - [Update GitHub Actions workflows: standardize action versions and add Docker publish workflow](https://github.com/taylorwilsdon/google_workspace_mcp/pull/346) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (3 weeks ago)
 - [fix crashes on invalid url](https://github.com/DrFaust92/terraform-provider-airflow/pull/64) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 month ago)
 - [add AWS/MWAA support](https://github.com/DrFaust92/terraform-provider-airflow/pull/63) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 month ago)
-- [add AWS/MWAA support](https://github.com/DrFaust92/airflow-k8s-operator/pull/19) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 month ago)
-- [Nominatim: fix updatesjob init container templating](https://github.com/robjuz/helm-charts/pull/175) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (1 month ago)
 
 
 
