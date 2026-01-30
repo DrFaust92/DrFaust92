@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.4.1), today) - Prometheus community Helm charts
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.4.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.4.1), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.2), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.3.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.15](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.15), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.5](https://github.com/grafana/mimir/releases/tag/mimir-2.17.5), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.134](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.134), 1 day ago) - Jenkins helm charts
