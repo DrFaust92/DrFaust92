@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.24.4](https://github.com/grafana/helm-charts/releases/tag/tempo-1.24.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.15](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.15), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.3.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.5](https://github.com/grafana/mimir/releases/tag/mimir-2.17.5), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.134](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.134), 1 day ago) - Jenkins helm charts
