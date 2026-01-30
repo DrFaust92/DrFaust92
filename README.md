@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[tempo-distributed] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/35) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [[tempo-distributed] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana/helm-charts/pull/4124) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
+- [[grafana-mcp] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/34) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [Clean up code and improve documentation](https://github.com/FelGel/terraform-provider-mongodb/pull/10) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [Bump deps and modernize CI](https://github.com/FelGel/terraform-provider-mongodb/pull/9) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [Bump deps &#43; moderinze CI](https://github.com/Kaginari/terraform-provider-mongodb/pull/50) on [Kaginari/terraform-provider-mongodb](https://github.com/Kaginari/terraform-provider-mongodb) (today)
 - [[grafana] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/31) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [[grafana] - set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana/helm-charts/pull/4123) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [[grafana-mcp] bump grafana-mcp to 0.8.2](https://github.com/grafana/helm-charts/pull/4090) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [bump deps](https://github.com/DrFaust92/airflow-k8s-operator/pull/21) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
-- [helm: Use dynamic imagePullPolicy from values](https://github.com/HolmesGPT/holmesgpt/pull/1345) on [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) (3 weeks ago)
-- [Update GitHub Actions workflows: standardize action versions and add Docker publish workflow](https://github.com/taylorwilsdon/google_workspace_mcp/pull/346) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (3 weeks ago)
-- [fix crashes on invalid url](https://github.com/DrFaust92/terraform-provider-airflow/pull/64) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 month ago)
-- [add AWS/MWAA support](https://github.com/DrFaust92/terraform-provider-airflow/pull/63) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 month ago)
 
 
 
