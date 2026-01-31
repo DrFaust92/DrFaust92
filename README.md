@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.27.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.27.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.8.2), today) - Prometheus community Helm charts
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.4.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.4.1), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.2), 1 day ago) - ArgoProj Helm Charts
@@ -35,7 +36,6 @@
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.5](https://github.com/grafana/mimir/releases/tag/mimir-2.17.5), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.134](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.134), 2 days ago) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.30.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.26.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.26.0), 3 days ago) - Atlantis Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.32.0](https://github.com/robusta-dev/robusta/releases/tag/0.32.0), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.19.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.19.0), 4 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 
