@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.2](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.2), today) - 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.3](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.10.1), today) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.27.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.27.0), 1 day ago) - Atlantis Helm Chart
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.4.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.4.1), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
