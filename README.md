@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add MongoDB resource tests and index handling](https://github.com/FelGel/terraform-provider-mongodb/pull/14) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [Remove record_pre_images in favor of change_stream_pre_and_post_images](https://github.com/FelGel/terraform-provider-mongodb/pull/13) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [Refactor MongoDB provider for improved readability and maintainability](https://github.com/FelGel/terraform-provider-mongodb/pull/12) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 day ago)
 - [Remove port number validation from MongoDB provider configuration](https://github.com/FelGel/terraform-provider-mongodb/pull/11) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 day ago)
@@ -50,7 +51,6 @@
 - [[grafana-mcp] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/34) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 - [Clean up code and improve documentation](https://github.com/FelGel/terraform-provider-mongodb/pull/10) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 days ago)
 - [Bump deps and modernize CI](https://github.com/FelGel/terraform-provider-mongodb/pull/9) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 days ago)
-- [Bump deps &#43; moderinze CI](https://github.com/Kaginari/terraform-provider-mongodb/pull/50) on [Kaginari/terraform-provider-mongodb](https://github.com/Kaginari/terraform-provider-mongodb) (4 days ago)
 
 
 
