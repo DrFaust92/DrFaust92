@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.8.1), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.135](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.135), 1 day ago) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.31.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.5.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.41.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.41.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.3), 3 days ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.19](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.19), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
