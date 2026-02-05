@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.6.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.6.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.1), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.22.0), today) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.1.0), today) - 
