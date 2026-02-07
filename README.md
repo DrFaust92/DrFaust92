@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 days ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (4 days ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 weeks ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 weeks ago)
 - [kafbat/helm-charts](https://github.com/kafbat/helm-charts) - Helm charts for kafbat projects (1 month ago)
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (1 month ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 month ago)
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.0), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.9.0), today) - Prometheus community Helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.5](https://github.com/grafana/loki/releases/tag/v3.6.5), today) - Like Prometheus, but for logs.
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.19.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.19.1), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.0), 1 day ago) - 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.1.0), 1 day ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.135](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.135), 2 days ago) - Jenkins helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.31.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.19](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.19), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.27.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.27.0), 6 days ago) - Atlantis Helm Chart
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.0), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.9.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.5](https://github.com/grafana/loki/releases/tag/v3.6.5), 1 day ago) - Like Prometheus, but for logs.
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.19.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.19.1), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.0), 2 days ago) - 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.1.0), 2 days ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.135](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.135), 3 days ago) - Jenkins helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.31.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.19](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.19), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.27.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.27.0), 1 week ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
-- [Enhance MongoDB user resource: enforce password change on update](https://github.com/FelGel/terraform-provider-mongodb/pull/17) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 days ago)
-- [Remove mongo-express service and add acceptance tests for MongoDB roles](https://github.com/FelGel/terraform-provider-mongodb/pull/16) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 days ago)
-- [Add support for unique indexes in MongoDB resource and tests](https://github.com/FelGel/terraform-provider-mongodb/pull/15) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 days ago)
-- [Add MongoDB resource tests and index handling](https://github.com/FelGel/terraform-provider-mongodb/pull/14) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 days ago)
-- [Remove record_pre_images in favor of change_stream_pre_and_post_images](https://github.com/FelGel/terraform-provider-mongodb/pull/13) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 days ago)
-- [Refactor MongoDB provider for improved readability and maintainability](https://github.com/FelGel/terraform-provider-mongodb/pull/12) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 days ago)
-- [Remove port number validation from MongoDB provider configuration](https://github.com/FelGel/terraform-provider-mongodb/pull/11) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 days ago)
-- [feat(TPG&gt;=7.17)!: add support for node_drain_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2535) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (6 days ago)
+- [Enhance MongoDB user resource: enforce password change on update](https://github.com/FelGel/terraform-provider-mongodb/pull/17) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 days ago)
+- [Remove mongo-express service and add acceptance tests for MongoDB roles](https://github.com/FelGel/terraform-provider-mongodb/pull/16) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 days ago)
+- [Add support for unique indexes in MongoDB resource and tests](https://github.com/FelGel/terraform-provider-mongodb/pull/15) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 days ago)
+- [Add MongoDB resource tests and index handling](https://github.com/FelGel/terraform-provider-mongodb/pull/14) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 days ago)
+- [Remove record_pre_images in favor of change_stream_pre_and_post_images](https://github.com/FelGel/terraform-provider-mongodb/pull/13) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 days ago)
+- [Refactor MongoDB provider for improved readability and maintainability](https://github.com/FelGel/terraform-provider-mongodb/pull/12) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (5 days ago)
+- [Remove port number validation from MongoDB provider configuration](https://github.com/FelGel/terraform-provider-mongodb/pull/11) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (5 days ago)
+- [feat(TPG&gt;=7.17)!: add support for node_drain_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2535) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
 - [[tempo-distributed] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/35) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[tempo-distributed] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana/helm-charts/pull/4124) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 
