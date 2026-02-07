@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.136](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.136), today) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.9.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.5](https://github.com/grafana/loki/releases/tag/v3.6.5), 1 day ago) - Like Prometheus, but for logs.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.19.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.19.1), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.0), 2 days ago) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.1.0), 2 days ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.135](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.135), 3 days ago) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.31.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.19](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.19), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.27.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.27.0), 1 week ago) - Atlantis Helm Chart
