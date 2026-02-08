@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([kubechecks-3.0.0](https://github.com/zapier/kubechecks/releases/tag/kubechecks-3.0.0), today) - Check your Kubernetes changes before they hit the cluster
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v3.0.0-rc1](https://github.com/zapier/kubechecks/releases/tag/v3.0.0-rc1), today) - Check your Kubernetes changes before they hit the cluster
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.2-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.2-alpha), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.137](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.137), today) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.0), 2 days ago) - ArgoProj Helm Charts
