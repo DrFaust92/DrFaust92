@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.138](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.138), today) - Jenkins helm charts
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v3.0.0-rc1](https://github.com/zapier/kubechecks/releases/tag/v3.0.0-rc1), 1 day ago) - Check your Kubernetes changes before they hit the cluster
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.2-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.2-alpha), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.137](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.137), 1 day ago) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.0), 3 days ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.9.0), 3 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.5](https://github.com/grafana/loki/releases/tag/v3.6.5), 3 days ago) - Like Prometheus, but for logs.
