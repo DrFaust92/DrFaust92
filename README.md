@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.28.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.28.0), today) - Atlantis Helm Chart
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.5.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.5.0), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.53.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.53.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.6.1), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.139](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.139), today) - Jenkins helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.3-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.3-alpha), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v3.0.0-rc1](https://github.com/zapier/kubechecks/releases/tag/v3.0.0-rc1), 2 days ago) - Check your Kubernetes changes before they hit the cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.0), 4 days ago) - ArgoProj Helm Charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.5](https://github.com/grafana/loki/releases/tag/v3.6.5), 4 days ago) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.0), 5 days ago) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.1.0), 5 days ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.31.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.19](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.19), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
