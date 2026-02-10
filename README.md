@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.6-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-2.17.6-rc.0), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.4.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.4.2), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.28.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.28.0), today) - Atlantis Helm Chart
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.5.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.5.0), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
@@ -37,7 +38,6 @@
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v3.0.0-rc1](https://github.com/zapier/kubechecks/releases/tag/v3.0.0-rc1), 2 days ago) - Check your Kubernetes changes before they hit the cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.0), 4 days ago) - ArgoProj Helm Charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.5](https://github.com/grafana/loki/releases/tag/v3.6.5), 4 days ago) - Like Prometheus, but for logs.
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.1.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.1.0), 5 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
