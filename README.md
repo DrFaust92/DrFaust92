@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.17.0), today) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.6-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-2.17.6-rc.0), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.4.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.4.2), 1 day ago) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.28.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.28.0), 1 day ago) - Atlantis Helm Chart
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.5.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.5.0), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.6.1), 1 day ago) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.139](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.139), 1 day ago) - Jenkins helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.3-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.3-alpha), 2 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) ([v3.0.0-rc1](https://github.com/zapier/kubechecks/releases/tag/v3.0.0-rc1), 3 days ago) - Check your Kubernetes changes before they hit the cluster
