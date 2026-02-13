@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.9.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.381](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.381), today) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.32.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.32.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.6](https://github.com/grafana/mimir/releases/tag/mimir-2.17.6), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.10](https://github.com/grafana/loki/releases/tag/v3.5.10), 1 day ago) - Like Prometheus, but for logs.
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.28.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.28.0), 2 days ago) - Atlantis Helm Chart
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.5.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.5.0), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.139](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.139), 2 days ago) - Jenkins helm charts
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.3-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.3-alpha), 3 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.10.7](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.10.7), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.6.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.6.4), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.381](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.381), 1 day ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.32.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.32.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.6](https://github.com/grafana/mimir/releases/tag/mimir-2.17.6), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.10](https://github.com/grafana/loki/releases/tag/v3.5.10), 2 days ago) - Like Prometheus, but for logs.
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.28.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.28.0), 3 days ago) - Atlantis Helm Chart
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.5.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.5.0), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.139](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.139), 3 days ago) - Jenkins helm charts
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.3-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.3-alpha), 4 days ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.10.7](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.10.7), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 
 #### 🔨 My recent Pull Requests
 
@@ -49,8 +49,8 @@
 - [Refactor MongoDB provider for improved readability and maintainability](https://github.com/FelGel/terraform-provider-mongodb/pull/12) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 week ago)
 - [Remove port number validation from MongoDB provider configuration](https://github.com/FelGel/terraform-provider-mongodb/pull/11) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 week ago)
 - [feat(TPG&gt;=7.17)!: add support for node_drain_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2535) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 week ago)
-- [[tempo-distributed] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/35) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
-- [[tempo-distributed] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana/helm-charts/pull/4124) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
+- [[tempo-distributed] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/35) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
+- [[tempo-distributed] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana/helm-charts/pull/4124) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 
 
 
