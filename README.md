@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.6.7](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.6.7), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.2), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.6.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.6.6), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.381](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.381), 1 day ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.32.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.32.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.6](https://github.com/grafana/mimir/releases/tag/mimir-2.17.6), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
