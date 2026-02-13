@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.6.9](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.6.9), today) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.0.0), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.11.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.11.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.32.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.32.1), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.6.7](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.6.7), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.2), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.381](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.381), 1 day ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.6](https://github.com/grafana/mimir/releases/tag/mimir-2.17.6), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
