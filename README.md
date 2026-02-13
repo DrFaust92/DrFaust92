@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.0.0), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.11.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.11.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-11.1.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-11.1.0), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.32.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.32.1), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.6.7](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.6.7), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.2), today) - ArgoProj Helm Charts
