@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.11.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.11.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-11.1.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-11.1.0), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.32.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.32.1), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.6.7](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.6.7), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.10](https://github.com/grafana/loki/releases/tag/v3.5.10), 2 days ago) - Like Prometheus, but for logs.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-5.28.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.28.0), 3 days ago) - Atlantis Helm Chart
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.5.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.5.0), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.139](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.139), 3 days ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
 
