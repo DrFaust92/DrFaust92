@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.0.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.1.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.4), 1 day ago) - ArgoProj Helm Charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.5](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.5), 1 day ago) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.2.0), 1 day ago) - 
