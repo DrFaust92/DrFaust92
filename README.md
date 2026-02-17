@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.3.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.1.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.4), 1 day ago) - ArgoProj Helm Charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.5](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.5), 1 day ago) - 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.2.0), 1 day ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.7](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.7), 1 day ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.11.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.11.2), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.140](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.140), 2 days ago) - Jenkins helm charts
