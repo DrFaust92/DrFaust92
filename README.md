@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.9](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.9), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.3), today) - ArgoProj Helm Charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.6](https://github.com/grafana/loki/releases/tag/v3.6.6), today) - Like Prometheus, but for logs.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.142](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.142), today) - Jenkins helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.20](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.20), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.8](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.8), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.11.5](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.11.5), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.3.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.1.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.4), 2 days ago) - ArgoProj Helm Charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.5](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.5), 2 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.32.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.32.1), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 
