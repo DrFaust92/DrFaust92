@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.6](https://github.com/grafana/loki/releases/tag/v3.6.6), today) - Like Prometheus, but for logs.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.142](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.142), today) - Jenkins helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.20](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.20), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.8](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.8), today) - 
@@ -37,7 +38,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.4), 2 days ago) - ArgoProj Helm Charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.5](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.5), 2 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.32.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.32.1), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.6](https://github.com/grafana/mimir/releases/tag/mimir-2.17.6), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
