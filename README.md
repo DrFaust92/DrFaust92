@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
+- [[tempo] set minimun k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [[kube-prometheus-stack] bump prom operator to 0.89.0](https://github.com/prometheus-community/helm-charts/pull/6649) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [Enhance MongoDB user resource: enforce password change on update](https://github.com/FelGel/terraform-provider-mongodb/pull/17) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 weeks ago)
 - [Remove mongo-express service and add acceptance tests for MongoDB roles](https://github.com/FelGel/terraform-provider-mongodb/pull/16) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 weeks ago)
@@ -49,8 +51,6 @@
 - [Remove record_pre_images in favor of change_stream_pre_and_post_images](https://github.com/FelGel/terraform-provider-mongodb/pull/13) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 weeks ago)
 - [Refactor MongoDB provider for improved readability and maintainability](https://github.com/FelGel/terraform-provider-mongodb/pull/12) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 weeks ago)
 - [Remove port number validation from MongoDB provider configuration](https://github.com/FelGel/terraform-provider-mongodb/pull/11) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 weeks ago)
-- [feat(TPG&gt;=7.17)!: add support for node_drain_config](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2535) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
-- [[tempo-distributed] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/35) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 weeks ago)
 
 
 
