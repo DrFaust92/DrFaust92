@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.21.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.21.1), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.43.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.43.0), today) - 
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.21.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.21.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.12.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.12.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.33.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.3), 2 days ago) - ArgoProj Helm Charts
