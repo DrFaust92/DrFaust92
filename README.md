@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (3 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.21.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.21.1), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.2.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.43.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.43.0), today) - 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.12.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.12.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.33.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.3), 2 days ago) - ArgoProj Helm Charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.6](https://github.com/grafana/loki/releases/tag/v3.6.6), 2 days ago) - Like Prometheus, but for logs.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.142](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.142), 2 days ago) - Jenkins helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.20](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.20), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.3.0), 3 days ago) - 
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.21.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.21.1), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.2.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.43.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.43.0), 1 day ago) - 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.12.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.12.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.33.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.3), 3 days ago) - ArgoProj Helm Charts
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.6](https://github.com/grafana/loki/releases/tag/v3.6.6), 3 days ago) - Like Prometheus, but for logs.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.142](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.142), 3 days ago) - Jenkins helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.20](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.20), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.3.0), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
-- [[tempo] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [[kube-prometheus-stack] bump prom operator to 0.89.0](https://github.com/prometheus-community/helm-charts/pull/6649) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
+- [[tempo] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
+- [[kube-prometheus-stack] bump prom operator to 0.89.0](https://github.com/prometheus-community/helm-charts/pull/6649) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Enhance MongoDB user resource: enforce password change on update](https://github.com/FelGel/terraform-provider-mongodb/pull/17) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 weeks ago)
 - [Remove mongo-express service and add acceptance tests for MongoDB roles](https://github.com/FelGel/terraform-provider-mongodb/pull/16) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 weeks ago)
 - [Add support for unique indexes in MongoDB resource and tests](https://github.com/FelGel/terraform-provider-mongodb/pull/15) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (2 weeks ago)
@@ -66,7 +66,7 @@
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (4 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (6 months ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (7 months ago)
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (7 months ago)
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (8 months ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (8 months ago)
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (8 months ago)
 - [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (11 months ago)
