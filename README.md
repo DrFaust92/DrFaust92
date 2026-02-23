@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.383](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.383), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), today) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.4), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.2.1), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.21.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.21.1), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.43.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.43.0), 3 days ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.12.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.12.0), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.33.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.142](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.142), 5 days ago) - Jenkins helm charts
