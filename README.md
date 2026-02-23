@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.4-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.4-alpha), today) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.0](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), today) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.4), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.33.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.142](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.142), 5 days ago) - Jenkins helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.20](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.20), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.3.0), 6 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
