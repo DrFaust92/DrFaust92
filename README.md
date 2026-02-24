@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.22.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.22.0), today) - 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.33.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.33.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.0), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.5.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.5.0), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.0](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.0), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 1 day ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.4), 2 days ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.2.1), 2 days ago) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.21.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.21.1), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.12.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.12.0), 5 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.33.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.8.142](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.142), 6 days ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
 
