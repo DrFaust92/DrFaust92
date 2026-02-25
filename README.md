@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.21](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.21), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.1](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.19.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.19.2), today) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.33.0](https://github.com/robusta-dev/robusta/releases/tag/0.33.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
@@ -37,7 +38,6 @@
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 2 days ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.4), 3 days ago) - ArgoProj Helm Charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.21.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.21.1), 5 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.33.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 
 #### 🔨 My recent Pull Requests
 
