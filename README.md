@@ -4,7 +4,7 @@
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 weeks ago)
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More (1 month ago)
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 month ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (1 month ago)
@@ -32,7 +32,7 @@
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.19.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.19.2), today) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.33.0](https://github.com/robusta-dev/robusta/releases/tag/0.33.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.13.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.13.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.0), 1 day ago) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.5.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.5.0), 2 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 2 days ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.4), 3 days ago) - ArgoProj Helm Charts
