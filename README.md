@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 weeks ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project (1 month ago)
@@ -11,7 +12,6 @@
 - [kafbat/helm-charts](https://github.com/kafbat/helm-charts) - Helm charts for kafbat projects (1 month ago)
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (1 month ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 months ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.22.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.22.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.21](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.21), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.1](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.19.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.19.2), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.5.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.5.0), 2 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 2 days ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.4), 3 days ago) - ArgoProj Helm Charts
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.21.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.21.1), 5 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 
 #### 🔨 My recent Pull Requests
 
