@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-7.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-7.2.0), today) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.7](https://github.com/grafana/mimir/releases/tag/mimir-2.17.7), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.5), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.10.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.34.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.2](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.2), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.22.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.22.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
