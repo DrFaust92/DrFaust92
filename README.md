@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (today)
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 weeks ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project (1 month ago)
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.34.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.2](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.2), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.19.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.19.3), today) - Prometheus community Helm charts
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.22.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.22.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.21](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.21), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.33.0](https://github.com/robusta-dev/robusta/releases/tag/0.33.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.13.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.13.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.5.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.5.0), 2 days ago) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 2 days ago) - Like Prometheus, but for logs.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.34.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.2](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.2), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.19.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.19.3), 1 day ago) - Prometheus community Helm charts
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.22.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.22.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.21](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.21), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.33.0](https://github.com/robusta-dev/robusta/releases/tag/0.33.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.13.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.13.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.20.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.20.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.5.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.5.0), 3 days ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 3 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
-- [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (5 days ago)
-- [[tempo] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (5 days ago)
+- [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (6 days ago)
+- [[tempo] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
 - [[kube-prometheus-stack] bump prom operator to 0.89.0](https://github.com/prometheus-community/helm-charts/pull/6649) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Enhance MongoDB user resource: enforce password change on update](https://github.com/FelGel/terraform-provider-mongodb/pull/17) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 weeks ago)
 - [Remove mongo-express service and add acceptance tests for MongoDB roles](https://github.com/FelGel/terraform-provider-mongodb/pull/16) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 weeks ago)
@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [madmecodes](https://github.com/madmecodes)
 - [SridharRG](https://github.com/SridharRG)
 - [ross-armada](https://github.com/ross-armada)
-- [alekp](https://github.com/alekp)
 
 #### 💬 Feedback
 
