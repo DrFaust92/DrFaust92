@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.13.0), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.13.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.13.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.2), 1 day ago) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.4.3), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.12.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.12.0), 1 day ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.7](https://github.com/grafana/mimir/releases/tag/mimir-2.17.7), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.5), 2 days ago) - ArgoProj Helm Charts
