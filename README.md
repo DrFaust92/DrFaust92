@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.6), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.18.0), 1 day ago) - Prometheus community Helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.13.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.13.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.2), 2 days ago) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.12.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.12.0), 2 days ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.7](https://github.com/grafana/mimir/releases/tag/mimir-2.17.7), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
