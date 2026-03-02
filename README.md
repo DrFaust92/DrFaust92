@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (4 days ago)
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (3 weeks ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.6), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.18.0), 1 day ago) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.2), 2 days ago) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.12.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.12.0), 2 days ago) - 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.7](https://github.com/grafana/mimir/releases/tag/mimir-2.17.7), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.34.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.22.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.22.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.21](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.21), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.33.0](https://github.com/robusta-dev/robusta/releases/tag/0.33.0), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.6), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.18.0), 2 days ago) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.2), 3 days ago) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.12.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.12.0), 3 days ago) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.7](https://github.com/grafana/mimir/releases/tag/mimir-2.17.7), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.34.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.22.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.22.0), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.21](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.21), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.33.0](https://github.com/robusta-dev/robusta/releases/tag/0.33.0), 5 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
@@ -49,8 +49,8 @@
 - [Add support for unique indexes in MongoDB resource and tests](https://github.com/FelGel/terraform-provider-mongodb/pull/15) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 weeks ago)
 - [Add MongoDB resource tests and index handling](https://github.com/FelGel/terraform-provider-mongodb/pull/14) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 weeks ago)
 - [Remove record_pre_images in favor of change_stream_pre_and_post_images](https://github.com/FelGel/terraform-provider-mongodb/pull/13) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 weeks ago)
-- [Refactor MongoDB provider for improved readability and maintainability](https://github.com/FelGel/terraform-provider-mongodb/pull/12) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 weeks ago)
-- [Remove port number validation from MongoDB provider configuration](https://github.com/FelGel/terraform-provider-mongodb/pull/11) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 weeks ago)
+- [Refactor MongoDB provider for improved readability and maintainability](https://github.com/FelGel/terraform-provider-mongodb/pull/12) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
+- [Remove port number validation from MongoDB provider configuration](https://github.com/FelGel/terraform-provider-mongodb/pull/11) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
 
 
 
@@ -67,8 +67,8 @@
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (6 months ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (7 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (8 months ago)
-- [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (8 months ago)
-- [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (8 months ago)
+- [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (9 months ago)
+- [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (9 months ago)
 - [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) (11 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
