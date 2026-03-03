@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.3.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.3.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.19.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.19.4), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.6.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.6.1), 1 day ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.22](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.22), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.1), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.6), 2 days ago) - ArgoProj Helm Charts
