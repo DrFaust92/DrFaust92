@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (6 days ago)
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (4 weeks ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project (1 month ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.2), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.8.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.13.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.13.0), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.7), today) - ArgoProj Helm Charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.22](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.22), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.2), 4 days ago) - Jenkins helm charts
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.7](https://github.com/grafana/mimir/releases/tag/mimir-2.17.7), 5 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.34.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.22.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.22.0), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.33.0](https://github.com/robusta-dev/robusta/releases/tag/0.33.0), 6 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.8.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.8.1), today) - 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.8.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.13.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.13.0), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.7), 1 day ago) - ArgoProj Helm Charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.22](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.22), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.2), 5 days ago) - Jenkins helm charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.7](https://github.com/grafana/mimir/releases/tag/mimir-2.17.7), 6 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.34.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.22.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.22.0), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support templated values in service annotations](https://github.com/traefik/traefik-helm-chart/pull/1696) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
+- [feat: add native ingressEndpoint hostname and ip for kubernetesIngress provider](https://github.com/traefik/traefik-helm-chart/pull/1695) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
 - [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [[tempo] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump prom operator to 0.89.0](https://github.com/prometheus-community/helm-charts/pull/6649) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [Enhance MongoDB user resource: enforce password change on update](https://github.com/FelGel/terraform-provider-mongodb/pull/17) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 weeks ago)
-- [Remove mongo-express service and add acceptance tests for MongoDB roles](https://github.com/FelGel/terraform-provider-mongodb/pull/16) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 weeks ago)
-- [Add support for unique indexes in MongoDB resource and tests](https://github.com/FelGel/terraform-provider-mongodb/pull/15) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 weeks ago)
+- [Enhance MongoDB user resource: enforce password change on update](https://github.com/FelGel/terraform-provider-mongodb/pull/17) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
+- [Remove mongo-express service and add acceptance tests for MongoDB roles](https://github.com/FelGel/terraform-provider-mongodb/pull/16) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
+- [Add support for unique indexes in MongoDB resource and tests](https://github.com/FelGel/terraform-provider-mongodb/pull/15) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
 - [Add MongoDB resource tests and index handling](https://github.com/FelGel/terraform-provider-mongodb/pull/14) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
 - [Remove record_pre_images in favor of change_stream_pre_and_post_images](https://github.com/FelGel/terraform-provider-mongodb/pull/13) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
-- [Refactor MongoDB provider for improved readability and maintainability](https://github.com/FelGel/terraform-provider-mongodb/pull/12) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
-- [Remove port number validation from MongoDB provider configuration](https://github.com/FelGel/terraform-provider-mongodb/pull/11) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
 
 
 
