@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add native Redis Sentinel support](https://github.com/langfuse/langfuse-k8s/pull/319) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (today)
 - [feat: support templated values in service annotations](https://github.com/traefik/traefik-helm-chart/pull/1696) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
 - [feat: add native ingressEndpoint hostname and ip for kubernetesIngress provider](https://github.com/traefik/traefik-helm-chart/pull/1695) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
 - [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [Remove mongo-express service and add acceptance tests for MongoDB roles](https://github.com/FelGel/terraform-provider-mongodb/pull/16) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
 - [Add support for unique indexes in MongoDB resource and tests](https://github.com/FelGel/terraform-provider-mongodb/pull/15) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
 - [Add MongoDB resource tests and index handling](https://github.com/FelGel/terraform-provider-mongodb/pull/14) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
-- [Remove record_pre_images in favor of change_stream_pre_and_post_images](https://github.com/FelGel/terraform-provider-mongodb/pull/13) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
 
 
 
