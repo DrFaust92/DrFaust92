@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.44.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.44.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.9.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.35.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.35.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.8.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.8.1), 1 day ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.2), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.13.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.13.0), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.7), 2 days ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.22](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.22), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.2), 6 days ago) - Jenkins helm charts
