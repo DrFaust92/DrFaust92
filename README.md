@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.9.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.35.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.35.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.8.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.8.1), 1 day ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.2), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
