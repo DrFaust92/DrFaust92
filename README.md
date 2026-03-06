@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.1), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.35.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.35.1), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.3), today) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.44.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.44.0), today) - 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.8.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.8.1), 1 day ago) - 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.2), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.7), 2 days ago) - ArgoProj Helm Charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.22](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.22), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.0.0), today) - Configures opinionated GKE clusters
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.1), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.35.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.35.1), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.3), 1 day ago) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.44.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.44.0), 1 day ago) - 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.8.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.8.1), 2 days ago) - 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.2), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.7), 3 days ago) - ArgoProj Helm Charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.22](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.22), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.7](https://github.com/grafana/mimir/releases/tag/mimir-2.17.7), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.22.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.22.0), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
-- [[grafana-mcp] add Prometheus metrics and ServiceMonitor support](https://github.com/grafana-community/helm-charts/pull/145) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
-- [[grafana] Add timeouts support for HTTPRoute](https://github.com/grafana-community/helm-charts/pull/144) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
-- [feat: add native Redis Sentinel support](https://github.com/langfuse/langfuse-k8s/pull/319) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (1 day ago)
-- [feat: support templated values in service annotations](https://github.com/traefik/traefik-helm-chart/pull/1696) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 day ago)
-- [feat: add native ingressEndpoint hostname and ip for kubernetesIngress provider](https://github.com/traefik/traefik-helm-chart/pull/1695) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 day ago)
-- [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [[tempo] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
+- [[grafana-mcp] add Prometheus metrics and ServiceMonitor support](https://github.com/grafana-community/helm-charts/pull/145) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
+- [[grafana] Add timeouts support for HTTPRoute](https://github.com/grafana-community/helm-charts/pull/144) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
+- [feat: add native Redis Sentinel support](https://github.com/langfuse/langfuse-k8s/pull/319) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (2 days ago)
+- [feat: support templated values in service annotations](https://github.com/traefik/traefik-helm-chart/pull/1696) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (2 days ago)
+- [feat: add native ingressEndpoint hostname and ip for kubernetesIngress provider](https://github.com/traefik/traefik-helm-chart/pull/1695) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (2 days ago)
+- [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
+- [[tempo] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] bump prom operator to 0.89.0](https://github.com/prometheus-community/helm-charts/pull/6649) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [Enhance MongoDB user resource: enforce password change on update](https://github.com/FelGel/terraform-provider-mongodb/pull/17) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
-- [Remove mongo-express service and add acceptance tests for MongoDB roles](https://github.com/FelGel/terraform-provider-mongodb/pull/16) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 weeks ago)
+- [Enhance MongoDB user resource: enforce password change on update](https://github.com/FelGel/terraform-provider-mongodb/pull/17) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 month ago)
+- [Remove mongo-express service and add acceptance tests for MongoDB roles](https://github.com/FelGel/terraform-provider-mongodb/pull/16) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 month ago)
 
 
 
