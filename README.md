@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (today)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
@@ -11,7 +12,6 @@
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (1 month ago)
 - [kafbat/helm-charts](https://github.com/kafbat/helm-charts) - Helm charts for kafbat projects (2 months ago)
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (2 months ago)
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 months ago)
 
 #### 🌱 My latest projects
 
