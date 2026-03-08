@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.22.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.8), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.1), 2 days ago) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.21.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.21.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.384](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.384), 2 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.0.0), 2 days ago) - Configures opinionated GKE clusters
