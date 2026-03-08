@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (today)
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 day ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
@@ -28,24 +28,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.1), 1 day ago) - Prometheus community Helm charts
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.21.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.21.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.384](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.384), 1 day ago) - 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.0.0), 1 day ago) - Configures opinionated GKE clusters
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.35.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.35.1), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.3), 2 days ago) - Jenkins helm charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.8.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.8.1), 3 days ago) - 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.2), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.7), 4 days ago) - ArgoProj Helm Charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.22](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.22), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.1), 2 days ago) - Prometheus community Helm charts
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.21.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.21.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.384](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.384), 2 days ago) - 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.0.0), 2 days ago) - Configures opinionated GKE clusters
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.35.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.35.1), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.3), 3 days ago) - Jenkins helm charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.8.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.8.1), 4 days ago) - 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.2), 5 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.7), 5 days ago) - ArgoProj Helm Charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.22](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.22), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
-- [[grafana-mcp] add Prometheus metrics and ServiceMonitor support](https://github.com/grafana-community/helm-charts/pull/145) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
-- [[grafana] Add timeouts support for HTTPRoute](https://github.com/grafana-community/helm-charts/pull/144) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
-- [feat: add native Redis Sentinel support](https://github.com/langfuse/langfuse-k8s/pull/319) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (3 days ago)
-- [feat: support templated values in service annotations](https://github.com/traefik/traefik-helm-chart/pull/1696) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (3 days ago)
-- [feat: add native ingressEndpoint hostname and ip for kubernetesIngress provider](https://github.com/traefik/traefik-helm-chart/pull/1695) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (3 days ago)
+- [[grafana-mcp] add Prometheus metrics and ServiceMonitor support](https://github.com/grafana-community/helm-charts/pull/145) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
+- [[grafana] Add timeouts support for HTTPRoute](https://github.com/grafana-community/helm-charts/pull/144) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
+- [feat: add native Redis Sentinel support](https://github.com/langfuse/langfuse-k8s/pull/319) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (4 days ago)
+- [feat: support templated values in service annotations](https://github.com/traefik/traefik-helm-chart/pull/1696) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (4 days ago)
+- [feat: add native ingressEndpoint hostname and ip for kubernetesIngress provider](https://github.com/traefik/traefik-helm-chart/pull/1695) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (4 days ago)
 - [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 - [[tempo] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] bump prom operator to 0.89.0](https://github.com/prometheus-community/helm-charts/pull/6649) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
