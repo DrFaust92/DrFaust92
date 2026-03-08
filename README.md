@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.8), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.1), 2 days ago) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.21.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.21.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.384](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.384), 2 days ago) - 
@@ -36,7 +37,6 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.3), 3 days ago) - Jenkins helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.8.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.8.1), 4 days ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.2), 5 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.7), 5 days ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.22](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.22), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
