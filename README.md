@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.10.0), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-db-1.19.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-db-1.19.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.385](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.385), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.0.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.0.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.9), today) - ArgoProj Helm Charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.9.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.9.0), 1 day ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.21.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.21.0), 3 days ago) - SRE Agent - CNCF Sandbox Project
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.0.0), 3 days ago) - Configures opinionated GKE clusters
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.35.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.35.1), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
