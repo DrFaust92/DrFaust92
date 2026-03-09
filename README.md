@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (today)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (2 days ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
@@ -11,7 +12,6 @@
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 month ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (2 months ago)
 - [kafbat/helm-charts](https://github.com/kafbat/helm-charts) - Helm charts for kafbat projects (2 months ago)
-- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) - Apache DevLake Helm Chart (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.385](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.385), today) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.22.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.22.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.0.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.0.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.2), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.45.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.45.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.9), today) - ArgoProj Helm Charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.9.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.9.0), 1 day ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.21.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.21.0), 3 days ago) - SRE Agent - CNCF Sandbox Project
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.0.0), 3 days ago) - Configures opinionated GKE clusters
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.35.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.35.1), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.3), 4 days ago) - Jenkins helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.2), 6 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.22](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.22), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
