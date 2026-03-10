@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.6.2](https://github.com/grafana/helm-charts/releases/tag/alloy-1.6.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.10), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.4](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.4), 1 day ago) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.2), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.22.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.22.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.10.0), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-db-1.19.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-db-1.19.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.385](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.385), 1 day ago) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.0.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.0.0), 1 day ago) - Atlantis Helm Chart
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.21.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.21.0), 4 days ago) - SRE Agent - CNCF Sandbox Project
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.0.0), 4 days ago) - Configures opinionated GKE clusters
