@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.6.2](https://github.com/grafana/helm-charts/releases/tag/alloy-1.6.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.10), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.4](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.4), 1 day ago) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.2), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.22.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.22.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.10.0), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-db-1.19.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-db-1.19.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
