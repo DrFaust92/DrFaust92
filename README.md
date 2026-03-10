@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.3), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.6.2](https://github.com/grafana/helm-charts/releases/tag/alloy-1.6.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.10), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.4](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.4), 1 day ago) - Jenkins helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.22.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.22.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
