@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.5](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.5), today) - Jenkins helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.4](https://github.com/grafana/mimir/releases/tag/mimir-3.0.4), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.54.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.54.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.10), 1 day ago) - ArgoProj Helm Charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.4](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.4), 2 days ago) - Jenkins helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.22.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.22.0), 2 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.10.0), 2 days ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-db-1.19.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-db-1.19.1), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
