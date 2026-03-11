@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.55.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.55.0), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.36.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.7](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.7), today) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.5), today) - ArgoProj Helm Charts
