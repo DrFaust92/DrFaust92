@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (today)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 days ago)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (4 days ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (2 weeks ago)
@@ -11,7 +12,6 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 month ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (2 months ago)
-- [kafbat/helm-charts](https://github.com/kafbat/helm-charts) - Helm charts for kafbat projects (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.7](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.7), today) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.5), today) - ArgoProj Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.34.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.5](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.5), today) - Jenkins helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.4](https://github.com/grafana/mimir/releases/tag/mimir-3.0.4), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.2), today) - Prometheus community Helm charts
@@ -45,7 +45,7 @@
 - [[grafana] Add timeouts support for HTTPRoute](https://github.com/grafana-community/helm-charts/pull/144) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [feat: add native Redis Sentinel support](https://github.com/langfuse/langfuse-k8s/pull/319) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (1 week ago)
 - [feat: support templated values in service annotations](https://github.com/traefik/traefik-helm-chart/pull/1696) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
-- [feat: add native ingressEndpoint hostname and ip for kubernetesIngress provider](https://github.com/traefik/traefik-helm-chart/pull/1695) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
+- [feat(ingress): add native ingressEndpoint hostname and ip support](https://github.com/traefik/traefik-helm-chart/pull/1695) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
 - [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 - [[tempo] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] bump prom operator to 0.89.0](https://github.com/prometheus-community/helm-charts/pull/6649) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
