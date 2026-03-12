@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.8](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.8), today) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.55.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.55.0), 1 day ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.36.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.7](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.7), 1 day ago) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.47.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.47.5), 1 day ago) - ArgoProj Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.34.0-alpha), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
