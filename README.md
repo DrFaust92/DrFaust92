@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.0), today) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.2), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.2), today) - ArgoProj Helm Charts
+- [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta10](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta10), today) - Apache DevLake Helm Chart
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), today) - Like Prometheus, but for logs.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.8](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.8), today) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.55.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.55.0), 1 day ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.36.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.34.0-alpha), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.4](https://github.com/grafana/mimir/releases/tag/mimir-3.0.4), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.2), 1 day ago) - Prometheus community Helm charts
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.22.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.22.0), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.10.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.10.0), 3 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
