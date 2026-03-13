@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.19.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.19.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.22.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.22.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.3), today) - ArgoProj Helm Charts
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta10](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta10), 1 day ago) - Apache DevLake Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), 1 day ago) - Like Prometheus, but for logs.
