@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.19.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.19.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.3), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.4), 1 day ago) - 
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta10](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta10), 1 day ago) - Apache DevLake Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), 1 day ago) - Like Prometheus, but for logs.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.8](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.8), 1 day ago) - Jenkins helm charts
