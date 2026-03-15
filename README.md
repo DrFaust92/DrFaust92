@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.3), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.4), today) - Prometheus community Helm charts
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.4.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.4.0), today) - A K8s operator to manager airflow resources as custom resources
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.0), today) - 
@@ -37,7 +38,6 @@
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), 3 days ago) - Like Prometheus, but for logs.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.8](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.8), 3 days ago) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.36.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.34.0-alpha), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
