@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.4.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.4.0), today) - A K8s operator to manager airflow resources as custom resources
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.22.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.22.1), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.3), 2 days ago) - ArgoProj Helm Charts
@@ -37,20 +38,19 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.36.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.34.0-alpha), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0-alpha), 4 days ago) - SRE Agent - CNCF Sandbox Project
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.4](https://github.com/grafana/mimir/releases/tag/mimir-3.0.4), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-state-metrics] Fix missing rolebindings RBAC rule (7.2.1)](https://github.com/prometheus-community/helm-charts/pull/6736) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] Add terminationGracePeriodSeconds for Prometheus, Alertmanager and ThanosRuler](https://github.com/prometheus-community/helm-charts/pull/6735) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] Add hostUsers support for Prometheus, Alertmanager and ThanosRuler](https://github.com/prometheus-community/helm-charts/pull/6734) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] Add podManagementPolicy and updateStrategy](https://github.com/prometheus-community/helm-charts/pull/6733) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] Add Alertmanager hostNetwork support](https://github.com/prometheus-community/helm-charts/pull/6732) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [bump chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/29) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [bump deps](https://github.com/DrFaust92/airflow-k8s-operator/pull/28) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [feat: add github.org support for ATLANTIS_GH_ORG](https://github.com/runatlantis/helm-charts/pull/541) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (today)
 - [feat(ingressroute): support templating in annotations and labels](https://github.com/traefik/traefik-helm-chart/pull/1728) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
 - [[grafana-mcp] add Prometheus metrics and ServiceMonitor support](https://github.com/grafana-community/helm-charts/pull/145) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
-- [[grafana] Add timeouts support for HTTPRoute](https://github.com/grafana-community/helm-charts/pull/144) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
-- [feat: add native Redis Sentinel support](https://github.com/langfuse/langfuse-k8s/pull/319) on [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) (1 week ago)
-- [feat: support templated values in service annotations](https://github.com/traefik/traefik-helm-chart/pull/1696) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
-- [feat(ingress): add native ingressEndpoint hostname and ip support](https://github.com/traefik/traefik-helm-chart/pull/1695) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
-- [[rollout-operator] add deployment annotations &#43; allow not to create crds](https://github.com/grafana/helm-charts/pull/4133) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 weeks ago)
-- [[tempo] set minimum k8s version at 1.25 and remove all refs of deprecated API](https://github.com/grafana-community/helm-charts/pull/113) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 weeks ago)
-- [[kube-prometheus-stack] bump prom operator to 0.89.0](https://github.com/prometheus-community/helm-charts/pull/6649) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 weeks ago)
 
 
 
