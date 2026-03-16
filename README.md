@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.18.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.52.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.52.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.11), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.386](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.386), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.1), today) - Traefik Proxy Helm Chart
