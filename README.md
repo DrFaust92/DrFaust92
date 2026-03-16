@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.52.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.52.1), today) - Prometheus community Helm charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.6](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.6), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.5), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.11), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.386](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.386), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.1), today) - Traefik Proxy Helm Chart
@@ -37,7 +38,6 @@
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.4.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.4.0), 1 day ago) - A K8s operator to manager airflow resources as custom resources
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.0), 1 day ago) - 
 - [apache/incubator-devlake-helm-chart](https://github.com/apache/incubator-devlake-helm-chart) ([devlake-1.0.3-beta10](https://github.com/apache/incubator-devlake-helm-chart/releases/tag/devlake-1.0.3-beta10), 4 days ago) - Apache DevLake Helm Chart
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), 4 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
