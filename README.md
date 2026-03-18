@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.37.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.11.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.21](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.21), today) - ArgoProj Helm Charts
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.0](https://github.com/grafana/loki/releases/tag/operator/v0.10.0), today) - Like Prometheus, but for logs.
@@ -37,7 +38,6 @@
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.6](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.6), 2 days ago) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.1), 2 days ago) - Traefik Proxy Helm Chart
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.1.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.1.0), 2 days ago) - Atlantis Helm Chart
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.3), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 
 #### 🔨 My recent Pull Requests
 
