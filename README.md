@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.3), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.14), today) - ArgoProj Helm Charts
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.0-alpha-1](https://github.com/robusta-dev/robusta/releases/tag/0.34.0-alpha-1), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0), today) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.3), today) - Prometheus community Helm charts
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0-alpha.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0-alpha.1), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.22.2](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.22.2), 1 day ago) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.6](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.6), 2 days ago) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.1), 2 days ago) - Traefik Proxy Helm Chart
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.1.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.1.0), 2 days ago) - Atlantis Helm Chart
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.14.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.14.3), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.4.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.4.0), 3 days ago) - A K8s operator to manager airflow resources as custom resources
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.0), 3 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
