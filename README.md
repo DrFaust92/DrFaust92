@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.13), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.3), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.3), today) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0-alpha.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0-alpha.1), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.22.2](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.22.2), 1 day ago) - 
