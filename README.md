@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.19.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.19.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.12.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.37.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.11.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.21](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.21), 1 day ago) - ArgoProj Helm Charts
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.0](https://github.com/grafana/loki/releases/tag/operator/v0.10.0), 1 day ago) - Like Prometheus, but for logs.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.0](https://github.com/robusta-dev/robusta/releases/tag/0.34.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.22.2](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.22.2), 2 days ago) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.6](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.6), 3 days ago) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.1), 3 days ago) - Traefik Proxy Helm Chart
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.1.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.1.0), 3 days ago) - Atlantis Helm Chart
