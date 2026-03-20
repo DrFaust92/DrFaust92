@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.5), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.5), today) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.6](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.6), today) - Traefik Proxy Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.4), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.14.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.14.0), 1 day ago) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.9), 1 day ago) - Jenkins helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.37.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
