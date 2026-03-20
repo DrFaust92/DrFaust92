@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.40.7](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.40.7), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.5), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.5), today) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.6](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.6), today) - Traefik Proxy Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.14.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.14.0), 1 day ago) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.9), 1 day ago) - Jenkins helm charts
@@ -41,7 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(pod): add hostUsers support on pod spec](https://github.com/traefik/traefik-helm-chart/pull/1744) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (3 days ago)
+- [[loki] Remove support for deprecated Kubernetes APIs](https://github.com/grafana-community/helm-charts/pull/183) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [feat(deployment): add hostUsers support](https://github.com/traefik/traefik-helm-chart/pull/1744) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (3 days ago)
 - [feat(pod): add hostUsers support on pod spec](https://github.com/traefik/traefik-helm-chart/pull/1743) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (3 days ago)
 - [feat: add FastMCP OAuthProxy support for remote MCP server](https://github.com/okta/okta-mcp-server/pull/33) on [okta/okta-mcp-server](https://github.com/okta/okta-mcp-server) (4 days ago)
 - [[kube-state-metrics] Fix missing rolebindings RBAC rule (7.2.1)](https://github.com/prometheus-community/helm-charts/pull/6736) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
@@ -50,7 +51,6 @@
 - [[kube-prometheus-stack] Add podManagementPolicy and updateStrategy](https://github.com/prometheus-community/helm-charts/pull/6733) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[kube-prometheus-stack] Add Alertmanager hostNetwork support](https://github.com/prometheus-community/helm-charts/pull/6732) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [bump chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/29) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (5 days ago)
-- [bump deps](https://github.com/DrFaust92/airflow-k8s-operator/pull/28) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (5 days ago)
 
 
 
