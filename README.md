@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.13.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.40.7](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.40.7), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.5), today) - Prometheus community Helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.6](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.6), today) - Traefik Proxy Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.14.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.14.0), 1 day ago) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.9), 1 day ago) - Jenkins helm charts
