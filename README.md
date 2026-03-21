@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (4 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (6 days ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (5 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (1 week ago)
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 week ago)
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (2 weeks ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (3 weeks ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 month ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project (1 month ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.6), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.40.7](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.40.7), today) - ArgoProj Helm Charts
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.6](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.6), today) - Traefik Proxy Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.14.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.14.0), 1 day ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.9), 1 day ago) - Jenkins helm charts
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.37.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.0](https://github.com/grafana/loki/releases/tag/operator/v0.10.0), 2 days ago) - Like Prometheus, but for logs.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.0](https://github.com/robusta-dev/robusta/releases/tag/0.34.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.6](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.6), 4 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.6), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.40.7](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.40.7), 1 day ago) - ArgoProj Helm Charts
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.6](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.6), 1 day ago) - Traefik Proxy Helm Chart
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.14.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.14.0), 2 days ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.9), 2 days ago) - Jenkins helm charts
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.37.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.0](https://github.com/grafana/loki/releases/tag/operator/v0.10.0), 3 days ago) - Like Prometheus, but for logs.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.0](https://github.com/robusta-dev/robusta/releases/tag/0.34.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.22.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.22.0), 3 days ago) - SRE Agent - CNCF Sandbox Project
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.6](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.6), 5 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [[loki] Remove support for deprecated Kubernetes APIs](https://github.com/grafana-community/helm-charts/pull/183) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [feat(deployment): add hostUsers support](https://github.com/traefik/traefik-helm-chart/pull/1744) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (3 days ago)
-- [feat(pod): add hostUsers support on pod spec](https://github.com/traefik/traefik-helm-chart/pull/1743) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (3 days ago)
-- [feat: add FastMCP OAuthProxy support for remote MCP server](https://github.com/okta/okta-mcp-server/pull/33) on [okta/okta-mcp-server](https://github.com/okta/okta-mcp-server) (4 days ago)
-- [[kube-state-metrics] Fix missing rolebindings RBAC rule (7.2.1)](https://github.com/prometheus-community/helm-charts/pull/6736) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] Add terminationGracePeriodSeconds for Prometheus, Alertmanager and ThanosRuler](https://github.com/prometheus-community/helm-charts/pull/6735) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] Add hostUsers support for Prometheus, Alertmanager and ThanosRuler](https://github.com/prometheus-community/helm-charts/pull/6734) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] Add podManagementPolicy and updateStrategy](https://github.com/prometheus-community/helm-charts/pull/6733) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] Add Alertmanager hostNetwork support](https://github.com/prometheus-community/helm-charts/pull/6732) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [bump chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/29) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (5 days ago)
+- [[loki] Remove support for deprecated Kubernetes APIs](https://github.com/grafana-community/helm-charts/pull/183) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
+- [feat(deployment): add hostUsers support](https://github.com/traefik/traefik-helm-chart/pull/1744) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (4 days ago)
+- [feat(pod): add hostUsers support on pod spec](https://github.com/traefik/traefik-helm-chart/pull/1743) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (4 days ago)
+- [feat: add FastMCP OAuthProxy support for remote MCP server](https://github.com/okta/okta-mcp-server/pull/33) on [okta/okta-mcp-server](https://github.com/okta/okta-mcp-server) (5 days ago)
+- [[kube-state-metrics] Fix missing rolebindings RBAC rule (7.2.1)](https://github.com/prometheus-community/helm-charts/pull/6736) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[kube-prometheus-stack] Add terminationGracePeriodSeconds for Prometheus, Alertmanager and ThanosRuler](https://github.com/prometheus-community/helm-charts/pull/6735) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[kube-prometheus-stack] Add hostUsers support for Prometheus, Alertmanager and ThanosRuler](https://github.com/prometheus-community/helm-charts/pull/6734) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[kube-prometheus-stack] Add podManagementPolicy and updateStrategy](https://github.com/prometheus-community/helm-charts/pull/6733) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[kube-prometheus-stack] Add Alertmanager hostNetwork support](https://github.com/prometheus-community/helm-charts/pull/6732) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [bump chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/29) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (6 days ago)
 
 
 
@@ -61,7 +61,7 @@
 #### ⭐ Recent Stars
 
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments. (3 months ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 months ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (4 months ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (5 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (7 months ago)
