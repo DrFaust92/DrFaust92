@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[tempo-distributed] Generic imagePullSecrets helper to remove per-component duplication](https://github.com/grafana-community/helm-charts/pull/191) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [feat(argocd-image-updater): Add missing config values, webhook support, and controller flags](https://github.com/argoproj/argo-helm/pull/3800) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [feat(argo-rollouts): Add first-class values for missing controller and dashboard flags](https://github.com/argoproj/argo-helm/pull/3799) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [[loki] Remove support for deprecated Kubernetes APIs](https://github.com/grafana-community/helm-charts/pull/183) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
@@ -50,7 +51,6 @@
 - [[kube-state-metrics] Fix missing rolebindings RBAC rule (7.2.1)](https://github.com/prometheus-community/helm-charts/pull/6736) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Add terminationGracePeriodSeconds for Prometheus, Alertmanager and ThanosRuler](https://github.com/prometheus-community/helm-charts/pull/6735) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Add hostUsers support for Prometheus, Alertmanager and ThanosRuler](https://github.com/prometheus-community/helm-charts/pull/6734) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] Add podManagementPolicy and updateStrategy](https://github.com/prometheus-community/helm-charts/pull/6733) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 
 
