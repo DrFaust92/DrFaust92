@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.18.2](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.18.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.13.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.13.6), today) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.1](https://github.com/robusta-dev/robusta/releases/tag/0.34.1), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.23](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.23), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.15.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.15.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
