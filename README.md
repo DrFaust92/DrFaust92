@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.14.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.5.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.5), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.6), today) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.2), today) - Traefik Proxy Helm Chart
