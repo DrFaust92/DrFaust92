@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.4](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.4), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.8), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.5), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.6), 1 day ago) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.2), 1 day ago) - Traefik Proxy Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.1](https://github.com/robusta-dev/robusta/releases/tag/0.34.1), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.23](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.23), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
