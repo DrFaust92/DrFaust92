@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.46.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.46.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.0-rc.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.0-rc.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.14.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.38.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.38.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.16), today) - ArgoProj Helm Charts
