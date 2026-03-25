@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.16), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-28.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-28.0.1), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.8](https://github.com/grafana/loki/releases/tag/v3.6.8), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.387](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.387), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.4](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.4), today) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.2), 1 day ago) - Traefik Proxy Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.1](https://github.com/robusta-dev/robusta/releases/tag/0.34.1), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.23](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.23), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
