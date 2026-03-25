@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.37.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.37.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-28.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-28.0.1), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.8](https://github.com/grafana/loki/releases/tag/v3.6.8), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.387](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.387), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.4](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.4), today) - ArgoProj Helm Charts
