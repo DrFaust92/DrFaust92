@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.3.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.3.1), today) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.23.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.23.0), today) - SRE Agent - CNCF Sandbox Project
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.15.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.15.0), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.11.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.11.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.14.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.38.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.38.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
