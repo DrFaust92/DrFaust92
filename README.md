@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.15.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.15.0), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.11.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.11.0), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.0-rc.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.0-rc.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.14.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.38.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.38.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.16), 1 day ago) - ArgoProj Helm Charts
