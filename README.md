@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.1](https://github.com/grafana/loki/releases/tag/v3.7.1), today) - Like Prometheus, but for logs.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.13.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.13.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.15.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.0](https://github.com/grafana/loki/releases/tag/v3.7.0), 1 day ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.40.9](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.40.9), 1 day ago) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.23.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.23.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.38.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.38.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
