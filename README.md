@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.12.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.12.0), today) - 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.13.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.13.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.15.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.0](https://github.com/grafana/loki/releases/tag/v3.7.0), 1 day ago) - Like Prometheus, but for logs.
