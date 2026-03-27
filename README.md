@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.3](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.3), today) - Traefik Proxy Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.1](https://github.com/grafana/loki/releases/tag/v3.7.1), today) - Like Prometheus, but for logs.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.13.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.13.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.0), today) - 
@@ -35,7 +36,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.40.9](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.40.9), 1 day ago) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.23.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.23.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.38.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.38.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.2), 3 days ago) - Traefik Proxy Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.34.1](https://github.com/robusta-dev/robusta/releases/tag/0.34.1), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.23](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.23), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
