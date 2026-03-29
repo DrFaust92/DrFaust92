@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([terminals-0.1.0](https://github.com/open-webui/helm-charts/releases/tag/terminals-0.1.0), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.16.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.16.2), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.15.1), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.17), 2 days ago) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-ea.3](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-ea.3), 2 days ago) - Traefik Proxy Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.1](https://github.com/grafana/loki/releases/tag/v3.7.1), 2 days ago) - Like Prometheus, but for logs.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-12.13.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-12.13.0), 2 days ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.0), 2 days ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.23.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.23.0), 3 days ago) - SRE Agent - CNCF Sandbox Project
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.38.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.38.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
