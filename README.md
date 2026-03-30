@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.24](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.24), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.19.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.19.2), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.2.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.2.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.43.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.43.0), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.17), 3 days ago) - ArgoProj Helm Charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.1](https://github.com/grafana/loki/releases/tag/v3.7.1), 3 days ago) - Like Prometheus, but for logs.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.23.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.23.0), 4 days ago) - SRE Agent - CNCF Sandbox Project
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.38.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.38.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 
 #### 🔨 My recent Pull Requests
 
