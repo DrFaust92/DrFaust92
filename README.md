@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.43.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.43.0), today) - Prometheus community Helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.7](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.7), today) - Traefik Proxy Helm Chart
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([terminals-0.1.0](https://github.com/open-webui/helm-charts/releases/tag/terminals-0.1.0), 1 day ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.16.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.16.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.15.1), 3 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.17), 3 days ago) - ArgoProj Helm Charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.1](https://github.com/grafana/loki/releases/tag/v3.7.1), 3 days ago) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.0), 3 days ago) - 
