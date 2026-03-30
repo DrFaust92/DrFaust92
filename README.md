@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[loki] Add KEDA ScaledObject support for querier](https://github.com/grafana-community/helm-charts/pull/234) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [[loki] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/230) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [Use pure-Go DNS resolver to fix Private Link/PSC connectivity on macOS](https://github.com/databricks/databricks-sdk-go/pull/1589) on [databricks/databricks-sdk-go](https://github.com/databricks/databricks-sdk-go) (6 days ago)
 - [[tempo-distributed] Generic imagePullSecrets helper to remove per-component duplication](https://github.com/grafana-community/helm-charts/pull/191) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [feat(deployment): add hostUsers support](https://github.com/traefik/traefik-helm-chart/pull/1744) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
 - [feat(pod): add hostUsers support on pod spec](https://github.com/traefik/traefik-helm-chart/pull/1743) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
 - [feat: add FastMCP OAuthProxy support for remote MCP server](https://github.com/okta/okta-mcp-server/pull/33) on [okta/okta-mcp-server](https://github.com/okta/okta-mcp-server) (2 weeks ago)
-- [[kube-state-metrics] Fix missing rolebindings RBAC rule (7.2.1)](https://github.com/prometheus-community/helm-charts/pull/6736) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 
 
