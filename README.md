@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (4 days ago)
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (6 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (5 days ago)
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.24](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.24), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.19.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.19.2), today) - 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.2.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.2.0), today) - Atlantis Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.43.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.43.0), today) - Prometheus community Helm charts
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.7](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.7), today) - Traefik Proxy Helm Chart
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([terminals-0.1.0](https://github.com/open-webui/helm-charts/releases/tag/terminals-0.1.0), 1 day ago) - 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.16.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.16.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.17), 3 days ago) - ArgoProj Helm Charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.1](https://github.com/grafana/loki/releases/tag/v3.7.1), 3 days ago) - Like Prometheus, but for logs.
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.23.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.23.0), 4 days ago) - SRE Agent - CNCF Sandbox Project
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.5](https://github.com/grafana/mimir/releases/tag/mimir-3.0.5), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.24](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.24), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.19.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.19.2), 1 day ago) - 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.2.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.2.0), 1 day ago) - Atlantis Helm Chart
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.43.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.43.0), 1 day ago) - Prometheus community Helm charts
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.7](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.7), 1 day ago) - Traefik Proxy Helm Chart
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([terminals-0.1.0](https://github.com/open-webui/helm-charts/releases/tag/terminals-0.1.0), 2 days ago) - 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.16.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.16.2), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.17), 4 days ago) - ArgoProj Helm Charts
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.1](https://github.com/grafana/loki/releases/tag/v3.7.1), 4 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
-- [[loki] Add KEDA ScaledObject support for querier](https://github.com/grafana-community/helm-charts/pull/234) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [[loki] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/230) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [Use pure-Go DNS resolver to fix Private Link/PSC connectivity on macOS](https://github.com/databricks/databricks-sdk-go/pull/1589) on [databricks/databricks-sdk-go](https://github.com/databricks/databricks-sdk-go) (6 days ago)
+- [[loki] Add KEDA ScaledObject support for querier](https://github.com/grafana-community/helm-charts/pull/234) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
+- [[loki] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/230) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
+- [Use pure-Go DNS resolver to fix Private Link/PSC connectivity on macOS](https://github.com/databricks/databricks-sdk-go/pull/1589) on [databricks/databricks-sdk-go](https://github.com/databricks/databricks-sdk-go) (1 week ago)
 - [[tempo-distributed] Generic imagePullSecrets helper to remove per-component duplication](https://github.com/grafana-community/helm-charts/pull/191) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [feat(argocd-image-updater): Add missing config values, webhook support, and controller flags](https://github.com/argoproj/argo-helm/pull/3800) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [feat(argo-rollouts): Add first-class values for missing controller and dashboard flags](https://github.com/argoproj/argo-helm/pull/3799) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [[loki] Remove support for deprecated Kubernetes APIs](https://github.com/grafana-community/helm-charts/pull/183) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
-- [feat(deployment): add hostUsers support](https://github.com/traefik/traefik-helm-chart/pull/1744) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
-- [feat(pod): add hostUsers support on pod spec](https://github.com/traefik/traefik-helm-chart/pull/1743) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 week ago)
+- [feat(deployment): add hostUsers support](https://github.com/traefik/traefik-helm-chart/pull/1744) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (2 weeks ago)
+- [feat(pod): add hostUsers support on pod spec](https://github.com/traefik/traefik-helm-chart/pull/1743) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (2 weeks ago)
 - [feat: add FastMCP OAuthProxy support for remote MCP server](https://github.com/okta/okta-mcp-server/pull/33) on [okta/okta-mcp-server](https://github.com/okta/okta-mcp-server) (2 weeks ago)
 
 
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [grafana/xk6-python](https://github.com/grafana/xk6-python) - Write k6 tests in Python (5 days ago)
+- [grafana/xk6-python](https://github.com/grafana/xk6-python) - Write k6 tests in Python (6 days ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (4 months ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (6 months ago)
