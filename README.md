@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.8](https://github.com/grafana/mimir/releases/tag/mimir-2.17.8), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.12](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.12), today) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.388](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.388), today) - 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.5](https://github.com/grafana/mimir/releases/tag/mimir-3.0.5), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.24](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.24), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.2.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.2.0), 1 day ago) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.43.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.43.0), 1 day ago) - Prometheus community Helm charts
