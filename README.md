@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.17.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.17.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.16.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.8](https://github.com/grafana/mimir/releases/tag/mimir-2.17.8), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
@@ -36,7 +37,6 @@
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.2.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.2.0), 2 days ago) - Atlantis Helm Chart
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.7](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.7), 2 days ago) - Traefik Proxy Helm Chart
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([terminals-0.1.0](https://github.com/open-webui/helm-charts/releases/tag/terminals-0.1.0), 3 days ago) - 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.16.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.16.2), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.4.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.4.17), 5 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
