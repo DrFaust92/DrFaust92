@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.15.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.3.2](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.3.2), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.4.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.16.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.39.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.39.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.17.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.17.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.8](https://github.com/grafana/mimir/releases/tag/mimir-2.17.8), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
