@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[loki] fix PDB helper: render PDB when KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/251) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [[loki] fix querier PDB: use effective replicas when HPA or KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/250) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [feat(tools): support optional projectName for Cloud Monitoring datasources](https://github.com/grafana/mcp-grafana/pull/710) on [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) (1 day ago)
 - [[loki] Add KEDA ScaledObject support for querier](https://github.com/grafana-community/helm-charts/pull/234) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 - [[loki] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/230) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
@@ -49,8 +51,6 @@
 - [feat(argocd-image-updater): Add missing config values, webhook support, and controller flags](https://github.com/argoproj/argo-helm/pull/3800) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [feat(argo-rollouts): Add first-class values for missing controller and dashboard flags](https://github.com/argoproj/argo-helm/pull/3799) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [[loki] Remove support for deprecated Kubernetes APIs](https://github.com/grafana-community/helm-charts/pull/183) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
-- [feat(deployment): add hostUsers support](https://github.com/traefik/traefik-helm-chart/pull/1744) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (2 weeks ago)
-- [feat(pod): add hostUsers support on pod spec](https://github.com/traefik/traefik-helm-chart/pull/1743) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (2 weeks ago)
 
 
 
