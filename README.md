@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.7), today) - ArgoProj Helm Charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.0.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.0.1), 1 day ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.9](https://github.com/grafana/mimir/releases/tag/mimir-2.17.9), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.16.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.16.2), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.39.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.39.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.12](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.12), 3 days ago) - Jenkins helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.24](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.24), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.2.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.2.0), 4 days ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
