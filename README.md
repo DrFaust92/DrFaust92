@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.35.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.35.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.0), today) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.16.0), 1 day ago) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.17.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.17.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
@@ -37,7 +38,6 @@
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.9](https://github.com/grafana/mimir/releases/tag/mimir-2.17.9), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.3.2](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.3.2), 3 days ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.4.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v6.39.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v6.39.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 
 #### 🔨 My recent Pull Requests
 
