@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 weeks ago)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 month ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.6), today) - 
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.0), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.35.0](https://github.com/robusta-dev/robusta/releases/tag/0.35.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.17.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.17.3), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.16.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.10](https://github.com/grafana/loki/releases/tag/v3.6.10), 3 days ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.7), 3 days ago) - ArgoProj Helm Charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.0.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.0.1), 4 days ago) - 
