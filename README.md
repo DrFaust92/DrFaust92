@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.35.0](https://github.com/robusta-dev/robusta/releases/tag/0.35.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.17.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.17.3), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.35.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.35.0-alpha), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.16.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.10](https://github.com/grafana/loki/releases/tag/v3.6.10), 3 days ago) - Like Prometheus, but for logs.
