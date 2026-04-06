@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.0), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.35.0](https://github.com/robusta-dev/robusta/releases/tag/0.35.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.17.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.17.3), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
@@ -37,7 +38,6 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.0.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.0.1), 4 days ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.9](https://github.com/grafana/mimir/releases/tag/mimir-2.17.9), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.3.2](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.3.2), 4 days ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.4.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
