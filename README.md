@@ -4,11 +4,11 @@
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 weeks ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 weeks ago)
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (4 weeks ago)
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 month ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (1 month ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 months ago)
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project (2 months ago)
@@ -28,24 +28,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.35.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.35.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.0), today) - SRE Agent - CNCF Sandbox Project
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.16.0), 1 day ago) - Prometheus community Helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.17.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.17.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.10](https://github.com/grafana/loki/releases/tag/v3.6.10), 2 days ago) - Like Prometheus, but for logs.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.7), 2 days ago) - ArgoProj Helm Charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.0.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.0.1), 3 days ago) - 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.9](https://github.com/grafana/mimir/releases/tag/mimir-2.17.9), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.3.2](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.3.2), 3 days ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.4.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.17.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.17.3), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.35.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.35.0-alpha), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.16.0), 2 days ago) - Prometheus community Helm charts
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.10](https://github.com/grafana/loki/releases/tag/v3.6.10), 3 days ago) - Like Prometheus, but for logs.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.7), 3 days ago) - ArgoProj Helm Charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.0.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.0.1), 4 days ago) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.9](https://github.com/grafana/mimir/releases/tag/mimir-2.17.9), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.3.2](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.3.2), 4 days ago) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.4.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.4.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
-- [[loki] fix PDB helper: render PDB when KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/251) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
-- [[loki] fix querier PDB: use effective replicas when HPA or KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/250) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
-- [feat(tools): support optional projectName for Cloud Monitoring datasources](https://github.com/grafana/mcp-grafana/pull/710) on [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) (3 days ago)
-- [[loki] Add KEDA ScaledObject support for querier](https://github.com/grafana-community/helm-charts/pull/234) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
-- [[loki] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/230) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
+- [[loki] fix PDB helper: render PDB when KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/251) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
+- [[loki] fix querier PDB: use effective replicas when HPA or KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/250) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
+- [feat(tools): support optional projectName for Cloud Monitoring datasources](https://github.com/grafana/mcp-grafana/pull/710) on [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) (4 days ago)
+- [[loki] Add KEDA ScaledObject support for querier](https://github.com/grafana-community/helm-charts/pull/234) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
+- [[loki] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/230) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [Use pure-Go DNS resolver to fix Private Link/PSC connectivity on macOS](https://github.com/databricks/databricks-sdk-go/pull/1589) on [databricks/databricks-sdk-go](https://github.com/databricks/databricks-sdk-go) (1 week ago)
 - [[tempo-distributed] Generic imagePullSecrets helper to remove per-component duplication](https://github.com/grafana-community/helm-charts/pull/191) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
 - [feat(argocd-image-updater): Add missing config values, webhook support, and controller flags](https://github.com/argoproj/argo-helm/pull/3800) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
