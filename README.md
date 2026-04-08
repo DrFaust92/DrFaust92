@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.1.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.2), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.18.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.18.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.1.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.1), 1 day ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.2), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.5.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.5.0), 2 days ago) - A K8s operator to manager airflow resources as custom resources
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.0), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
