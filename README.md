@@ -28,8 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.1.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.1.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.5.0), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.18.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.18.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.2), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.5.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.5.0), 2 days ago) - A K8s operator to manager airflow resources as custom resources
@@ -37,7 +38,6 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.35.0](https://github.com/robusta-dev/robusta/releases/tag/0.35.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.10](https://github.com/grafana/loki/releases/tag/v3.6.10), 5 days ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.7), 5 days ago) - ArgoProj Helm Charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.0.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.0.1), 6 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
