@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.2.0), today) - 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.2.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.2.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.5), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), today) - 
