@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
@@ -11,7 +12,6 @@
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 month ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (1 month ago)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 months ago)
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project (2 months ago)
 
 #### 🌱 My latest projects
 
