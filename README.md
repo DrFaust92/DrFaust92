@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.7](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.7), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.25](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.25), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.3), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.11.6](https://github.com/grafana/mcp-grafana/releases/tag/v0.11.6), 1 day ago) - MCP server for Grafana
@@ -37,7 +38,6 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), 2 days ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.18.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.18.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.5.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.5.0), 4 days ago) - A K8s operator to manager airflow resources as custom resources
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.0), 4 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
 
