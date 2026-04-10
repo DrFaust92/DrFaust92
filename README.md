@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 days ago)
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (2 weeks ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 weeks ago)
@@ -28,26 +28,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.3), today) - SRE Agent - CNCF Sandbox Project
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.11.6](https://github.com/grafana/mcp-grafana/releases/tag/v0.11.6), today) - MCP server for Grafana
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.4.0), today) - Prometheus community Helm charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.3.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.3.1), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.5), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), 1 day ago) - 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.18.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.18.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.5.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.5.0), 3 days ago) - A K8s operator to manager airflow resources as custom resources
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.0), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.35.0](https://github.com/robusta-dev/robusta/releases/tag/0.35.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.3), 1 day ago) - SRE Agent - CNCF Sandbox Project
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.11.6](https://github.com/grafana/mcp-grafana/releases/tag/v0.11.6), 1 day ago) - MCP server for Grafana
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.4.0), 1 day ago) - Prometheus community Helm charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.3.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.3.1), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.5), 2 days ago) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), 2 days ago) - 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.18.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.18.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.5.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.5.0), 4 days ago) - A K8s operator to manager airflow resources as custom resources
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.0), 4 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.35.0](https://github.com/robusta-dev/robusta/releases/tag/0.35.0), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
-- [[tempo-distributed] Add Gateway API support](https://github.com/grafana-community/helm-charts/pull/298) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
-- [[tempo-distributed] Add Gateway API support](https://github.com/grafana/helm-charts/pull/4144) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
-- [[loki] Add KEDA autoscaling support for all components](https://github.com/grafana-community/helm-charts/pull/297) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
-- [bump py to 3.14](https://github.com/DrFaust92/airflow-k8s-operator/pull/39) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (3 days ago)
-- [[kube-prometheus-stack] bump operator to 0.90.1](https://github.com/prometheus-community/helm-charts/pull/6815) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[loki] fix PDB helper: render PDB when KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/251) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
-- [[loki] fix querier PDB: use effective replicas when HPA or KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/250) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
+- [[tempo-distributed] Add Gateway API support](https://github.com/grafana-community/helm-charts/pull/298) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
+- [[tempo-distributed] Add Gateway API support](https://github.com/grafana/helm-charts/pull/4144) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
+- [[loki] Add KEDA autoscaling support for all components](https://github.com/grafana-community/helm-charts/pull/297) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
+- [bump py to 3.14](https://github.com/DrFaust92/airflow-k8s-operator/pull/39) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
+- [[kube-prometheus-stack] bump operator to 0.90.1](https://github.com/prometheus-community/helm-charts/pull/6815) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[loki] fix PDB helper: render PDB when KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/251) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
+- [[loki] fix querier PDB: use effective replicas when HPA or KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/250) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [feat(tools): support optional projectName for Cloud Monitoring datasources](https://github.com/grafana/mcp-grafana/pull/710) on [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) (1 week ago)
 - [[loki] Add KEDA ScaledObject support for querier](https://github.com/grafana-community/helm-charts/pull/234) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[loki] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/230) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
