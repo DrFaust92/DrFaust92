@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.44.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.44.0), today) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.7](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.7), 1 day ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.25](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.25), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.3), 2 days ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.11.6](https://github.com/grafana/mcp-grafana/releases/tag/v0.11.6), 2 days ago) - MCP server for Grafana
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.4.0), 2 days ago) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.3.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.3.1), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.5), 3 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), 3 days ago) - 
