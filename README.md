@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [afurm](https://github.com/afurm)
 - [keterslayter](https://github.com/keterslayter)
 - [madmecodes](https://github.com/madmecodes)
 - [SridharRG](https://github.com/SridharRG)
 - [ross-armada](https://github.com/ross-armada)
-- [alekp](https://github.com/alekp)
 
 #### 💬 Feedback
 
