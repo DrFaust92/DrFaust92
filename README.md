@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.4.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.8), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.14](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.14), 1 day ago) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.2.1), 1 day ago) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.26](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.26), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.7](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.7), 4 days ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.3), 5 days ago) - SRE Agent - CNCF Sandbox Project
