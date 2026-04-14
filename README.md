@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.8), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.14](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.14), 1 day ago) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.2.1), 1 day ago) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.26](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.26), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
@@ -35,7 +36,6 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.3), 5 days ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.11.6](https://github.com/grafana/mcp-grafana/releases/tag/v0.11.6), 5 days ago) - MCP server for Grafana
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.3.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.3.1), 5 days ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.1.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.1.5), 6 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), 6 days ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.18.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.18.0), 6 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 
