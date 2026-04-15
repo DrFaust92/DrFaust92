@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.16](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.16), today) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.2](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.4](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.4), today) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.17](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.17), today) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.4.3), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.9), today) - ArgoProj Helm Charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.22.2](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.22.2), today) - Collection of Helm charts for Percona Kubernetes Operators.
