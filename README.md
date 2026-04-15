@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.22.2](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.22.2), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.19.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.19.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.4.2), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.8), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.3), 6 days ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.11.6](https://github.com/grafana/mcp-grafana/releases/tag/v0.11.6), 6 days ago) - MCP server for Grafana
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-13.3.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-13.3.1), 6 days ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
