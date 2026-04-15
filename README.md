@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.16](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.16), today) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.2](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.4.3), today) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.15](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.15), today) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.9), today) - ArgoProj Helm Charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.22.2](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.22.2), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.19.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.19.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
