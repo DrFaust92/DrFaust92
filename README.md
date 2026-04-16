@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.0), today) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-db-1.0.1](https://github.com/percona/percona-helm-charts/releases/tag/ps-db-1.0.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.2), today) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.8](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.8), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), today) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.1), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.5.0), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.18](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.18), today) - Jenkins helm charts
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.22.2](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.22.2), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.19.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.19.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.26](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.26), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.3), 1 week ago) - SRE Agent - CNCF Sandbox Project
