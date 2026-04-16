@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.3](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.0), today) - 
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.8](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.8), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), today) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.1), today) - ArgoProj Helm Charts
