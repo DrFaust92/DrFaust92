@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.1.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.1.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.4](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.6.0), today) - Prometheus community Helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.8](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.8), today) - Traefik Proxy Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.21.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.21.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.2), today) - ArgoProj Helm Charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.22.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.22.1), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.9](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.9), today) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-db-1.0.1](https://github.com/percona/percona-helm-charts/releases/tag/ps-db-1.0.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), 1 day ago) - Like Prometheus, but for logs.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.18](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.18), 1 day ago) - Jenkins helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.19.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.19.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
