@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[psmdb-db]: pass pmm.mongodParams through tpl function](https://github.com/percona/percona-helm-charts/pull/842) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (today)
 - [[tempo-distributed] fix: missing newline between zone label and common labels causes invalid YAML](https://github.com/grafana-community/helm-charts/pull/347) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 - [[tempo-distributed] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/327) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[tempo-distributed] Add Gateway API support](https://github.com/grafana-community/helm-charts/pull/298) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@
 - [[kube-prometheus-stack] bump operator to 0.90.1](https://github.com/prometheus-community/helm-charts/pull/6815) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[loki] fix PDB helper: render PDB when KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/251) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
 - [[loki] fix querier PDB: use effective replicas when HPA or KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/250) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
-- [feat(tools): support optional projectName for Cloud Monitoring datasources](https://github.com/grafana/mcp-grafana/pull/710) on [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) (2 weeks ago)
 
 
 
