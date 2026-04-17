@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 days ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-db-1.0.1](https://github.com/percona/percona-helm-charts/releases/tag/ps-db-1.0.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.2), today) - 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.8](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.8), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), today) - Like Prometheus, but for logs.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.1), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.5.0), today) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.18](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.18), today) - Jenkins helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.19.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.19.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.26](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.26), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.3), today) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-db-1.0.1](https://github.com/percona/percona-helm-charts/releases/tag/ps-db-1.0.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.8](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.8), 1 day ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), 1 day ago) - Like Prometheus, but for logs.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.1), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.5.0), 1 day ago) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.18](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.18), 1 day ago) - Jenkins helm charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.19.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.19.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.26](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.26), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.3), 1 week ago) - SRE Agent - CNCF Sandbox Project
 
 #### 🔨 My recent Pull Requests
 
-- [[tempo-distributed] fix: missing newline between zone label and common labels causes invalid YAML](https://github.com/grafana-community/helm-charts/pull/347) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
-- [[tempo-distributed] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/327) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
+- [[tempo-distributed] fix: missing newline between zone label and common labels causes invalid YAML](https://github.com/grafana-community/helm-charts/pull/347) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
+- [[tempo-distributed] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/327) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[tempo-distributed] Add Gateway API support](https://github.com/grafana-community/helm-charts/pull/298) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[tempo-distributed] Add Gateway API support](https://github.com/grafana/helm-charts/pull/4144) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [[loki] Add KEDA autoscaling support for all components](https://github.com/grafana-community/helm-charts/pull/297) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [bump py to 3.14](https://github.com/DrFaust92/airflow-k8s-operator/pull/39) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [[kube-prometheus-stack] bump operator to 0.90.1](https://github.com/prometheus-community/helm-charts/pull/6815) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[loki] fix PDB helper: render PDB when KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/251) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
-- [[loki] fix querier PDB: use effective replicas when HPA or KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/250) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
+- [[loki] fix PDB helper: render PDB when KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/251) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
+- [[loki] fix querier PDB: use effective replicas when HPA or KEDA autoscaling is enabled](https://github.com/grafana-community/helm-charts/pull/250) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
 - [feat(tools): support optional projectName for Cloud Monitoring datasources](https://github.com/grafana/mcp-grafana/pull/710) on [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) (2 weeks ago)
 
 
@@ -62,9 +62,9 @@
 
 - [grafana/xk6-python](https://github.com/grafana/xk6-python) - Write k6 tests in Python (3 weeks ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 months ago)
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (4 months ago)
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (5 months ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (6 months ago)
-- [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (7 months ago)
+- [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (8 months ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (9 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (9 months ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (10 months ago)
