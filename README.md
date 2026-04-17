@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.22.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.22.1), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.9](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.9), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.5.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.3), today) - 
@@ -37,7 +38,6 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.18](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.18), 1 day ago) - Jenkins helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.19.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.19.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.26](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.26), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.3](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.3), 1 week ago) - SRE Agent - CNCF Sandbox Project
 
 #### 🔨 My recent Pull Requests
 
