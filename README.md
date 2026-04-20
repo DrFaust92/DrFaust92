@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.5](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.0), today) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.10](https://github.com/grafana/mimir/releases/tag/mimir-2.17.10), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.4), today) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.36](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.36), 3 days ago) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.1.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.1.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
@@ -37,7 +38,6 @@
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.22.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.22.1), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.9](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.9), 3 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), 4 days ago) - Like Prometheus, but for logs.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.18](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.18), 4 days ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
 
