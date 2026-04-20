@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.5](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.5), today) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.4), today) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.36](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.36), 3 days ago) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.1.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.1.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.4](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.4), 3 days ago) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.8](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.8), 3 days ago) - Traefik Proxy Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.2), 3 days ago) - ArgoProj Helm Charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.22.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.22.1), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
