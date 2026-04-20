@@ -28,8 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.27](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.27), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.6](https://github.com/grafana/mimir/releases/tag/mimir-3.0.6), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.0), today) - 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.10](https://github.com/grafana/mimir/releases/tag/mimir-2.17.10), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.4), today) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.36](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.36), 3 days ago) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.1.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.1.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
@@ -37,7 +38,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.2), 3 days ago) - ArgoProj Helm Charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.22.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.22.1), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.9](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.9), 3 days ago) - 
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), 4 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
