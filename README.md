@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.3), today) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.27](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.27), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.6](https://github.com/grafana/mimir/releases/tag/mimir-3.0.6), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.0), today) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.4), today) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.36](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.36), 3 days ago) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.1.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.1.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
