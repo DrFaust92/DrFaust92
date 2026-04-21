@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.1.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.1.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.7.0), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.0-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.0-test), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.5](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.5), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.27](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.27), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.6](https://github.com/grafana/mimir/releases/tag/mimir-3.0.6), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.4), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.36](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.36), 4 days ago) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.1.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.1.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.8](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.8), 4 days ago) - Traefik Proxy Helm Chart
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.2), 4 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
