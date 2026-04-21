@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.3), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.7), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.1.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.1.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.7.0), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.6](https://github.com/grafana/mimir/releases/tag/mimir-3.0.6), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.4), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.1.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.1.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.8](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.8), 4 days ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
 
