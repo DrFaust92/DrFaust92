@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.4), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.11](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.11), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.391](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.391), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.3.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.3.0), today) - Atlantis Helm Chart
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
