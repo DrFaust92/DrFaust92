@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-rc.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-rc.2), today) - Traefik Proxy Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-84.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-84.0.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 1 day ago) - Like Prometheus, but for logs.
@@ -37,7 +38,6 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.1.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.1.0), 2 days ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.27](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.27), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.6](https://github.com/grafana/mimir/releases/tag/mimir-3.0.6), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.24.4](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.24.4), 3 days ago) - SRE Agent - CNCF Sandbox Project
 
 #### 🔨 My recent Pull Requests
 
