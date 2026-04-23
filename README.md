@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.0.0), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.36.0](https://github.com/robusta-dev/robusta/releases/tag/0.36.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.25.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.25.0), today) - SRE Agent - CNCF Sandbox Project
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.8.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.8.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.12), today) - ArgoProj Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.12.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.12.0), today) - MCP server for Grafana
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-rc.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-rc.2), today) - Traefik Proxy Helm Chart
