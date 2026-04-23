@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.21.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.21.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.0.0), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.36.0](https://github.com/robusta-dev/robusta/releases/tag/0.36.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.25.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.25.0), today) - SRE Agent - CNCF Sandbox Project
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.12), today) - ArgoProj Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.12.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.12.0), today) - MCP server for Grafana
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-rc.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-rc.2), today) - Traefik Proxy Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-84.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-84.0.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 1 day ago) - Like Prometheus, but for logs.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.3.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.3.0), 1 day ago) - Atlantis Helm Chart
