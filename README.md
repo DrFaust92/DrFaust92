@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.20.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-84.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-84.0.1), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.13), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.5](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.5), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.36.0](https://github.com/robusta-dev/robusta/releases/tag/0.36.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.25.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.25.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.12), 1 day ago) - ArgoProj Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.12.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.12.0), 1 day ago) - MCP server for Grafana
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-rc.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-rc.2), 1 day ago) - Traefik Proxy Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 2 days ago) - Like Prometheus, but for logs.
