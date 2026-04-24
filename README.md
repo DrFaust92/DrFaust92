@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.2.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-84.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-84.0.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.13), today) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.25.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.25.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.12.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.12.0), 1 day ago) - MCP server for Grafana
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-rc.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-rc.2), 1 day ago) - Traefik Proxy Helm Chart
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 2 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
