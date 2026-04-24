@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.5](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.21.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.21.1), 1 day ago) - Prometheus community Helm charts
@@ -36,7 +37,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.12), 1 day ago) - ArgoProj Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.12.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.12.0), 1 day ago) - MCP server for Grafana
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0-rc.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0-rc.2), 1 day ago) - Traefik Proxy Helm Chart
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 2 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
