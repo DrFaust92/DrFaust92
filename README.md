@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.7), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.4.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.4.0), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.6), today) - ArgoProj Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.12.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.12.1), today) - MCP server for Grafana
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.37.0](https://github.com/robusta-dev/robusta/releases/tag/0.37.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.26.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.26.0), today) - SRE Agent - CNCF Sandbox Project
