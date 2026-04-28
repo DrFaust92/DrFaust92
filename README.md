@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (1 day ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 days ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 days ago)
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (2 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 days ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 days ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
@@ -28,25 +28,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.10](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.10), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-84.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-84.3.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.1), today) - 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.37.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.37.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.26.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.26.0-alpha), today) - SRE Agent - CNCF Sandbox Project
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.2.0), 3 days ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.13), 3 days ago) - ArgoProj Helm Charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.12.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.12.0), 4 days ago) - MCP server for Grafana
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.3.0), today) - Prometheus community Helm charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.10](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.10), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.1), 1 day ago) - 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.37.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.37.0-alpha), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.26.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.26.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.2.0), 4 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.13), 4 days ago) - ArgoProj Helm Charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.0), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.12.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.12.0), 5 days ago) - MCP server for Grafana
 
 #### 🔨 My recent Pull Requests
 
-- [[tempo-distributed] cleanup: drop dead K8s version guards](https://github.com/grafana-community/helm-charts/pull/432) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [[tempo-distributed] fix: re-wire dnsConfigOverides in shared pod template](https://github.com/grafana-community/helm-charts/pull/424) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/langfuse/langfuse/pull/13357) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 day ago)
-- [chart(feature): add dnsPolicy and dnsConfig support](https://github.com/SeleniumHQ/docker-selenium/pull/3126) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 day ago)
-- [Publish charts as OCI artifacts to GHCR](https://github.com/percona/percona-helm-charts/pull/843) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (2 days ago)
-- [feat(argo-cd): support tpl in env var values](https://github.com/argoproj/argo-helm/pull/3842) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (5 days ago)
+- [[tempo-distributed] cleanup: drop dead K8s version guards](https://github.com/grafana-community/helm-charts/pull/432) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
+- [[tempo-distributed] fix: re-wire dnsConfigOverides in shared pod template](https://github.com/grafana-community/helm-charts/pull/424) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
+- [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/langfuse/langfuse/pull/13357) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (2 days ago)
+- [chart(feature): add dnsPolicy and dnsConfig support](https://github.com/SeleniumHQ/docker-selenium/pull/3126) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (2 days ago)
+- [Publish charts as OCI artifacts to GHCR](https://github.com/percona/percona-helm-charts/pull/843) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (3 days ago)
+- [feat(argo-cd): support tpl in env var values](https://github.com/argoproj/argo-helm/pull/3842) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (6 days ago)
 - [chart(selenium-grid): add ServiceMonitor and PodMonitor support for Prometheus Operator](https://github.com/SeleniumHQ/docker-selenium/pull/3121) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
 - [[psmdb-db]: pass pmm.mongodParams through tpl function](https://github.com/percona/percona-helm-charts/pull/842) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (1 week ago)
 - [[tempo-distributed] fix: missing newline between zone label and common labels causes invalid YAML](https://github.com/grafana-community/helm-charts/pull/347) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
@@ -63,7 +63,7 @@
 - [grafana/xk6-python](https://github.com/grafana/xk6-python) - Write k6 tests in Python (1 month ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (5 months ago)
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (6 months ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (7 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (8 months ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (9 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (10 months ago)
