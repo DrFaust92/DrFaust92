@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-84.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-84.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.4.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.4.1), today) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.13.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.13.0), today) - MCP server for Grafana
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.9), today) - ArgoProj Helm Charts
@@ -36,7 +37,6 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.37.0](https://github.com/robusta-dev/robusta/releases/tag/0.37.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.26.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.26.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.28](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.28), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.3.0), 1 day ago) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.10](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.10), 2 days ago) - 
 
 #### 🔨 My recent Pull Requests
