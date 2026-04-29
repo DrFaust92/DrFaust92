@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.2](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.2), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([terminals-0.3.0](https://github.com/open-webui/helm-charts/releases/tag/terminals-0.3.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.54.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.54.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.4.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.4.1), today) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.13.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.13.0), today) - MCP server for Grafana
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.9), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
