@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.3), today) - 
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.13.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.13.1), today) - MCP server for Grafana
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.4.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.4.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.4.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.2](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.2), 1 day ago) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([terminals-0.3.0](https://github.com/open-webui/helm-charts/releases/tag/terminals-0.3.0), 1 day ago) - 
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.13.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.13.0), 1 day ago) - MCP server for Grafana
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.9), 1 day ago) - ArgoProj Helm Charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.1), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.37.0](https://github.com/robusta-dev/robusta/releases/tag/0.37.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
