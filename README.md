@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.20.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.23.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.3), today) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.13.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.13.1), today) - MCP server for Grafana
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.4.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.4.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
