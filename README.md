@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump runtime &#43; dev deps and refresh lockfile](https://github.com/DrFaust92/okta-mcp-server/pull/2) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
 - [[tempo-distributed] cleanup: drop dead K8s version guards](https://github.com/grafana-community/helm-charts/pull/432) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 - [[tempo-distributed] fix: re-wire dnsConfigOverides in shared pod template](https://github.com/grafana-community/helm-charts/pull/424) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 - [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/langfuse/langfuse/pull/13357) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (5 days ago)
@@ -50,7 +51,6 @@
 - [chart(selenium-grid): add ServiceMonitor and PodMonitor support for Prometheus Operator](https://github.com/SeleniumHQ/docker-selenium/pull/3121) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
 - [[psmdb-db]: pass pmm.mongodParams through tpl function](https://github.com/percona/percona-helm-charts/pull/842) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (2 weeks ago)
 - [[tempo-distributed] fix: missing newline between zone label and common labels causes invalid YAML](https://github.com/grafana-community/helm-charts/pull/347) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
-- [[tempo-distributed] Auto-inject GOMEMLIMIT from container memory limit](https://github.com/grafana-community/helm-charts/pull/327) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 weeks ago)
 
 
 
