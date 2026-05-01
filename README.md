@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-84.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-84.5.0), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.3), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.5.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.11), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.3), 1 day ago) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.13.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.13.1), 1 day ago) - MCP server for Grafana
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [feat: cherry-pick PR #39 fixes; switch to SDK pagination; add ty CI](https://github.com/DrFaust92/okta-mcp-server/pull/5) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [feat: make OAuth consent screen configurable, default ON](https://github.com/DrFaust92/okta-mcp-server/pull/4) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
 - [fix: unpack tuple from client.get_user (SDK v3)](https://github.com/DrFaust92/okta-mcp-server/pull/3) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
 - [chore: bump runtime &#43; dev deps and refresh lockfile](https://github.com/DrFaust92/okta-mcp-server/pull/2) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
 - [[tempo-distributed] cleanup: drop dead K8s version guards](https://github.com/grafana-community/helm-charts/pull/432) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 - [[tempo-distributed] fix: re-wire dnsConfigOverides in shared pod template](https://github.com/grafana-community/helm-charts/pull/424) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 - [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/langfuse/langfuse/pull/13357) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (5 days ago)
-- [chart(feature): add dnsPolicy and dnsConfig support](https://github.com/SeleniumHQ/docker-selenium/pull/3126) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (5 days ago)
-- [Publish charts as OCI artifacts to GHCR](https://github.com/percona/percona-helm-charts/pull/843) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (6 days ago)
-- [feat(argo-cd): support tpl in env var values](https://github.com/argoproj/argo-helm/pull/3842) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [chart(selenium-grid): add ServiceMonitor and PodMonitor support for Prometheus Operator](https://github.com/SeleniumHQ/docker-selenium/pull/3121) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
-- [[psmdb-db]: pass pmm.mongodParams through tpl function](https://github.com/percona/percona-helm-charts/pull/842) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (2 weeks ago)
 
 
 
