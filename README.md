@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.9.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.13.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.13.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.2.0](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.2.0), 2 days ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.3), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.11), 2 days ago) - ArgoProj Helm Charts
