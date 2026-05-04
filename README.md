@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.9](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.9), today) - Traefik Proxy Helm Chart
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.27.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.27.0-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.29](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.29), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.13.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.13.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.2.0](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.2.0), 3 days ago) - 
@@ -36,8 +38,6 @@
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.13.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.13.1), 4 days ago) - MCP server for Grafana
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.4.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.4.1), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 4 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([terminals-0.3.0](https://github.com/open-webui/helm-charts/releases/tag/terminals-0.3.0), 5 days ago) - 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.37.0](https://github.com/robusta-dev/robusta/releases/tag/0.37.0), 6 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
