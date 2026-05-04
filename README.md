@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.0), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.9](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.9), today) - Traefik Proxy Helm Chart
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.27.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.27.0-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.29](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.29), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
