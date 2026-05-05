@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.36.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.39.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.39.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.0), 1 day ago) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.9](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.9), 1 day ago) - Traefik Proxy Helm Chart
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.27.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.27.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
