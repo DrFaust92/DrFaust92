@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.7](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.7), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.4.7](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.4.7), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0), today) - Traefik Proxy Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.12), today) - ArgoProj Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.38.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.38.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
