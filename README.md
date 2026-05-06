@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.1), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.4.7](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.4.7), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0), today) - Traefik Proxy Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.12), today) - ArgoProj Helm Charts
@@ -37,10 +38,10 @@
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.4.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.6.0), 1 day ago) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.29](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.29), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.3), 5 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 
 #### 🔨 My recent Pull Requests
 
+- [Move PDB to dedicated template and bump apiVersion to policy/v1](https://github.com/hatchet-dev/hatchet-charts/pull/49) on [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) (today)
 - [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
 - [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
 - [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
@@ -50,7 +51,6 @@
 - [chore: bump runtime &#43; dev deps and refresh lockfile](https://github.com/DrFaust92/okta-mcp-server/pull/2) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
 - [[tempo-distributed] cleanup: drop dead K8s version guards](https://github.com/grafana-community/helm-charts/pull/432) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[tempo-distributed] fix: re-wire dnsConfigOverides in shared pod template](https://github.com/grafana-community/helm-charts/pull/424) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
-- [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/langfuse/langfuse/pull/13357) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 week ago)
 
 
 
