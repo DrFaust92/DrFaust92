@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (1 week ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (3 weeks ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (1 month ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 month ago)
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (1 month ago)
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (2 months ago)
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,26 +28,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.6.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.0), 1 day ago) - 
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.9](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.9), 1 day ago) - Traefik Proxy Helm Chart
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.27.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.27.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.29](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.29), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.3), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.11), 4 days ago) - ArgoProj Helm Charts
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.13.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.13.1), 5 days ago) - MCP server for Grafana
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.4.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.4.1), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 5 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.4.0), today) - Atlantis Helm Chart
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.48.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.48.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.6.0), 1 day ago) - Prometheus community Helm charts
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v39.0.9](https://github.com/traefik/traefik-helm-chart/releases/tag/v39.0.9), 2 days ago) - Traefik Proxy Helm Chart
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.27.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.27.0-alpha), 2 days ago) - SRE Agent - CNCF Sandbox Project
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.29](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.29), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.3), 5 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.11), 5 days ago) - ArgoProj Helm Charts
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.13.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.13.1), 6 days ago) - MCP server for Grafana
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.4.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.4.1), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
-- [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
-- [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
-- [feat: cherry-pick PR #39 fixes; switch to SDK pagination; add ty CI](https://github.com/DrFaust92/okta-mcp-server/pull/5) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
-- [feat: make OAuth consent screen configurable, default ON](https://github.com/DrFaust92/okta-mcp-server/pull/4) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
-- [fix: unpack tuple from client.get_user (SDK v3)](https://github.com/DrFaust92/okta-mcp-server/pull/3) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
-- [chore: bump runtime &#43; dev deps and refresh lockfile](https://github.com/DrFaust92/okta-mcp-server/pull/2) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
+- [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
+- [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
+- [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
+- [feat: cherry-pick PR #39 fixes; switch to SDK pagination; add ty CI](https://github.com/DrFaust92/okta-mcp-server/pull/5) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
+- [feat: make OAuth consent screen configurable, default ON](https://github.com/DrFaust92/okta-mcp-server/pull/4) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
+- [fix: unpack tuple from client.get_user (SDK v3)](https://github.com/DrFaust92/okta-mcp-server/pull/3) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
+- [chore: bump runtime &#43; dev deps and refresh lockfile](https://github.com/DrFaust92/okta-mcp-server/pull/2) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
 - [[tempo-distributed] cleanup: drop dead K8s version guards](https://github.com/grafana-community/helm-charts/pull/432) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[tempo-distributed] fix: re-wire dnsConfigOverides in shared pod template](https://github.com/grafana-community/helm-charts/pull/424) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/langfuse/langfuse/pull/13357) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 week ago)
