@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.40.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.40.0), today) - Prometheus community Helm charts
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.38.0](https://github.com/robusta-dev/robusta/releases/tag/0.38.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.4](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.4), today) - 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.4](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.4), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.28.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.28.0), today) - SRE Agent - CNCF Sandbox Project
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.1), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0), 1 day ago) - Traefik Proxy Helm Chart
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.12), 1 day ago) - ArgoProj Helm Charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.4.0), 1 day ago) - Atlantis Helm Chart
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.40.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.40.0), 1 day ago) - Prometheus community Helm charts
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.38.0](https://github.com/robusta-dev/robusta/releases/tag/0.38.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.4](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.4), 1 day ago) - 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.4](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.4), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.28.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.28.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.1), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0), 2 days ago) - Traefik Proxy Helm Chart
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.12), 2 days ago) - ArgoProj Helm Charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.4.0), 2 days ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
-- [Move PDB to dedicated template and bump apiVersion to policy/v1](https://github.com/hatchet-dev/hatchet-charts/pull/49) on [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) (1 day ago)
-- [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (6 days ago)
-- [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (6 days ago)
-- [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (6 days ago)
-- [feat: cherry-pick PR #39 fixes; switch to SDK pagination; add ty CI](https://github.com/DrFaust92/okta-mcp-server/pull/5) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (6 days ago)
-- [feat: make OAuth consent screen configurable, default ON](https://github.com/DrFaust92/okta-mcp-server/pull/4) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (6 days ago)
-- [fix: unpack tuple from client.get_user (SDK v3)](https://github.com/DrFaust92/okta-mcp-server/pull/3) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (6 days ago)
-- [chore: bump runtime &#43; dev deps and refresh lockfile](https://github.com/DrFaust92/okta-mcp-server/pull/2) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (6 days ago)
+- [Move PDB to dedicated template and bump apiVersion to policy/v1](https://github.com/hatchet-dev/hatchet-charts/pull/49) on [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) (2 days ago)
+- [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
+- [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
+- [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
+- [feat: cherry-pick PR #39 fixes; switch to SDK pagination; add ty CI](https://github.com/DrFaust92/okta-mcp-server/pull/5) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
+- [feat: make OAuth consent screen configurable, default ON](https://github.com/DrFaust92/okta-mcp-server/pull/4) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
+- [fix: unpack tuple from client.get_user (SDK v3)](https://github.com/DrFaust92/okta-mcp-server/pull/3) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
+- [chore: bump runtime &#43; dev deps and refresh lockfile](https://github.com/DrFaust92/okta-mcp-server/pull/2) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
 - [[tempo-distributed] cleanup: drop dead K8s version guards](https://github.com/grafana-community/helm-charts/pull/432) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[tempo-distributed] fix: re-wire dnsConfigOverides in shared pod template](https://github.com/grafana-community/helm-charts/pull/424) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 
