@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (4 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (1 month ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 month ago)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (2 months ago)
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.13), today) - ArgoProj Helm Charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0-rc.0), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.14.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.14.0), today) - MCP server for Grafana
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.7](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.7), today) - 
@@ -37,7 +38,6 @@
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.4](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.4), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.28.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.28.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.1), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0), 2 days ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
 
