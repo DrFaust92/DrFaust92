@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0-rc.0), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.14.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.14.0), today) - MCP server for Grafana
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.7](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.7), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
@@ -37,7 +38,6 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.28.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.28.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.1), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.0), 2 days ago) - Traefik Proxy Helm Chart
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.12), 2 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
