@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.3.0), today) - 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.4.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.4.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.52](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.52), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.13), 1 day ago) - ArgoProj Helm Charts
