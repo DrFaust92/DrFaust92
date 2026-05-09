@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.3.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.3.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.52](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.52), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.13), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.38.0](https://github.com/robusta-dev/robusta/releases/tag/0.38.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.4](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.4), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.28.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.28.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.6.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.6.1), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
 
