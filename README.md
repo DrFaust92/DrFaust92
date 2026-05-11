@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.8), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.1), today) - Traefik Proxy Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-29.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-29.0.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.5.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.5.0), today) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.52](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.52), 3 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.13), 3 days ago) - ArgoProj Helm Charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0-rc.0), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.14.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.14.0), 3 days ago) - MCP server for Grafana
