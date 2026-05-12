@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.1.0), today) - Configures opinionated GKE clusters
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.1.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.1.0), today) - Traefik Proxy Helm Chart
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.8), 1 day ago) - 
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.0.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.0.1), 1 day ago) - Traefik Proxy Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-29.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-29.0.0), 1 day ago) - Prometheus community Helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.5.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.5.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.13), 4 days ago) - ArgoProj Helm Charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0-rc.0), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.14.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.14.0), 4 days ago) - MCP server for Grafana
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.38.0](https://github.com/robusta-dev/robusta/releases/tag/0.38.0), 5 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.20.4](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.20.4), 5 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 
 #### 🔨 My recent Pull Requests
 
