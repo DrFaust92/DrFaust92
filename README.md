@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.49.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.49.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.0.2), today) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.30](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.30), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.394](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.394), today) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.1.0), today) - Configures opinionated GKE clusters
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.1.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.1.0), today) - Traefik Proxy Helm Chart
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
