@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.16.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.7), today) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.19](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.19), today) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.2.0), 1 day ago) - Traefik Proxy Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.2](https://github.com/grafana/loki/releases/tag/v3.7.2), 1 day ago) - Like Prometheus, but for logs.
@@ -37,7 +38,6 @@
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.30](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.30), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.1.0), 2 days ago) - Configures opinionated GKE clusters
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.5.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.5.0), 3 days ago) - 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0-rc.0), 6 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
