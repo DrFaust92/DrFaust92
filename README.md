@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.3), today) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.29.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.29.0), today) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.7), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.19](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.19), today) - Jenkins helm charts
@@ -35,7 +36,6 @@
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.2.0), 1 day ago) - Traefik Proxy Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.2](https://github.com/grafana/loki/releases/tag/v3.7.2), 1 day ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.14), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.49.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.49.0), 2 days ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.30](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.30), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.1.0), 2 days ago) - Configures opinionated GKE clusters
 
