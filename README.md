@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (6 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (2 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
@@ -10,7 +10,7 @@
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (1 month ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 month ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 months ago)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (2 months ago)
 
 #### 🌱 My latest projects
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.3), today) - 
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.29.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.29.0), today) - SRE Agent - CNCF Sandbox Project
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.19](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.19), today) - Jenkins helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.2.0), 1 day ago) - Traefik Proxy Helm Chart
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.2](https://github.com/grafana/loki/releases/tag/v3.7.2), 1 day ago) - Like Prometheus, but for logs.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.14), 1 day ago) - ArgoProj Helm Charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.30](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.30), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.1.0), 2 days ago) - Configures opinionated GKE clusters
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.3), 1 day ago) - 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.29.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.29.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.19](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.19), 1 day ago) - Jenkins helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.2.0), 2 days ago) - Traefik Proxy Helm Chart
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.2](https://github.com/grafana/loki/releases/tag/v3.7.2), 2 days ago) - Like Prometheus, but for logs.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.14), 2 days ago) - ArgoProj Helm Charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.30](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.30), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.1.0), 3 days ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
-- [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
-- [fix: read users_count under either key; surface 3 more group audit fields](https://github.com/DrFaust92/okta-mcp-server/pull/10) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
-- [feat: support expand=stats on list_groups for empty-group audits](https://github.com/DrFaust92/okta-mcp-server/pull/9) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 day ago)
+- [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 day ago)
+- [fix: read users_count under either key; surface 3 more group audit fields](https://github.com/DrFaust92/okta-mcp-server/pull/10) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 day ago)
+- [feat: support expand=stats on list_groups for empty-group audits](https://github.com/DrFaust92/okta-mcp-server/pull/9) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 days ago)
 - [Move PDB to dedicated template and bump apiVersion to policy/v1](https://github.com/hatchet-dev/hatchet-charts/pull/49) on [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) (1 week ago)
-- [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
-- [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
-- [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
-- [feat: cherry-pick PR #39 fixes; switch to SDK pagination; add ty CI](https://github.com/DrFaust92/okta-mcp-server/pull/5) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
-- [feat: make OAuth consent screen configurable, default ON](https://github.com/DrFaust92/okta-mcp-server/pull/4) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
-- [fix: unpack tuple from client.get_user (SDK v3)](https://github.com/DrFaust92/okta-mcp-server/pull/3) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
+- [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
+- [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
+- [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
+- [feat: cherry-pick PR #39 fixes; switch to SDK pagination; add ty CI](https://github.com/DrFaust92/okta-mcp-server/pull/5) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
+- [feat: make OAuth consent screen configurable, default ON](https://github.com/DrFaust92/okta-mcp-server/pull/4) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
+- [fix: unpack tuple from client.get_user (SDK v3)](https://github.com/DrFaust92/okta-mcp-server/pull/3) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
 
 
 
@@ -60,13 +60,13 @@
 
 #### ⭐ Recent Stars
 
-- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (1 day ago)
+- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (2 days ago)
 - [grafana/xk6-python](https://github.com/grafana/xk6-python) - Write k6 tests in Python (1 month ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (5 months ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (7 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (8 months ago)
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (9 months ago)
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (10 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (10 months ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (11 months ago)
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (11 months ago)
