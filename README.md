@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.11](https://github.com/grafana/mimir/releases/tag/mimir-2.17.11), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.3), 1 day ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.29.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.29.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
@@ -37,7 +38,6 @@
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.2](https://github.com/grafana/loki/releases/tag/v3.7.2), 2 days ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.14), 2 days ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.30](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.30), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.1.0), 3 days ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
