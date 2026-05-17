@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.1.3), today) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.30.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.30.0), today) - SRE Agent - CNCF Sandbox Project
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
@@ -37,7 +38,6 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.19](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.19), 3 days ago) - Jenkins helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.2.0), 4 days ago) - Traefik Proxy Helm Chart
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.2](https://github.com/grafana/loki/releases/tag/v3.7.2), 4 days ago) - Like Prometheus, but for logs.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.30](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.30), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
