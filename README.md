@@ -28,23 +28,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.1.3), today) - Prometheus community Helm charts
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.30.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.30.0), today) - SRE Agent - CNCF Sandbox Project
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.2.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.2.1), 1 day ago) - ArgoProj Helm Charts
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.11](https://github.com/grafana/mimir/releases/tag/mimir-2.17.11), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.3), 3 days ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.19](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.19), 3 days ago) - Jenkins helm charts
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.2.0), 4 days ago) - Traefik Proxy Helm Chart
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.2](https://github.com/grafana/loki/releases/tag/v3.7.2), 4 days ago) - Like Prometheus, but for logs.
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.1.3), 1 day ago) - Prometheus community Helm charts
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.30.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.30.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.2.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.2.1), 2 days ago) - ArgoProj Helm Charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.17.11](https://github.com/grafana/mimir/releases/tag/mimir-2.17.11), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.3), 4 days ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.19](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.19), 4 days ago) - Jenkins helm charts
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.2.0), 5 days ago) - Traefik Proxy Helm Chart
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.2](https://github.com/grafana/loki/releases/tag/v3.7.2), 5 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 days ago)
-- [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 days ago)
-- [fix: read users_count under either key; surface 3 more group audit fields](https://github.com/DrFaust92/okta-mcp-server/pull/10) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 days ago)
-- [feat: support expand=stats on list_groups for empty-group audits](https://github.com/DrFaust92/okta-mcp-server/pull/9) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
+- [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 days ago)
+- [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
+- [fix: read users_count under either key; surface 3 more group audit fields](https://github.com/DrFaust92/okta-mcp-server/pull/10) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
+- [feat: support expand=stats on list_groups for empty-group audits](https://github.com/DrFaust92/okta-mcp-server/pull/9) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (5 days ago)
 - [Move PDB to dedicated template and bump apiVersion to policy/v1](https://github.com/hatchet-dev/hatchet-charts/pull/49) on [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) (1 week ago)
 - [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
 - [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (4 days ago)
+- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (5 days ago)
 - [grafana/xk6-python](https://github.com/grafana/xk6-python) - Write k6 tests in Python (1 month ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (6 months ago)
