@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.2.0), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.6.2](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.6.2), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.23.0), 1 day ago) - Prometheus community Helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.2.0), 1 day ago) - Configures opinionated GKE clusters
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.31](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.31), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.22](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.22), 1 day ago) - Jenkins helm charts
