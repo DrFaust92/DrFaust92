@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-7.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.23.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.23.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.15), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.24.0), today) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.30.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.30.1), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.6.0), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.6.2](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.6.2), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
