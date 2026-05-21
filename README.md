@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.23.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.23.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.15), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.24.0), today) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.30.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.30.1), 1 day ago) - SRE Agent - CNCF Sandbox Project
@@ -37,7 +38,6 @@
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.2.0), 3 days ago) - Configures opinionated GKE clusters
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.31](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.31), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.22](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.22), 3 days ago) - Jenkins helm charts
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.39.0](https://github.com/robusta-dev/robusta/releases/tag/0.39.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
