@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.7.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.7.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.8.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.2.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.23.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.23.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.15), 1 day ago) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.30.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.30.1), 2 days ago) - SRE Agent - CNCF Sandbox Project
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.6.0), 2 days ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.6.2](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.6.2), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.2.0), 4 days ago) - Configures opinionated GKE clusters
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.31](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.31), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.22](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.22), 4 days ago) - Jenkins helm charts
