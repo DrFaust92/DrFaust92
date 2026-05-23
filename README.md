@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.55.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.55.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.2), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.2.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.2.2), 1 day ago) - ArgoProj Helm Charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.7.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.7.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.30.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.30.1), 3 days ago) - SRE Agent - CNCF Sandbox Project
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.6.0), 3 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.2.0), 5 days ago) - Configures opinionated GKE clusters
