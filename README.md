@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.2), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.2), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.2.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.2.2), 1 day ago) - ArgoProj Helm Charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-1.7.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-1.7.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
