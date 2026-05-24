@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.3.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.3.3), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.55.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.55.0), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.2), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.2.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.2.2), 2 days ago) - ArgoProj Helm Charts
