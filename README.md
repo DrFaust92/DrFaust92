@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.2-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.2-test), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.3.3), 1 day ago) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.55.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.55.0), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.2), 3 days ago) - 
@@ -37,7 +38,6 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.6.0), 5 days ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.2.0), 1 week ago) - Configures opinionated GKE clusters
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.31](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.31), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.22](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.22), 1 week ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
 
