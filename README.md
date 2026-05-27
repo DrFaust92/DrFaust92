@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.4.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.0.0), today) - Prometheus community Helm charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.0), today) - Atlantis Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.32](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.32), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.40.0](https://github.com/robusta-dev/robusta/releases/tag/0.40.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.31.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.31.0), today) - SRE Agent - CNCF Sandbox Project
@@ -37,7 +38,6 @@
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.2-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.2-test), 2 days ago) - Like Prometheus, but for logs.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.55.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.55.0), 4 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.2.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.2.2), 5 days ago) - ArgoProj Helm Charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.6.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
