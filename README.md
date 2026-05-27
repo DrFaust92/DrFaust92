@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.8.2](https://github.com/grafana/helm-charts/releases/tag/alloy-1.8.2), today) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.0.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.0.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.2-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.2-test), 1 day ago) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.3.3), 2 days ago) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.55.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.55.0), 3 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.2.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.2.2), 4 days ago) - ArgoProj Helm Charts
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.30.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.30.1), 6 days ago) - SRE Agent - CNCF Sandbox Project
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.6.0), 6 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.8.2](https://github.com/grafana/helm-charts/releases/tag/alloy-1.8.2), 1 day ago) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.0.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.0.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.2-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.2-test), 2 days ago) - Like Prometheus, but for logs.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.3.3), 3 days ago) - Prometheus community Helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.55.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.55.0), 4 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.2.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.2.2), 5 days ago) - ArgoProj Helm Charts
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.30.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.30.1), 1 week ago) - SRE Agent - CNCF Sandbox Project
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.6.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.6.0), 1 week ago) - 
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.2.0), 1 week ago) - Configures opinionated GKE clusters
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.31](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.31), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
@@ -44,8 +44,8 @@
 - [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
 - [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
 - [fix: read users_count under either key; surface 3 more group audit fields](https://github.com/DrFaust92/okta-mcp-server/pull/10) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
-- [feat: support expand=stats on list_groups for empty-group audits](https://github.com/DrFaust92/okta-mcp-server/pull/9) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
-- [Move PDB to dedicated template and bump apiVersion to policy/v1](https://github.com/hatchet-dev/hatchet-charts/pull/49) on [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) (2 weeks ago)
+- [feat: support expand=stats on list_groups for empty-group audits](https://github.com/DrFaust92/okta-mcp-server/pull/9) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
+- [Move PDB to dedicated template and bump apiVersion to policy/v1](https://github.com/hatchet-dev/hatchet-charts/pull/49) on [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) (3 weeks ago)
 - [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 weeks ago)
 - [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 weeks ago)
 - [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 weeks ago)
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (1 week ago)
+- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (2 weeks ago)
 - [grafana/xk6-python](https://github.com/grafana/xk6-python) - Write k6 tests in Python (2 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (6 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (6 months ago)
