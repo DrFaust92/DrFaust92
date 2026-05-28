@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.4](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.4), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.16), today) - ArgoProj Helm Charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.0.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.396](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.396), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0-rc.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0-rc.1), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.31.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.31.1), today) - SRE Agent - CNCF Sandbox Project
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.0), 1 day ago) - Atlantis Helm Chart
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(generator): support Git generator in ApplicationSets](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (today)
 - [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
 - [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
 - [fix: read users_count under either key; surface 3 more group audit fields](https://github.com/DrFaust92/okta-mcp-server/pull/10) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
@@ -50,7 +51,6 @@
 - [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 weeks ago)
 - [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 weeks ago)
 - [feat: cherry-pick PR #39 fixes; switch to SDK pagination; add ty CI](https://github.com/DrFaust92/okta-mcp-server/pull/5) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 weeks ago)
-- [feat: make OAuth consent screen configurable, default ON](https://github.com/DrFaust92/okta-mcp-server/pull/4) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 weeks ago)
 
 
 
