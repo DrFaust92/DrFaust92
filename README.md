@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.3), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.17), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.4](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.4), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
