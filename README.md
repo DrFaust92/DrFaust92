@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.4), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.17), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.4](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.4), 2 days ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0-rc.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0-rc.1), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.31.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.31.1), 2 days ago) - SRE Agent - CNCF Sandbox Project
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.0), 3 days ago) - Atlantis Helm Chart
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.32](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.32), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.40.0](https://github.com/robusta-dev/robusta/releases/tag/0.40.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.4), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.17), 2 days ago) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.4](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.4), 3 days ago) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0-rc.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0-rc.1), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.31.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.31.1), 3 days ago) - SRE Agent - CNCF Sandbox Project
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.0), 4 days ago) - Atlantis Helm Chart
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.32](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.32), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.40.0](https://github.com/robusta-dev/robusta/releases/tag/0.40.0), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
-- [feat(generator): support Git generator in ApplicationSets](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (2 days ago)
+- [feat(generator): support Git generator in ApplicationSets](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (3 days ago)
 - [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
 - [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
 - [fix: read users_count under either key; surface 3 more group audit fields](https://github.com/DrFaust92/okta-mcp-server/pull/10) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
 - [feat: support expand=stats on list_groups for empty-group audits](https://github.com/DrFaust92/okta-mcp-server/pull/9) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
 - [Move PDB to dedicated template and bump apiVersion to policy/v1](https://github.com/hatchet-dev/hatchet-charts/pull/49) on [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) (3 weeks ago)
-- [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 weeks ago)
-- [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 weeks ago)
-- [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 weeks ago)
-- [feat: cherry-pick PR #39 fixes; switch to SDK pagination; add ty CI](https://github.com/DrFaust92/okta-mcp-server/pull/5) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 weeks ago)
+- [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
+- [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
+- [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
+- [feat: cherry-pick PR #39 fixes; switch to SDK pagination; add ty CI](https://github.com/DrFaust92/okta-mcp-server/pull/5) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 
 
 
@@ -68,8 +68,8 @@
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (9 months ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (10 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (11 months ago)
-- [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (11 months ago)
-- [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (11 months ago)
+- [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (1 year ago)
+- [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
