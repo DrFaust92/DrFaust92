@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.53](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.53), today) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.8.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.8.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.23.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.23.1), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.8](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.8), 1 day ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.33](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.33), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.0), 1 day ago) - MCP server for Grafana
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.1), 1 day ago) - Atlantis Helm Chart
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.1), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.17), 4 days ago) - ArgoProj Helm Charts
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.0), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0-rc.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0-rc.1), 5 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
