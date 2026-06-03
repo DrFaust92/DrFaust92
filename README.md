@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.46](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.46), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.9](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.9), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.1.1), today) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.1), today) - MCP server for Grafana
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
