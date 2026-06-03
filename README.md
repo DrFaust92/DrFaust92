@@ -28,25 +28,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.53](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.53), today) - 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.8.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.8.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.23.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.23.1), 1 day ago) - Prometheus community Helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.33](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.33), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.0), 1 day ago) - MCP server for Grafana
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.1), 1 day ago) - Atlantis Helm Chart
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.1), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.17), 4 days ago) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.4), 1 day ago) - 
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.8.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.8.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.23.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.23.1), 2 days ago) - Prometheus community Helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.33](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.33), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.0), 2 days ago) - MCP server for Grafana
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.1), 2 days ago) - Atlantis Helm Chart
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.1), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.17), 5 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
-- [feat(generator): support Git generator in ApplicationSets](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (5 days ago)
+- [feat(generator): support Git generator in ApplicationSets](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (6 days ago)
 - [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
 - [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
 - [fix: read users_count under either key; surface 3 more group audit fields](https://github.com/DrFaust92/okta-mcp-server/pull/10) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
-- [feat: support expand=stats on list_groups for empty-group audits](https://github.com/DrFaust92/okta-mcp-server/pull/9) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
-- [Move PDB to dedicated template and bump apiVersion to policy/v1](https://github.com/hatchet-dev/hatchet-charts/pull/49) on [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) (3 weeks ago)
+- [feat: support expand=stats on list_groups for empty-group audits](https://github.com/DrFaust92/okta-mcp-server/pull/9) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 weeks ago)
+- [Move PDB to dedicated template and bump apiVersion to policy/v1](https://github.com/hatchet-dev/hatchet-charts/pull/49) on [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) (4 weeks ago)
 - [feat: /health endpoint and silence httpx token-leaking logs](https://github.com/DrFaust92/okta-mcp-server/pull/8) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 - [feat: derive persistent JWT signing key so tokens survive pod restarts](https://github.com/DrFaust92/okta-mcp-server/pull/7) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 - [fix: relax LogOutcome.reason MaxLen(255) — real values exceed it](https://github.com/DrFaust92/okta-mcp-server/pull/6) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (2 weeks ago)
+- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (3 weeks ago)
 - [grafana/xk6-python](https://github.com/grafana/xk6-python) - Write k6 tests in Python (2 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (6 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (6 months ago)
