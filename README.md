@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.19](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.19), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.25.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.3), today) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.2), today) - MCP server for Grafana
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.10.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.18](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.18), today) - ArgoProj Helm Charts
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.8.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.8.0), 2 days ago) - 
