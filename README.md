@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.18](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.18), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.9](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.9), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.1.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.1), 1 day ago) - MCP server for Grafana
@@ -37,7 +38,6 @@
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.33](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.33), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.1), 3 days ago) - Atlantis Helm Chart
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.1), 5 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.17), 6 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
