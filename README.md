@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.41.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.41.0), today) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.397](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.397), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.19](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.19), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.25.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.3), 1 day ago) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.2), 1 day ago) - MCP server for Grafana
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
