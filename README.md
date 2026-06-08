@@ -7,7 +7,7 @@
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (1 month ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 month ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 month ago)
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (1 month ago)
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (2 months ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 months ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (2 months ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 months ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.20](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.20), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.26.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.397](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.397), 2 days ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.2), 3 days ago) - MCP server for Grafana
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), 5 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0), 5 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.8.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.8.0), 5 days ago) - 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.33](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.33), 6 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.1), 6 days ago) - Atlantis Helm Chart
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.20](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.20), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.26.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.397](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.397), 3 days ago) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.2), 4 days ago) - MCP server for Grafana
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), 6 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0), 6 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.8.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.8.0), 6 days ago) - 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.33](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.33), 1 week ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.1), 1 week ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
