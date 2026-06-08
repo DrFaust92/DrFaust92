@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.38.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.38.2), today) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.34](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.34), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.8](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.8), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.20](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.20), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.26.0), 1 day ago) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.2), 4 days ago) - MCP server for Grafana
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), 6 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [yumiaura](https://github.com/yumiaura)
 - [keterslayter](https://github.com/keterslayter)
 - [madmecodes](https://github.com/madmecodes)
 - [SridharRG](https://github.com/SridharRG)
 - [ross-armada](https://github.com/ross-armada)
+- [alekp](https://github.com/alekp)
 
 #### 💬 Feedback
 
