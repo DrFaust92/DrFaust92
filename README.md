@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.24.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.24.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.2.2), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.9.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.9.0), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.3.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.3.0), today) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.34](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.34), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.20](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.20), 2 days ago) - ArgoProj Helm Charts
