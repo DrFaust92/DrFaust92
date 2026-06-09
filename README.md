@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.10.1), today) - Prometheus community Helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.34](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.34), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.8](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.8), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.20](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.20), 1 day ago) - ArgoProj Helm Charts
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.2), 4 days ago) - MCP server for Grafana
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), 6 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0), 6 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.8.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.8.0), 6 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.10.1), 1 day ago) - Prometheus community Helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.34](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.34), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.8](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.8), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.20](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.20), 2 days ago) - ArgoProj Helm Charts
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.2), 5 days ago) - MCP server for Grafana
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), 1 week ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.8.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.8.0), 1 week ago) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.5.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.5.1), 1 week ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
