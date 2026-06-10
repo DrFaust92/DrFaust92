@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.41.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.41.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.50.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.50.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.2](https://github.com/grafana/loki/releases/tag/operator/v0.10.2), 1 day ago) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.2.2), 1 day ago) - Prometheus community Helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.3.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.3.0), 1 day ago) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.34](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.34), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.20](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.20), 3 days ago) - ArgoProj Helm Charts
