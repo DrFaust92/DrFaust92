@@ -28,8 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.50.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.50.0), today) - 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.2](https://github.com/grafana/loki/releases/tag/operator/v0.10.2), 1 day ago) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.5](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.5), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.2.2), 1 day ago) - Prometheus community Helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.3.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.3.0), 1 day ago) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.34](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.34), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
@@ -37,7 +38,6 @@
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.0), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.2), 6 days ago) - MCP server for Grafana
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.7.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.7.0), 1 week ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.0](https://github.com/grafana/mimir/releases/tag/mimir-3.1.0), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
