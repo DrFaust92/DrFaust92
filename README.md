@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.9](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.9), today) - 
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.23.0-alpha.1](https://github.com/cert-manager/trust-manager/releases/tag/v0.23.0-alpha.1), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.32.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.32.0-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.15), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.25](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.25), today) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.41.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.41.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.50.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.50.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.2](https://github.com/grafana/loki/releases/tag/operator/v0.10.2), 1 day ago) - Like Prometheus, but for logs.
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.3.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.3.0), 1 day ago) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.34](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.34), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.0](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.0), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.15.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.15.2), 6 days ago) - MCP server for Grafana
 
 #### 🔨 My recent Pull Requests
 
