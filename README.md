@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.6.0), today) - Atlantis Helm Chart
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.41.0](https://github.com/robusta-dev/robusta/releases/tag/0.41.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.32.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.32.0), today) - SRE Agent - CNCF Sandbox Project
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.8.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.8.0), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.23.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.23.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.5), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.9](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.9), 1 day ago) - 
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.32.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.32.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.15), 1 day ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.25](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.25), 1 day ago) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.2](https://github.com/grafana/loki/releases/tag/operator/v0.10.2), 2 days ago) - Like Prometheus, but for logs.
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v40.3.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v40.3.0), 2 days ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
 
