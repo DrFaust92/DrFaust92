@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.21](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.21), today) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.5), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.2), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.6.0), today) - Atlantis Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.41.0](https://github.com/robusta-dev/robusta/releases/tag/0.41.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
@@ -35,8 +37,6 @@
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.8.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.8.0), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.23.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.23.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.5), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.9](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.9), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.15), 1 day ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.25](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.25), 1 day ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
