@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.10](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.10), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.39.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.39.0), today) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.1), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.7](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.7), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.21](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.21), 1 day ago) - ArgoProj Helm Charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.6.0), 1 day ago) - Atlantis Helm Chart
