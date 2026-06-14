@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-7.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-7.5.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.10](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.10), 2 days ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.1), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.21](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.21), 3 days ago) - ArgoProj Helm Charts
