@@ -10,7 +10,7 @@
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (2 months ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 months ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (2 months ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 months ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 months ago)
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) - Community-maintained Kubernetes config and Helm chart for Langfuse (3 months ago)
 
 #### 🌱 My latest projects
@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.2.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.2.3), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.10](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.10), 1 day ago) - 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.1), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.21](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.21), 2 days ago) - ArgoProj Helm Charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.2), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.6.0), 2 days ago) - Atlantis Helm Chart
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.41.0](https://github.com/robusta-dev/robusta/releases/tag/0.41.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.32.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.32.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.8.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.8.0), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.23.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.23.0), 3 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.2.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.2.3), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.10](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.10), 2 days ago) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.1), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.21](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.21), 3 days ago) - ArgoProj Helm Charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.2), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.6.0), 3 days ago) - Atlantis Helm Chart
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.41.0](https://github.com/robusta-dev/robusta/releases/tag/0.41.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.32.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.32.0), 3 days ago) - SRE Agent - CNCF Sandbox Project
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.8.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.8.0), 4 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.23.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.23.0), 4 days ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(mcp): support OIDC bearer auth as alternative to BasicAuth](https://github.com/langfuse/langfuse/pull/14140) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (4 days ago)
+- [feat(mcp): support OIDC bearer auth as alternative to BasicAuth](https://github.com/langfuse/langfuse/pull/14140) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (5 days ago)
 - [feat(generator,appdir,events): full AppSet Git generator support &#43; per-Application AppSet spec diffs](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (2 weeks ago)
-- [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 weeks ago)
+- [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 - [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 - [fix: read users_count under either key; surface 3 more group audit fields](https://github.com/DrFaust92/okta-mcp-server/pull/10) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 - [feat: support expand=stats on list_groups for empty-group audits](https://github.com/DrFaust92/okta-mcp-server/pull/9) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
@@ -66,7 +66,7 @@
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (6 months ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (8 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (9 months ago)
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (10 months ago)
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (11 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (11 months ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (1 year ago)
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️ (1 year ago)
