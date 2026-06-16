@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.35](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.35), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.16), today) - ArgoProj Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.42.0](https://github.com/robusta-dev/robusta/releases/tag/0.42.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.26](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.26), 1 day ago) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.399](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.399), 1 day ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.33.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.33.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.12.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.1), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.21](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.21), 5 days ago) - ArgoProj Helm Charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.2), 5 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.6.0), 5 days ago) - Atlantis Helm Chart
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.8.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.8.0), 6 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
 
