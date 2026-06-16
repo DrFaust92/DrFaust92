@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.42.0](https://github.com/robusta-dev/robusta/releases/tag/0.42.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.26](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.26), today) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.399](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.399), today) - 
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.33.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.33.0), today) - SRE Agent - CNCF Sandbox Project
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.12.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.1), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.21](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.21), 4 days ago) - ArgoProj Helm Charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.2), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.6.0), 4 days ago) - Atlantis Helm Chart
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.8.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.8.0), 5 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.42.0](https://github.com/robusta-dev/robusta/releases/tag/0.42.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.26](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.26), 1 day ago) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.399](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.399), 1 day ago) - 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.33.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.33.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.12.0), 2 days ago) - Prometheus community Helm charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.1](https://github.com/grafana/mimir/releases/tag/mimir-3.1.1), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.21](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.21), 5 days ago) - ArgoProj Helm Charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.2), 5 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.6.0), 5 days ago) - Atlantis Helm Chart
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.8.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.8.0), 6 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
 
-- [feat(mcp): support OIDC bearer auth as alternative to BasicAuth](https://github.com/langfuse/langfuse/pull/14140) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (6 days ago)
+- [feat(mcp): support OIDC bearer auth as alternative to BasicAuth](https://github.com/langfuse/langfuse/pull/14140) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 week ago)
 - [feat(generator,appdir,events): full AppSet Git generator support &#43; per-Application AppSet spec diffs](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (2 weeks ago)
 - [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 - [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
@@ -63,9 +63,9 @@
 - [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (1 month ago)
 - [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (2 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (6 months ago)
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (6 months ago)
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (7 months ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (8 months ago)
-- [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (9 months ago)
+- [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (10 months ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (11 months ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (11 months ago)
 - [prequel-dev/cre](https://github.com/prequel-dev/cre) - Common Reliability Enumerations (CREs) developed by the community 📖 (1 year ago)
