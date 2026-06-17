@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.10](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.10), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.3), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.14.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.1.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.1.0), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.7](https://github.com/grafana/mimir/releases/tag/mimir-3.0.7), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.16.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.16.0), 1 day ago) - MCP server for Grafana
