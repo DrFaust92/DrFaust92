@@ -28,23 +28,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.37](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.37), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.6), today) - 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.3), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.7](https://github.com/grafana/mimir/releases/tag/mimir-3.0.7), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.16.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.16.0), 1 day ago) - MCP server for Grafana
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.0), 1 day ago) - Traefik Proxy Helm Chart
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.35](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.35), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.16), 1 day ago) - ArgoProj Helm Charts
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.42.0](https://github.com/robusta-dev/robusta/releases/tag/0.42.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.37](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.37), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.6), 1 day ago) - 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.3), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.7](https://github.com/grafana/mimir/releases/tag/mimir-3.0.7), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.16.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.16.0), 2 days ago) - MCP server for Grafana
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.0), 2 days ago) - Traefik Proxy Helm Chart
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.35](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.35), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.16), 2 days ago) - ArgoProj Helm Charts
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.42.0](https://github.com/robusta-dev/robusta/releases/tag/0.42.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
-- [feat(helm): add persistent volume support](https://github.com/taylorwilsdon/google_workspace_mcp/pull/859) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (today)
-- [fix(helm): drop deprecated Ingress APIs and require Kubernetes &gt;= 1.25](https://github.com/taylorwilsdon/google_workspace_mcp/pull/858) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (today)
+- [feat(helm): add persistent volume support](https://github.com/taylorwilsdon/google_workspace_mcp/pull/859) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 day ago)
+- [fix(helm): drop deprecated Ingress APIs and require Kubernetes &gt;= 1.25](https://github.com/taylorwilsdon/google_workspace_mcp/pull/858) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 day ago)
 - [feat(mcp): support OIDC bearer auth as alternative to BasicAuth](https://github.com/langfuse/langfuse/pull/14140) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 week ago)
-- [feat(generator,appdir,events): full AppSet Git generator support &#43; per-Application AppSet spec diffs](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (2 weeks ago)
+- [feat(generator,appdir,events): full AppSet Git generator support &#43; per-Application AppSet spec diffs](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (3 weeks ago)
 - [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 - [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 - [fix: read users_count under either key; surface 3 more group audit fields](https://github.com/DrFaust92/okta-mcp-server/pull/10) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
