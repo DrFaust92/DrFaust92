@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.22](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.22), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.3.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.6), 2 days ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.3), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
@@ -36,7 +37,6 @@
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.16.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.16.0), 3 days ago) - MCP server for Grafana
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.0), 3 days ago) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.35](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.35), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.16), 3 days ago) - ArgoProj Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.42.0](https://github.com/robusta-dev/robusta/releases/tag/0.42.0), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
