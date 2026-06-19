@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (today)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (1 day ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (1 month ago)
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.40.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.40.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.6), 1 day ago) - 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.3), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.7](https://github.com/grafana/mimir/releases/tag/mimir-3.0.7), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.16.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.16.0), 2 days ago) - MCP server for Grafana
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.0), 2 days ago) - Traefik Proxy Helm Chart
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.35](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.35), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.16), 2 days ago) - ArgoProj Helm Charts
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.42.0](https://github.com/robusta-dev/robusta/releases/tag/0.42.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-30.0.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.6), 2 days ago) - 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.3), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.1), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.7](https://github.com/grafana/mimir/releases/tag/mimir-3.0.7), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.16.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.16.0), 3 days ago) - MCP server for Grafana
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.0), 3 days ago) - Traefik Proxy Helm Chart
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.35](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.35), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.16), 3 days ago) - ArgoProj Helm Charts
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.42.0](https://github.com/robusta-dev/robusta/releases/tag/0.42.0), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
-- [feat(helm): add persistent volume support](https://github.com/taylorwilsdon/google_workspace_mcp/pull/859) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 day ago)
-- [fix(helm): drop deprecated Ingress APIs and require Kubernetes &gt;= 1.25](https://github.com/taylorwilsdon/google_workspace_mcp/pull/858) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 day ago)
+- [feat(helm): add persistent volume support](https://github.com/taylorwilsdon/google_workspace_mcp/pull/859) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 days ago)
+- [fix(helm): drop deprecated Ingress APIs and require Kubernetes &gt;= 1.25](https://github.com/taylorwilsdon/google_workspace_mcp/pull/858) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 days ago)
 - [feat(mcp): support OIDC bearer auth as alternative to BasicAuth](https://github.com/langfuse/langfuse/pull/14140) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 week ago)
 - [feat(generator,appdir,events): full AppSet Git generator support &#43; per-Application AppSet spec diffs](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (3 weeks ago)
 - [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
@@ -62,7 +62,7 @@
 
 - [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (1 month ago)
 - [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (2 months ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (6 months ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (7 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (7 months ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (8 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (10 months ago)
