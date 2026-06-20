@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (1 day ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (2 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (1 month ago)
@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta13](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta13), today) - Apache DevLake Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.1.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.3.2), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.22](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.22), today) - ArgoProj Helm Charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.3), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.1), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.7](https://github.com/grafana/mimir/releases/tag/mimir-3.0.7), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.16.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.16.0), 3 days ago) - MCP server for Grafana
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.0), 3 days ago) - Traefik Proxy Helm Chart
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.35](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.35), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta13](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta13), 1 day ago) - Apache DevLake Helm Chart
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.1.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.3.2), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.5.22](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.5.22), 1 day ago) - ArgoProj Helm Charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.3), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.1), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.7](https://github.com/grafana/mimir/releases/tag/mimir-3.0.7), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.16.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.16.0), 4 days ago) - MCP server for Grafana
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.0), 4 days ago) - Traefik Proxy Helm Chart
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.35](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.35), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
-- [Support third-party conferencing (Zoom/Webex/Teams add-on) in manage_event](https://github.com/taylorwilsdon/google_workspace_mcp/pull/865) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (today)
-- [feat(helm): add persistent volume support](https://github.com/taylorwilsdon/google_workspace_mcp/pull/859) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 days ago)
-- [fix(helm): drop deprecated Ingress APIs and require Kubernetes &gt;= 1.25](https://github.com/taylorwilsdon/google_workspace_mcp/pull/858) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 days ago)
+- [Support third-party conferencing (Zoom/Webex/Teams add-on) in manage_event](https://github.com/taylorwilsdon/google_workspace_mcp/pull/865) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 day ago)
+- [feat(helm): add persistent volume support](https://github.com/taylorwilsdon/google_workspace_mcp/pull/859) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (3 days ago)
+- [fix(helm): drop deprecated Ingress APIs and require Kubernetes &gt;= 1.25](https://github.com/taylorwilsdon/google_workspace_mcp/pull/858) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (3 days ago)
 - [feat(mcp): support OIDC bearer auth as alternative to BasicAuth](https://github.com/langfuse/langfuse/pull/14140) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 week ago)
 - [feat(generator,appdir,events): full AppSet Git generator support &#43; per-Application AppSet spec diffs](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (3 weeks ago)
 - [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
