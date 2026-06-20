@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.17.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-9.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-9.6.0), today) - ArgoProj Helm Charts
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta13](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta13), 1 day ago) - Apache DevLake Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.1.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-86.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-86.3.2), 1 day ago) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.21.3](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.21.3), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.1), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.7](https://github.com/grafana/mimir/releases/tag/mimir-3.0.7), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
