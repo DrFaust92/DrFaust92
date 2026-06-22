@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.28](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.28), today) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.0.0), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
@@ -37,10 +38,10 @@
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.5.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.5.1), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.7](https://github.com/grafana/mimir/releases/tag/mimir-3.0.7), 5 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.16.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.16.0), 6 days ago) - MCP server for Grafana
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.0), 6 days ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Add agent skill for prometheus-operator bumps](https://github.com/prometheus-community/helm-charts/pull/7013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [ci(helm): publish chart to GHCR as OCI artifact](https://github.com/taylorwilsdon/google_workspace_mcp/pull/875) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (today)
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.92.0](https://github.com/prometheus-community/helm-charts/pull/7012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.92.0](https://github.com/DrFaust92/helm-charts-2/pull/12) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 day ago)
@@ -50,7 +51,6 @@
 - [feat(mcp): support OIDC bearer auth as alternative to BasicAuth](https://github.com/langfuse/langfuse/pull/14140) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 week ago)
 - [feat(generator,appdir,events): full AppSet Git generator support &#43; per-Application AppSet spec diffs](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (3 weeks ago)
 - [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
-- [chore: bump deps to clear Dependabot security alerts](https://github.com/DrFaust92/okta-mcp-server/pull/11) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 
 
 
