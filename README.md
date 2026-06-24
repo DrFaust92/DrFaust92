@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.2.0), today) - Prometheus community Helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.12](https://github.com/grafana/loki/releases/tag/v3.6.12), today) - Like Prometheus, but for logs.
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.2](https://github.com/grafana/mimir/releases/tag/mimir-3.1.2), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), 1 day ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.36](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.36), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
