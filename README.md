@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(atlantis): add service.extraPorts for additional service ports](https://github.com/runatlantis/helm-charts/pull/560) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (today)
 - [[kube-prometheus-stack] Add agent skill for prometheus-operator bumps](https://github.com/prometheus-community/helm-charts/pull/7013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [ci(helm): publish chart to GHCR as OCI artifact](https://github.com/taylorwilsdon/google_workspace_mcp/pull/875) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 days ago)
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.92.0](https://github.com/prometheus-community/helm-charts/pull/7012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -50,7 +51,6 @@
 - [fix(helm): drop deprecated Ingress APIs and require Kubernetes &gt;= 1.25](https://github.com/taylorwilsdon/google_workspace_mcp/pull/858) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
 - [feat(mcp): support OIDC bearer auth as alternative to BasicAuth](https://github.com/langfuse/langfuse/pull/14140) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (2 weeks ago)
 - [feat(generator,appdir,events): full AppSet Git generator support &#43; per-Application AppSet spec diffs](https://github.com/DrFaust92/kubechecks/pull/1) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (3 weeks ago)
-- [feat: surface group_push_mappings_count](https://github.com/DrFaust92/okta-mcp-server/pull/12) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 month ago)
 
 
 
