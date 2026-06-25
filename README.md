@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (6 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (2 months ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 months ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 months ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (2 months ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (3 months ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.34.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.34.0-alpha), today) - SRE Agent - CNCF Sandbox Project
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.7.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.7.0), today) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.2.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 1 day ago) - Like Prometheus, but for logs.
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.2](https://github.com/grafana/mimir/releases/tag/mimir-3.1.2), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
@@ -36,8 +38,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.17](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.17), 2 days ago) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.56.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.56.0), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.0), 2 days ago) - MCP server for Grafana
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.29](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.29), 2 days ago) - Jenkins helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 
 #### 🔨 My recent Pull Requests
 
