@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.18](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.18), today) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.34.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.34.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.7.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.7.0), 1 day ago) - Atlantis Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.2.1), 2 days ago) - Prometheus community Helm charts
@@ -35,7 +36,6 @@
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.2](https://github.com/grafana/mimir/releases/tag/mimir-3.1.2), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), 3 days ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.36](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.36), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.17](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.17), 3 days ago) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.56.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.56.0), 3 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.0), 3 days ago) - MCP server for Grafana
 
