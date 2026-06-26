@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.2.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.2.3), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.2.4](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.2.4), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.10.1), today) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.7.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.7.1), today) - Atlantis Helm Chart
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.34.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.34.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.2.1), 2 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 2 days ago) - Like Prometheus, but for logs.
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.2](https://github.com/grafana/mimir/releases/tag/mimir-3.1.2), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), 3 days ago) - 
