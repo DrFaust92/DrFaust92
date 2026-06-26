@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(atlantis): allow restartPolicy on containers for native sidecars](https://github.com/runatlantis/helm-charts/pull/563) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (today)
+- [feat: support configurable OTLP trace sampling (#28460)](https://github.com/argoproj/argo-cd/pull/28462) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (today)
 - [feat(n8n): add taskRunners.external.existingSecret for external task runner tokens](https://github.com/community-charts/helm-charts/pull/525) on [community-charts/helm-charts](https://github.com/community-charts/helm-charts) (today)
 - [feat(atlantis): add service.extraPorts for additional service ports](https://github.com/runatlantis/helm-charts/pull/560) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] Add agent skill for prometheus-operator bumps](https://github.com/prometheus-community/helm-charts/pull/7013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
@@ -49,8 +51,6 @@
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.92.0](https://github.com/DrFaust92/helm-charts-2/pull/12) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (5 days ago)
 - [Support third-party conferencing (Zoom/Webex/Teams add-on) in manage_event](https://github.com/taylorwilsdon/google_workspace_mcp/pull/865) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
 - [feat(helm): add persistent volume support](https://github.com/taylorwilsdon/google_workspace_mcp/pull/859) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
-- [fix(helm): drop deprecated Ingress APIs and require Kubernetes &gt;= 1.25](https://github.com/taylorwilsdon/google_workspace_mcp/pull/858) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
-- [feat(mcp): support OIDC bearer auth as alternative to BasicAuth](https://github.com/langfuse/langfuse/pull/14140) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (2 weeks ago)
 
 
 
