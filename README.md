@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.24.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.24.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.10.1), 1 day ago) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.7.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.7.1), 1 day ago) - Atlantis Helm Chart
@@ -37,7 +38,6 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), 4 days ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.36](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.36), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.56.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.56.0), 4 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.0](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.0), 4 days ago) - MCP server for Grafana
 
 #### 🔨 My recent Pull Requests
 
