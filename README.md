@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.3.0), today) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.24.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.24.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.0), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.10.1), 1 day ago) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.7.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.7.1), 1 day ago) - Atlantis Helm Chart
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.34.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.34.0-alpha), 2 days ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 3 days ago) - Like Prometheus, but for logs.
