@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-14.11.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-14.11.0), today) - 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([terminals-0.5.0](https://github.com/open-webui/helm-charts/releases/tag/terminals-0.5.0), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.8.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.8.0), today) - Atlantis Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.43.0](https://github.com/robusta-dev/robusta/releases/tag/0.43.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.34.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.34.0), today) - SRE Agent - CNCF Sandbox Project
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[tempo-distributed] Support a plain dnsConfig with global fallback](https://github.com/grafana-community/helm-charts/pull/642) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [[loki] Add graceful drain to distributor](https://github.com/grafana-community/helm-charts/pull/641) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [[tempo-distributed] Add graceful drain to distributor](https://github.com/grafana-community/helm-charts/pull/640) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [[psmdb-operator] make liveness/readiness probes configurable](https://github.com/percona/percona-helm-charts/pull/884) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (today)
 - [feat: expose revisionHistoryLimit and dnsConfig/dnsPolicy as configurable values](https://github.com/launchdarkly/ld-relay-helm/pull/125) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
 - [feat(atlantis): allow restartPolicy on containers for native sidecars](https://github.com/runatlantis/helm-charts/pull/563) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 days ago)
@@ -48,9 +51,6 @@
 - [feat(n8n): add taskRunners.external.existingSecret for external task runner tokens](https://github.com/community-charts/helm-charts/pull/525) on [community-charts/helm-charts](https://github.com/community-charts/helm-charts) (2 days ago)
 - [feat(atlantis): add service.extraPorts for additional service ports](https://github.com/runatlantis/helm-charts/pull/560) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] Add agent skill for prometheus-operator bumps](https://github.com/prometheus-community/helm-charts/pull/7013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [ci(helm): publish chart to GHCR as OCI artifact](https://github.com/taylorwilsdon/google_workspace_mcp/pull/875) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (6 days ago)
-- [[kube-prometheus-stack] Bump prometheus-operator to v0.92.0](https://github.com/prometheus-community/helm-charts/pull/7012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] Bump prometheus-operator to v0.92.0](https://github.com/DrFaust92/helm-charts-2/pull/12) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 week ago)
 
 
 
