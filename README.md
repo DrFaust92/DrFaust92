@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.3.0), today) - Prometheus community Helm charts
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.24.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.24.0), today) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.0), 1 day ago) - ArgoProj Helm Charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.7.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.7.1), 1 day ago) - Atlantis Helm Chart
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.34.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.34.0-alpha), 2 days ago) - SRE Agent - CNCF Sandbox Project
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 3 days ago) - Like Prometheus, but for logs.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.2](https://github.com/grafana/mimir/releases/tag/mimir-3.1.2), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), 4 days ago) - 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.36](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.36), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.56.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.56.0), 4 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.13.0), today) - Prometheus community Helm charts
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.24.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.24.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.0), 2 days ago) - ArgoProj Helm Charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.7.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.7.1), 2 days ago) - Atlantis Helm Chart
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.34.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.34.0-alpha), 3 days ago) - SRE Agent - CNCF Sandbox Project
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 4 days ago) - Like Prometheus, but for logs.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.2](https://github.com/grafana/mimir/releases/tag/mimir-3.1.2), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), 5 days ago) - 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.36](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.36), 5 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.56.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.56.0), 5 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
 
-- [feat(atlantis): allow restartPolicy on containers for native sidecars](https://github.com/runatlantis/helm-charts/pull/563) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (1 day ago)
-- [feat: support configurable OTLP trace sampling (#28460)](https://github.com/argoproj/argo-cd/pull/28462) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (1 day ago)
-- [feat(n8n): add taskRunners.external.existingSecret for external task runner tokens](https://github.com/community-charts/helm-charts/pull/525) on [community-charts/helm-charts](https://github.com/community-charts/helm-charts) (1 day ago)
-- [feat(atlantis): add service.extraPorts for additional service ports](https://github.com/runatlantis/helm-charts/pull/560) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (3 days ago)
-- [[kube-prometheus-stack] Add agent skill for prometheus-operator bumps](https://github.com/prometheus-community/helm-charts/pull/7013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [ci(helm): publish chart to GHCR as OCI artifact](https://github.com/taylorwilsdon/google_workspace_mcp/pull/875) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (5 days ago)
-- [[kube-prometheus-stack] Bump prometheus-operator to v0.92.0](https://github.com/prometheus-community/helm-charts/pull/7012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[kube-prometheus-stack] Bump prometheus-operator to v0.92.0](https://github.com/DrFaust92/helm-charts-2/pull/12) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (6 days ago)
+- [feat(atlantis): allow restartPolicy on containers for native sidecars](https://github.com/runatlantis/helm-charts/pull/563) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (2 days ago)
+- [feat: support configurable OTLP trace sampling (#28460)](https://github.com/argoproj/argo-cd/pull/28462) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (2 days ago)
+- [feat(n8n): add taskRunners.external.existingSecret for external task runner tokens](https://github.com/community-charts/helm-charts/pull/525) on [community-charts/helm-charts](https://github.com/community-charts/helm-charts) (2 days ago)
+- [feat(atlantis): add service.extraPorts for additional service ports](https://github.com/runatlantis/helm-charts/pull/560) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (4 days ago)
+- [[kube-prometheus-stack] Add agent skill for prometheus-operator bumps](https://github.com/prometheus-community/helm-charts/pull/7013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [ci(helm): publish chart to GHCR as OCI artifact](https://github.com/taylorwilsdon/google_workspace_mcp/pull/875) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (6 days ago)
+- [[kube-prometheus-stack] Bump prometheus-operator to v0.92.0](https://github.com/prometheus-community/helm-charts/pull/7012) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[kube-prometheus-stack] Bump prometheus-operator to v0.92.0](https://github.com/DrFaust92/helm-charts-2/pull/12) on [DrFaust92/helm-charts-2](https://github.com/DrFaust92/helm-charts-2) (1 week ago)
 - [Support third-party conferencing (Zoom/Webex/Teams add-on) in manage_event](https://github.com/taylorwilsdon/google_workspace_mcp/pull/865) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
 - [feat(helm): add persistent volume support](https://github.com/taylorwilsdon/google_workspace_mcp/pull/859) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
 
