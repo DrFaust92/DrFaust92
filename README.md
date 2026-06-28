@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.43.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.43.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.43.0](https://github.com/robusta-dev/robusta/releases/tag/0.43.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.34.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.34.0), today) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.13.0), today) - Prometheus community Helm charts
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) ([v0.24.0](https://github.com/cert-manager/trust-manager/releases/tag/v0.24.0), 1 day ago) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.0), 2 days ago) - ArgoProj Helm Charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.7.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.7.1), 2 days ago) - Atlantis Helm Chart
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.34.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.34.0-alpha), 3 days ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 4 days ago) - Like Prometheus, but for logs.
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.2](https://github.com/grafana/mimir/releases/tag/mimir-3.1.2), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), 5 days ago) - 
