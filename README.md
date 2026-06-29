@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.8](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.8), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.11](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.11), today) - 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.2), today) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.1), today) - ArgoProj Helm Charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.1), today) - Atlantis Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.37](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.37), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.9.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.9.0), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.1), today) - Traefik Proxy Helm Chart
