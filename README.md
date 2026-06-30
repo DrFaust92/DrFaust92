@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.9](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.9), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.40.1), today) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.1), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.1.1-dev.7.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.1.1-dev.7.1), today) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.10.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.10.1), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.2), 1 day ago) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.1), 1 day ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.37](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.37), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add validator-negative and SDKv2-upgrade test coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/79) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [Fix airflow_connection extra regression (Invalid JSON String Value)](https://github.com/DrFaust92/terraform-provider-airflow/pull/78) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [Fix provider address typo (conflunet -&gt; confluent)](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/6) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
 - [Fix release workflow: pin GoReleaser to v1 and use --clean](https://github.com/DrFaust92/terraform-provider-confluence/pull/14) on [DrFaust92/terraform-provider-confluence](https://github.com/DrFaust92/terraform-provider-confluence) (today)
 - [Bump terraform-plugin-docs to v0.25.0](https://github.com/DrFaust92/terraform-provider-mapbox/pull/97) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (today)
 - [Refresh Go dependencies](https://github.com/DrFaust92/terraform-provider-mapbox/pull/96) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (today)
@@ -48,9 +51,6 @@
 - [Migrate to terraform-plugin-framework &#43; add doc generation](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/5) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
 - [Add Schema Registry integration tests in CI and fix version read](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/4) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
 - [Declare protocol 6.0 in the registry manifest](https://github.com/DrFaust92/terraform-provider-airflow/pull/77) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [Remove the SDKv2 provider and protocol muxing](https://github.com/DrFaust92/terraform-provider-airflow/pull/76) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [Migrate airflow_connection to terraform-plugin-framework](https://github.com/DrFaust92/terraform-provider-airflow/pull/75) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [Migrate airflow_dag_run to terraform-plugin-framework](https://github.com/DrFaust92/terraform-provider-airflow/pull/74) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 
 
 
