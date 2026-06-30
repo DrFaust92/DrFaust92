@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.46.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.46.1), today) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.1), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.1.1-dev.7.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.1.1-dev.7.1), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.10.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.10.1), today) - 
@@ -36,7 +37,6 @@
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.37](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.37), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.9.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.9.0), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.1), 1 day ago) - Traefik Proxy Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.15.0), 1 day ago) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.43.0](https://github.com/robusta-dev/robusta/releases/tag/0.43.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
