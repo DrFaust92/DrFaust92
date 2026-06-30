@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.7), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.4.0), today) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), today) - Atlantis Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.9](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.9), today) - 
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.1), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.1.1-dev.7.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.1.1-dev.7.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.1), 1 day ago) - ArgoProj Helm Charts
