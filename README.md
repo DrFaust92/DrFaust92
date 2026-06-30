@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 day ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 day ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
@@ -9,7 +10,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (2 months ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 months ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (2 months ago)
 
@@ -28,8 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.1.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.1.0), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.11](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.11), 1 day ago) - 
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.1), today) - 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.1.1-dev.7.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.1.1-dev.7.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.10.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.10.1), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.2), 1 day ago) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.1), 1 day ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.37](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.37), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
@@ -37,20 +38,19 @@
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.1), 1 day ago) - Traefik Proxy Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.15.0), 1 day ago) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.43.0](https://github.com/robusta-dev/robusta/releases/tag/0.43.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.34.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.34.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
 
 #### 🔨 My recent Pull Requests
 
-- [Migrate airflow_variable to terraform-plugin-framework (mux scaffolding)](https://github.com/DrFaust92/terraform-provider-airflow/pull/67) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
-- [deploy: probe /healthz and /readyz on the health-probe port](https://github.com/percona/percona-server-mongodb-operator/pull/2419) on [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) (1 day ago)
-- [docs(atlantis): document OIDC web UI authentication](https://github.com/runatlantis/helm-charts/pull/566) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (1 day ago)
-- [feat(atlantis): support dnsConfig.options (e.g. ndots)](https://github.com/runatlantis/helm-charts/pull/565) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (1 day ago)
-- [[tempo-distributed] Support a plain dnsConfig with global fallback](https://github.com/grafana-community/helm-charts/pull/642) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
-- [[loki] Add graceful drain to distributor](https://github.com/grafana-community/helm-charts/pull/641) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
-- [[tempo-distributed] Add graceful drain to distributor](https://github.com/grafana-community/helm-charts/pull/640) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
-- [[psmdb-operator] make liveness/readiness probes configurable](https://github.com/percona/percona-helm-charts/pull/884) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (2 days ago)
-- [feat: expose revisionHistoryLimit and dnsConfig/dnsPolicy as configurable values](https://github.com/launchdarkly/ld-relay-helm/pull/125) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (2 days ago)
-- [feat(atlantis): allow restartPolicy on containers for native sidecars](https://github.com/runatlantis/helm-charts/pull/563) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (4 days ago)
+- [Fix release workflow: pin GoReleaser to v1 and use --clean](https://github.com/DrFaust92/terraform-provider-confluence/pull/14) on [DrFaust92/terraform-provider-confluence](https://github.com/DrFaust92/terraform-provider-confluence) (today)
+- [Bump terraform-plugin-docs to v0.25.0](https://github.com/DrFaust92/terraform-provider-mapbox/pull/97) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (today)
+- [Refresh Go dependencies](https://github.com/DrFaust92/terraform-provider-mapbox/pull/96) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (today)
+- [Refresh Go dependencies](https://github.com/DrFaust92/terraform-provider-confluence/pull/13) on [DrFaust92/terraform-provider-confluence](https://github.com/DrFaust92/terraform-provider-confluence) (today)
+- [Migrate to terraform-plugin-framework &#43; add doc generation](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/5) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
+- [Add Schema Registry integration tests in CI and fix version read](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/4) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
+- [Declare protocol 6.0 in the registry manifest](https://github.com/DrFaust92/terraform-provider-airflow/pull/77) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [Remove the SDKv2 provider and protocol muxing](https://github.com/DrFaust92/terraform-provider-airflow/pull/76) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [Migrate airflow_connection to terraform-plugin-framework](https://github.com/DrFaust92/terraform-provider-airflow/pull/75) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [Migrate airflow_dag_run to terraform-plugin-framework](https://github.com/DrFaust92/terraform-provider-airflow/pull/74) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 
 
 
