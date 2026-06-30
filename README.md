@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.46.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.46.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.40.1), today) - Prometheus community Helm charts
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.1), today) - 
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.1.1-dev.7.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.1.1-dev.7.1), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.10.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.10.1), today) - 
