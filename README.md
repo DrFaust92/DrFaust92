@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 day ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 day ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 day ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 days ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (2 days ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (2 months ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 months ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (2 months ago)
 
 #### 🌱 My latest projects
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-30.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-30.0.1), today) - Prometheus community Helm charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.1.1-dev.9.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.1.1-dev.9.1), today) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.7), today) - 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), today) - Atlantis Helm Chart
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.1), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.1), 1 day ago) - ArgoProj Helm Charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.37](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.37), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.9.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.9.0), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.1), 1 day ago) - Traefik Proxy Helm Chart
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.43.0](https://github.com/robusta-dev/robusta/releases/tag/0.43.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.1.1-dev.10.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.1.1-dev.10.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.13.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.7), 1 day ago) - 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), 1 day ago) - Atlantis Helm Chart
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.1), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.0.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.0.1), 2 days ago) - ArgoProj Helm Charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.37](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.37), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.9.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.9.0), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.1), 2 days ago) - Traefik Proxy Helm Chart
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.43.0](https://github.com/robusta-dev/robusta/releases/tag/0.43.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
-- [Add list resources for variable, pool, and connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/80) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [Add validator-negative and SDKv2-upgrade test coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/79) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [Fix airflow_connection extra regression (Invalid JSON String Value)](https://github.com/DrFaust92/terraform-provider-airflow/pull/78) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [Fix provider address typo (conflunet -&gt; confluent)](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/6) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
-- [Fix release workflow: pin GoReleaser to v1 and use --clean](https://github.com/DrFaust92/terraform-provider-confluence/pull/14) on [DrFaust92/terraform-provider-confluence](https://github.com/DrFaust92/terraform-provider-confluence) (today)
-- [Bump terraform-plugin-docs to v0.25.0](https://github.com/DrFaust92/terraform-provider-mapbox/pull/97) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (today)
-- [Refresh Go dependencies](https://github.com/DrFaust92/terraform-provider-mapbox/pull/96) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (today)
-- [Refresh Go dependencies](https://github.com/DrFaust92/terraform-provider-confluence/pull/13) on [DrFaust92/terraform-provider-confluence](https://github.com/DrFaust92/terraform-provider-confluence) (today)
-- [Migrate to terraform-plugin-framework &#43; add doc generation](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/5) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
-- [Add Schema Registry integration tests in CI and fix version read](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/4) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
+- [Add list resources for variable, pool, and connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/80) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [Add validator-negative and SDKv2-upgrade test coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/79) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [Fix airflow_connection extra regression (Invalid JSON String Value)](https://github.com/DrFaust92/terraform-provider-airflow/pull/78) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [Fix provider address typo (conflunet -&gt; confluent)](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/6) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (1 day ago)
+- [Fix release workflow: pin GoReleaser to v1 and use --clean](https://github.com/DrFaust92/terraform-provider-confluence/pull/14) on [DrFaust92/terraform-provider-confluence](https://github.com/DrFaust92/terraform-provider-confluence) (1 day ago)
+- [Bump terraform-plugin-docs to v0.25.0](https://github.com/DrFaust92/terraform-provider-mapbox/pull/97) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (1 day ago)
+- [Refresh Go dependencies](https://github.com/DrFaust92/terraform-provider-mapbox/pull/96) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (1 day ago)
+- [Refresh Go dependencies](https://github.com/DrFaust92/terraform-provider-confluence/pull/13) on [DrFaust92/terraform-provider-confluence](https://github.com/DrFaust92/terraform-provider-confluence) (1 day ago)
+- [Migrate to terraform-plugin-framework &#43; add doc generation](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/5) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (1 day ago)
+- [Add Schema Registry integration tests in CI and fix version read](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/4) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (1 day ago)
 
 
 
