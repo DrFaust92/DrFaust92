@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.14.0), today) - Prometheus community Helm charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.0), today) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.32](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.32), today) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.0), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.13.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.7), 1 day ago) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), 1 day ago) - Atlantis Helm Chart
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.1), 1 day ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.37](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.37), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.9.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.9.0), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
 
