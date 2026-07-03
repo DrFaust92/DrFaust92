@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(chart): multi-tenancy via scope toggle &#43; shared CRDs (closes #40)](https://github.com/DrFaust92/airflow-k8s-operator/pull/55) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [fix: handle more failure modes (409 adopt, non-retryable 4xx, JWT lock, metrics bind)](https://github.com/DrFaust92/airflow-k8s-operator/pull/54) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [test: end-to-end failure-scenario coverage](https://github.com/DrFaust92/airflow-k8s-operator/pull/53) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [feat: Add optional startupProbe that gates on relay /status health](https://github.com/launchdarkly/ld-relay-helm/pull/128) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
@@ -50,7 +51,6 @@
 - [test: add unit tests for connection secret masking](https://github.com/DrFaust92/terraform-provider-airflow/pull/81) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
 - [chore: refresh dependency refs](https://github.com/DrFaust92/airflow-k8s-operator/pull/50) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
 - [Add list resources for variable, pool, and connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/80) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
-- [Add validator-negative and SDKv2-upgrade test coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/79) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
 
 
 
