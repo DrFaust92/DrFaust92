@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
 - [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (1 day ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 days ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (4 days ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: handle more failure modes (409 adopt, non-retryable 4xx, JWT lock, metrics bind)](https://github.com/DrFaust92/airflow-k8s-operator/pull/54) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [test: end-to-end failure-scenario coverage](https://github.com/DrFaust92/airflow-k8s-operator/pull/53) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [feat: Add optional startupProbe that gates on relay /status health](https://github.com/launchdarkly/ld-relay-helm/pull/128) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
 - [Helm: support revisionHistoryLimit on StatefulSet components](https://github.com/grafana/mimir/pull/15950) on [grafana/mimir](https://github.com/grafana/mimir) (today)
-- [fix(kopf): raise on failure, adopt on resume, upsert reconcile](https://github.com/DrFaust92/airflow-k8s-operator/pull/51) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
+- [feat: support Airflow 2 &amp; 3 &#43; harden kopf error handling, status, and tests](https://github.com/DrFaust92/airflow-k8s-operator/pull/51) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
 - [fix: preserve connection extra value when Airflow masks secrets (#34)](https://github.com/DrFaust92/terraform-provider-airflow/pull/82) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
 - [test: add unit tests for connection secret masking](https://github.com/DrFaust92/terraform-provider-airflow/pull/81) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
 - [chore: refresh dependency refs](https://github.com/DrFaust92/airflow-k8s-operator/pull/50) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
 - [Add list resources for variable, pool, and connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/80) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
 - [Add validator-negative and SDKv2-upgrade test coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/79) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
-- [Fix airflow_connection extra regression (Invalid JSON String Value)](https://github.com/DrFaust92/terraform-provider-airflow/pull/78) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
-- [Fix provider address typo (conflunet -&gt; confluent)](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/6) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (3 days ago)
-- [Fix release workflow: pin GoReleaser to v1 and use --clean](https://github.com/DrFaust92/terraform-provider-confluence/pull/14) on [DrFaust92/terraform-provider-confluence](https://github.com/DrFaust92/terraform-provider-confluence) (3 days ago)
 
 
 
