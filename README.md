@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.6.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.6.1), today) - A K8s operator to manager airflow resources as custom resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-8.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-8.1.0), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.2.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.1), 1 day ago) - ArgoProj Helm Charts
@@ -37,20 +38,19 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.32](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.32), 2 days ago) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), 3 days ago) - Atlantis Helm Chart
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.6.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.6.1), 3 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Expose additional ThanosRuler spec fields](https://github.com/prometheus-community/helm-charts/pull/7064) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [chore(chart): bump appVersion to 0.6.1](https://github.com/DrFaust92/airflow-k8s-operator/pull/61) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [chore: warn on static-token expiry &#43; document CRD-chart migration](https://github.com/DrFaust92/airflow-k8s-operator/pull/60) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [feat(chart): split CRDs into a dedicated reusable chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/58) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [chore(chart): bump appVersion to 0.6.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/57) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [feat(chart): multi-tenancy via scope toggle &#43; shared CRDs (closes #40)](https://github.com/DrFaust92/airflow-k8s-operator/pull/55) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [fix: handle more failure modes (409 adopt, non-retryable 4xx, JWT lock, metrics bind)](https://github.com/DrFaust92/airflow-k8s-operator/pull/54) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [test: end-to-end failure-scenario coverage](https://github.com/DrFaust92/airflow-k8s-operator/pull/53) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [feat: Add optional startupProbe that gates on relay /status health](https://github.com/launchdarkly/ld-relay-helm/pull/128) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
 - [Helm: support revisionHistoryLimit on StatefulSet components](https://github.com/grafana/mimir/pull/15950) on [grafana/mimir](https://github.com/grafana/mimir) (today)
-- [feat: support Airflow 2 &amp; 3 &#43; harden kopf error handling, status, and tests](https://github.com/DrFaust92/airflow-k8s-operator/pull/51) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
-- [fix: preserve connection extra value when Airflow masks secrets (#34)](https://github.com/DrFaust92/terraform-provider-airflow/pull/82) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
-- [test: add unit tests for connection secret masking](https://github.com/DrFaust92/terraform-provider-airflow/pull/81) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
-- [chore: refresh dependency refs](https://github.com/DrFaust92/airflow-k8s-operator/pull/50) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 days ago)
-- [Add list resources for variable, pool, and connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/80) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
 
 
 
