@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.6.2](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.6.2), today) - A K8s operator to manager airflow resources as custom resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.10.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.2), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.6.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.6.1), 1 day ago) - A K8s operator to manager airflow resources as custom resources
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.2.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.16.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.16.1), 2 days ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 2 days ago) - 
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(chart): bump appVersion to 0.6.2](https://github.com/DrFaust92/airflow-k8s-operator/pull/64) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [ci: run integration tests on push to master (&#43; verify current master)](https://github.com/DrFaust92/terraform-provider-airflow/pull/89) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [test: cover auth errors (401/403) and out-of-band deletion drift-heal](https://github.com/DrFaust92/airflow-k8s-operator/pull/63) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 - [test: auth (401) and permission (403) error coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/88) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [test: out-of-band deletion (disappears) coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/87) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [fix: clearer API error messages &#43; failure tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/86) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
@@ -48,9 +51,6 @@
 - [[kube-prometheus-stack] Expose prometheus-operator featureGates](https://github.com/prometheus-community/helm-charts/pull/7068) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat: add team_name to connection, pool and variable resources](https://github.com/DrFaust92/terraform-provider-airflow/pull/84) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [[kube-prometheus-stack] Expose additional Prometheus spec fields](https://github.com/prometheus-community/helm-charts/pull/7067) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [feat: add team_name to Connection, Pool and Variable models](https://github.com/DrFaust92/airflow-client-go/pull/5) on [DrFaust92/airflow-client-go](https://github.com/DrFaust92/airflow-client-go) (today)
-- [feat: add team_name to Connection, Pool and Variable models](https://github.com/apache/airflow-client-go/pull/53) on [apache/airflow-client-go](https://github.com/apache/airflow-client-go) (today)
-- [feat: test against Airflow 3.2.2 &#43; support v2 team_name property](https://github.com/DrFaust92/airflow-k8s-operator/pull/62) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 
 
 
