@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.9.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.10.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.2), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.6.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.6.1), 1 day ago) - A K8s operator to manager airflow resources as custom resources
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: auth (401) and permission (403) error coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/88) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [test: out-of-band deletion (disappears) coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/87) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [fix: clearer API error messages &#43; failure tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/86) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [feat: add variable, connection, pool and dag data sources](https://github.com/DrFaust92/terraform-provider-airflow/pull/85) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [[kube-prometheus-stack] Expose prometheus-operator featureGates](https://github.com/prometheus-community/helm-charts/pull/7068) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -49,8 +51,6 @@
 - [feat: add team_name to Connection, Pool and Variable models](https://github.com/DrFaust92/airflow-client-go/pull/5) on [DrFaust92/airflow-client-go](https://github.com/DrFaust92/airflow-client-go) (today)
 - [feat: add team_name to Connection, Pool and Variable models](https://github.com/apache/airflow-client-go/pull/53) on [apache/airflow-client-go](https://github.com/apache/airflow-client-go) (today)
 - [feat: test against Airflow 3.2.2 &#43; support v2 team_name property](https://github.com/DrFaust92/airflow-k8s-operator/pull/62) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [[kube-state-metrics] Add RBAC rules for serviceaccounts and validatingadmissionpolicies collectors](https://github.com/prometheus-community/helm-charts/pull/7066) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[kube-prometheus-stack] Expose additional Alertmanager spec fields](https://github.com/prometheus-community/helm-charts/pull/7065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 
 
 
