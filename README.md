@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.7.0), 1 day ago) - Prometheus community Helm charts
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.6.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.6.1), 1 day ago) - A K8s operator to manager airflow resources as custom resources
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.2.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
@@ -36,7 +37,6 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 2 days ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha), 3 days ago) - SRE Agent - CNCF Sandbox Project
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.32](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.32), 3 days ago) - Jenkins helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 3 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), 4 days ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
