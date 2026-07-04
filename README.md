@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (1 day ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (4 days ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (4 days ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (2 days ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (5 days ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (5 days ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (5 days ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (2 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 months ago)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (2 months ago)
 
 #### 🌱 My latest projects
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.7.0), today) - Prometheus community Helm charts
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.6.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.6.1), today) - A K8s operator to manager airflow resources as custom resources
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.2.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.1), 1 day ago) - ArgoProj Helm Charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.16.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.16.1), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 1 day ago) - 
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha), 2 days ago) - SRE Agent - CNCF Sandbox Project
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.32](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.32), 2 days ago) - Jenkins helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), 3 days ago) - Atlantis Helm Chart
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.7.0), 1 day ago) - Prometheus community Helm charts
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.6.1](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.6.1), 1 day ago) - A K8s operator to manager airflow resources as custom resources
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.2.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.1), 2 days ago) - ArgoProj Helm Charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.16.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.16.1), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 2 days ago) - 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha), 3 days ago) - SRE Agent - CNCF Sandbox Project
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.32](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.32), 3 days ago) - Jenkins helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 3 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), 4 days ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] Expose additional ThanosRuler spec fields](https://github.com/prometheus-community/helm-charts/pull/7064) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [chore(chart): bump appVersion to 0.6.1](https://github.com/DrFaust92/airflow-k8s-operator/pull/61) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [chore: warn on static-token expiry &#43; document CRD-chart migration](https://github.com/DrFaust92/airflow-k8s-operator/pull/60) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [feat(chart): split CRDs into a dedicated reusable chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/58) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [chore(chart): bump appVersion to 0.6.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/57) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [feat(chart): multi-tenancy via scope toggle &#43; shared CRDs (closes #40)](https://github.com/DrFaust92/airflow-k8s-operator/pull/55) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [fix: handle more failure modes (409 adopt, non-retryable 4xx, JWT lock, metrics bind)](https://github.com/DrFaust92/airflow-k8s-operator/pull/54) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [test: end-to-end failure-scenario coverage](https://github.com/DrFaust92/airflow-k8s-operator/pull/53) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [feat: Add optional startupProbe that gates on relay /status health](https://github.com/launchdarkly/ld-relay-helm/pull/128) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
-- [Helm: support revisionHistoryLimit on StatefulSet components](https://github.com/grafana/mimir/pull/15950) on [grafana/mimir](https://github.com/grafana/mimir) (today)
+- [[kube-prometheus-stack] Expose additional ThanosRuler spec fields](https://github.com/prometheus-community/helm-charts/pull/7064) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [chore(chart): bump appVersion to 0.6.1](https://github.com/DrFaust92/airflow-k8s-operator/pull/61) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [chore: warn on static-token expiry &#43; document CRD-chart migration](https://github.com/DrFaust92/airflow-k8s-operator/pull/60) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [feat(chart): split CRDs into a dedicated reusable chart](https://github.com/DrFaust92/airflow-k8s-operator/pull/58) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [chore(chart): bump appVersion to 0.6.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/57) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [feat(chart): multi-tenancy via scope toggle &#43; shared CRDs (closes #40)](https://github.com/DrFaust92/airflow-k8s-operator/pull/55) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [fix: handle more failure modes (409 adopt, non-retryable 4xx, JWT lock, metrics bind)](https://github.com/DrFaust92/airflow-k8s-operator/pull/54) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [test: end-to-end failure-scenario coverage](https://github.com/DrFaust92/airflow-k8s-operator/pull/53) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [feat: Add optional startupProbe that gates on relay /status health](https://github.com/launchdarkly/ld-relay-helm/pull/128) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (1 day ago)
+- [Helm: support revisionHistoryLimit on StatefulSet components](https://github.com/grafana/mimir/pull/15950) on [grafana/mimir](https://github.com/grafana/mimir) (1 day ago)
 
 
 
