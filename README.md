@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [gkehub: add compliance_posture_config and labels to google_gke_hub_fleet](https://github.com/GoogleCloudPlatform/magic-modules/pull/18175) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [sql: add switch_transaction_logs_to_cloud_storage_enabled to google_sql_database_instance](https://github.com/GoogleCloudPlatform/magic-modules/pull/18173) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
 - [sql: add include_replicas_for_major_version_upgrade to google_sql_database_instance](https://github.com/GoogleCloudPlatform/magic-modules/pull/18172) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
 - [chore(chart): bump appVersion to 0.6.2](https://github.com/DrFaust92/airflow-k8s-operator/pull/64) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
@@ -50,7 +51,6 @@
 - [test: out-of-band deletion (disappears) coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/87) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
 - [fix: clearer API error messages &#43; failure tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/86) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
 - [feat: add variable, connection, pool and dag data sources](https://github.com/DrFaust92/terraform-provider-airflow/pull/85) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
-- [[kube-prometheus-stack] Expose prometheus-operator featureGates](https://github.com/prometheus-community/helm-charts/pull/7068) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 
 
 
