@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (2 days ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (5 days ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (5 days ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (5 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (3 days ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (6 days ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (6 days ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (6 days ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (2 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 months ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.10.1), today) - Prometheus community Helm charts
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.6.2](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.6.2), today) - A K8s operator to manager airflow resources as custom resources
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.2), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.2.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.16.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.16.1), 2 days ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 2 days ago) - 
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha), 3 days ago) - SRE Agent - CNCF Sandbox Project
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.32](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.32), 3 days ago) - Jenkins helm charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), 4 days ago) - Atlantis Helm Chart
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.10.1), 1 day ago) - Prometheus community Helm charts
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.6.2](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.6.2), 1 day ago) - A K8s operator to manager airflow resources as custom resources
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.2), 1 day ago) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.2.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.16.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.16.1), 3 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 3 days ago) - 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha), 4 days ago) - SRE Agent - CNCF Sandbox Project
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.32](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.32), 4 days ago) - Jenkins helm charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), 5 days ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
-- [sql: add include_replicas_for_major_version_upgrade to google_sql_database_instance](https://github.com/GoogleCloudPlatform/magic-modules/pull/18172) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
-- [chore(chart): bump appVersion to 0.6.2](https://github.com/DrFaust92/airflow-k8s-operator/pull/64) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [ci: run integration tests on push to master (&#43; verify current master)](https://github.com/DrFaust92/terraform-provider-airflow/pull/89) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [test: cover auth errors (401/403) and out-of-band deletion drift-heal](https://github.com/DrFaust92/airflow-k8s-operator/pull/63) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [test: auth (401) and permission (403) error coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/88) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [test: out-of-band deletion (disappears) coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/87) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [fix: clearer API error messages &#43; failure tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/86) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [feat: add variable, connection, pool and dag data sources](https://github.com/DrFaust92/terraform-provider-airflow/pull/85) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [[kube-prometheus-stack] Expose prometheus-operator featureGates](https://github.com/prometheus-community/helm-charts/pull/7068) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [feat: add team_name to connection, pool and variable resources](https://github.com/DrFaust92/terraform-provider-airflow/pull/84) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [sql: add switch_transaction_logs_to_cloud_storage_enabled to google_sql_database_instance](https://github.com/GoogleCloudPlatform/magic-modules/pull/18173) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [sql: add include_replicas_for_major_version_upgrade to google_sql_database_instance](https://github.com/GoogleCloudPlatform/magic-modules/pull/18172) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 day ago)
+- [chore(chart): bump appVersion to 0.6.2](https://github.com/DrFaust92/airflow-k8s-operator/pull/64) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [ci: run integration tests on push to master (&#43; verify current master)](https://github.com/DrFaust92/terraform-provider-airflow/pull/89) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [test: cover auth errors (401/403) and out-of-band deletion drift-heal](https://github.com/DrFaust92/airflow-k8s-operator/pull/63) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
+- [test: auth (401) and permission (403) error coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/88) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [test: out-of-band deletion (disappears) coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/87) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [fix: clearer API error messages &#43; failure tests](https://github.com/DrFaust92/terraform-provider-airflow/pull/86) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [feat: add variable, connection, pool and dag data sources](https://github.com/DrFaust92/terraform-provider-airflow/pull/85) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [[kube-prometheus-stack] Expose prometheus-operator featureGates](https://github.com/prometheus-community/helm-charts/pull/7068) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 
 
 
