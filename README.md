@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.38](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.38), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.44.0](https://github.com/robusta-dev/robusta/releases/tag/0.44.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.10.1), 2 days ago) - Prometheus community Helm charts
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.6.2](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.6.2), 2 days ago) - A K8s operator to manager airflow resources as custom resources
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.2), 2 days ago) - ArgoProj Helm Charts
@@ -36,8 +38,6 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.16.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.16.1), 4 days ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 4 days ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha), 5 days ago) - SRE Agent - CNCF Sandbox Project
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.32](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.32), 5 days ago) - Jenkins helm charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.9.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.9.3), 6 days ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
