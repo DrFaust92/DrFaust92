@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.10](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.10), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.2.0-weekly.402](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.2.0-weekly.402), today) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), today) - MCP server for Grafana
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.7.0), 1 day ago) - A K8s operator to manager airflow resources as custom resources
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.3.0), 1 day ago) - Configures opinionated GKE clusters
