@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.10](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.10), today) - 
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), today) - MCP server for Grafana
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.7.0), 1 day ago) - A K8s operator to manager airflow resources as custom resources
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.3.0), 1 day ago) - Configures opinionated GKE clusters
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.2), 1 day ago) - Traefik Proxy Helm Chart
@@ -36,8 +38,6 @@
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.10.1), 3 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.2), 3 days ago) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 3 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.2.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.16.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.16.1), 5 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
