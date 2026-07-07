@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.19](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.19), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.2.0-weekly.402](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.2.0-weekly.402), today) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), today) - MCP server for Grafana
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.7.0), 1 day ago) - A K8s operator to manager airflow resources as custom resources
@@ -36,7 +37,6 @@
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.38](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.38), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.44.0](https://github.com/robusta-dev/robusta/releases/tag/0.44.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.10.1), 3 days ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.2), 3 days ago) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 3 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
