@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.12.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.9](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.9), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.12.0), today) - Prometheus community Helm charts
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.20.0](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.20.0), today) - Prometheus ephemeral storage metrics exporter
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.19](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.19), 1 day ago) - ArgoProj Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), 1 day ago) - MCP server for Grafana
