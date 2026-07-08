@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-8.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-8.1.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.9](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.9), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.12.0), today) - Prometheus community Helm charts
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.20.0](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.20.0), today) - Prometheus ephemeral storage metrics exporter
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.19](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.19), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.2.0-weekly.402](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.2.0-weekly.402), 1 day ago) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), 1 day ago) - MCP server for Grafana
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.7.0), 2 days ago) - A K8s operator to manager airflow resources as custom resources
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.3.0), 2 days ago) - Configures opinionated GKE clusters
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.2), 2 days ago) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.38](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.38), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.44.0](https://github.com/robusta-dev/robusta/releases/tag/0.44.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 4 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
 
