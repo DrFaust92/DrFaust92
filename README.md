@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.0](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.0), today) - Prometheus ephemeral storage metrics exporter
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.12.1), 1 day ago) - Prometheus community Helm charts
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.20.0](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.20.0), 1 day ago) - Prometheus ephemeral storage metrics exporter
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.19](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.19), 2 days ago) - ArgoProj Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), 2 days ago) - MCP server for Grafana
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.7.0), 3 days ago) - A K8s operator to manager airflow resources as custom resources
