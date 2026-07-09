@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha2), today) - SRE Agent - CNCF Sandbox Project
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.0](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.0), today) - Prometheus ephemeral storage metrics exporter
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.12.1), 1 day ago) - Prometheus community Helm charts
@@ -37,10 +38,10 @@
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.3.0), 3 days ago) - Configures opinionated GKE clusters
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.0.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.0.2), 3 days ago) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.38](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.38), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.44.0](https://github.com/robusta-dev/robusta/releases/tag/0.44.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support password_wo for elasticsearch database connection](https://github.com/hashicorp/terraform-provider-vault/pull/2961) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (today)
 - [chore(chart): release 0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/68) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (3 days ago)
 - [feat: generate CRDs from Pydantic spec models](https://github.com/DrFaust92/airflow-k8s-operator/pull/66) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (3 days ago)
 - [gkehub: add compliance_posture_config and labels to google_gke_hub_fleet](https://github.com/GoogleCloudPlatform/magic-modules/pull/18175) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
@@ -50,7 +51,6 @@
 - [ci: run integration tests on push to master (&#43; verify current master)](https://github.com/DrFaust92/terraform-provider-airflow/pull/89) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (5 days ago)
 - [test: cover auth errors (401/403) and out-of-band deletion drift-heal](https://github.com/DrFaust92/airflow-k8s-operator/pull/63) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (5 days ago)
 - [test: auth (401) and permission (403) error coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/88) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (5 days ago)
-- [test: out-of-band deletion (disappears) coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/87) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (5 days ago)
 
 
 
