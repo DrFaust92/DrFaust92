@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta14](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta14), today) - Apache DevLake Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.12.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.12.3), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.33](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.33), today) - Jenkins helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.21.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.21.1), 1 day ago) - 
@@ -37,7 +38,6 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.1), 2 days ago) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), 3 days ago) - MCP server for Grafana
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.7.0), 4 days ago) - A K8s operator to manager airflow resources as custom resources
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v44.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v44.3.0), 4 days ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 
