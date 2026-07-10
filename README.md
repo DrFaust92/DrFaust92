@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (1 week ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 week ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (3 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 months ago)
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.12.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.12.4), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-7.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-7.7.0), today) - Prometheus community Helm charts
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.1), today) - Prometheus ephemeral storage metrics exporter
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta14](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta14), today) - Apache DevLake Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.33](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.33), today) - Jenkins helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.21.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.21.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.3), 1 day ago) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha2), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.0](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.0), 1 day ago) - Prometheus ephemeral storage metrics exporter
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.1), 2 days ago) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), 3 days ago) - MCP server for Grafana
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.7.0), 4 days ago) - A K8s operator to manager airflow resources as custom resources
 
 #### 🔨 My recent Pull Requests
 
+- [feat(iam): add IAM authentication support with MONGODB-AWS mechanism](https://github.com/FelGel/terraform-provider-mongodb/pull/21) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [ci: split tests into build/unit/acceptance jobs](https://github.com/FelGel/terraform-provider-mongodb/pull/20) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [feat: support password_wo for elasticsearch database connection](https://github.com/hashicorp/terraform-provider-vault/pull/2961) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (1 day ago)
 - [chore(chart): release 0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/68) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
 - [feat: generate CRDs from Pydantic spec models](https://github.com/DrFaust92/airflow-k8s-operator/pull/66) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
@@ -49,8 +51,6 @@
 - [sql: add include_replicas_for_major_version_upgrade to google_sql_database_instance](https://github.com/GoogleCloudPlatform/magic-modules/pull/18172) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (6 days ago)
 - [chore(chart): bump appVersion to 0.6.2](https://github.com/DrFaust92/airflow-k8s-operator/pull/64) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (6 days ago)
 - [ci: run integration tests on push to master (&#43; verify current master)](https://github.com/DrFaust92/terraform-provider-airflow/pull/89) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (6 days ago)
-- [test: cover auth errors (401/403) and out-of-band deletion drift-heal](https://github.com/DrFaust92/airflow-k8s-operator/pull/63) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (6 days ago)
-- [test: auth (401) and permission (403) error coverage](https://github.com/DrFaust92/terraform-provider-airflow/pull/88) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (6 days ago)
 
 
 
