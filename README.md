@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-7.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-7.7.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.1.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.1.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.13.0), today) - Prometheus community Helm charts
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.1), today) - Prometheus ephemeral storage metrics exporter
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta14](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta14), today) - Apache DevLake Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.33](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.33), today) - Jenkins helm charts
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.21.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.21.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.3), 1 day ago) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha2), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.1), 2 days ago) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), 3 days ago) - MCP server for Grafana
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.7.0), 4 days ago) - A K8s operator to manager airflow resources as custom resources
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: migrate db_user to terraform-plugin-framework (via mux)](https://github.com/FelGel/terraform-provider-mongodb/pull/25) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [docs(adr): propose incremental migration to terraform-plugin-framework](https://github.com/FelGel/terraform-provider-mongodb/pull/24) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [[CI validation] preview of #18 on current main](https://github.com/FelGel/terraform-provider-mongodb/pull/23) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [fix(iam): make IAM auth usable and turn CI green](https://github.com/FelGel/terraform-provider-mongodb/pull/22) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [feat(iam): add IAM authentication support with MONGODB-AWS mechanism](https://github.com/FelGel/terraform-provider-mongodb/pull/21) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [ci: split tests into build/unit/acceptance jobs](https://github.com/FelGel/terraform-provider-mongodb/pull/20) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [feat: support password_wo for elasticsearch database connection](https://github.com/hashicorp/terraform-provider-vault/pull/2961) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (1 day ago)
 - [chore(chart): release 0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/68) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
 - [feat: generate CRDs from Pydantic spec models](https://github.com/DrFaust92/airflow-k8s-operator/pull/66) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
 - [gkehub: add compliance_posture_config and labels to google_gke_hub_fleet](https://github.com/GoogleCloudPlatform/magic-modules/pull/18175) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
-- [sql: add switch_transaction_logs_to_cloud_storage_enabled to google_sql_database_instance](https://github.com/GoogleCloudPlatform/magic-modules/pull/18173) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (6 days ago)
-- [sql: add include_replicas_for_major_version_upgrade to google_sql_database_instance](https://github.com/GoogleCloudPlatform/magic-modules/pull/18172) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (6 days ago)
-- [chore(chart): bump appVersion to 0.6.2](https://github.com/DrFaust92/airflow-k8s-operator/pull/64) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (6 days ago)
-- [ci: run integration tests on push to master (&#43; verify current master)](https://github.com/DrFaust92/terraform-provider-airflow/pull/89) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (6 days ago)
 
 
 
