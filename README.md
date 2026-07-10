@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.24.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.24.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.16.0), today) - Prometheus community Helm charts
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.23.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.23.1), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.1.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.1.1), today) - 
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.1), today) - Prometheus ephemeral storage metrics exporter
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta14](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta14), today) - Apache DevLake Helm Chart
@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: inbound HTTP tracing &#43; toggleable /health suppression (logs &#43; traces)](https://github.com/DrFaust92/okta-mcp-server/pull/18) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [fix(provider): configure list resources (they panicked); add airflow_pool list test](https://github.com/DrFaust92/terraform-provider-airflow/pull/95) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [docs(list-resources): add descriptions so registry pages aren&#39;t blank](https://github.com/DrFaust92/terraform-provider-airflow/pull/94) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [fix(variable): keep real value when Airflow masks a secret variable (#83)](https://github.com/DrFaust92/terraform-provider-airflow/pull/93) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [feat(variable): add write-only value_wo to airflow_variable](https://github.com/DrFaust92/terraform-provider-airflow/pull/92) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [feat(connection): add write-only extra_wo to airflow_connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/91) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
@@ -48,9 +51,6 @@
 - [feat(user): add write-only password_wo to airflow_user](https://github.com/DrFaust92/terraform-provider-airflow/pull/90) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [chore(deps): bump vulnerable transitive deps (resolves 29 Dependabot alerts)](https://github.com/DrFaust92/okta-mcp-server/pull/16) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
 - [feat: add fetch_all pagination to list_applications](https://github.com/DrFaust92/okta-mcp-server/pull/15) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
-- [feat: OpenTelemetry traces &#43; metrics for MCP tool calls](https://github.com/DrFaust92/okta-mcp-server/pull/14) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
-- [fix: tolerate apps that violate the Okta SDK&#39;s strict app models](https://github.com/DrFaust92/okta-mcp-server/pull/13) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
-- [feat(db_user): write-only password (password_wo)](https://github.com/FelGel/terraform-provider-mongodb/pull/27) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 
 
 
