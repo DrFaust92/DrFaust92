@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.22.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.22.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.16.0), today) - Prometheus community Helm charts
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.23.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.23.1), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.1.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.1.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.13.0), today) - Prometheus community Helm charts
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.1), today) - Prometheus ephemeral storage metrics exporter
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta14](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta14), today) - Apache DevLake Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.33](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.33), today) - Jenkins helm charts
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(tools): add compact output format to query_loki_logs](https://github.com/grafana/mcp-grafana/pull/990) on [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) (today)
-- [refactor: migrate db_role, db_collection, db_index to terraform-plugin-framework](https://github.com/FelGel/terraform-provider-mongodb/pull/26) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [refactor: migrate db_user to terraform-plugin-framework (via mux)](https://github.com/FelGel/terraform-provider-mongodb/pull/25) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [docs(adr): propose incremental migration to terraform-plugin-framework](https://github.com/FelGel/terraform-provider-mongodb/pull/24) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [[CI validation] preview of #18 on current main](https://github.com/FelGel/terraform-provider-mongodb/pull/23) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [fix(iam): make IAM auth usable and turn CI green](https://github.com/FelGel/terraform-provider-mongodb/pull/22) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [feat(iam): add IAM authentication support with MONGODB-AWS mechanism](https://github.com/FelGel/terraform-provider-mongodb/pull/21) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [ci: split tests into build/unit/acceptance jobs](https://github.com/FelGel/terraform-provider-mongodb/pull/20) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [feat: support password_wo for elasticsearch database connection](https://github.com/hashicorp/terraform-provider-vault/pull/2961) on [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) (1 day ago)
-- [chore(chart): release 0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/68) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
+- [fix(variable): keep real value when Airflow masks a secret variable (#83)](https://github.com/DrFaust92/terraform-provider-airflow/pull/93) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [feat(variable): add write-only value_wo to airflow_variable](https://github.com/DrFaust92/terraform-provider-airflow/pull/92) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [feat(connection): add write-only extra_wo to airflow_connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/91) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [feat: signal tool errors via ToolError &#43; report running version in /health](https://github.com/DrFaust92/okta-mcp-server/pull/17) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [feat(user): add write-only password_wo to airflow_user](https://github.com/DrFaust92/terraform-provider-airflow/pull/90) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [chore(deps): bump vulnerable transitive deps (resolves 29 Dependabot alerts)](https://github.com/DrFaust92/okta-mcp-server/pull/16) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [feat: add fetch_all pagination to list_applications](https://github.com/DrFaust92/okta-mcp-server/pull/15) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [feat: OpenTelemetry traces &#43; metrics for MCP tool calls](https://github.com/DrFaust92/okta-mcp-server/pull/14) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [fix: tolerate apps that violate the Okta SDK&#39;s strict app models](https://github.com/DrFaust92/okta-mcp-server/pull/13) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [feat(db_user): write-only password (password_wo)](https://github.com/FelGel/terraform-provider-mongodb/pull/27) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 
 
 
