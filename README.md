@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add list resources for db_role, db_collection, db_index](https://github.com/FelGel/terraform-provider-mongodb/pull/32) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [feat: add list resources for db_role, db_collection, db_index](https://github.com/FelGel/terraform-provider-mongodb/pull/31) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [feat: add list resources for db_role, db_collection, db_index (query support)](https://github.com/FelGel/terraform-provider-mongodb/pull/30) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [test: migrate to terraform-plugin-testing &#43; add db_user list query test](https://github.com/FelGel/terraform-provider-mongodb/pull/29) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [feat(db_user): add list resource (terraform query support)](https://github.com/FelGel/terraform-provider-mongodb/pull/28) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [feat: HTTP request tracing, httpx &#43; log-trace correlation, toggleable /health suppression](https://github.com/DrFaust92/okta-mcp-server/pull/18) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 day ago)
@@ -48,9 +51,6 @@
 - [docs(list-resources): add descriptions so registry pages aren&#39;t blank](https://github.com/DrFaust92/terraform-provider-airflow/pull/94) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
 - [fix(variable): keep real value when Airflow masks a secret variable (#83)](https://github.com/DrFaust92/terraform-provider-airflow/pull/93) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
 - [feat(variable): add write-only value_wo to airflow_variable](https://github.com/DrFaust92/terraform-provider-airflow/pull/92) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
-- [feat(connection): add write-only extra_wo to airflow_connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/91) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
-- [feat: signal tool errors via ToolError &#43; report running version in /health](https://github.com/DrFaust92/okta-mcp-server/pull/17) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 day ago)
-- [feat(user): add write-only password_wo to airflow_user](https://github.com/DrFaust92/terraform-provider-airflow/pull/90) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
 
 
 
