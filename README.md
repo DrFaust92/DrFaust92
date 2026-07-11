@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 days ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 days ago)
 - [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.24.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.24.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.16.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.1.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.1.1), today) - 
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.1), today) - Prometheus ephemeral storage metrics exporter
-- [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta14](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta14), today) - Apache DevLake Helm Chart
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.33](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.33), today) - Jenkins helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.3), 1 day ago) - ArgoProj Helm Charts
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha2), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), 3 days ago) - MCP server for Grafana
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.7.0), 4 days ago) - A K8s operator to manager airflow resources as custom resources
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.6.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.6.0), today) - 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1-dev.24.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1-dev.24.1), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.16.0), 1 day ago) - Prometheus community Helm charts
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.1), 1 day ago) - Prometheus ephemeral storage metrics exporter
+- [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta14](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta14), 1 day ago) - Apache DevLake Helm Chart
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.33](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.33), 1 day ago) - Jenkins helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.3), 2 days ago) - ArgoProj Helm Charts
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0-alpha2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0-alpha2), 2 days ago) - SRE Agent - CNCF Sandbox Project
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.1](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.1), 4 days ago) - MCP server for Grafana
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.7.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.7.0), 5 days ago) - A K8s operator to manager airflow resources as custom resources
 
 #### 🔨 My recent Pull Requests
 
-- [feat: inbound HTTP tracing &#43; toggleable /health suppression (logs &#43; traces)](https://github.com/DrFaust92/okta-mcp-server/pull/18) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
-- [fix(provider): configure list resources (they panicked); add airflow_pool list test](https://github.com/DrFaust92/terraform-provider-airflow/pull/95) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [docs(list-resources): add descriptions so registry pages aren&#39;t blank](https://github.com/DrFaust92/terraform-provider-airflow/pull/94) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [fix(variable): keep real value when Airflow masks a secret variable (#83)](https://github.com/DrFaust92/terraform-provider-airflow/pull/93) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [feat(variable): add write-only value_wo to airflow_variable](https://github.com/DrFaust92/terraform-provider-airflow/pull/92) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [feat(connection): add write-only extra_wo to airflow_connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/91) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [feat: signal tool errors via ToolError &#43; report running version in /health](https://github.com/DrFaust92/okta-mcp-server/pull/17) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
-- [feat(user): add write-only password_wo to airflow_user](https://github.com/DrFaust92/terraform-provider-airflow/pull/90) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [chore(deps): bump vulnerable transitive deps (resolves 29 Dependabot alerts)](https://github.com/DrFaust92/okta-mcp-server/pull/16) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
-- [feat: add fetch_all pagination to list_applications](https://github.com/DrFaust92/okta-mcp-server/pull/15) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
+- [feat: inbound HTTP tracing &#43; toggleable /health suppression (logs &#43; traces)](https://github.com/DrFaust92/okta-mcp-server/pull/18) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 day ago)
+- [fix(provider): configure list resources (they panicked); add airflow_pool list test](https://github.com/DrFaust92/terraform-provider-airflow/pull/95) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [docs(list-resources): add descriptions so registry pages aren&#39;t blank](https://github.com/DrFaust92/terraform-provider-airflow/pull/94) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [fix(variable): keep real value when Airflow masks a secret variable (#83)](https://github.com/DrFaust92/terraform-provider-airflow/pull/93) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [feat(variable): add write-only value_wo to airflow_variable](https://github.com/DrFaust92/terraform-provider-airflow/pull/92) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [feat(connection): add write-only extra_wo to airflow_connection](https://github.com/DrFaust92/terraform-provider-airflow/pull/91) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [feat: signal tool errors via ToolError &#43; report running version in /health](https://github.com/DrFaust92/okta-mcp-server/pull/17) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 day ago)
+- [feat(user): add write-only password_wo to airflow_user](https://github.com/DrFaust92/terraform-provider-airflow/pull/90) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [chore(deps): bump vulnerable transitive deps (resolves 29 Dependabot alerts)](https://github.com/DrFaust92/okta-mcp-server/pull/16) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 day ago)
+- [feat: add fetch_all pagination to list_applications](https://github.com/DrFaust92/okta-mcp-server/pull/15) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 day ago)
 
 
 
