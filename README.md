@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: cover db_collection deletion_protection and db_role update](https://github.com/FelGel/terraform-provider-mongodb/pull/34) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [docs: document IAM auth, write-only password, and list resources (v3)](https://github.com/FelGel/terraform-provider-mongodb/pull/33) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [feat: add list resources for db_role, db_collection, db_index](https://github.com/FelGel/terraform-provider-mongodb/pull/32) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 day ago)
 - [feat: add list resources for db_role, db_collection, db_index](https://github.com/FelGel/terraform-provider-mongodb/pull/31) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 day ago)
@@ -50,7 +51,6 @@
 - [feat: HTTP request tracing, httpx &#43; log-trace correlation, toggleable /health suppression](https://github.com/DrFaust92/okta-mcp-server/pull/18) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 days ago)
 - [fix(provider): configure list resources (they panicked); add airflow_pool list test](https://github.com/DrFaust92/terraform-provider-airflow/pull/95) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
 - [docs(list-resources): add descriptions so registry pages aren&#39;t blank](https://github.com/DrFaust92/terraform-provider-airflow/pull/94) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
-- [fix(variable): keep real value when Airflow masks a secret variable (#83)](https://github.com/DrFaust92/terraform-provider-airflow/pull/93) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
 
 
 
