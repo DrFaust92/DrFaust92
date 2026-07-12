@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: document IAM auth, write-only password, and list resources (v3)](https://github.com/FelGel/terraform-provider-mongodb/pull/33) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
 - [feat: add list resources for db_role, db_collection, db_index](https://github.com/FelGel/terraform-provider-mongodb/pull/32) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 day ago)
 - [feat: add list resources for db_role, db_collection, db_index](https://github.com/FelGel/terraform-provider-mongodb/pull/31) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 day ago)
 - [feat: add list resources for db_role, db_collection, db_index (query support)](https://github.com/FelGel/terraform-provider-mongodb/pull/30) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (1 day ago)
@@ -50,7 +51,6 @@
 - [fix(provider): configure list resources (they panicked); add airflow_pool list test](https://github.com/DrFaust92/terraform-provider-airflow/pull/95) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
 - [docs(list-resources): add descriptions so registry pages aren&#39;t blank](https://github.com/DrFaust92/terraform-provider-airflow/pull/94) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
 - [fix(variable): keep real value when Airflow masks a secret variable (#83)](https://github.com/DrFaust92/terraform-provider-airflow/pull/93) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
-- [feat(variable): add write-only value_wo to airflow_variable](https://github.com/DrFaust92/terraform-provider-airflow/pull/92) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
 
 
 
@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [angiemsotillo](https://github.com/angiemsotillo)
 - [adornetejr](https://github.com/adornetejr)
 - [keterslayter](https://github.com/keterslayter)
 - [madmecodes](https://github.com/madmecodes)
 - [SridharRG](https://github.com/SridharRG)
-- [ross-armada](https://github.com/ross-armada)
 
 #### 💬 Feedback
 
