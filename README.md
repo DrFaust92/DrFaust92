@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.16.1), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.34](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.34), today) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.16.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.2), today) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.2), 1 day ago) - MCP server for Grafana
