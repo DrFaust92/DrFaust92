@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.34](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.34), today) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.16.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.2), today) - 
@@ -37,7 +38,6 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.1), 4 days ago) - Prometheus ephemeral storage metrics exporter
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta14](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta14), 4 days ago) - Apache DevLake Helm Chart
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.33](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.33), 4 days ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
 
