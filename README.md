@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.20](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.20), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.23](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.23), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.16.1), 1 day ago) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.34](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.34), 1 day ago) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.2), 1 day ago) - 
