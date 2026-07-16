@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.3](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.3), today) - Prometheus ephemeral storage metrics exporter
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.36](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.36), today) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.40.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.40.3), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.4), today) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.45.0](https://github.com/robusta-dev/robusta/releases/tag/0.45.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.39](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.39), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.36.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.36.0), 3 days ago) - SRE Agent - CNCF Sandbox Project
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.1](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.1), 6 days ago) - Prometheus ephemeral storage metrics exporter
 
 #### 🔨 My recent Pull Requests
 
