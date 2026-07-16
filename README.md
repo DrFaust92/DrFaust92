@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.27.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.40.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.40.3), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.4), today) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.57.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.57.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.50.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.50.1), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.20](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.20), 1 day ago) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.34](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.34), 2 days ago) - Jenkins helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.2), 3 days ago) - MCP server for Grafana
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.45.0](https://github.com/robusta-dev/robusta/releases/tag/0.45.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
