@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.36](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.36), today) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.40.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.40.3), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.4), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.57.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.57.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.50.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.50.1), 1 day ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.34](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.34), 2 days ago) - Jenkins helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.2), 3 days ago) - MCP server for Grafana
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.45.0](https://github.com/robusta-dev/robusta/releases/tag/0.45.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.39](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.39), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
