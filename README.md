@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 day ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (6 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 day ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (3 days ago)
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) - Charts for deploying Hatchet. (4 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (6 days ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (2 weeks ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (2 weeks ago)
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (3 weeks ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 months ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (3 weeks ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.0.8](https://github.com/grafana/mimir/releases/tag/mimir-3.0.8), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [jmcgrath207/k8s-ephemeral-storage-metrics](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics) ([1.21.3](https://github.com/jmcgrath207/k8s-ephemeral-storage-metrics/releases/tag/1.21.3), today) - Prometheus ephemeral storage metrics exporter
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.36](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.36), today) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.40.3](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.40.3), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.1.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.1.4), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.57.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.57.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.50.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.50.1), 1 day ago) - 
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v0.17.2](https://github.com/grafana/mcp-grafana/releases/tag/v0.17.2), 3 days ago) - MCP server for Grafana
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.45.0](https://github.com/robusta-dev/robusta/releases/tag/0.45.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.39](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.39), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.1.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.1.2), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.18.0), today) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.40](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.40), today) - Jenkins helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.40](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.40), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.10.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.10.0), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.11.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.11.0), 1 day ago) - 
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.7.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.7.0), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.41.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.41.1), 2 days ago) - ArgoProj Helm Charts
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.13.3](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.13.3), 4 days ago) - Charts for deploying Hatchet.
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add 3.1.0 changelog entry](https://github.com/FelGel/terraform-provider-mongodb/pull/39) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 days ago)
-- [feat(db_index): support sparse indexes](https://github.com/FelGel/terraform-provider-mongodb/pull/38) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 days ago)
-- [feat(provider): add auth_mechanism / auth_mechanism_properties](https://github.com/FelGel/terraform-provider-mongodb/pull/37) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 days ago)
-- [feat(db_role): add authentication_restriction](https://github.com/FelGel/terraform-provider-mongodb/pull/36) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 days ago)
-- [feat(db_user): add authentication_restriction](https://github.com/FelGel/terraform-provider-mongodb/pull/35) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (3 days ago)
-- [test: cover db_collection deletion_protection and db_role update](https://github.com/FelGel/terraform-provider-mongodb/pull/34) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 days ago)
-- [docs: document IAM auth, write-only password, and list resources (v3)](https://github.com/FelGel/terraform-provider-mongodb/pull/33) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (4 days ago)
-- [feat: add list resources for db_role, db_collection, db_index](https://github.com/FelGel/terraform-provider-mongodb/pull/32) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (5 days ago)
-- [feat: add list resources for db_role, db_collection, db_index](https://github.com/FelGel/terraform-provider-mongodb/pull/31) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (5 days ago)
-- [feat: add list resources for db_role, db_collection, db_index (query support)](https://github.com/FelGel/terraform-provider-mongodb/pull/30) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (5 days ago)
+- [Add bitbucket_gpg_key resource](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/251) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [ci: bump checkout/setup-go actions to v7](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/250) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [Bump bitbucket-go-client to v0.11.0 and refresh dependencies](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/249) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [Refresh generated client against latest Bitbucket API spec](https://github.com/DrFaust92/bitbucket-go-client/pull/39) on [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) (1 day ago)
+- [Add mapbox_token list resource and resource identity](https://github.com/DrFaust92/terraform-provider-mapbox/pull/99) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (1 day ago)
+- [fix: remove vulnerability alerts from state for archived/deleted repos](https://github.com/integrations/terraform-provider-github/pull/3553) on [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) (1 day ago)
+- [feat(helm): support dnsConfig on the forwarder deployment](https://github.com/robusta-dev/robusta/pull/2124) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 day ago)
+- [fix: preserve variable value when Airflow masks JSON leaves (#96)](https://github.com/DrFaust92/terraform-provider-airflow/pull/97) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [New resource: `google_cloud_trace_sink` (beta)](https://github.com/GoogleCloudPlatform/magic-modules/pull/18330) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
+- [apikeys: migrate google_apikeys_key from DCL to MMv1 and add annotations](https://github.com/GoogleCloudPlatform/magic-modules/pull/18328) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 days ago)
 
 
 
@@ -62,7 +62,7 @@
 
 - [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (2 months ago)
 - [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (3 months ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (7 months ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (8 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (8 months ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (9 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (11 months ago)
