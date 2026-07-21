@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.18.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.1.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.1.2), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.18.0), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.40](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.40), today) - Jenkins helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.40](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.40), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
