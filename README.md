@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.6.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.6.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.2.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.2.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.21](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.21), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.42](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.42), today) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
