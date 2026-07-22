@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.41](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.41), today) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.6.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.6.2), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.21](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.21), today) - ArgoProj Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.42](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.42), today) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta15](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta15), today) - Apache DevLake Helm Chart
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.4](https://github.com/grafana/mimir/releases/tag/mimir-3.1.4), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.19.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.1.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.1.2), 1 day ago) - 
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.40](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.40), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.10.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.10.0), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.11.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.11.0), 2 days ago) - 
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.7.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.7.0), 2 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
