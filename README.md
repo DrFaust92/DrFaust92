@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.22](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.22), today) - ArgoProj Helm Charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.8), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.2.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.2.0), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.21](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.21), 1 day ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.42](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.42), 1 day ago) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta15](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta15), 1 day ago) - Apache DevLake Helm Chart
