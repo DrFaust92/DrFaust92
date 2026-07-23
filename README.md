@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) ([v1.23.0](https://github.com/percona/percona-server-mongodb-operator/releases/tag/v1.23.0), today) - Percona Operator for MongoDB
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.22.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.22.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.12](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.12), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.2.0), today) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta15](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta15), 1 day ago) - Apache DevLake Helm Chart
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.4](https://github.com/grafana/mimir/releases/tag/mimir-3.1.4), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.40](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.40), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 
