@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (today)
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (3 days ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (5 days ago)
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) - Charts for deploying Hatchet. (6 days ago)
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (1 day ago)
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (4 days ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (5 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (6 days ago)
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) - Charts for deploying Hatchet. (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (2 weeks ago)
 - [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (3 weeks ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 weeks ago)
 
