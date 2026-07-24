@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.23](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.23), today) - ArgoProj Helm Charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.10.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.10.0), today) - Atlantis Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.45](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.45), today) - Jenkins helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.19.1), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.13](https://github.com/grafana/loki/releases/tag/v3.6.13), today) - Like Prometheus, but for logs.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.2.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.2.1), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.1), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.23.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.23.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) ([v1.23.0](https://github.com/percona/percona-server-mongodb-operator/releases/tag/v1.23.0), 1 day ago) - Percona Operator for MongoDB
