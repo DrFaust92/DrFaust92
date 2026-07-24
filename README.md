@@ -28,29 +28,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.28.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.2.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.2.1), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.1), today) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.23.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.23.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) ([v1.23.0](https://github.com/percona/percona-server-mongodb-operator/releases/tag/v1.23.0), today) - Percona Operator for MongoDB
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.42](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.42), 1 day ago) - Jenkins helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta15](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta15), 1 day ago) - Apache DevLake Helm Chart
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.4](https://github.com/grafana/mimir/releases/tag/mimir-3.1.4), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.28.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.2.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.2.1), 1 day ago) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.1), 1 day ago) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.23.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.23.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) ([v1.23.0](https://github.com/percona/percona-server-mongodb-operator/releases/tag/v1.23.0), 1 day ago) - Percona Operator for MongoDB
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.1), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.42](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.42), 2 days ago) - Jenkins helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta15](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta15), 2 days ago) - Apache DevLake Helm Chart
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.4](https://github.com/grafana/mimir/releases/tag/mimir-3.1.4), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
-- [Add bitbucket_gpg_key resource](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/251) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (3 days ago)
-- [ci: bump checkout/setup-go actions to v7](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/250) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (3 days ago)
-- [Bump bitbucket-go-client to v0.11.0 and refresh dependencies](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/249) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (3 days ago)
-- [Refresh generated client against latest Bitbucket API spec](https://github.com/DrFaust92/bitbucket-go-client/pull/39) on [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) (3 days ago)
-- [Add mapbox_token list resource and resource identity](https://github.com/DrFaust92/terraform-provider-mapbox/pull/99) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (3 days ago)
-- [fix: remove vulnerability alerts from state for archived/deleted repos](https://github.com/integrations/terraform-provider-github/pull/3553) on [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) (3 days ago)
-- [feat(helm): support dnsConfig on the forwarder deployment](https://github.com/robusta-dev/robusta/pull/2124) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (3 days ago)
-- [fix: preserve variable value when Airflow masks JSON leaves (#96)](https://github.com/DrFaust92/terraform-provider-airflow/pull/97) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (3 days ago)
-- [New resource: `google_cloud_trace_sink` (beta)](https://github.com/GoogleCloudPlatform/magic-modules/pull/18330) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
-- [apikeys: migrate google_apikeys_key from DCL to MMv1 and add annotations](https://github.com/GoogleCloudPlatform/magic-modules/pull/18328) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
+- [Add bitbucket_gpg_key resource](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/251) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (4 days ago)
+- [ci: bump checkout/setup-go actions to v7](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/250) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (4 days ago)
+- [Bump bitbucket-go-client to v0.11.0 and refresh dependencies](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/249) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (4 days ago)
+- [Refresh generated client against latest Bitbucket API spec](https://github.com/DrFaust92/bitbucket-go-client/pull/39) on [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) (4 days ago)
+- [Add mapbox_token list resource and resource identity](https://github.com/DrFaust92/terraform-provider-mapbox/pull/99) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (4 days ago)
+- [fix: remove vulnerability alerts from state for archived/deleted repos](https://github.com/integrations/terraform-provider-github/pull/3553) on [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) (4 days ago)
+- [feat(helm): support dnsConfig on the forwarder deployment](https://github.com/robusta-dev/robusta/pull/2124) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (4 days ago)
+- [fix: preserve variable value when Airflow masks JSON leaves (#96)](https://github.com/DrFaust92/terraform-provider-airflow/pull/97) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (4 days ago)
+- [New resource: `google_cloud_trace_sink` (beta)](https://github.com/GoogleCloudPlatform/magic-modules/pull/18330) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
+- [apikeys: migrate google_apikeys_key from DCL to MMv1 and add annotations](https://github.com/GoogleCloudPlatform/magic-modules/pull/18328) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
 
 
 
