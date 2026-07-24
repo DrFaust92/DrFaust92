@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.45](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.45), today) - Jenkins helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.19.1), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.13](https://github.com/grafana/loki/releases/tag/v3.6.13), today) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.28.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.2.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.2.1), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.1), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.23.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.23.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) ([v1.23.0](https://github.com/percona/percona-server-mongodb-operator/releases/tag/v1.23.0), 1 day ago) - Percona Operator for MongoDB
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.1), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.42](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.42), 2 days ago) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta15](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta15), 2 days ago) - Apache DevLake Helm Chart
 
