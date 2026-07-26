@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DrFaust92/gcs-jobcacher-storage-plugin](https://github.com/DrFaust92/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 day ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (3 days ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (6 days ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (1 week ago)
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) - Charts for deploying Hatchet. (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (2 weeks ago)
-- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (3 weeks ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [DrFaust92/gcs-jobcacher-storage-plugin](https://github.com/DrFaust92/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) - 
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) - 
@@ -24,14 +25,13 @@
 - [DrFaust92/coralogix-fluntd-terraform](https://github.com/DrFaust92/coralogix-fluntd-terraform) - Terraform module to create a 
 - [DrFaust92/examples](https://github.com/DrFaust92/examples) - Code Examples from my blog posts
 - [DrFaust92/terraform-aws-tgw](https://github.com/DrFaust92/terraform-aws-tgw) - Terraform module which creates TGW resources on AWS
-- [DrFaust92/terraform-aws-nat-instance](https://github.com/DrFaust92/terraform-aws-nat-instance) - Terraform module which creates EC2 NAT instance
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.19.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.19.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.23](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.23), 2 days ago) - ArgoProj Helm Charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.10.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.10.0), 2 days ago) - Atlantis Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.45](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.45), 2 days ago) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.19.1), 2 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.13](https://github.com/grafana/loki/releases/tag/v3.6.13), 2 days ago) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.1), 3 days ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.23.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.23.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
