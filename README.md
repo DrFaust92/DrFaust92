@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.37.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.37.0), today) - SRE Agent - CNCF Sandbox Project
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.19.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.19.2), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.23](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.23), 3 days ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.1), 4 days ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.23.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.23.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) ([v1.23.0](https://github.com/percona/percona-server-mongodb-operator/releases/tag/v1.23.0), 4 days ago) - Percona Operator for MongoDB
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 5 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
 
