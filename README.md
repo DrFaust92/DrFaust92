@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(telemetry): opt-in user.email span attribute](https://github.com/taylorwilsdon/google_workspace_mcp/pull/974) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (today)
 - [chore: refresh locked dependencies](https://github.com/DrFaust92/okta-mcp-server/pull/19) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
 - [Add bitbucket_gpg_key resource](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/251) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [ci: bump checkout/setup-go actions to v7](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/250) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
@@ -50,7 +51,6 @@
 - [fix: remove vulnerability alerts from state for archived/deleted repos](https://github.com/integrations/terraform-provider-github/pull/3553) on [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) (1 week ago)
 - [feat(helm): support dnsConfig on the forwarder deployment](https://github.com/robusta-dev/robusta/pull/2124) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 week ago)
 - [fix: preserve variable value when Airflow masks JSON leaves (#96)](https://github.com/DrFaust92/terraform-provider-airflow/pull/97) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
-- [New resource: `google_cloud_trace_sink` (beta)](https://github.com/GoogleCloudPlatform/magic-modules/pull/18330) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 
 
 
