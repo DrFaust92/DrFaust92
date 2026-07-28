@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.16.0), today) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.0.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.0.0), today) - MCP server for Grafana
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.21.0), today) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.41](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.41), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.37.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.37.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
