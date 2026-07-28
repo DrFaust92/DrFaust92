@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.0.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.0.0), today) - MCP server for Grafana
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.21.0), today) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.41](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.41), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
@@ -37,7 +38,6 @@
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.10.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.10.0), 4 days ago) - Atlantis Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.45](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.45), 4 days ago) - Jenkins helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.13](https://github.com/grafana/loki/releases/tag/v3.6.13), 4 days ago) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.1), 5 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
