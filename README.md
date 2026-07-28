@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.41](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.41), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-87.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-87.20.0), 1 day ago) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.37.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.37.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.2), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
@@ -36,8 +38,6 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.45](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.45), 4 days ago) - Jenkins helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.13](https://github.com/grafana/loki/releases/tag/v3.6.13), 4 days ago) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.1), 5 days ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.23.0](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.23.0), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) ([v1.23.0](https://github.com/percona/percona-server-mongodb-operator/releases/tag/v1.23.0), 5 days ago) - Percona Operator for MongoDB
 
 #### 🔨 My recent Pull Requests
 
