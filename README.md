@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/gcs-jobcacher-storage-plugin](https://github.com/DrFaust92/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (2 days ago)
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (5 days ago)
+- [DrFaust92/gcs-jobcacher-storage-plugin](https://github.com/DrFaust92/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (3 days ago)
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (6 days ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) - Charts for deploying Hatchet. (1 week ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (1 week ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (2 weeks ago)
 
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.43.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.43.0), today) - Prometheus community Helm charts
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.0.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.0.0), today) - MCP server for Grafana
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.41](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.41), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.37.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.37.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.2), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.23](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.23), 4 days ago) - ArgoProj Helm Charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.10.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.10.0), 4 days ago) - Atlantis Helm Chart
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.45](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.45), 4 days ago) - Jenkins helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.13](https://github.com/grafana/loki/releases/tag/v3.6.13), 4 days ago) - Like Prometheus, but for logs.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.43.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.43.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.0.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.0.0), 1 day ago) - MCP server for Grafana
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.41](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.41), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.37.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.37.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.2), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.23](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.23), 5 days ago) - ArgoProj Helm Charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.10.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.10.0), 5 days ago) - Atlantis Helm Chart
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.45](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.45), 5 days ago) - Jenkins helm charts
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.13](https://github.com/grafana/loki/releases/tag/v3.6.13), 5 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(telemetry): opt-in user.email span attribute](https://github.com/taylorwilsdon/google_workspace_mcp/pull/974) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 day ago)
-- [chore: refresh locked dependencies](https://github.com/DrFaust92/okta-mcp-server/pull/19) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 day ago)
+- [feat(telemetry): opt-in user.email span attribute](https://github.com/taylorwilsdon/google_workspace_mcp/pull/974) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 days ago)
+- [chore: refresh locked dependencies](https://github.com/DrFaust92/okta-mcp-server/pull/19) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 days ago)
 - [Add bitbucket_gpg_key resource](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/251) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [ci: bump checkout/setup-go actions to v7](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/250) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [Bump bitbucket-go-client to v0.11.0 and refresh dependencies](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/249) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
