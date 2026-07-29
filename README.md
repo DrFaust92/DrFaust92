@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([hub-manager_v1.0.0-rc.1](https://github.com/traefik/traefik-helm-chart/releases/tag/hub-manager_v1.0.0-rc.1), today) - Traefik Proxy Helm Chart
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.38.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.38.1-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.20.0), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.23](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.23), 5 days ago) - ArgoProj Helm Charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.10.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.10.0), 5 days ago) - Atlantis Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.45](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.45), 5 days ago) - Jenkins helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.13](https://github.com/grafana/loki/releases/tag/v3.6.13), 5 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
