@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.20.1), today) - Prometheus community Helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.46.0](https://github.com/robusta-dev/robusta/releases/tag/0.46.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.1.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.1.0), today) - Traefik Proxy Helm Chart
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.6.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.6.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
@@ -35,7 +36,6 @@
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.2.0), 1 day ago) - 
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.38.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.38.1-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.20.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.0.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.0.0), 2 days ago) - MCP server for Grafana
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.41](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.41), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
