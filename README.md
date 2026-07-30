@@ -28,19 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.1.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.1.0), today) - Traefik Proxy Helm Chart
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.6.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.6.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.46.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.46.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-15.2.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-15.2.1), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.2.0), 1 day ago) - 
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([hub-manager_v1.0.0-rc.1](https://github.com/traefik/traefik-helm-chart/releases/tag/hub-manager_v1.0.0-rc.1), 1 day ago) - Traefik Proxy Helm Chart
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.38.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.38.1-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.20.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.0.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.0.0), 2 days ago) - MCP server for Grafana
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-1.5.41](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-1.5.41), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.22.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.22.2), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.0.23](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.0.23), 6 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
+- [fix(variable): don&#39;t mark value as sensitive; use value_wo for secrets](https://github.com/DrFaust92/terraform-provider-airflow/pull/100) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [fix: preserve connection extra with empty-valued masked secret (#98)](https://github.com/DrFaust92/terraform-provider-airflow/pull/99) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [[YUNIKORN-3341] gzip middleware double-compresses responses that handlers already encoded](https://github.com/apache/yunikorn-core/pull/1115) on [apache/yunikorn-core](https://github.com/apache/yunikorn-core) (today)
 - [feat(telemetry): opt-in user.email span attribute](https://github.com/taylorwilsdon/google_workspace_mcp/pull/974) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (3 days ago)
 - [chore: refresh locked dependencies](https://github.com/DrFaust92/okta-mcp-server/pull/19) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (3 days ago)
 - [Add bitbucket_gpg_key resource](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/251) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
@@ -48,9 +51,6 @@
 - [Bump bitbucket-go-client to v0.11.0 and refresh dependencies](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/249) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [Refresh generated client against latest Bitbucket API spec](https://github.com/DrFaust92/bitbucket-go-client/pull/39) on [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) (1 week ago)
 - [Add mapbox_token list resource and resource identity](https://github.com/DrFaust92/terraform-provider-mapbox/pull/99) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (1 week ago)
-- [fix: remove vulnerability alerts from state for archived/deleted repos](https://github.com/integrations/terraform-provider-github/pull/3553) on [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) (1 week ago)
-- [feat(helm): support dnsConfig on the forwarder deployment](https://github.com/robusta-dev/robusta/pull/2124) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 week ago)
-- [fix: preserve variable value when Airflow masks JSON leaves (#96)](https://github.com/DrFaust92/terraform-provider-airflow/pull/97) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 
 
 
