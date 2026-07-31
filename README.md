@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool (4 days ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (4 days ago)
 - [DrFaust92/gcs-jobcacher-storage-plugin](https://github.com/DrFaust92/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (5 days ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
@@ -30,7 +30,7 @@
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.12), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.2.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.2.2), today) - ArgoProj Helm Charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.23.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.23.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace / G Suite MCP Server &amp; CLI Tool
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.23.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.23.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.0.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-16.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-16.0.0), today) - 
