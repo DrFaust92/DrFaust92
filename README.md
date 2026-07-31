@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-16.0.1-dev.131.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-16.0.1-dev.131.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.24](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.24), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.2), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.23.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.23.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.0.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-16.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-16.0.0), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.46.0](https://github.com/robusta-dev/robusta/releases/tag/0.46.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.1.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.1.0), 1 day ago) - Traefik Proxy Helm Chart
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.6.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.6.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
