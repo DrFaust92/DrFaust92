@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.0.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-16.0.0](https://github.com/open-webui/helm-charts/releases/tag/open-webui-16.0.0), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.46.0](https://github.com/robusta-dev/robusta/releases/tag/0.46.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
