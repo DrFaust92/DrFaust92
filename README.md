@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add opt-in skip_plugins_version_update to jenkins_job](https://github.com/taiidani/terraform-provider-jenkins/pull/270) on [taiidani/terraform-provider-jenkins](https://github.com/taiidani/terraform-provider-jenkins) (today)
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.93.0](https://github.com/prometheus-community/helm-charts/pull/7152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [fix(variable): don&#39;t mark value as sensitive; use value_wo for secrets](https://github.com/DrFaust92/terraform-provider-airflow/pull/100) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
 - [fix: preserve connection extra with empty-valued masked secret (#98)](https://github.com/DrFaust92/terraform-provider-airflow/pull/99) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
@@ -50,7 +51,6 @@
 - [Add bitbucket_gpg_key resource](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/251) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [ci: bump checkout/setup-go actions to v7](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/250) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 - [Bump bitbucket-go-client to v0.11.0 and refresh dependencies](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/249) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
-- [Refresh generated client against latest Bitbucket API spec](https://github.com/DrFaust92/bitbucket-go-client/pull/39) on [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) (1 week ago)
 
 
 
