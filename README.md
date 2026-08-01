@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-16.0.1-dev.132.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-16.0.1-dev.132.1), 1 day ago) - 
+- [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-16.0.1-dev.134.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-16.0.1-dev.134.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.24](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.24), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.2), 1 day ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.23.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.23.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
