@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.21.0), today) - Prometheus community Helm charts
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.38.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.38.1), today) - SRE Agent - CNCF Sandbox Project
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.1.2), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-16.0.1-dev.134.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-16.0.1-dev.134.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.24](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.24), 2 days ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.46.0](https://github.com/robusta-dev/robusta/releases/tag/0.46.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.1.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.1.0), 3 days ago) - Traefik Proxy Helm Chart
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.6.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.6.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.38.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.38.1-alpha), 4 days ago) - SRE Agent - CNCF Sandbox Project
 
 #### 🔨 My recent Pull Requests
 
