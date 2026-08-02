@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-8.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-8.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.21.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-16.0.1-dev.134.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-16.0.1-dev.134.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.24](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.24), 2 days ago) - ArgoProj Helm Charts
@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [JosephNiklas12](https://github.com/JosephNiklas12)
 - [angiemsotillo](https://github.com/angiemsotillo)
 - [adornetejr](https://github.com/adornetejr)
 - [keterslayter](https://github.com/keterslayter)
 - [madmecodes](https://github.com/madmecodes)
-- [SridharRG](https://github.com/SridharRG)
 
 #### 💬 Feedback
 
