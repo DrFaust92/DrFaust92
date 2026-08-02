@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Allow updating guest_accelerator gpu_sharing_config without recreating the node pool](https://github.com/GoogleCloudPlatform/magic-modules/pull/18493) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [Add opportunistic_maintenance_strategy to GKE node_config host_maintenance_policy](https://github.com/GoogleCloudPlatform/magic-modules/pull/18492) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
 - [Add opt-in skip_plugins_version_update to jenkins_job](https://github.com/taiidani/terraform-provider-jenkins/pull/270) on [taiidani/terraform-provider-jenkins](https://github.com/taiidani/terraform-provider-jenkins) (1 day ago)
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.93.0](https://github.com/prometheus-community/helm-charts/pull/7152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -50,7 +51,6 @@
 - [feat(telemetry): opt-in user.email span attribute](https://github.com/taylorwilsdon/google_workspace_mcp/pull/974) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (6 days ago)
 - [chore: refresh locked dependencies](https://github.com/DrFaust92/okta-mcp-server/pull/19) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (6 days ago)
 - [Add bitbucket_gpg_key resource](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/251) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
-- [ci: bump checkout/setup-go actions to v7](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/250) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 week ago)
 
 
 
