@@ -28,6 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.46](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.46), today) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.13](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.13), today) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.2.0-rc.0), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.1.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.1.1), today) - Traefik Proxy Helm Chart
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.1.3), 1 day ago) - Prometheus community Helm charts
@@ -35,9 +38,6 @@
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.23.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.23.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.38.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.38.1), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.24](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.24), 3 days ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.2), 3 days ago) - 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.46.0](https://github.com/robusta-dev/robusta/releases/tag/0.46.0), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.6.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.6.0), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 
