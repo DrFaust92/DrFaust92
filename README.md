@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.46](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.46), today) - Jenkins helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.49](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.49), today) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.13](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.13), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.2.0-rc.0), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.1.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.1.1), today) - Traefik Proxy Helm Chart
