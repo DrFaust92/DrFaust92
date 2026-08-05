@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) ([open-webui-16.0.1-dev.137.1](https://github.com/open-webui/helm-charts/releases/tag/open-webui-16.0.1-dev.137.1), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.5](https://github.com/grafana/loki/releases/tag/v3.7.5), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.1.5), today) - Prometheus community Helm charts
@@ -35,7 +36,6 @@
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.14.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.14.0), 1 day ago) - Charts for deploying Hatchet.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.11.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.11.0), 1 day ago) - Atlantis Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.2.0-weekly.406](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.2.0-weekly.406), 1 day ago) - 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.49](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.49), 2 days ago) - Jenkins helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.2.0-rc.0), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
