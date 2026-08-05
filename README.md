@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [chrisipanaque](https://github.com/chrisipanaque)
 - [JosephNiklas12](https://github.com/JosephNiklas12)
 - [angiemsotillo](https://github.com/angiemsotillo)
 - [adornetejr](https://github.com/adornetejr)
 - [keterslayter](https://github.com/keterslayter)
-- [madmecodes](https://github.com/madmecodes)
 
 #### 💬 Feedback
 
