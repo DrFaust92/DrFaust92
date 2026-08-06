@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), today) - Like Prometheus, but for logs.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.38.2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.38.2), today) - SRE Agent - CNCF Sandbox Project
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.3.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.3.0), 1 day ago) - ArgoProj Helm Charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.5](https://github.com/grafana/loki/releases/tag/v3.7.5), 1 day ago) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.1.5), 1 day ago) - Prometheus community Helm charts
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.14.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.14.0), 2 days ago) - Charts for deploying Hatchet.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.11.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.11.0), 2 days ago) - Atlantis Helm Chart
