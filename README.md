@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (1 day ago)
-- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (2 days ago)
+- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (1 week ago)
 - [DrFaust92/gcs-jobcacher-storage-plugin](https://github.com/DrFaust92/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 week ago)
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (2 weeks ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (2 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 weeks ago)
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) - Charts for deploying Hatchet. (2 weeks ago)
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) - Charts for deploying Hatchet. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,23 +28,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.11.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.11.1), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), today) - Like Prometheus, but for logs.
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.38.2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.38.2), today) - SRE Agent - CNCF Sandbox Project
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.3.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.3.0), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.1.5), 1 day ago) - Prometheus community Helm charts
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.14.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.14.0), 2 days ago) - Charts for deploying Hatchet.
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.11.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.11.0), 2 days ago) - Atlantis Helm Chart
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.49](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.49), 3 days ago) - Jenkins helm charts
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.2.0-rc.0), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.11.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.11.1), 1 day ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), 1 day ago) - Like Prometheus, but for logs.
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.38.2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.38.2), 1 day ago) - SRE Agent - CNCF Sandbox Project
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.3.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.3.0), 2 days ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.1.5), 2 days ago) - Prometheus community Helm charts
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.14.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.14.0), 3 days ago) - Charts for deploying Hatchet.
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.11.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.11.0), 3 days ago) - Atlantis Helm Chart
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.49](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.49), 4 days ago) - Jenkins helm charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.2.0-rc.0), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
-- [Allow updating guest_accelerator gpu_sharing_config and gpu_driver_installation_config without recreate](https://github.com/GoogleCloudPlatform/magic-modules/pull/18493) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
-- [Add opportunistic_maintenance_strategy to GKE node_config host_maintenance_policy](https://github.com/GoogleCloudPlatform/magic-modules/pull/18492) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (4 days ago)
-- [Add opt-in skip_plugins_version_update to jenkins_job](https://github.com/taiidani/terraform-provider-jenkins/pull/270) on [taiidani/terraform-provider-jenkins](https://github.com/taiidani/terraform-provider-jenkins) (5 days ago)
-- [[kube-prometheus-stack] Bump prometheus-operator to v0.93.0](https://github.com/prometheus-community/helm-charts/pull/7152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [Allow updating guest_accelerator gpu_sharing_config and gpu_driver_installation_config without recreate](https://github.com/GoogleCloudPlatform/magic-modules/pull/18493) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
+- [Add opportunistic_maintenance_strategy to GKE node_config host_maintenance_policy](https://github.com/GoogleCloudPlatform/magic-modules/pull/18492) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
+- [Add opt-in skip_plugins_version_update to jenkins_job](https://github.com/taiidani/terraform-provider-jenkins/pull/270) on [taiidani/terraform-provider-jenkins](https://github.com/taiidani/terraform-provider-jenkins) (6 days ago)
+- [[kube-prometheus-stack] Bump prometheus-operator to v0.93.0](https://github.com/prometheus-community/helm-charts/pull/7152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [fix(variable): don&#39;t mark value as sensitive; use value_wo for secrets](https://github.com/DrFaust92/terraform-provider-airflow/pull/100) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [fix: preserve connection extra with empty-valued masked secret (#98)](https://github.com/DrFaust92/terraform-provider-airflow/pull/99) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [[YUNIKORN-3341] gzip middleware double-compresses responses that handlers already encoded](https://github.com/apache/yunikorn-core/pull/1115) on [apache/yunikorn-core](https://github.com/apache/yunikorn-core) (1 week ago)
