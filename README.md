@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.2.0), today) - Traefik Proxy Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.22.0), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.53](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.53), today) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
@@ -37,7 +38,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.3.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.3.0), 2 days ago) - ArgoProj Helm Charts
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.14.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.14.0), 3 days ago) - Charts for deploying Hatchet.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.11.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.11.0), 3 days ago) - Atlantis Helm Chart
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-3.2.0-rc.0), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 
