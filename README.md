@@ -28,19 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.0-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.29.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.2.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.2.1), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.2.0), 2 days ago) - Traefik Proxy Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.53](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.53), 2 days ago) - Jenkins helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), 3 days ago) - Like Prometheus, but for logs.
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.38.2](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.38.2), 3 days ago) - SRE Agent - CNCF Sandbox Project
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.3.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.3.0), 4 days ago) - ArgoProj Helm Charts
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.14.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.14.0), 5 days ago) - Charts for deploying Hatchet.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.11.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.11.0), 5 days ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 
+- [Update java-cloud-bom to 26.86.0](https://github.com/jenkinsci/gcp-java-sdk-plugin/pull/10) on [jenkinsci/gcp-java-sdk-plugin](https://github.com/jenkinsci/gcp-java-sdk-plugin) (today)
 - [Allow updating guest_accelerator gpu_sharing_config and gpu_driver_installation_config without recreate](https://github.com/GoogleCloudPlatform/magic-modules/pull/18493) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [Add opportunistic_maintenance_strategy to GKE node_config host_maintenance_policy](https://github.com/GoogleCloudPlatform/magic-modules/pull/18492) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [Add opt-in skip_plugins_version_update to jenkins_job](https://github.com/taiidani/terraform-provider-jenkins/pull/270) on [taiidani/terraform-provider-jenkins](https://github.com/taiidani/terraform-provider-jenkins) (1 week ago)
@@ -50,7 +51,6 @@
 - [[YUNIKORN-3341] gzip middleware double-compresses responses that handlers already encoded](https://github.com/apache/yunikorn-core/pull/1115) on [apache/yunikorn-core](https://github.com/apache/yunikorn-core) (1 week ago)
 - [feat(telemetry): opt-in user.email span attribute](https://github.com/taylorwilsdon/google_workspace_mcp/pull/974) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
 - [chore: refresh locked dependencies](https://github.com/DrFaust92/okta-mcp-server/pull/19) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (1 week ago)
-- [Add bitbucket_gpg_key resource](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/251) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 weeks ago)
 
 
 
