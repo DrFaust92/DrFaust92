@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.2.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.2.1), today) - 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.23.0), 2 days ago) - Prometheus community Helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.2.0), 2 days ago) - Traefik Proxy Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.53](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.53), 2 days ago) - Jenkins helm charts
