@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.23.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.23.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.3.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.3.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.43.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.43.1), today) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.0), today) - SRE Agent - CNCF Sandbox Project
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.1.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.1.0), today) - MCP server for Grafana
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
