@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.17.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.3.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.3.2), today) - ArgoProj Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.47.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.47.0-alpha), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.29.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.2.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.2.1), 1 day ago) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.2.0), 3 days ago) - Traefik Proxy Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.53](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.53), 3 days ago) - Jenkins helm charts
