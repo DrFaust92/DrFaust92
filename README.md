@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.3.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.3.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.43.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.43.1), today) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.0), today) - SRE Agent - CNCF Sandbox Project
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.1.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.1.0), today) - MCP server for Grafana
