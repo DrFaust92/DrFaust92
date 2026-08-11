@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.4.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-8.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-8.3.0), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.58.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.58.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-1.1.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-1.1.1), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.54](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.54), today) - Jenkins helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.47.0](https://github.com/robusta-dev/robusta/releases/tag/0.47.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
