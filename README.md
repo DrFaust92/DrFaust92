@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add revisionHistoryLimit and dnsConfig to the controller Helm charts](https://github.com/agentgateway/agentgateway/pull/2972) on [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) (today)
 - [Update java-cloud-bom to 26.86.0](https://github.com/jenkinsci/gcp-java-sdk-plugin/pull/10) on [jenkinsci/gcp-java-sdk-plugin](https://github.com/jenkinsci/gcp-java-sdk-plugin) (2 days ago)
 - [Allow updating guest_accelerator gpu_sharing_config and gpu_driver_installation_config without recreate](https://github.com/GoogleCloudPlatform/magic-modules/pull/18493) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 - [Add opportunistic_maintenance_strategy to GKE node_config host_maintenance_policy](https://github.com/GoogleCloudPlatform/magic-modules/pull/18492) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
@@ -50,7 +51,6 @@
 - [fix: preserve connection extra with empty-valued masked secret (#98)](https://github.com/DrFaust92/terraform-provider-airflow/pull/99) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 week ago)
 - [[YUNIKORN-3341] gzip middleware double-compresses responses that handlers already encoded](https://github.com/apache/yunikorn-core/pull/1115) on [apache/yunikorn-core](https://github.com/apache/yunikorn-core) (1 week ago)
 - [feat(telemetry): opt-in user.email span attribute](https://github.com/taylorwilsdon/google_workspace_mcp/pull/974) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 weeks ago)
-- [chore: refresh locked dependencies](https://github.com/DrFaust92/okta-mcp-server/pull/19) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 weeks ago)
 
 
 
