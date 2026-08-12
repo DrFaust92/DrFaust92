@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.24.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.24.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.24.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.0), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.1.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.1.0), 2 days ago) - MCP server for Grafana
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.2.0), 5 days ago) - Traefik Proxy Helm Chart
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), 6 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
