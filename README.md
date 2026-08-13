@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.3.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.3.3), today) - ArgoProj Helm Charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.24.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.24.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.24.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.0), 2 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.4.0), 2 days ago) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.54](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.54), 2 days ago) - Jenkins helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.47.0](https://github.com/robusta-dev/robusta/releases/tag/0.47.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
