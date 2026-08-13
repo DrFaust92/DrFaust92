@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(deps): bump fastmcp 3.4.7, okta 3.4.4; set OAuth scopes via valid_scopes](https://github.com/DrFaust92/okta-mcp-server/pull/20) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (today)
 - [Add revisionHistoryLimit and dnsConfig to the controller Helm charts](https://github.com/agentgateway/agentgateway/pull/2972) on [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) (2 days ago)
 - [Update java-cloud-bom to 26.86.0](https://github.com/jenkinsci/gcp-java-sdk-plugin/pull/10) on [jenkinsci/gcp-java-sdk-plugin](https://github.com/jenkinsci/gcp-java-sdk-plugin) (4 days ago)
 - [Allow updating guest_accelerator gpu_sharing_config and gpu_driver_installation_config without recreate](https://github.com/GoogleCloudPlatform/magic-modules/pull/18493) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
@@ -50,7 +51,6 @@
 - [fix(variable): don&#39;t mark value as sensitive; use value_wo for secrets](https://github.com/DrFaust92/terraform-provider-airflow/pull/100) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
 - [fix: preserve connection extra with empty-valued masked secret (#98)](https://github.com/DrFaust92/terraform-provider-airflow/pull/99) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
 - [[YUNIKORN-3341] gzip middleware double-compresses responses that handlers already encoded](https://github.com/apache/yunikorn-core/pull/1115) on [apache/yunikorn-core](https://github.com/apache/yunikorn-core) (2 weeks ago)
-- [feat(telemetry): opt-in user.email span attribute](https://github.com/taylorwilsdon/google_workspace_mcp/pull/974) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 weeks ago)
 
 
 
