@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 day ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (4 days ago)
-- [DrFaust92/gcs-jobcacher-storage-plugin](https://github.com/DrFaust92/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 week ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (1 week ago)
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
@@ -15,7 +15,6 @@
 
 #### 🌱 My latest projects
 
-- [DrFaust92/gcs-jobcacher-storage-plugin](https://github.com/DrFaust92/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) - 
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) - 
@@ -25,9 +24,11 @@
 - [DrFaust92/coralogix-fluntd-terraform](https://github.com/DrFaust92/coralogix-fluntd-terraform) - Terraform module to create a 
 - [DrFaust92/examples](https://github.com/DrFaust92/examples) - Code Examples from my blog posts
 - [DrFaust92/terraform-aws-tgw](https://github.com/DrFaust92/terraform-aws-tgw) - Terraform module which creates TGW resources on AWS
+- [DrFaust92/terraform-aws-nat-instance](https://github.com/DrFaust92/terraform-aws-nat-instance) - Terraform module which creates EC2 NAT instance
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) ([9.vfa_c8d62e32a_1](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/releases/tag/9.vfa_c8d62e32a_1), today) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.6.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.2.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.2.0-rc.0), 1 day ago) - 
@@ -37,10 +38,10 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.47.0](https://github.com/robusta-dev/robusta/releases/tag/0.47.0), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.0), 5 days ago) - SRE Agent - CNCF Sandbox Project
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.1.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.1.0), 5 days ago) - MCP server for Grafana
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.2.0), 1 week ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
 
+- [Add gcs-jobcacher-storage to the list of storage plugins](https://github.com/jenkinsci/jobcacher-plugin/pull/531) on [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) (today)
 - [Stop failing builds on an expired shipped token](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/pull/2) on [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) (1 day ago)
 - [chore(deps): bump fastmcp 3.4.7, okta 3.4.4; set OAuth scopes via valid_scopes](https://github.com/DrFaust92/okta-mcp-server/pull/20) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (2 days ago)
 - [Add revisionHistoryLimit and dnsConfig to the controller Helm charts](https://github.com/agentgateway/agentgateway/pull/2972) on [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) (4 days ago)
@@ -50,7 +51,6 @@
 - [Add opt-in skip_plugins_version_update to jenkins_job](https://github.com/taiidani/terraform-provider-jenkins/pull/270) on [taiidani/terraform-provider-jenkins](https://github.com/taiidani/terraform-provider-jenkins) (2 weeks ago)
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.93.0](https://github.com/prometheus-community/helm-charts/pull/7152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [fix(variable): don&#39;t mark value as sensitive; use value_wo for secrets](https://github.com/DrFaust92/terraform-provider-airflow/pull/100) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
-- [fix: preserve connection extra with empty-valued masked secret (#98)](https://github.com/DrFaust92/terraform-provider-airflow/pull/99) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
 
 
 
