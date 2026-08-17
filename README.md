@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Rebase fork onto upstream v3.3.1](https://github.com/DrFaust92/kubechecks/pull/3) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (today)
 - [Add gcs-jobcacher-storage to the list of storage plugins](https://github.com/jenkinsci/jobcacher-plugin/pull/531) on [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) (2 days ago)
 - [Stop failing builds on an expired shipped token](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/pull/2) on [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) (3 days ago)
 - [chore(deps): bump fastmcp 3.4.7, okta 3.4.4; set OAuth scopes via valid_scopes](https://github.com/DrFaust92/okta-mcp-server/pull/20) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (4 days ago)
@@ -50,7 +51,6 @@
 - [Add opportunistic_maintenance_strategy to GKE node_config host_maintenance_policy](https://github.com/GoogleCloudPlatform/magic-modules/pull/18492) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
 - [Add opt-in skip_plugins_version_update to jenkins_job](https://github.com/taiidani/terraform-provider-jenkins/pull/270) on [taiidani/terraform-provider-jenkins](https://github.com/taiidani/terraform-provider-jenkins) (2 weeks ago)
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.93.0](https://github.com/prometheus-community/helm-charts/pull/7152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [fix(variable): don&#39;t mark value as sensitive; use value_wo for secrets](https://github.com/DrFaust92/terraform-provider-airflow/pull/100) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 weeks ago)
 
 
 
