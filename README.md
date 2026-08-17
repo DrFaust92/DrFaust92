@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.42.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.42.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.25.0), today) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.1-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) ([9.vfa_c8d62e32a_1](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/releases/tag/9.vfa_c8d62e32a_1), 2 days ago) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
