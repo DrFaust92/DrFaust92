@@ -76,7 +76,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [chrisipanaque](https://github.com/chrisipanaque)
+- [yerbis09](https://github.com/yerbis09)
 - [JosephNiklas12](https://github.com/JosephNiklas12)
 - [angiemsotillo](https://github.com/angiemsotillo)
 - [adornetejr](https://github.com/adornetejr)
