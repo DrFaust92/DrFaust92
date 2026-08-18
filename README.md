@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.5.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.27.0), today) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.12.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.12.0), today) - Atlantis Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.0.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.0.0), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.11.0](https://github.com/grafana/loki/releases/tag/operator/v0.11.0), today) - Like Prometheus, but for logs.
