@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.15.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.15.0), today) - Charts for deploying Hatchet.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.6.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.4.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.4.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-8.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-8.3.1), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.24.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.24.1), 5 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.54](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.54), 1 week ago) - Jenkins helm charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.47.0](https://github.com/robusta-dev/robusta/releases/tag/0.47.0), 1 week ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.1.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.1.0), 1 week ago) - MCP server for Grafana
 
 #### 🔨 My recent Pull Requests
 
