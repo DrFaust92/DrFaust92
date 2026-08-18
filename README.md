@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.12.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.12.0), today) - Atlantis Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.0.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.0.0), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.11.0](https://github.com/grafana/loki/releases/tag/operator/v0.11.0), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.26.0), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.4.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.4.0), 1 day ago) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.1-alpha), 2 days ago) - SRE Agent - CNCF Sandbox Project
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) ([9.vfa_c8d62e32a_1](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/releases/tag/9.vfa_c8d62e32a_1), 3 days ago) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
 
 #### 🔨 My recent Pull Requests
 
