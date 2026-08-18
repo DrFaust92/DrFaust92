@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.5.0), today) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.12.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.12.0), today) - Atlantis Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.0.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.0.0), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.11.0](https://github.com/grafana/loki/releases/tag/operator/v0.11.0), today) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.26.0), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.15.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.15.0), today) - Charts for deploying Hatchet.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.6.0), today) - 
