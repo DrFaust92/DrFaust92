@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.6.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.4.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.4.0), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.408](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.408), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-8.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-8.3.1), 1 day ago) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.1-alpha), 2 days ago) - SRE Agent - CNCF Sandbox Project
