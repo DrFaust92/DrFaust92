@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.6.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.6.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.14.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.14.0), today) - Atlantis Helm Chart
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.0](https://github.com/grafana/mimir/releases/tag/mimir-3.2.0), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.11](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.11), today) - 
@@ -37,7 +38,6 @@
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.15.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.15.0), 1 day ago) - Charts for deploying Hatchet.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.4.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.4.0), 2 days ago) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
 
