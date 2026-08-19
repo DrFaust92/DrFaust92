@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.11](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.11), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.27.0), 1 day ago) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.12.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.12.0), 1 day ago) - Atlantis Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.0.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.0.0), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.11.0](https://github.com/grafana/loki/releases/tag/operator/v0.11.0), 1 day ago) - Like Prometheus, but for logs.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.15.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.15.0), 1 day ago) - Charts for deploying Hatchet.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.6.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.4.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.4.0), 2 days ago) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.39.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.39.1-alpha), 3 days ago) - SRE Agent - CNCF Sandbox Project
