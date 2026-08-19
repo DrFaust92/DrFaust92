@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.51.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.51.0), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.6.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.6.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.14.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.14.0), today) - Atlantis Helm Chart
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.0](https://github.com/grafana/mimir/releases/tag/mimir-3.2.0), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.11](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.11), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.27.0), 1 day ago) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.0.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.0.0), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.11.0](https://github.com/grafana/loki/releases/tag/operator/v0.11.0), 1 day ago) - Like Prometheus, but for logs.
