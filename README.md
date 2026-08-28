@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 day ago)
-- [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (4 days ago)
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (5 days ago)
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (1 week ago)
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (2 weeks ago)
-- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (2 weeks ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (3 weeks ago)
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators. (3 weeks ago)
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 month ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 days ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (3 days ago)
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (1 week ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
+- [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (1 week ago)
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (2 weeks ago)
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (2 weeks ago)
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (3 weeks ago)
+- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (3 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,29 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.51.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.51.0), today) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.6.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.6.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.14.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.14.0), today) - Atlantis Helm Chart
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.0](https://github.com/grafana/mimir/releases/tag/mimir-3.2.0), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.27.0), 1 day ago) - Prometheus community Helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.0.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.0.0), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.11.0](https://github.com/grafana/loki/releases/tag/operator/v0.11.0), 1 day ago) - Like Prometheus, but for logs.
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.15.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.15.0), 1 day ago) - Charts for deploying Hatchet.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.4.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.4.0), 2 days ago) - ArgoProj Helm Charts
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.3.0), today) - MCP server for Grafana
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.6.1), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.4.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.4.1), today) - ArgoProj Helm Charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.2), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 1 day ago) - Like Prometheus, but for logs.
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.5.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.5.0), 1 day ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.10.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.10.1), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.7.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.7.1), 1 day ago) - 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.4.0), 1 day ago) - Traefik Proxy Helm Chart
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.13](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.13), 2 days ago) - 
 
 #### 🔨 My recent Pull Requests
-
-- [Rebase fork onto upstream v3.3.1](https://github.com/DrFaust92/kubechecks/pull/3) on [DrFaust92/kubechecks](https://github.com/DrFaust92/kubechecks) (2 days ago)
-- [Add gcs-jobcacher-storage to the list of storage plugins](https://github.com/jenkinsci/jobcacher-plugin/pull/531) on [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) (4 days ago)
-- [Stop failing builds on an expired shipped token](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/pull/2) on [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) (5 days ago)
-- [chore(deps): bump fastmcp 3.4.7, okta 3.4.4; set OAuth scopes via valid_scopes](https://github.com/DrFaust92/okta-mcp-server/pull/20) on [DrFaust92/okta-mcp-server](https://github.com/DrFaust92/okta-mcp-server) (6 days ago)
-- [Add revisionHistoryLimit and dnsConfig to the controller Helm charts](https://github.com/agentgateway/agentgateway/pull/2972) on [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) (1 week ago)
-- [Update java-cloud-bom to 26.86.0](https://github.com/jenkinsci/gcp-java-sdk-plugin/pull/10) on [jenkinsci/gcp-java-sdk-plugin](https://github.com/jenkinsci/gcp-java-sdk-plugin) (1 week ago)
-- [Allow updating guest_accelerator gpu_sharing_config and gpu_driver_installation_config without recreate](https://github.com/GoogleCloudPlatform/magic-modules/pull/18493) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
-- [Add opportunistic_maintenance_strategy to GKE node_config host_maintenance_policy](https://github.com/GoogleCloudPlatform/magic-modules/pull/18492) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (2 weeks ago)
-- [Add opt-in skip_plugins_version_update to jenkins_job](https://github.com/taiidani/terraform-provider-jenkins/pull/270) on [taiidani/terraform-provider-jenkins](https://github.com/taiidani/terraform-provider-jenkins) (2 weeks ago)
-- [[kube-prometheus-stack] Bump prometheus-operator to v0.93.0](https://github.com/prometheus-community/helm-charts/pull/7152) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
+- [feat(server): add flags for HTTP connection TTL middleware](https://github.com/grafana/dskit/pull/1068) on [grafana/dskit](https://github.com/grafana/dskit) (today)
+- [chore(deps): bump the modules with reachable vulnerabilities](https://github.com/placer-labs/kubechecks/pull/15) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [fix(app_watcher): migrate off the deprecated ListWatch funcs](https://github.com/placer-labs/kubechecks/pull/14) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [feat(diff): make server-side diff observable](https://github.com/placer-labs/kubechecks/pull/13) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [feat(diff): optional server-side diff via the ArgoCD API](https://github.com/placer-labs/kubechecks/pull/12) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
+- [[loki] Don't render a memcached PDB with no budget](https://github.com/grafana-community/helm-charts/pull/768) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
+- [nominatim: allow extra init containers and sidecars on the init job](https://github.com/robjuz/helm-charts/pull/213) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 days ago)
+- [nominatim: allow init containers and sidecars on the migration job](https://github.com/robjuz/helm-charts/pull/212) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (2 days ago)
+- [build: bump argo-cd to v3.4.6, go 1.26.4, alpine 3.22](https://github.com/placer-labs/kubechecks/pull/11) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
+- [chore(deps): pin base images by digest and refresh the lock](https://github.com/placer-labs/okta-mcp-server/pull/23) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
 
 
 
@@ -60,12 +59,12 @@
 
 #### ⭐ Recent Stars
 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (2 weeks ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (4 weeks ago)
 - [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (3 months ago)
-- [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (4 months ago)
+- [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (5 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (9 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (9 months ago)
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (10 months ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (11 months ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (1 year ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (1 year ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (1 year ago)
