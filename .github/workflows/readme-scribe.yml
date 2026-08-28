@@ -19,6 +19,46 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      - name: Render pull requests
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cat > q.json <<'JSON'
+          {"query":"query { user(login: \"DrFaust92\") { pullRequests(first: 20, orderBy: {field: CREATED_AT, direction: DESC}) { edges { node { title url createdAt repository { nameWithOwner url isPrivate } } } } } }"}
+          JSON
+          curl -sf -H "Authorization: bearer $GITHUB_TOKEN" \
+               -H "Content-Type: application/json" \
+               -X POST -d @q.json https://api.github.com/graphql > resp.json
+
+          jq -e '.data.user.pullRequests.edges | length > 0' resp.json > /dev/null
+
+          jq -r '
+            def ago:
+              (now - (. | fromdate)) as $s
+              | if   $s < 86400    then "today"
+                elif $s < 172800   then "1 day ago"
+                elif $s < 604800   then "\(($s/86400)|floor) days ago"
+                elif $s < 1209600  then "1 week ago"
+                elif $s < 2592000  then "\(($s/604800)|floor) weeks ago"
+                elif $s < 5184000  then "1 month ago"
+                else "\(($s/2592000)|floor) months ago" end;
+            [ .data.user.pullRequests.edges[].node
+              | select(.repository.isPrivate | not)
+              | select(.repository.nameWithOwner != "DrFaust92/DrFaust92") ][0:10]
+            | .[]
+            | "- [\(.title)](\(.url)) on [\(.repository.nameWithOwner)](\(.repository.url)) (\(.createdAt|ago))"
+          ' resp.json > prs.md
+
+          test -s prs.md
+          python3 - <<'PY'
+          import pathlib
+          readme = pathlib.Path("README.md")
+          prs = pathlib.Path("prs.md").read_text().rstrip("\n")
+          text = readme.read_text()
+          assert "PULL_REQUESTS_PLACEHOLDER" in text, "placeholder missing"
+          readme.write_text(text.replace("PULL_REQUESTS_PLACEHOLDER", prs))
+          PY
+
       - uses: stefanzweifel/git-auto-commit-action@v7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

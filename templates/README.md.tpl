@@ -16,9 +16,7 @@
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+PULL_REQUESTS_PLACEHOLDER
 
 {{/*
 #### 📜 My recent blog posts
