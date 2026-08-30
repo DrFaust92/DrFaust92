@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (3 days ago)
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (4 days ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (4 days ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (5 days ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (2 weeks ago)
@@ -11,7 +11,7 @@
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (2 weeks ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (3 weeks ago)
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (3 weeks ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.4.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.4.2), today) - ArgoProj Helm Charts
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.3.0), 1 day ago) - MCP server for Grafana
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.6.1), 1 day ago) - Prometheus community Helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 2 days ago) - Like Prometheus, but for logs.
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.5.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.5.0), 2 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.10.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.10.1), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.7.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.7.1), 2 days ago) - 
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.4.0), 2 days ago) - Traefik Proxy Helm Chart
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.13](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.13), 3 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.4.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.4.2), 1 day ago) - ArgoProj Helm Charts
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.3.0), 2 days ago) - MCP server for Grafana
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.6.1), 2 days ago) - Prometheus community Helm charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.2), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 3 days ago) - Like Prometheus, but for logs.
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.5.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.5.0), 3 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.10.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.10.1), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.7.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.7.1), 3 days ago) - 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.4.0), 3 days ago) - Traefik Proxy Helm Chart
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.13](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.13), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
-- [feat(server): add flags for HTTP connection TTL middleware](https://github.com/grafana/dskit/pull/1068) on [grafana/dskit](https://github.com/grafana/dskit) (1 day ago)
-- [chore(deps): bump the modules with reachable vulnerabilities](https://github.com/placer-labs/kubechecks/pull/15) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
-- [fix(app_watcher): migrate off the deprecated ListWatch funcs](https://github.com/placer-labs/kubechecks/pull/14) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
-- [feat(diff): make server-side diff observable](https://github.com/placer-labs/kubechecks/pull/13) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
+- [feat(server): add flags for HTTP connection TTL middleware](https://github.com/grafana/dskit/pull/1068) on [grafana/dskit](https://github.com/grafana/dskit) (2 days ago)
+- [chore(deps): bump the modules with reachable vulnerabilities](https://github.com/placer-labs/kubechecks/pull/15) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (3 days ago)
+- [fix(app_watcher): migrate off the deprecated ListWatch funcs](https://github.com/placer-labs/kubechecks/pull/14) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (3 days ago)
+- [feat(diff): make server-side diff observable](https://github.com/placer-labs/kubechecks/pull/13) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (3 days ago)
 - [feat(diff): optional server-side diff via the ArgoCD API](https://github.com/placer-labs/kubechecks/pull/12) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (3 days ago)
 - [[loki] Don't render a memcached PDB with no budget](https://github.com/grafana-community/helm-charts/pull/768) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
 - [nominatim: allow extra init containers and sidecars on the init job](https://github.com/robjuz/helm-charts/pull/213) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (3 days ago)
