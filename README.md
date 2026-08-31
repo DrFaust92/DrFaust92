@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.6.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.15.0), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.4.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.4.3), today) - ArgoProj Helm Charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.0.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.0.3), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.55](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.55), today) - Jenkins helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.42.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.42.0), today) - ArgoProj Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.3.0), 3 days ago) - MCP server for Grafana
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.2), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 4 days ago) - Like Prometheus, but for logs.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.5.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.5.0), 4 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.10.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.10.1), 4 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.7.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.7.1), 4 days ago) - 
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.4.0), 4 days ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
 - [feat(server): add flags for HTTP connection TTL middleware](https://github.com/grafana/dskit/pull/1068) on [grafana/dskit](https://github.com/grafana/dskit) (3 days ago)
@@ -46,10 +46,10 @@
 - [feat(diff): make server-side diff observable](https://github.com/placer-labs/kubechecks/pull/13) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (4 days ago)
 - [feat(diff): optional server-side diff via the ArgoCD API](https://github.com/placer-labs/kubechecks/pull/12) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (4 days ago)
 - [[loki] Don't render a memcached PDB with no budget](https://github.com/grafana-community/helm-charts/pull/768) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
-- [nominatim: allow extra init containers and sidecars on the init job](https://github.com/robjuz/helm-charts/pull/213) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (4 days ago)
-- [nominatim: allow init containers and sidecars on the migration job](https://github.com/robjuz/helm-charts/pull/212) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (4 days ago)
-- [build: bump argo-cd to v3.4.6, go 1.26.4, alpine 3.22](https://github.com/placer-labs/kubechecks/pull/11) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (4 days ago)
-- [chore(deps): pin base images by digest and refresh the lock](https://github.com/placer-labs/okta-mcp-server/pull/23) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (4 days ago)
+- [nominatim: allow extra init containers and sidecars on the init job](https://github.com/robjuz/helm-charts/pull/213) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (5 days ago)
+- [nominatim: allow init containers and sidecars on the migration job](https://github.com/robjuz/helm-charts/pull/212) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (5 days ago)
+- [build: bump argo-cd to v3.4.6, go 1.26.4, alpine 3.22](https://github.com/placer-labs/kubechecks/pull/11) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (5 days ago)
+- [chore(deps): pin base images by digest and refresh the lock](https://github.com/placer-labs/okta-mcp-server/pull/23) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (5 days ago)
 
 
 
