@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.410](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.410), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.6.0), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-5.0.0), today) - Prometheus community Helm charts
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.17.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.17.0), 1 day ago) - Charts for deploying Hatchet.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.5.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.5.0), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.15.0), 1 day ago) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.0.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.0.3), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.55](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.55), 1 day ago) - Jenkins helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.3.0), 4 days ago) - MCP server for Grafana
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.2), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 5 days ago) - Like Prometheus, but for logs.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.5.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.5.0), 5 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.10.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.10.1), 5 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
 - [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
