@@ -6,5 +6,5 @@
 - [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
 - [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
 - [feat(audit): record trace-view reads and retarget fork CI/release](https://github.com/placer-labs/langfuse/pull/2) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
-- [feat(server): add flags for HTTP connection TTL middleware](https://github.com/grafana/dskit/pull/1068) on [grafana/dskit](https://github.com/grafana/dskit) (3 days ago)
-- [chore(deps): bump the modules with reachable vulnerabilities](https://github.com/placer-labs/kubechecks/pull/15) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (4 days ago)
+- [feat(server): add flags for HTTP connection TTL middleware](https://github.com/grafana/dskit/pull/1068) on [grafana/dskit](https://github.com/grafana/dskit) (4 days ago)
+- [chore(deps): bump the modules with reachable vulnerabilities](https://github.com/placer-labs/kubechecks/pull/15) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (5 days ago)

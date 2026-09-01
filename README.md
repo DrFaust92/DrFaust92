@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (5 days ago)
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (6 days ago)
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (6 days ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (1 week ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (1 week ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
 - [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (2 weeks ago)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (2 weeks ago)
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (2 weeks ago)
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (3 weeks ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (3 weeks ago)
-- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (3 weeks ago)
+- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (4 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.17.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.17.0), today) - Charts for deploying Hatchet.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.5.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.5.0), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.15.0), today) - Prometheus community Helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.0.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.0.3), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.55](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.55), today) - Jenkins helm charts
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.3.0), 3 days ago) - MCP server for Grafana
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.2), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 4 days ago) - Like Prometheus, but for logs.
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.5.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.5.0), 4 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.10.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.10.1), 4 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.17.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.17.0), 1 day ago) - Charts for deploying Hatchet.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.5.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.5.0), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.15.0), 1 day ago) - Prometheus community Helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.0.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.0.3), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.55](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.55), 1 day ago) - Jenkins helm charts
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.3.0), 4 days ago) - MCP server for Grafana
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.2), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 5 days ago) - Like Prometheus, but for logs.
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.5.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.5.0), 5 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.10.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.10.1), 5 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
 - [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
@@ -48,8 +48,8 @@
 - [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
 - [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
 - [feat(audit): record trace-view reads and retarget fork CI/release](https://github.com/placer-labs/langfuse/pull/2) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
-- [feat(server): add flags for HTTP connection TTL middleware](https://github.com/grafana/dskit/pull/1068) on [grafana/dskit](https://github.com/grafana/dskit) (3 days ago)
-- [chore(deps): bump the modules with reachable vulnerabilities](https://github.com/placer-labs/kubechecks/pull/15) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (4 days ago)
+- [feat(server): add flags for HTTP connection TTL middleware](https://github.com/grafana/dskit/pull/1068) on [grafana/dskit](https://github.com/grafana/dskit) (4 days ago)
+- [chore(deps): bump the modules with reachable vulnerabilities](https://github.com/placer-labs/kubechecks/pull/15) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (5 days ago)
 
 
 
