@@ -1,3 +1,4 @@
+- [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (today)
 - [fix(gdocs): keep get_doc_content output aligned with document indices](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1087) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (today)
 - [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 day ago)
 - [ci: publish images on every push to this fork's v3 line](https://github.com/placer-labs/langfuse/pull/8) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 day ago)
@@ -7,4 +8,3 @@
 - [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 day ago)
 - [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 day ago)
 - [feat(audit): record trace-view reads and retarget fork CI/release](https://github.com/placer-labs/langfuse/pull/2) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 day ago)
-- [feat(server): add flags for HTTP connection TTL middleware](https://github.com/grafana/dskit/pull/1068) on [grafana/dskit](https://github.com/grafana/dskit) (5 days ago)
