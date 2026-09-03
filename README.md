@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.7.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.7.0), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.7.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.7.1), today) - ArgoProj Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.56](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.56), today) - Jenkins helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v45.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v45.0.0), 1 day ago) - Configures opinionated GKE clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.6.3), 1 day ago) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.0), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.410](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.410), 2 days ago) - 
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.17.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.17.0), 3 days ago) - Charts for deploying Hatchet.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.55](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.55), 3 days ago) - Jenkins helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.3.0), 6 days ago) - MCP server for Grafana
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.2), 6 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 
