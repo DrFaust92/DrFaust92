@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-89.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-89.1.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-89.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-89.2.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.7.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.7.1), 1 day ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.56](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.56), 1 day ago) - Jenkins helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v45.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v45.0.0), 2 days ago) - Configures opinionated GKE clusters
