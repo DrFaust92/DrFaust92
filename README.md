@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.20.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.59.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.59.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-89.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-89.2.1), today) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.1), today) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.23.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.23.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.7.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.7.2), today) - ArgoProj Helm Charts
@@ -44,12 +44,12 @@
 - [fix(gdocs): keep get_doc_content output aligned with document indices](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1087) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 days ago)
 - [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
 - [ci: publish images on every push to this fork's v3 line](https://github.com/placer-labs/langfuse/pull/8) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
-- [ci: fix the release manifest publish, and drop deployment details from comments](https://github.com/placer-labs/langfuse/pull/7) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
-- [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/placer-labs/langfuse/pull/6) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
-- [test: get the v3 line's pipeline green on GitHub-hosted runners](https://github.com/placer-labs/langfuse/pull/5) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
-- [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
-- [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
-- [feat(audit): record trace-view reads and retarget fork CI/release](https://github.com/placer-labs/langfuse/pull/2) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
+- [ci: fix the release manifest publish, and drop deployment details from comments](https://github.com/placer-labs/langfuse/pull/7) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
+- [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/placer-labs/langfuse/pull/6) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
+- [test: get the v3 line's pipeline green on GitHub-hosted runners](https://github.com/placer-labs/langfuse/pull/5) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
+- [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
+- [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
+- [feat(audit): record trace-view reads and retarget fork CI/release](https://github.com/placer-labs/langfuse/pull/2) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
 
 
 
