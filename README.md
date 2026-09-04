@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.1), today) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.23.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.23.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.7.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.7.2), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-89.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-89.2.0), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.56](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.56), 1 day ago) - Jenkins helm charts
@@ -36,8 +38,6 @@
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.0), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.410](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.410), 3 days ago) - 
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.17.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.17.0), 4 days ago) - Charts for deploying Hatchet.
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.3.0), 1 week ago) - MCP server for Grafana
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.25.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.25.2), 1 week ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 
 #### 🔨 My recent Pull Requests
 - [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 day ago)
