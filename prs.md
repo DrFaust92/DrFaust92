@@ -1,5 +1,5 @@
 - [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 day ago)
-- [fix(gdocs): keep get_doc_content output aligned with document indices](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1087) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 day ago)
+- [fix(gdocs): keep get_doc_content output aligned with document indices](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1087) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 days ago)
 - [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
 - [ci: publish images on every push to this fork's v3 line](https://github.com/placer-labs/langfuse/pull/8) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
 - [ci: fix the release manifest publish, and drop deployment details from comments](https://github.com/placer-labs/langfuse/pull/7) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
