@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (today)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (today)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 week ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (1 week ago)
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (2 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
 - [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (3 weeks ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (3 weeks ago)
@@ -45,11 +45,11 @@
 - [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
 - [ci: publish images on every push to this fork's v3 line](https://github.com/placer-labs/langfuse/pull/8) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
 - [ci: fix the release manifest publish, and drop deployment details from comments](https://github.com/placer-labs/langfuse/pull/7) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
-- [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/placer-labs/langfuse/pull/6) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
-- [test: get the v3 line's pipeline green on GitHub-hosted runners](https://github.com/placer-labs/langfuse/pull/5) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
-- [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
-- [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
-- [feat(audit): record trace-view reads and retarget fork CI/release](https://github.com/placer-labs/langfuse/pull/2) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
+- [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/placer-labs/langfuse/pull/6) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (5 days ago)
+- [test: get the v3 line's pipeline green on GitHub-hosted runners](https://github.com/placer-labs/langfuse/pull/5) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (5 days ago)
+- [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (5 days ago)
+- [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (5 days ago)
+- [feat(audit): record trace-view reads and retarget fork CI/release](https://github.com/placer-labs/langfuse/pull/2) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (5 days ago)
 
 
 
