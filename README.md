@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-89.2.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-89.2.3), today) - Prometheus community Helm charts
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0-alpha), today) - SRE Agent - CNCF Sandbox Project
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-5.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-5.0.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.8.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.8.1), today) - ArgoProj Helm Charts
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) ([15.v4a_01d7f533a_b_](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/releases/tag/15.v4a_01d7f533a_b_), 1 day ago) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.1), 2 days ago) - 
