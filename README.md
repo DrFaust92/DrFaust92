@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.23.2](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.23.2), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.27](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.27), today) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.5.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.5.0), today) - Traefik Proxy Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.31.0), today) - Prometheus community Helm charts
@@ -40,16 +40,16 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.56](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.56), 4 days ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
-- [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (4 days ago)
+- [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (5 days ago)
 - [fix(gdocs): keep get_doc_content output aligned with document indices](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1087) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (5 days ago)
 - [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
 - [ci: publish images on every push to this fork's v3 line](https://github.com/placer-labs/langfuse/pull/8) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
 - [ci: fix the release manifest publish, and drop deployment details from comments](https://github.com/placer-labs/langfuse/pull/7) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
 - [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/placer-labs/langfuse/pull/6) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
-- [test: get the v3 line's pipeline green on GitHub-hosted runners](https://github.com/placer-labs/langfuse/pull/5) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
-- [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
-- [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
-- [feat(audit): record trace-view reads and retarget fork CI/release](https://github.com/placer-labs/langfuse/pull/2) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
+- [test: get the v3 line's pipeline green on GitHub-hosted runners](https://github.com/placer-labs/langfuse/pull/5) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
+- [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
+- [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
+- [feat(audit): record trace-view reads and retarget fork CI/release](https://github.com/placer-labs/langfuse/pull/2) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 
 
 
