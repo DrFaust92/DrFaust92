@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.23.2](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.23.2), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.27](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.27), today) - ArgoProj Helm Charts
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.5.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.5.0), today) - Traefik Proxy Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.31.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.8.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.8.2), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.26.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.26.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) ([15.v4a_01d7f533a_b_](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/releases/tag/15.v4a_01d7f533a_b_), 2 days ago) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.1), 3 days ago) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-1.23.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-1.23.1), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.56](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.56), 4 days ago) - Jenkins helm charts
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v45.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v45.0.0), 5 days ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
 - [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (4 days ago)
