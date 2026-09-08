@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.0), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), today) - Charts for deploying Hatchet.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.3.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.3.1), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.49.0](https://github.com/robusta-dev/robusta/releases/tag/0.49.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0), today) - SRE Agent - CNCF Sandbox Project
@@ -36,8 +38,6 @@
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.27](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.27), 1 day ago) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.5.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.5.0), 1 day ago) - Traefik Proxy Helm Chart
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.26.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.26.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) ([15.v4a_01d7f533a_b_](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/releases/tag/15.v4a_01d7f533a_b_), 3 days ago) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
 
 #### 🔨 My recent Pull Requests
 - [helm: configurable liveness, readiness and startup probes + named container ports](https://github.com/robusta-dev/robusta/pull/2172) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (today)
