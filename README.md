@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (2 days ago)
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (2 days ago)
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (3 days ago)
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (3 days ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 week ago)
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (1 week ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 weeks ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 weeks ago)
 - [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (3 weeks ago)
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (3 weeks ago)
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (4 weeks ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (1 month ago)
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.27](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.27), today) - ArgoProj Helm Charts
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.5.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.5.0), today) - Traefik Proxy Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.31.0), today) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.26.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.26.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) ([15.v4a_01d7f533a_b_](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/releases/tag/15.v4a_01d7f533a_b_), 2 days ago) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.1), 3 days ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.56](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.56), 4 days ago) - Jenkins helm charts
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.27](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.27), 1 day ago) - ArgoProj Helm Charts
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.5.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.5.0), 1 day ago) - Traefik Proxy Helm Chart
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.31.0), 1 day ago) - Prometheus community Helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.26.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.26.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0-alpha), 2 days ago) - SRE Agent - CNCF Sandbox Project
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) ([15.v4a_01d7f533a_b_](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/releases/tag/15.v4a_01d7f533a_b_), 3 days ago) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.1), 4 days ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.56](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.56), 5 days ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
 - [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (5 days ago)
-- [fix(gdocs): keep get_doc_content output aligned with document indices](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1087) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (5 days ago)
+- [fix(gdocs): keep get_doc_content output aligned with document indices](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1087) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (6 days ago)
 - [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 - [ci: publish images on every push to this fork's v3 line](https://github.com/placer-labs/langfuse/pull/8) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 - [ci: fix the release manifest publish, and drop deployment details from comments](https://github.com/placer-labs/langfuse/pull/7) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
