@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (today)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (3 days ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (3 days ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (1 week ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 weeks ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 weeks ago)
 - [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (3 weeks ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (4 weeks ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (1 month ago)
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.3.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.3.1), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.49.0](https://github.com/robusta-dev/robusta/releases/tag/0.49.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0), today) - SRE Agent - CNCF Sandbox Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.31.1), today) - Prometheus community Helm charts
@@ -37,10 +38,10 @@
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.5.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.5.0), 1 day ago) - Traefik Proxy Helm Chart
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.26.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.26.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) ([15.v4a_01d7f533a_b_](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin/releases/tag/15.v4a_01d7f533a_b_), 3 days ago) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.1](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.1), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
-- [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (5 days ago)
+- [helm: configurable liveness, readiness and startup probes + named container ports](https://github.com/robusta-dev/robusta/pull/2172) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (today)
+- [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (6 days ago)
 - [fix(gdocs): keep get_doc_content output aligned with document indices](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1087) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (6 days ago)
 - [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 - [ci: publish images on every push to this fork's v3 line](https://github.com/placer-labs/langfuse/pull/8) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
@@ -49,7 +50,6 @@
 - [test: get the v3 line's pipeline green on GitHub-hosted runners](https://github.com/placer-labs/langfuse/pull/5) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 - [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 - [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
-- [feat(audit): record trace-view reads and retarget fork CI/release](https://github.com/placer-labs/langfuse/pull/2) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 
 
 
