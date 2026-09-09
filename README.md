@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-5.1.0), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.8.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.8.4), today) - ArgoProj Helm Charts
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.0), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), 1 day ago) - Charts for deploying Hatchet.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.3.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.3.1), 1 day ago) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.49.0](https://github.com/robusta-dev/robusta/releases/tag/0.49.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.31.1), 1 day ago) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pxc-operator-1.20.1](https://github.com/percona/percona-helm-charts/releases/tag/pxc-operator-1.20.1), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.27](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.27), 2 days ago) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.5.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.5.0), 2 days ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
