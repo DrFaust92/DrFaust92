@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 day ago)
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (4 days ago)
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (4 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 days ago)
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (5 days ago)
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (5 days ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 weeks ago)
 - [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (3 weeks ago)
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (4 weeks ago)
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (1 month ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (1 month ago)
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.19.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.1), today) - 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.1.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.1.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.5), today) - ArgoProj Helm Charts
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.0), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), 1 day ago) - Charts for deploying Hatchet.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.49.0](https://github.com/robusta-dev/robusta/releases/tag/0.49.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.5.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.5.0), 2 days ago) - Traefik Proxy Helm Chart
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.19.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.1), 1 day ago) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.1.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.1.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.5), 1 day ago) - ArgoProj Helm Charts
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.0), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), 2 days ago) - Charts for deploying Hatchet.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.49.0](https://github.com/robusta-dev/robusta/releases/tag/0.49.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.5.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.5.0), 3 days ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
 - [helm: configurable liveness, readiness and startup probes + named container ports](https://github.com/robusta-dev/robusta/pull/2172) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 day ago)
@@ -60,7 +60,7 @@
 #### ⭐ Recent Stars
 
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (1 month ago)
-- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (3 months ago)
+- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (4 months ago)
 - [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (5 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (9 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (9 months ago)
