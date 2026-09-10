@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.6](https://github.com/grafana/mimir/releases/tag/mimir-3.1.6), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.44.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.44.0), today) - Prometheus community Helm charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.1](https://github.com/grafana/mimir/releases/tag/mimir-3.2.1), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.18.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.1), 1 day ago) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.1.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.1.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.5), 1 day ago) - ArgoProj Helm Charts
