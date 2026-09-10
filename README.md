@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.0), today) - MCP server for Grafana
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.1](https://github.com/grafana/mimir/releases/tag/mimir-3.2.1), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.18.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.1), 1 day ago) - 
@@ -37,10 +38,9 @@
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), 2 days ago) - Charts for deploying Hatchet.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.49.0](https://github.com/robusta-dev/robusta/releases/tag/0.49.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
-- [helm: configurable liveness, readiness and startup probes + named container ports](https://github.com/robusta-dev/robusta/pull/2172) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (1 day ago)
+- [helm: configurable liveness, readiness and startup probes + named container ports](https://github.com/robusta-dev/robusta/pull/2172) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 days ago)
 - [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
 - [fix(gdocs): keep get_doc_content output aligned with document indices](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1087) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
 - [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
