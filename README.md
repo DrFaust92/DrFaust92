@@ -2,6 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (today)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (today)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 days ago)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (6 days ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (6 days ago)
@@ -10,8 +12,6 @@
 - [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (3 weeks ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (1 month ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (1 month ago)
-- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (1 month ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.173.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.173.1), today) - OpenTelemetry Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.58](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.58), today) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-90.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-90.1.1), today) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.1](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.1), today) - MCP server for Grafana
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.6), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.13), 1 day ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.1](https://github.com/grafana/mimir/releases/tag/mimir-3.2.1), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.1.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.1.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.0), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), 3 days ago) - Charts for deploying Hatchet.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.49.0](https://github.com/robusta-dev/robusta/releases/tag/0.49.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0), 3 days ago) - SRE Agent - CNCF Sandbox Project
 
 #### 🔨 My recent Pull Requests
+- [Hash only the ConfigMap data in the checksum/* pod annotations](https://github.com/Altinity/clickhouse-operator/pull/2079) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (today)
+- [Hash only the config data in checksum/* pod annotations](https://github.com/SonarSource/helm-chart-sonarqube/pull/959) on [SonarSource/helm-chart-sonarqube](https://github.com/SonarSource/helm-chart-sonarqube) (today)
+- [K8s: Hash only the config data in checksum/* pod annotations](https://github.com/SeleniumHQ/docker-selenium/pull/3237) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (today)
+- [[grafana] Hash only the config data in checksum/* annotations](https://github.com/grafana-community/helm-charts/pull/797) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [Helm: hash only the config data in checksum/* pod annotations](https://github.com/grafana/mimir/pull/16571) on [grafana/mimir](https://github.com/grafana/mimir) (today)
+- [[tempo-distributed] Hash only the config data in checksum/config](https://github.com/grafana-community/helm-charts/pull/796) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [fix(opentelemetry-collector): Hash only the ConfigMap data in checksum/config](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2402) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (today)
+- [fix(argo-rollouts): hash only config data in checksum/cm annotation](https://github.com/argoproj/argo-helm/pull/4079) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
+- [fix(jenkins): hash only ConfigMap data in checksum/* pod annotations](https://github.com/jenkinsci/helm-charts/pull/1759) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (today)
 - [helm: configurable liveness, readiness and startup probes + named container ports](https://github.com/robusta-dev/robusta/pull/2172) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (3 days ago)
-- [feat(auth): expose the OAuth proxy consent mode as an env var](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1088) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
-- [fix(gdocs): keep get_doc_content output aligned with document indices](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1087) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
-- [chore: sync placer/main with upstream main](https://github.com/placer-labs/langfuse/pull/9) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
-- [ci: publish images on every push to this fork's v3 line](https://github.com/placer-labs/langfuse/pull/8) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
-- [ci: fix the release manifest publish, and drop deployment details from comments](https://github.com/placer-labs/langfuse/pull/7) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
-- [feat(vertex-ai): allow per-LLM-key GCP projectId override with ADC](https://github.com/placer-labs/langfuse/pull/6) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
-- [test: get the v3 line's pipeline green on GitHub-hosted runners](https://github.com/placer-labs/langfuse/pull/5) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
-- [ci: trim the pipeline down to what this fork needs](https://github.com/placer-labs/langfuse/pull/4) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
-- [ci: run the pipeline on this fork's v3 line](https://github.com/placer-labs/langfuse/pull/3) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 
 
 
