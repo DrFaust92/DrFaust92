@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-90.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-90.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-90.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-90.1.1), today) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.1](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.1), today) - MCP server for Grafana
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.6), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.13), 1 day ago) - 
