@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 days ago)
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (5 days ago)
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (5 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 days ago)
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (6 days ago)
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (6 days ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 weeks ago)
 - [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (3 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.13), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.28.0), today) - Prometheus community Helm charts
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.0), today) - MCP server for Grafana
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.1](https://github.com/grafana/mimir/releases/tag/mimir-3.2.1), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.1.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.1.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.5), 1 day ago) - ArgoProj Helm Charts
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.0), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), 2 days ago) - Charts for deploying Hatchet.
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.49.0](https://github.com/robusta-dev/robusta/releases/tag/0.49.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.13), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.28.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.0), 1 day ago) - MCP server for Grafana
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.1](https://github.com/grafana/mimir/releases/tag/mimir-3.2.1), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.1.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.1.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.5), 2 days ago) - ArgoProj Helm Charts
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.0), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), 3 days ago) - Charts for deploying Hatchet.
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.49.0](https://github.com/robusta-dev/robusta/releases/tag/0.49.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.41.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.41.0), 3 days ago) - SRE Agent - CNCF Sandbox Project
 
 #### 🔨 My recent Pull Requests
 - [helm: configurable liveness, readiness and startup probes + named container ports](https://github.com/robusta-dev/robusta/pull/2172) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (2 days ago)
