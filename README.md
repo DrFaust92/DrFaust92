@@ -40,6 +40,9 @@
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), 4 days ago) - Charts for deploying Hatchet.
 
 #### 🔨 My recent Pull Requests
+- [[prometheus-node-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7264) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [fix: hash only the config data in checksum/config](https://github.com/sftpgo/helm-chart/pull/79) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (today)
+- [Fix checksum annotations to hash only config data, not chart metadata](https://github.com/kafbat/helm-charts/pull/75) on [kafbat/helm-charts](https://github.com/kafbat/helm-charts) (today)
 - [fix(chart): keep the chart version out of pod labels](https://github.com/akuity/kargo/pull/7192) on [akuity/kargo](https://github.com/akuity/kargo) (today)
 - [fix(telegraf): hash only the config data in checksum/config](https://github.com/influxdata/helm-charts/pull/843) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (today)
 - [Stop restarting PMM on every chart version bump](https://github.com/percona/percona-helm-charts/pull/965) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (today)
@@ -47,9 +50,6 @@
 - [fix(atlantis): hash only the config data in checksum/* annotations](https://github.com/runatlantis/helm-charts/pull/592) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (today)
 - [Helm: hash only the config data in checksum/* pod annotations](https://github.com/apache/airflow/pull/73016) on [apache/airflow](https://github.com/apache/airflow) (today)
 - [Hash only the ConfigMap data in the checksum/* pod annotations](https://github.com/Altinity/clickhouse-operator/pull/2079) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (today)
-- [Hash only the config data in checksum/* pod annotations](https://github.com/SonarSource/helm-chart-sonarqube/pull/959) on [SonarSource/helm-chart-sonarqube](https://github.com/SonarSource/helm-chart-sonarqube) (today)
-- [K8s: Hash only the config data in checksum/* pod annotations](https://github.com/SeleniumHQ/docker-selenium/pull/3237) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (today)
-- [[grafana] Hash only the config data in checksum/* annotations](https://github.com/grafana-community/helm-charts/pull/797) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 
 
 
