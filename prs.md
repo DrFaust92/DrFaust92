@@ -7,4 +7,4 @@
 - [fix: hash only the config data in the checksum/config annotation](https://github.com/launchdarkly/ld-relay-helm/pull/146) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
 - [fix(atlantis): hash only the config data in checksum/* annotations](https://github.com/runatlantis/helm-charts/pull/592) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (today)
 - [Helm: hash only the config data in checksum/* pod annotations](https://github.com/apache/airflow/pull/73016) on [apache/airflow](https://github.com/apache/airflow) (today)
-- [Hash only the ConfigMap data in the checksum/* pod annotations](https://github.com/Altinity/clickhouse-operator/pull/2079) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (today)
+- [Hash only the ConfigMap data in the checksum/* pod annotations](https://github.com/Altinity/clickhouse-operator/pull/2079) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (1 day ago)

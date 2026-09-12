@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-90.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-90.1.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.52.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.52.0), today) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.173.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.173.1), 1 day ago) - OpenTelemetry Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.58](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.58), 1 day ago) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-90.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-90.1.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.1](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.1), 1 day ago) - MCP server for Grafana
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.6), 1 day ago) - ArgoProj Helm Charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.1](https://github.com/grafana/mimir/releases/tag/mimir-3.2.1), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
@@ -49,7 +49,7 @@
 - [fix: hash only the config data in the checksum/config annotation](https://github.com/launchdarkly/ld-relay-helm/pull/146) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
 - [fix(atlantis): hash only the config data in checksum/* annotations](https://github.com/runatlantis/helm-charts/pull/592) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (today)
 - [Helm: hash only the config data in checksum/* pod annotations](https://github.com/apache/airflow/pull/73016) on [apache/airflow](https://github.com/apache/airflow) (today)
-- [Hash only the ConfigMap data in the checksum/* pod annotations](https://github.com/Altinity/clickhouse-operator/pull/2079) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (today)
+- [Hash only the ConfigMap data in the checksum/* pod annotations](https://github.com/Altinity/clickhouse-operator/pull/2079) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (1 day ago)
 
 
 
