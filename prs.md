@@ -1,3 +1,4 @@
+- [fix(chart): keep the chart version out of pod labels](https://github.com/akuity/kargo/pull/7192) on [akuity/kargo](https://github.com/akuity/kargo) (today)
 - [fix(telegraf): hash only the config data in checksum/config](https://github.com/influxdata/helm-charts/pull/843) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (today)
 - [Stop restarting PMM on every chart version bump](https://github.com/percona/percona-helm-charts/pull/965) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (today)
 - [fix: hash only the config data in the checksum/config annotation](https://github.com/launchdarkly/ld-relay-helm/pull/146) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
@@ -7,4 +8,3 @@
 - [Hash only the config data in checksum/* pod annotations](https://github.com/SonarSource/helm-chart-sonarqube/pull/959) on [SonarSource/helm-chart-sonarqube](https://github.com/SonarSource/helm-chart-sonarqube) (today)
 - [K8s: Hash only the config data in checksum/* pod annotations](https://github.com/SeleniumHQ/docker-selenium/pull/3237) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (today)
 - [[grafana] Hash only the config data in checksum/* annotations](https://github.com/grafana-community/helm-charts/pull/797) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [Helm: hash only the config data in checksum/* pod annotations](https://github.com/grafana/mimir/pull/16571) on [grafana/mimir](https://github.com/grafana/mimir) (today)
