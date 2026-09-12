@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (today)
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (today)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 days ago)
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (6 days ago)
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (6 days ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (1 day ago)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (1 day ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (4 days ago)
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 week ago)
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (1 week ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 weeks ago)
-- [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (3 weeks ago)
+- [jenkinsci/jobcacher-plugin](https://github.com/jenkinsci/jobcacher-plugin) - Jenkins plugin that improves build performance for transient agents by caching files (4 weeks ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (1 month ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (1 month ago)
 
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.173.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.173.1), today) - OpenTelemetry Helm Charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.58](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.58), today) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.2), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-90.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-90.1.1), today) - Prometheus community Helm charts
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.1](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.1), today) - MCP server for Grafana
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.6), today) - ArgoProj Helm Charts
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.1](https://github.com/grafana/mimir/releases/tag/mimir-3.2.1), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.1.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.1.0), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.0), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), 3 days ago) - Charts for deploying Hatchet.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.173.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.173.1), 1 day ago) - OpenTelemetry Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.58](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.58), 1 day ago) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.2), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-90.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-90.1.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.1](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.1), 1 day ago) - MCP server for Grafana
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.6), 1 day ago) - ArgoProj Helm Charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.1](https://github.com/grafana/mimir/releases/tag/mimir-3.2.1), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.1.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.1.0), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.0), 4 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.18.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.18.0), 4 days ago) - Charts for deploying Hatchet.
 
 #### 🔨 My recent Pull Requests
+- [fix(telegraf): hash only the config data in checksum/config](https://github.com/influxdata/helm-charts/pull/843) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (today)
+- [Stop restarting PMM on every chart version bump](https://github.com/percona/percona-helm-charts/pull/965) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (today)
+- [fix: hash only the config data in the checksum/config annotation](https://github.com/launchdarkly/ld-relay-helm/pull/146) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
+- [fix(atlantis): hash only the config data in checksum/* annotations](https://github.com/runatlantis/helm-charts/pull/592) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (today)
+- [Helm: hash only the config data in checksum/* pod annotations](https://github.com/apache/airflow/pull/73016) on [apache/airflow](https://github.com/apache/airflow) (today)
 - [Hash only the ConfigMap data in the checksum/* pod annotations](https://github.com/Altinity/clickhouse-operator/pull/2079) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (today)
 - [Hash only the config data in checksum/* pod annotations](https://github.com/SonarSource/helm-chart-sonarqube/pull/959) on [SonarSource/helm-chart-sonarqube](https://github.com/SonarSource/helm-chart-sonarqube) (today)
 - [K8s: Hash only the config data in checksum/* pod annotations](https://github.com/SeleniumHQ/docker-selenium/pull/3237) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (today)
 - [[grafana] Hash only the config data in checksum/* annotations](https://github.com/grafana-community/helm-charts/pull/797) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [Helm: hash only the config data in checksum/* pod annotations](https://github.com/grafana/mimir/pull/16571) on [grafana/mimir](https://github.com/grafana/mimir) (today)
-- [[tempo-distributed] Hash only the config data in checksum/config](https://github.com/grafana-community/helm-charts/pull/796) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [fix(opentelemetry-collector): Hash only the ConfigMap data in checksum/config](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2402) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (today)
-- [fix(argo-rollouts): hash only config data in checksum/cm annotation](https://github.com/argoproj/argo-helm/pull/4079) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
-- [fix(jenkins): hash only ConfigMap data in checksum/* pod annotations](https://github.com/jenkinsci/helm-charts/pull/1759) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (today)
-- [helm: configurable liveness, readiness and startup probes + named container ports](https://github.com/robusta-dev/robusta/pull/2172) on [robusta-dev/robusta](https://github.com/robusta-dev/robusta) (3 days ago)
 
 
 
