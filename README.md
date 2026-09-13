@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.2.0), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.26.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.26.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.52.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.52.0), 1 day ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.173.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.173.1), 2 days ago) - OpenTelemetry Helm Charts
@@ -40,6 +40,9 @@
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.0](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.0), 5 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
+- [[kube-prometheus-stack] Render webhook matchConditions as a list](https://github.com/prometheus-community/helm-charts/pull/7275) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-state-metrics] Expose opt-in metrics, gzip and unscheduled pod tracking](https://github.com/prometheus-community/helm-charts/pull/7274) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[CI] Check for new CRD spec fields when bumping prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/7273) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Support rules, tsdb and thanosRuler spec gaps](https://github.com/prometheus-community/helm-charts/pull/7272) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Support retentionPercentage and clusterPeerName](https://github.com/prometheus-community/helm-charts/pull/7270) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.94.0](https://github.com/prometheus-community/helm-charts/pull/7269) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -47,9 +50,6 @@
 - [[prometheus-node-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7264) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [fix: hash only the config data in checksum/config](https://github.com/sftpgo/helm-chart/pull/79) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (1 day ago)
 - [Fix checksum annotations to hash only config data, not chart metadata](https://github.com/kafbat/helm-charts/pull/75) on [kafbat/helm-charts](https://github.com/kafbat/helm-charts) (1 day ago)
-- [fix(chart): keep the chart version out of pod labels](https://github.com/akuity/kargo/pull/7192) on [akuity/kargo](https://github.com/akuity/kargo) (1 day ago)
-- [fix(telegraf): hash only the config data in checksum/config](https://github.com/influxdata/helm-charts/pull/843) on [influxdata/helm-charts](https://github.com/influxdata/helm-charts) (1 day ago)
-- [Stop restarting PMM on every chart version bump](https://github.com/percona/percona-helm-charts/pull/965) on [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) (1 day ago)
 
 
 
