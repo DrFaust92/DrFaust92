@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.122.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.122.1), today) - OpenTelemetry Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.4.0), today) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.2](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.2), today) - MCP server for Grafana
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.1), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.15.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.15.1), today) - Atlantis Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.412](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.412), today) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.62](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.62), today) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.9.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.9.1), today) - ArgoProj Helm Charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.14](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.14), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.26.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.26.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.173.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.173.1), 3 days ago) - OpenTelemetry Helm Charts
 
 #### 🔨 My recent Pull Requests
 - [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[kube-prometheus-stack] Render webhook matchConditions as a list](https://github.com/prometheus-community/helm-charts/pull/7275) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[kube-prometheus-stack] Render webhook matchConditions as a list](https://github.com/prometheus-community/helm-charts/pull/7275) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-state-metrics] Expose opt-in metrics, gzip and unscheduled pod tracking](https://github.com/prometheus-community/helm-charts/pull/7274) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[CI] Check for new CRD spec fields when bumping prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/7273) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] Support rules, tsdb and thanosRuler spec gaps](https://github.com/prometheus-community/helm-charts/pull/7272) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
