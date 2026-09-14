@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (3 days ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (3 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (6 days ago)
@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-5.2.0), today) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.62](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.62), today) - Jenkins helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.9.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.9.1), today) - ArgoProj Helm Charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.14](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.14), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.2.1), 1 day ago) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.26.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.26.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.52.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.52.0), 2 days ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.173.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.173.1), 3 days ago) - OpenTelemetry Helm Charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.58](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.58), 3 days ago) - Jenkins helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.1](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.1), 3 days ago) - MCP server for Grafana
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.6), 3 days ago) - ArgoProj Helm Charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.1](https://github.com/grafana/mimir/releases/tag/mimir-3.2.1), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pg-operator-3.1.0](https://github.com/percona/percona-helm-charts/releases/tag/pg-operator-3.1.0), 5 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
