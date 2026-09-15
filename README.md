@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.19.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.19.0), today) - Charts for deploying Hatchet.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.1), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0-alpha.1](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0-alpha.1), 1 day ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
@@ -37,10 +38,9 @@
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.1), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.15.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.15.1), 1 day ago) - Atlantis Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.412](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.412), 1 day ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.62](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.62), 1 day ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
-- [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] Render webhook matchConditions as a list](https://github.com/prometheus-community/helm-charts/pull/7275) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
