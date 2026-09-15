@@ -2,8 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 day ago)
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 day ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 day ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (4 days ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (4 days ago)
@@ -11,7 +12,6 @@
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 week ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (1 week ago)
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (2 weeks ago)
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.26.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.26.2), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.41.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.41.2), today) - OpenTelemetry Helm Charts
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.19.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.19.0), today) - Charts for deploying Hatchet.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.1), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
@@ -37,12 +38,11 @@
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.2](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.2), 1 day ago) - MCP server for Grafana
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.1), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.15.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.15.1), 1 day ago) - Atlantis Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.412](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.412), 1 day ago) - 
 
 #### 🔨 My recent Pull Requests
 - [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] Render webhook matchConditions as a list](https://github.com/prometheus-community/helm-charts/pull/7275) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-state-metrics] Expose opt-in metrics, gzip and unscheduled pod tracking](https://github.com/prometheus-community/helm-charts/pull/7274) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[CI] Check for new CRD spec fields when bumping prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/7273) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
