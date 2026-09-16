@@ -28,8 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.6.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.6.0), today) - Traefik Proxy Helm Chart
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.23.0), today) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.2](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.2), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.4.1), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.26.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.26.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.41.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.41.2), 1 day ago) - OpenTelemetry Helm Charts
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.19.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.19.0), 1 day ago) - Charts for deploying Hatchet.
@@ -37,10 +38,9 @@
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0-alpha.1](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0-alpha.1), 2 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.4.2](https://github.com/grafana/mcp-grafana/releases/tag/v1.4.2), 2 days ago) - MCP server for Grafana
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.1](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.1), 2 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
-- [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
+- [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] Render webhook matchConditions as a list](https://github.com/prometheus-community/helm-charts/pull/7275) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
