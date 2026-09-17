@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([4.49.0-20260909](https://github.com/SeleniumHQ/docker-selenium/releases/tag/4.49.0-20260909), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.27.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.27.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.22.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.22.0), today) - OpenTelemetry Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.5.1](https://github.com/grafana/mcp-grafana/releases/tag/v1.5.1), today) - MCP server for Grafana
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.30.1), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.63](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.63), today) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.43.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.43.2), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.50.0](https://github.com/robusta-dev/robusta/releases/tag/0.50.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.42.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.42.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.6.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.6.0), 1 day ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
 - [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
-- [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] Render webhook matchConditions as a list](https://github.com/prometheus-community/helm-charts/pull/7275) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-state-metrics] Expose opt-in metrics, gzip and unscheduled pod tracking](https://github.com/prometheus-community/helm-charts/pull/7274) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[CI] Check for new CRD spec fields when bumping prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/7273) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
