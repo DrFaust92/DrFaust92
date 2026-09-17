@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.50.0](https://github.com/robusta-dev/robusta/releases/tag/0.50.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.42.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.42.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.6.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.6.0), 1 day ago) - Traefik Proxy Helm Chart
@@ -37,7 +38,6 @@
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.41.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.41.2), 2 days ago) - OpenTelemetry Helm Charts
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.19.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.19.0), 2 days ago) - Charts for deploying Hatchet.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.1), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 3 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
 - [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
@@ -47,8 +47,8 @@
 - [[kube-state-metrics] Expose opt-in metrics, gzip and unscheduled pod tracking](https://github.com/prometheus-community/helm-charts/pull/7274) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[CI] Check for new CRD spec fields when bumping prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/7273) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[kube-prometheus-stack] Support rules, tsdb and thanosRuler spec gaps](https://github.com/prometheus-community/helm-charts/pull/7272) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[kube-prometheus-stack] Support retentionPercentage and clusterPeerName](https://github.com/prometheus-community/helm-charts/pull/7270) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[kube-prometheus-stack] Bump prometheus-operator to v0.94.0](https://github.com/prometheus-community/helm-charts/pull/7269) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-prometheus-stack] Support retentionPercentage and clusterPeerName](https://github.com/prometheus-community/helm-charts/pull/7270) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[kube-prometheus-stack] Bump prometheus-operator to v0.94.0](https://github.com/prometheus-community/helm-charts/pull/7269) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-state-metrics] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7266) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 
