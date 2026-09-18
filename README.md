@@ -28,19 +28,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.30.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.30.2), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.27.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.27.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.22.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.22.0), 1 day ago) - OpenTelemetry Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.5.1](https://github.com/grafana/mcp-grafana/releases/tag/v1.5.1), 1 day ago) - MCP server for Grafana
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 1 day ago) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.30.1), 1 day ago) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.63](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.63), 1 day ago) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.43.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.43.2), 1 day ago) - ArgoProj Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.50.0](https://github.com/robusta-dev/robusta/releases/tag/0.50.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.42.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.42.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
 
 #### 🔨 My recent Pull Requests
-- [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
+- [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] Render webhook matchConditions as a list](https://github.com/prometheus-community/helm-charts/pull/7275) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
