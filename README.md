@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.27.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.27.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.7), 1 day ago) - ArgoProj Helm Charts
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.0), 1 day ago) - OpenTelemetry Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.31.1), 1 day ago) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.5.1](https://github.com/grafana/mcp-grafana/releases/tag/v1.5.1), 2 days ago) - MCP server for Grafana
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 2 days ago) - Like Prometheus, but for logs.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.63](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.63), 2 days ago) - Jenkins helm charts
