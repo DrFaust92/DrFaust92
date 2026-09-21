@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.23.3](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.23.3), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.2), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.2](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.2), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.40](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.40), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.27.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.27.1), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.0), 3 days ago) - OpenTelemetry Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.5.1](https://github.com/grafana/mcp-grafana/releases/tag/v1.5.1), 4 days ago) - MCP server for Grafana
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 4 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 - [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/27) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
