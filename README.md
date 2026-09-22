@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.0), today) - Atlantis Helm Chart
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.23.3](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.23.3), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.2), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
@@ -35,7 +36,6 @@
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.40](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.40), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.8), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 1 day ago) - 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.27.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.27.1), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.0), 4 days ago) - OpenTelemetry Helm Charts
 
