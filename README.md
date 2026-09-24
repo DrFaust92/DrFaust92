@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.64](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.64), today) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.5.1), 1 day ago) - Prometheus community Helm charts
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.123.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.123.1), 1 day ago) - OpenTelemetry Helm Charts
@@ -37,7 +38,6 @@
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.23.3](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.23.3), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.2), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.2](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.2), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.8), 3 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 - [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
