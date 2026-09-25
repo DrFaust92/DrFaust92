@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 days ago)
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (4 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 days ago)
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (5 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 week ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (1 week ago)
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (1 week ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (2 weeks ago)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (2 weeks ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.44.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.44.1), today) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.64](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.64), today) - Jenkins helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.123.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.123.1), 1 day ago) - OpenTelemetry Helm Charts
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0-alpha.2](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0-alpha.2), 2 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.28.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.28.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.0), 2 days ago) - Atlantis Helm Chart
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.23.3](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.23.3), 3 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.2), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.2](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.2), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-32.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-32.0.1), 1 day ago) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.64](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.64), 1 day ago) - Jenkins helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.123.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.123.1), 2 days ago) - OpenTelemetry Helm Charts
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0-alpha.2](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0-alpha.2), 3 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.28.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.28.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.0), 3 days ago) - Atlantis Helm Chart
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.23.3](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.23.3), 4 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.2](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.2), 4 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.2](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.2), 4 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
 - [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 day ago)
@@ -64,7 +64,7 @@
 - [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (6 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (10 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (10 months ago)
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (11 months ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 year ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (1 year ago)
 - [open-webui/helm-charts](https://github.com/open-webui/helm-charts) -  (1 year ago)
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments. (1 year ago)
