@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.24.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.58.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.58.0), today) - Prometheus community Helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.1), 1 day ago) - OpenTelemetry Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 1 day ago) - 
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.6.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.6.0), 1 day ago) - MCP server for Grafana
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.64](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.64), 2 days ago) - Jenkins helm charts
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0-alpha.2](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0-alpha.2), 4 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.28.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.28.0), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
