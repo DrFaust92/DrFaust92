@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (5 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (6 days ago)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 week ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (2 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (2 weeks ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (2 weeks ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (3 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.0), today) - Prometheus community Helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.29.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.29.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.1), 2 days ago) - OpenTelemetry Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 2 days ago) - 
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.6.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.6.0), 2 days ago) - MCP server for Grafana
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.64](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.64), 3 days ago) - Jenkins helm charts
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0-alpha.2](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0-alpha.2), 5 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.0), 5 days ago) - Atlantis Helm Chart
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.23.3](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.23.3), 6 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.32.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.32.1), today) - Prometheus community Helm charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.29.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.29.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.1), 3 days ago) - OpenTelemetry Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 3 days ago) - 
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.6.0](https://github.com/grafana/mcp-grafana/releases/tag/v1.6.0), 3 days ago) - MCP server for Grafana
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.64](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.64), 4 days ago) - Jenkins helm charts
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0-alpha.2](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0-alpha.2), 6 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.0), 6 days ago) - Atlantis Helm Chart
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-db-1.23.3](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-db-1.23.3), 1 week ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 - [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (4 days ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (1 month ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (2 months ago)
 - [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (4 months ago)
 - [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (6 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (10 months ago)
