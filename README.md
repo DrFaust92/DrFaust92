@@ -40,7 +40,7 @@
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0-alpha.2](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0-alpha.2), 1 week ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
 
 #### 🔨 My recent Pull Requests
-- [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (5 days ago)
+- [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (6 days ago)
 - [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (1 week ago)
 - [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/27) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
 - [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/26) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
