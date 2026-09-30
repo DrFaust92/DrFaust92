@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-target-allocator-0.160.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-target-allocator-0.160.0), today) - OpenTelemetry Helm Charts
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.6.2](https://github.com/grafana/mcp-grafana/releases/tag/v1.6.2), today) - MCP server for Grafana
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.9.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.9.4), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.2), today) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.30.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.30.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.3), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 4 days ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.64](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.64), 5 days ago) - Jenkins helm charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-target-allocator-0.160.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-target-allocator-0.160.0), 1 day ago) - OpenTelemetry Helm Charts
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.6.2](https://github.com/grafana/mcp-grafana/releases/tag/v1.6.2), 1 day ago) - MCP server for Grafana
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.9.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.9.4), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.2), 1 day ago) - Prometheus community Helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.30.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.30.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.3), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 5 days ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.64](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.64), 6 days ago) - Jenkins helm charts
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0-alpha.2](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0-alpha.2), 1 week ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
 
 #### 🔨 My recent Pull Requests
