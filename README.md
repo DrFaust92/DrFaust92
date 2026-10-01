@@ -4,7 +4,7 @@
 
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 week ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (2 weeks ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (2 weeks ago)
@@ -28,19 +28,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.9.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.9.5), today) - ArgoProj Helm Charts
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.6.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.6.1), today) - Traefik Proxy Helm Chart
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.6.3](https://github.com/grafana/mcp-grafana/releases/tag/v1.6.3), today) - MCP server for Grafana
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.23.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.23.1), today) - OpenTelemetry Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.2), 1 day ago) - Prometheus community Helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.30.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.30.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.3), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 5 days ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.64](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.64), 6 days ago) - Jenkins helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.9.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.9.5), 1 day ago) - ArgoProj Helm Charts
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.6.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.6.1), 1 day ago) - Traefik Proxy Helm Chart
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v1.6.3](https://github.com/grafana/mcp-grafana/releases/tag/v1.6.3), 1 day ago) - MCP server for Grafana
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.23.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.23.1), 1 day ago) - OpenTelemetry Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.2), 2 days ago) - Prometheus community Helm charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.30.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.30.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.3), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 6 days ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.64](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.64), 1 week ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
-- [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (6 days ago)
+- [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
 - [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (1 week ago)
 - [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/27) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
 - [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/26) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
