@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.14.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.14.2), today) - OpenTelemetry Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), today) - Prometheus community Helm charts
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0), today) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.65](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.65), today) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.175.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.175.0), 1 day ago) - OpenTelemetry Helm Charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v1.30.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v1.30.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.0.0](https://github.com/grafana/mcp-grafana/releases/tag/v2.0.0), 1 day ago) - MCP server for Grafana
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.9.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.9.6), 1 day ago) - ArgoProj Helm Charts
@@ -42,10 +42,10 @@
 #### 🔨 My recent Pull Requests
 - [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
 - [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (1 week ago)
-- [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/27) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
-- [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/26) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
-- [Refresh the lock and take okta 3.4.5](https://github.com/placer-labs/okta-mcp-server/pull/25) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
-- [Port get_login_failures, device assurance tools and STAGED user creation from upstream](https://github.com/placer-labs/okta-mcp-server/pull/24) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
+- [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/27) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
+- [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/26) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
+- [Refresh the lock and take okta 3.4.5](https://github.com/placer-labs/okta-mcp-server/pull/25) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
+- [Port get_login_failures, device assurance tools and STAGED user creation from upstream](https://github.com/placer-labs/okta-mcp-server/pull/24) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
 - [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
