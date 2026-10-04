@@ -1,3 +1,4 @@
+- [[grafana-mcp] Add an optional PodDisruptionBudget](https://github.com/grafana-community/helm-charts/pull/862) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
 - [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (1 week ago)
 - [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/27) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
@@ -7,4 +8,3 @@
 - [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-prometheus-stack] Render webhook matchConditions as a list](https://github.com/prometheus-community/helm-charts/pull/7275) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
