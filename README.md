@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.0.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.415](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.415), today) - 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.3), today) - OpenTelemetry Helm Charts
+- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) ([v1.10.0](https://github.com/apache/yunikorn-core/releases/tag/v1.10.0), today) - Apache YuniKorn Core
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.4](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.4), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.43.6](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.43.6), today) - ArgoProj Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.0.1](https://github.com/grafana/mcp-grafana/releases/tag/v2.0.1), today) - MCP server for Grafana
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) ([v1.23.1](https://github.com/percona/percona-server-mongodb-operator/releases/tag/v1.23.1), 1 day ago) - Percona Operator for MongoDB
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([psmdb-operator-crds-1.23.1](https://github.com/percona/percona-helm-charts/releases/tag/psmdb-operator-crds-1.23.1), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.175.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.175.1), 1 day ago) - OpenTelemetry Helm Charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.66](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.66), 1 day ago) - Jenkins helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.0.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.0.1), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 4 days ago) - Prometheus community Helm charts
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.6.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.6.0), 4 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
 
 #### 🔨 My recent Pull Requests
 - [[grafana-mcp] Add an optional PodDisruptionBudget](https://github.com/grafana-community/helm-charts/pull/862) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
