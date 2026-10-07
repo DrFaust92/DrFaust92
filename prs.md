@@ -1,3 +1,5 @@
+- [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
+- [feat(docker): include the valkey extra in the image](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1231) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (today)
 - [[grafana-mcp] Add an optional PodDisruptionBudget](https://github.com/grafana-community/helm-charts/pull/862) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
 - [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
 - [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (2 weeks ago)
@@ -6,5 +8,3 @@
 - [Refresh the lock and take okta 3.4.5](https://github.com/placer-labs/okta-mcp-server/pull/25) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
 - [Port get_login_failures, device assurance tools and STAGED user creation from upstream](https://github.com/placer-labs/okta-mcp-server/pull/24) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
 - [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 weeks ago)
-- [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)

@@ -28,18 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.51.0](https://github.com/robusta-dev/robusta/releases/tag/0.51.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.43.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.43.0), today) - SRE Agent - CNCF Sandbox Project
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-2.1.0), today) - Prometheus community Helm charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.24.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.24.2), 1 day ago) - OpenTelemetry Helm Charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.7](https://github.com/grafana/mimir/releases/tag/mimir-3.1.7), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.0.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.415](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.415), 1 day ago) - 
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) ([v1.10.0](https://github.com/apache/yunikorn-core/releases/tag/v1.10.0), 1 day ago) - Apache YuniKorn Core
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.4](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.4), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.43.6](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.43.6), 1 day ago) - ArgoProj Helm Charts
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.0.1](https://github.com/grafana/mcp-grafana/releases/tag/v2.0.1), 1 day ago) - MCP server for Grafana
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) ([v1.23.1](https://github.com/percona/percona-server-mongodb-operator/releases/tag/v1.23.1), 2 days ago) - Percona Operator for MongoDB
 
 #### 🔨 My recent Pull Requests
+- [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
+- [feat(docker): include the valkey extra in the image](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1231) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (today)
 - [[grafana-mcp] Add an optional PodDisruptionBudget](https://github.com/grafana-community/helm-charts/pull/862) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
 - [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
 - [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (2 weeks ago)
@@ -48,8 +50,6 @@
 - [Refresh the lock and take okta 3.4.5](https://github.com/placer-labs/okta-mcp-server/pull/25) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
 - [Port get_login_failures, device assurance tools and STAGED user creation from upstream](https://github.com/placer-labs/okta-mcp-server/pull/24) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
 - [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 weeks ago)
-- [[kube-prometheus-stack] Document the Argo CD ServerSideApply requirement](https://github.com/prometheus-community/helm-charts/pull/7277) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [[kube-prometheus-stack] Support topologySpreadConstraints on the operator](https://github.com/prometheus-community/helm-charts/pull/7276) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 
 
