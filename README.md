@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.15](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.15), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.2.0), today) - Prometheus community Helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.7.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.7.0), today) - Traefik Proxy Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.10.1), today) - ArgoProj Helm Charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.1), today) - Atlantis Helm Chart
