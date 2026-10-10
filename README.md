@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 days ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (3 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (2 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), today) - 
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.20.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.20.0), today) - Charts for deploying Hatchet.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.12), today) - ArgoProj Helm Charts
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.7.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.7.1), today) - Traefik Proxy Helm Chart
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.1.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.1.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.2.0), 1 day ago) - Prometheus community Helm charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.1), 1 day ago) - Atlantis Helm Chart
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.0.2](https://github.com/grafana/mcp-grafana/releases/tag/v2.0.2), 2 days ago) - MCP server for Grafana
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.24.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.24.3), 2 days ago) - OpenTelemetry Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.3.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 1 day ago) - 
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.20.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.20.0), 1 day ago) - Charts for deploying Hatchet.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.12](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.12), 1 day ago) - ArgoProj Helm Charts
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.7.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.7.1), 1 day ago) - Traefik Proxy Helm Chart
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.1.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.1.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.1), 2 days ago) - Atlantis Helm Chart
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.0.2](https://github.com/grafana/mcp-grafana/releases/tag/v2.0.2), 3 days ago) - MCP server for Grafana
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.24.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.24.3), 3 days ago) - OpenTelemetry Helm Charts
 
 #### 🔨 My recent Pull Requests
 - [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
@@ -60,7 +60,7 @@
 #### ⭐ Recent Stars
 
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (2 months ago)
-- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (4 months ago)
+- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (5 months ago)
 - [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (6 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (10 months ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (10 months ago)
