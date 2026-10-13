@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.3.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.3.2), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.43.7](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.43.7), today) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.5), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.44.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.44.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), 3 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 4 days ago) - 
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.20.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.20.0), 4 days ago) - Charts for deploying Hatchet.
@@ -40,16 +40,16 @@
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.1), 5 days ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
-- [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (5 days ago)
-- [feat(docker): include the valkey extra in the image](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1231) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (5 days ago)
+- [chart(feature): add extraVolumes, extraVolumeMounts and initContainers to router and distributor](https://github.com/SeleniumHQ/docker-selenium/pull/3253) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (today)
+- [billingbudgets: add spend_cap to google_billing_budget](https://github.com/GoogleCloudPlatform/magic-modules/pull/19315) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (today)
+- [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (6 days ago)
+- [feat(docker): include the valkey extra in the image](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1231) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (6 days ago)
 - [[grafana-mcp] Add an optional PodDisruptionBudget](https://github.com/grafana-community/helm-charts/pull/862) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
 - [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (3 weeks ago)
 - [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/27) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 weeks ago)
 - [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/26) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 weeks ago)
 - [Refresh the lock and take okta 3.4.5](https://github.com/placer-labs/okta-mcp-server/pull/25) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 weeks ago)
-- [Port get_login_failures, device assurance tools and STAGED user creation from upstream](https://github.com/placer-labs/okta-mcp-server/pull/24) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 weeks ago)
-- [[loki] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/809) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 weeks ago)
 
 
 
