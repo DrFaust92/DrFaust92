@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.125.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.125.0), today) - OpenTelemetry Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.16](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.16), today) - 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.4), today) - OpenTelemetry Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.52.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.52.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.44.0-alpha.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.44.0-alpha.1), today) - SRE Agent - CNCF Sandbox Project
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.60.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.60.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
