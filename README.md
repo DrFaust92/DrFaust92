@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.2), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.16](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.16), today) - 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.4), today) - OpenTelemetry Helm Charts
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.52.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.52.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.44.0-alpha.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.44.0-alpha.1), today) - SRE Agent - CNCF Sandbox Project
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.60.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.60.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.43.7](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.43.7), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.5), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.44.0-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.44.0-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), 3 days ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 4 days ago) - 
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.20.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.20.0), 4 days ago) - Charts for deploying Hatchet.
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v41.7.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v41.7.1), 4 days ago) - Traefik Proxy Helm Chart
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.1.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.1.0), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.1), 5 days ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
 - [chart(feature): add extraVolumes, extraVolumeMounts and initContainers to router and distributor](https://github.com/SeleniumHQ/docker-selenium/pull/3253) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (today)
