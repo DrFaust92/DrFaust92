@@ -6,5 +6,5 @@
 - [[grafana-mcp] Add an optional PodDisruptionBudget](https://github.com/grafana-community/helm-charts/pull/862) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 weeks ago)
 - [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (3 weeks ago)
-- [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/27) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 weeks ago)
-- [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/26) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 weeks ago)
+- [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/27) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (4 weeks ago)
+- [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/26) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (4 weeks ago)
