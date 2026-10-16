@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.0), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.69](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.69), today) - Jenkins helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.3](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.3), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.7.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.7.0), 1 day ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-target-allocator-0.161.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-target-allocator-0.161.1), 1 day ago) - OpenTelemetry Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.9.0), 1 day ago) - Prometheus community Helm charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.0.0), 1 day ago) - Traefik Proxy Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.53.0](https://github.com/robusta-dev/robusta/releases/tag/0.53.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.45.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.45.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
