@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.53.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.53.0), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.43.8](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.43.8), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.69](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.69), today) - Jenkins helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.3](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.3), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.7.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.7.0), 1 day ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-target-allocator-0.161.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-target-allocator-0.161.1), 1 day ago) - OpenTelemetry Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.0.0), 1 day ago) - Traefik Proxy Helm Chart
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.53.0](https://github.com/robusta-dev/robusta/releases/tag/0.53.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.45.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.45.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.10.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.10.5), 1 day ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 - [fix(datasource/jenkins-plugins): emit requiredCore as maven range](https://github.com/renovatebot/renovate/pull/47093) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (today)
@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [dotcomjack](https://github.com/dotcomjack)
 - [noorgx](https://github.com/noorgx)
 - [Charan-knight](https://github.com/Charan-knight)
 - [yerbis09](https://github.com/yerbis09)
 - [JosephNiklas12](https://github.com/JosephNiklas12)
-- [angiemsotillo](https://github.com/angiemsotillo)
 
 #### 💬 Feedback
 
