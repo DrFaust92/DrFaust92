@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v46.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v46.0.0), 2 days ago) - Configures opinionated GKE clusters
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.25.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.25.0), 3 days ago) - OpenTelemetry Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.1), 3 days ago) - Prometheus community Helm charts
@@ -40,10 +40,10 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.53.0](https://github.com/robusta-dev/robusta/releases/tag/0.53.0), 4 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
-- [feat(detectors): add Cloud Storage HMAC key detector](https://github.com/trufflesecurity/trufflehog/pull/5439) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (1 day ago)
+- [feat(detectors): add Cloud Storage HMAC key detector](https://github.com/trufflesecurity/trufflehog/pull/5439) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (2 days ago)
 - [fix(datasource/jenkins-plugins): emit requiredCore as maven range](https://github.com/renovatebot/renovate/pull/47093) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (3 days ago)
-- [chart(feature): add extraVolumes, extraVolumeMounts and initContainers to router and distributor](https://github.com/SeleniumHQ/docker-selenium/pull/3253) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (5 days ago)
-- [billingbudgets: add spend_cap to google_billing_budget](https://github.com/GoogleCloudPlatform/magic-modules/pull/19315) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (5 days ago)
+- [chart(feature): add extraVolumes, extraVolumeMounts and initContainers to router and distributor](https://github.com/SeleniumHQ/docker-selenium/pull/3253) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (6 days ago)
+- [billingbudgets: add spend_cap to google_billing_budget](https://github.com/GoogleCloudPlatform/magic-modules/pull/19315) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (6 days ago)
 - [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
 - [feat(docker): include the valkey extra in the image](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1231) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
 - [[grafana-mcp] Add an optional PodDisruptionBudget](https://github.com/grafana-community/helm-charts/pull/862) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
