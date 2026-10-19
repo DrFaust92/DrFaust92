@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.14.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.14.0), today) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v46.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v46.0.0), 2 days ago) - Configures opinionated GKE clusters
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.25.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.25.0), 3 days ago) - OpenTelemetry Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.1), 3 days ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.53.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.53.0), 3 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.43.8](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.43.8), 3 days ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.69](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.69), 3 days ago) - Jenkins helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.3](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.3), 3 days ago) - 
