@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.25.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.25.1), today) - OpenTelemetry Helm Charts
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.3](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.3), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-4.0.1), today) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.1.1](https://github.com/grafana/mcp-grafana/releases/tag/v2.1.1), today) - MCP server for Grafana
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.1.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.1.0), today) - Traefik Proxy Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.72](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.72), today) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.11.0), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.1.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.1.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.16](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.16), today) - 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.54.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.54.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.126.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.126.1), 1 day ago) - OpenTelemetry Helm Charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.6](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.6), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
 - [feat(detectors): add Cloud Storage HMAC key detector](https://github.com/trufflesecurity/trufflehog/pull/5439) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (3 days ago)
