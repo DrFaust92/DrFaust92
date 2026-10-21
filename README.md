@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.17](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.17), today) - 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0-alpha.1](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0-alpha.1), today) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.3.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.3.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.37.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.37.1), today) - Prometheus community Helm charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.1.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.1.2), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.17](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.17), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.1.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.1.2), today) - Traefik Proxy Helm Chart
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.2), today) - Atlantis Helm Chart
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.5), 1 day ago) - OpenTelemetry Helm Charts
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.3](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.3), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-4.0.1), 1 day ago) - Prometheus community Helm charts
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.1.1](https://github.com/grafana/mcp-grafana/releases/tag/v2.1.1), 1 day ago) - MCP server for Grafana
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.72](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.72), 1 day ago) - Jenkins helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.1.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.1.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 
 #### 🔨 My recent Pull Requests
 - [feat(detectors): add Cloud Storage HMAC key detector](https://github.com/trufflesecurity/trufflehog/pull/5439) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (4 days ago)
@@ -47,8 +47,8 @@
 - [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
 - [feat(docker): include the valkey extra in the image](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1231) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 weeks ago)
 - [[grafana-mcp] Add an optional PodDisruptionBudget](https://github.com/grafana-community/helm-charts/pull/862) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
-- [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 weeks ago)
-- [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (4 weeks ago)
+- [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (4 weeks ago)
+- [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (1 month ago)
 - [Move to fastmcp 4](https://github.com/placer-labs/okta-mcp-server/pull/27) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 month ago)
 
 
