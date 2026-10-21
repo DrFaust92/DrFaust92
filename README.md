@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.17](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.17), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.1.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.1.2), today) - Traefik Proxy Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.15](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.15), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.2), today) - Atlantis Helm Chart
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.5), 1 day ago) - OpenTelemetry Helm Charts
