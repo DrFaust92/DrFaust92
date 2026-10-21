@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.2), today) - Atlantis Helm Chart
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.5), 1 day ago) - OpenTelemetry Helm Charts
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.3](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.3), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-4.0.1), 1 day ago) - Prometheus community Helm charts
@@ -36,11 +38,9 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.72](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.72), 1 day ago) - Jenkins helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.1.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.1.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.16](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.16), 1 day ago) - 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.54.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.54.0-alpha), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
-- [feat(detectors): add Cloud Storage HMAC key detector](https://github.com/trufflesecurity/trufflehog/pull/5439) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (3 days ago)
+- [feat(detectors): add Cloud Storage HMAC key detector](https://github.com/trufflesecurity/trufflehog/pull/5439) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (4 days ago)
 - [fix(datasource/jenkins-plugins): emit requiredCore as maven range](https://github.com/renovatebot/renovate/pull/47093) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (5 days ago)
 - [chart(feature): add extraVolumes, extraVolumeMounts and initContainers to router and distributor](https://github.com/SeleniumHQ/docker-selenium/pull/3253) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
 - [billingbudgets: add spend_cap to google_billing_budget](https://github.com/GoogleCloudPlatform/magic-modules/pull/19315) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
@@ -78,8 +78,8 @@
 - [dotcomjack](https://github.com/dotcomjack)
 - [noorgx](https://github.com/noorgx)
 - [Charan-knight](https://github.com/Charan-knight)
-- [yerbis09](https://github.com/yerbis09)
 - [JosephNiklas12](https://github.com/JosephNiklas12)
+- [angiemsotillo](https://github.com/angiemsotillo)
 
 #### 💬 Feedback
 
