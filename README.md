@@ -28,24 +28,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.1.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.1.2), today) - Traefik Proxy Helm Chart
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.15](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.15), today) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-6.16.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-6.16.2), today) - Atlantis Helm Chart
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.5), 1 day ago) - OpenTelemetry Helm Charts
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.3](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.3), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-4.0.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.1.1](https://github.com/grafana/mcp-grafana/releases/tag/v2.1.1), 1 day ago) - MCP server for Grafana
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.1.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.1.0), 1 day ago) - Traefik Proxy Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.72](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.72), 1 day ago) - Jenkins helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.1.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.1.1), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.16](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.16), 1 day ago) - 
 
 #### 🔨 My recent Pull Requests
 - [feat(detectors): add Cloud Storage HMAC key detector](https://github.com/trufflesecurity/trufflehog/pull/5439) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (4 days ago)
 - [fix(datasource/jenkins-plugins): emit requiredCore as maven range](https://github.com/renovatebot/renovate/pull/47093) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (5 days ago)
 - [chart(feature): add extraVolumes, extraVolumeMounts and initContainers to router and distributor](https://github.com/SeleniumHQ/docker-selenium/pull/3253) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
 - [billingbudgets: add spend_cap to google_billing_budget](https://github.com/GoogleCloudPlatform/magic-modules/pull/19315) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 week ago)
-- [feat(docker): include the valkey extra in the image](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1231) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 week ago)
+- [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
+- [feat(docker): include the valkey extra in the image](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1231) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 weeks ago)
 - [[grafana-mcp] Add an optional PodDisruptionBudget](https://github.com/grafana-community/helm-charts/pull/862) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
 - [feat: add list_group_push_mappings tool](https://github.com/placer-labs/okta-mcp-server/pull/28) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 weeks ago)
 - [feat(detectors): add ClickHouse detector](https://github.com/trufflesecurity/trufflehog/pull/5338) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (4 weeks ago)
