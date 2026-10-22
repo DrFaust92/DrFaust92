@@ -28,18 +28,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.177.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.177.0), today) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.126.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.126.2), today) - OpenTelemetry Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.20.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.14), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.9.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.9.2), today) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.73](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.73), today) - Jenkins helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.4), today) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.8](https://github.com/grafana/mimir/releases/tag/mimir-3.1.8), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.1.3](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.1.3), today) - Traefik Proxy Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.23.0), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-dependencies-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-dependencies-1.2.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
+- [Skip line counts for files that disable diffs in .gitattributes](https://github.com/jenkinsci/git-forensics-plugin/pull/1331) on [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) (today)
 - [feat(argo-cd): set a pod-level security context by default](https://github.com/argoproj/argo-helm/pull/4162) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [feat(jenkins): drop all capabilities and set a RuntimeDefault seccomp profile](https://github.com/jenkinsci/helm-charts/pull/1789) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (today)
 - [feat(atlantis): default to a restricted security context, narrow secrets RBAC](https://github.com/runatlantis/helm-charts/pull/601) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (today)
@@ -49,7 +50,6 @@
 - [fix(datasource/jenkins-plugins): emit requiredCore as maven range](https://github.com/renovatebot/renovate/pull/47093) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 days ago)
 - [chart(feature): add extraVolumes, extraVolumeMounts and initContainers to router and distributor](https://github.com/SeleniumHQ/docker-selenium/pull/3253) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
 - [billingbudgets: add spend_cap to google_billing_budget](https://github.com/GoogleCloudPlatform/magic-modules/pull/19315) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
 
 
 

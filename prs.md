@@ -1,3 +1,4 @@
+- [Skip line counts for files that disable diffs in .gitattributes](https://github.com/jenkinsci/git-forensics-plugin/pull/1331) on [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) (today)
 - [feat(argo-cd): set a pod-level security context by default](https://github.com/argoproj/argo-helm/pull/4162) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [feat(jenkins): drop all capabilities and set a RuntimeDefault seccomp profile](https://github.com/jenkinsci/helm-charts/pull/1789) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (today)
 - [feat(atlantis): default to a restricted security context, narrow secrets RBAC](https://github.com/runatlantis/helm-charts/pull/601) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) (today)
@@ -7,4 +8,3 @@
 - [fix(datasource/jenkins-plugins): emit requiredCore as maven range](https://github.com/renovatebot/renovate/pull/47093) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 days ago)
 - [chart(feature): add extraVolumes, extraVolumeMounts and initContainers to router and distributor](https://github.com/SeleniumHQ/docker-selenium/pull/3253) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
 - [billingbudgets: add spend_cap to google_billing_budget](https://github.com/GoogleCloudPlatform/magic-modules/pull/19315) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
-- [feat(auth): optional Valkey store for OAuth proxy state](https://github.com/placer-labs/okta-mcp-server/pull/29) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 weeks ago)
