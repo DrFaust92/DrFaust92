@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.5.0), today) - 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.177.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.177.0), today) - OpenTelemetry Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.14), today) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.9.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.9.2), today) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.73](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.73), today) - Jenkins helm charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.4), today) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.8](https://github.com/grafana/mimir/releases/tag/mimir-3.1.8), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.1.3](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.1.3), today) - Traefik Proxy Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.23.0), today) - Prometheus community Helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-dependencies-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-dependencies-1.2.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.3](https://github.com/grafana/mimir/releases/tag/mimir-3.2.3), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta18](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta18), today) - Apache DevLake Helm Chart
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.6](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.6), 1 day ago) - OpenTelemetry Helm Charts
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0-alpha.1](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0-alpha.1), 1 day ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.1.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.1.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.17](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.17), 1 day ago) - 
 
 #### 🔨 My recent Pull Requests
 - [feat(argo-cd): set a pod-level security context by default](https://github.com/argoproj/argo-helm/pull/4162) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
