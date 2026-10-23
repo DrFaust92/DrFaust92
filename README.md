@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.15.0), today) - Prometheus community Helm charts
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.11.1](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.11.1), today) - 
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.7.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.7.2), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.4), 1 day ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.126.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.126.2), 1 day ago) - OpenTelemetry Helm Charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.14), 1 day ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.73](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.73), 1 day ago) - Jenkins helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.4), 1 day ago) - 
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.8](https://github.com/grafana/mimir/releases/tag/mimir-3.1.8), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
