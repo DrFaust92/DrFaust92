@@ -5,6 +5,6 @@
 - [feat: default to a Pod Security Standards restricted security context](https://github.com/launchdarkly/ld-relay-helm/pull/155) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
 - [[grafana-mcp] do not automount the service account token, add seccomp profile](https://github.com/grafana-community/helm-charts/pull/915) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [feat(detectors): add Cloud Storage HMAC key detector](https://github.com/trufflesecurity/trufflehog/pull/5439) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (5 days ago)
-- [fix(datasource/jenkins-plugins): emit requiredCore as maven range](https://github.com/renovatebot/renovate/pull/47093) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 days ago)
+- [fix(datasource/jenkins-plugins): emit requiredCore as maven range](https://github.com/renovatebot/renovate/pull/47093) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 week ago)
 - [chart(feature): add extraVolumes, extraVolumeMounts and initContainers to router and distributor](https://github.com/SeleniumHQ/docker-selenium/pull/3253) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
 - [billingbudgets: add spend_cap to google_billing_budget](https://github.com/GoogleCloudPlatform/magic-modules/pull/19315) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)

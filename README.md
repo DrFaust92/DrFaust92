@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (2 days ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (3 days ago)
 - [DrFaust92/renovate-jenkins-constraints-repro](https://github.com/DrFaust92/renovate-jenkins-constraints-repro) - Minimal reproduction: jenkins-plugins constraintsFiltering drops all releases (1 week ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.126.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.126.2), today) - OpenTelemetry Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.20.2), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.14), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.9.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.9.2), today) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.73](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.73), today) - Jenkins helm charts
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.4), today) - 
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.8](https://github.com/grafana/mimir/releases/tag/mimir-3.1.8), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.1.3](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.1.3), today) - Traefik Proxy Helm Chart
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-dependencies-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-dependencies-1.2.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-32.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-32.0.2), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.4), 1 day ago) - 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.126.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.126.2), 1 day ago) - OpenTelemetry Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.14), 1 day ago) - ArgoProj Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.9.73](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.73), 1 day ago) - Jenkins helm charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.4), 1 day ago) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.8](https://github.com/grafana/mimir/releases/tag/mimir-3.1.8), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.1.3](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.1.3), 1 day ago) - Traefik Proxy Helm Chart
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-dependencies-1.2.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-dependencies-1.2.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
 - [Skip line counts for files that disable diffs in .gitattributes](https://github.com/jenkinsci/git-forensics-plugin/pull/1331) on [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) (today)
@@ -47,7 +47,7 @@
 - [feat: default to a Pod Security Standards restricted security context](https://github.com/launchdarkly/ld-relay-helm/pull/155) on [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) (today)
 - [[grafana-mcp] do not automount the service account token, add seccomp profile](https://github.com/grafana-community/helm-charts/pull/915) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [feat(detectors): add Cloud Storage HMAC key detector](https://github.com/trufflesecurity/trufflehog/pull/5439) on [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) (5 days ago)
-- [fix(datasource/jenkins-plugins): emit requiredCore as maven range](https://github.com/renovatebot/renovate/pull/47093) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 days ago)
+- [fix(datasource/jenkins-plugins): emit requiredCore as maven range](https://github.com/renovatebot/renovate/pull/47093) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 week ago)
 - [chart(feature): add extraVolumes, extraVolumeMounts and initContainers to router and distributor](https://github.com/SeleniumHQ/docker-selenium/pull/3253) on [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) (1 week ago)
 - [billingbudgets: add spend_cap to google_billing_budget](https://github.com/GoogleCloudPlatform/magic-modules/pull/19315) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (1 week ago)
 
