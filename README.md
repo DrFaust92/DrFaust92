@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (2 days ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 days ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (4 days ago)
@@ -11,7 +12,6 @@
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 month ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 month ago)
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. (1 month ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.36.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.13.1), today) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.2.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.2.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.5), 1 day ago) - 
@@ -40,6 +40,7 @@
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.4](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.4), 2 days ago) - 
 
 #### 🔨 My recent Pull Requests
+- [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [Fix reviewer paging, deployment IDs, mainbranch and commit races](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/265) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [Retry rate-limited requests with bounded backoff](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/264) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [Fix provider panics, project/repo renames and API drift](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/263) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
@@ -49,7 +50,6 @@
 - [influxdb_user: add password_wo, escape passwords in InfluxQL](https://github.com/DrFaust92/terraform-provider-influxdb/pull/13) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (1 day ago)
 - [Add write-only arguments for secrets; mark pipeline_ssh_key.private_key sensitive](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/262) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
 - [feat(chart)!: harden kubechecks chart defaults (4.0.0)](https://github.com/placer-labs/kubechecks/pull/21) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
-- [Fix 2.52.0 variable regressions and several long-standing bugs](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/261) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
 
 
 

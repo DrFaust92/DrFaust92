@@ -1,3 +1,4 @@
+- [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [Fix reviewer paging, deployment IDs, mainbranch and commit races](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/265) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [Retry rate-limited requests with bounded backoff](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/264) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [Fix provider panics, project/repo renames and API drift](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/263) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
@@ -7,4 +8,3 @@
 - [influxdb_user: add password_wo, escape passwords in InfluxQL](https://github.com/DrFaust92/terraform-provider-influxdb/pull/13) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (1 day ago)
 - [Add write-only arguments for secrets; mark pipeline_ssh_key.private_key sensitive](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/262) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
 - [feat(chart)!: harden kubechecks chart defaults (4.0.0)](https://github.com/placer-labs/kubechecks/pull/21) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
-- [Fix 2.52.0 variable regressions and several long-standing bugs](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/261) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
