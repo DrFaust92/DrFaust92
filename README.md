@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.20.2), 1 day ago) - Prometheus community Helm charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.2.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.2.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.5), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.1), 2 days ago) - ArgoProj Helm Charts
@@ -41,15 +41,15 @@
 
 #### 🔨 My recent Pull Requests
 - [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
-- [Fix reviewer paging, deployment IDs, mainbranch and commit races](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/265) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
-- [Retry rate-limited requests with bounded backoff](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/264) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
-- [Fix provider panics, project/repo renames and API drift](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/263) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
-- [Surface InfluxQL statement errors; manage the default autogen retention policy](https://github.com/DrFaust92/terraform-provider-influxdb/pull/14) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (today)
-- [Add pingdom_probes data source, registry docs and small fixes](https://github.com/DrFaust92/terraform-provider-pingdom/pull/30) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (today)
-- [pingdom_check: add password_wo](https://github.com/DrFaust92/terraform-provider-pingdom/pull/29) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (1 day ago)
-- [influxdb_user: add password_wo, escape passwords in InfluxQL](https://github.com/DrFaust92/terraform-provider-influxdb/pull/13) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (1 day ago)
-- [Add write-only arguments for secrets; mark pipeline_ssh_key.private_key sensitive](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/262) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
-- [feat(chart)!: harden kubechecks chart defaults (4.0.0)](https://github.com/placer-labs/kubechecks/pull/21) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [Fix reviewer paging, deployment IDs, mainbranch and commit races](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/265) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [Retry rate-limited requests with bounded backoff](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/264) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [Fix provider panics, project/repo renames and API drift](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/263) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [Surface InfluxQL statement errors; manage the default autogen retention policy](https://github.com/DrFaust92/terraform-provider-influxdb/pull/14) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (1 day ago)
+- [Add pingdom_probes data source, registry docs and small fixes](https://github.com/DrFaust92/terraform-provider-pingdom/pull/30) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (1 day ago)
+- [pingdom_check: add password_wo](https://github.com/DrFaust92/terraform-provider-pingdom/pull/29) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (2 days ago)
+- [influxdb_user: add password_wo, escape passwords in InfluxQL](https://github.com/DrFaust92/terraform-provider-influxdb/pull/13) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (2 days ago)
+- [Add write-only arguments for secrets; mark pipeline_ssh_key.private_key sensitive](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/262) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
+- [feat(chart)!: harden kubechecks chart defaults (4.0.0)](https://github.com/placer-labs/kubechecks/pull/21) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
 
 
 
