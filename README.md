@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.127.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.127.0), today) - OpenTelemetry Helm Charts
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0-rc.1](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0-rc.1), today) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.14.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.6), today) - ArgoProj Helm Charts
@@ -36,8 +38,6 @@
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.2.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.2.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.11.1](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.11.1), 3 days ago) - 
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.7.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.7.2), 3 days ago) - 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.126.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.126.2), 4 days ago) - OpenTelemetry Helm Charts
 
 #### 🔨 My recent Pull Requests
 - [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
