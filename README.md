@@ -28,19 +28,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-2.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-2.3.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.3), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.14.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.2), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.6), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.0), 1 day ago) - Jenkins helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.19](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.19), 1 day ago) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.2.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.2.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.5), 3 days ago) - 
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.11.1](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.11.1), 3 days ago) - 
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.7.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.7.2), 3 days ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.126.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.126.2), 4 days ago) - OpenTelemetry Helm Charts
 
 #### 🔨 My recent Pull Requests
-- [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
 - [Fix reviewer paging, deployment IDs, mainbranch and commit races](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/265) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
 - [Retry rate-limited requests with bounded backoff](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/264) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
 - [Fix provider panics, project/repo renames and API drift](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/263) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
@@ -76,10 +76,10 @@
 #### 👯 Check out some of my recent followers
 
 - [dotcomjack](https://github.com/dotcomjack)
-- [noorgx](https://github.com/noorgx)
 - [Charan-knight](https://github.com/Charan-knight)
 - [JosephNiklas12](https://github.com/JosephNiklas12)
 - [angiemsotillo](https://github.com/angiemsotillo)
+- [adornetejr](https://github.com/adornetejr)
 
 #### 💬 Feedback
 
