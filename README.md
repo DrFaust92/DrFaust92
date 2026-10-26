@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-2.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-2.3.0), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.3), today) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.0), 1 day ago) - Jenkins helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.19](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.19), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.19.0), 1 day ago) - Prometheus community Helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.2.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.2.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.5), 3 days ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.1), 3 days ago) - ArgoProj Helm Charts
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.11.1](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.11.1), 3 days ago) - 
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v0.7.2](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v0.7.2), 3 days ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.126.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.126.2), 4 days ago) - OpenTelemetry Helm Charts
 
 #### 🔨 My recent Pull Requests
 - [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
-- [Fix reviewer paging, deployment IDs, mainbranch and commit races](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/265) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
-- [Retry rate-limited requests with bounded backoff](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/264) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
-- [Fix provider panics, project/repo renames and API drift](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/263) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [Fix reviewer paging, deployment IDs, mainbranch and commit races](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/265) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
+- [Retry rate-limited requests with bounded backoff](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/264) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
+- [Fix provider panics, project/repo renames and API drift](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/263) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
 - [Surface InfluxQL statement errors; manage the default autogen retention policy](https://github.com/DrFaust92/terraform-provider-influxdb/pull/14) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (2 days ago)
 - [Add pingdom_probes data source, registry docs and small fixes](https://github.com/DrFaust92/terraform-provider-pingdom/pull/30) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (2 days ago)
-- [pingdom_check: add password_wo](https://github.com/DrFaust92/terraform-provider-pingdom/pull/29) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (2 days ago)
-- [influxdb_user: add password_wo, escape passwords in InfluxQL](https://github.com/DrFaust92/terraform-provider-influxdb/pull/13) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (2 days ago)
-- [Add write-only arguments for secrets; mark pipeline_ssh_key.private_key sensitive](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/262) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
-- [feat(chart)!: harden kubechecks chart defaults (4.0.0)](https://github.com/placer-labs/kubechecks/pull/21) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
+- [pingdom_check: add password_wo](https://github.com/DrFaust92/terraform-provider-pingdom/pull/29) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (3 days ago)
+- [influxdb_user: add password_wo, escape passwords in InfluxQL](https://github.com/DrFaust92/terraform-provider-influxdb/pull/13) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (3 days ago)
+- [Add write-only arguments for secrets; mark pipeline_ssh_key.private_key sensitive](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/262) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (3 days ago)
+- [feat(chart)!: harden kubechecks chart defaults (4.0.0)](https://github.com/placer-labs/kubechecks/pull/21) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (3 days ago)
 
 
 
