@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (4 days ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (4 days ago)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (6 days ago)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (5 days ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (5 days ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 week ago)
 - [DrFaust92/renovate-jenkins-constraints-repro](https://github.com/DrFaust92/renovate-jenkins-constraints-repro) - Minimal reproduction: jenkins-plugins constraintsFiltering drops all releases (1 week ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.127.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.127.0), today) - OpenTelemetry Helm Charts
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0-rc.1](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0-rc.1), today) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.14.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.2), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.6), today) - ArgoProj Helm Charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.0), 1 day ago) - Jenkins helm charts
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.19](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.19), 1 day ago) - 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.2.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.2.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.11.1](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.11.1), 3 days ago) - 
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.21.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.21.0), 1 day ago) - Charts for deploying Hatchet.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.10.0), 1 day ago) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.127.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.127.0), 1 day ago) - OpenTelemetry Helm Charts
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0-rc.1](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0-rc.1), 1 day ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.2), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.6), 1 day ago) - ArgoProj Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.0), 2 days ago) - Jenkins helm charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.19](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.19), 2 days ago) - 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.2.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.2.0), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 
 #### 🔨 My recent Pull Requests
 - [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
