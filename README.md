@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.5](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.5), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.39.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.39.0), today) - Prometheus community Helm charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.2.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.2.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.21.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.21.0), 1 day ago) - Charts for deploying Hatchet.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.10.0), 1 day ago) - Prometheus community Helm charts
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.127.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.127.0), 1 day ago) - OpenTelemetry Helm Charts
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0-rc.1](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0-rc.1), 1 day ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.2), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.6), 1 day ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.0), 2 days ago) - Jenkins helm charts
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.19](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.19), 2 days ago) - 
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.2.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.2.0), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 
 #### 🔨 My recent Pull Requests
+- [feat: add auto_ipam_enabled](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2690) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
+- [feat: add ignore_node_count_changes](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2689) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
+- [feat: add node_creation_mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2688) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
-- [Fix reviewer paging, deployment IDs, mainbranch and commit races](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/265) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
-- [Retry rate-limited requests with bounded backoff](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/264) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
-- [Fix provider panics, project/repo renames and API drift](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/263) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
-- [Surface InfluxQL statement errors; manage the default autogen retention policy](https://github.com/DrFaust92/terraform-provider-influxdb/pull/14) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (2 days ago)
-- [Add pingdom_probes data source, registry docs and small fixes](https://github.com/DrFaust92/terraform-provider-pingdom/pull/30) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (2 days ago)
-- [pingdom_check: add password_wo](https://github.com/DrFaust92/terraform-provider-pingdom/pull/29) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (3 days ago)
-- [influxdb_user: add password_wo, escape passwords in InfluxQL](https://github.com/DrFaust92/terraform-provider-influxdb/pull/13) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (3 days ago)
-- [Add write-only arguments for secrets; mark pipeline_ssh_key.private_key sensitive](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/262) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (3 days ago)
-- [feat(chart)!: harden kubechecks chart defaults (4.0.0)](https://github.com/placer-labs/kubechecks/pull/21) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (3 days ago)
+- [Fix reviewer paging, deployment IDs, mainbranch and commit races](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/265) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (3 days ago)
+- [Retry rate-limited requests with bounded backoff](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/264) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (3 days ago)
+- [Fix provider panics, project/repo renames and API drift](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/263) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (3 days ago)
+- [Surface InfluxQL statement errors; manage the default autogen retention policy](https://github.com/DrFaust92/terraform-provider-influxdb/pull/14) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (3 days ago)
+- [Add pingdom_probes data source, registry docs and small fixes](https://github.com/DrFaust92/terraform-provider-pingdom/pull/30) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (3 days ago)
+- [pingdom_check: add password_wo](https://github.com/DrFaust92/terraform-provider-pingdom/pull/29) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (4 days ago)
 
 
 
