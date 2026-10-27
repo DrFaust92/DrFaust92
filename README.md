@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.24.0), today) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.178.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.178.0), today) - OpenTelemetry Helm Charts
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0), today) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) ([4.2554.v178e1e0c0a_62](https://github.com/jenkinsci/git-forensics-plugin/releases/tag/4.2554.v178e1e0c0a_62), today) - Jenkins plug-in that mines and analyzes data from a Git repository
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.7), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.5](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.5), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.39.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.39.0), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.2.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.2.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.21.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.21.0), 1 day ago) - Charts for deploying Hatchet.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.127.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.127.0), 1 day ago) - OpenTelemetry Helm Charts
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0-rc.1](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0-rc.1), 1 day ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.2), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.6), 1 day ago) - ArgoProj Helm Charts
 
