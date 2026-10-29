@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.16.0), today) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.5](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.5), today) - Jenkins helm charts
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.3.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.3.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.26.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.26.0), 1 day ago) - OpenTelemetry Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.24.2](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.24.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.14.4](https://github.com/grafana/helm-charts/releases/tag/alloy-1.14.4), 1 day ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.2), 1 day ago) - Jenkins helm charts
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.0), 1 day ago) - Charts for deploying Hatchet.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0), 2 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) ([4.2554.v178e1e0c0a_62](https://github.com/jenkinsci/git-forensics-plugin/releases/tag/4.2554.v178e1e0c0a_62), 2 days ago) - Jenkins plug-in that mines and analyzes data from a Git repository
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.7), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.5](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.5), 2 days ago) - 
 
 #### 🔨 My recent Pull Requests
+- [[kube-prometheus-stack] fail the render when the operator's TLS secret has no source](https://github.com/prometheus-community/helm-charts/pull/7447) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [fix: stop per-check leaks, bound checks, and drop superseded results](https://github.com/placer-labs/kubechecks/pull/22) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
+- [feat: support GKE Sandbox on the standard cluster modules](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2693) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [feat: add auto_ipam_enabled](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2690) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
 - [feat: add ignore_node_count_changes](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2689) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
 - [feat: add node_creation_mode](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2688) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 days ago)
-- [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (4 days ago)
+- [Read SSH/GPG keys back, page deployments, send repository website](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/266) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (5 days ago)
 - [Fix reviewer paging, deployment IDs, mainbranch and commit races](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/265) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (5 days ago)
 - [Retry rate-limited requests with bounded backoff](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/264) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (5 days ago)
 - [Fix provider panics, project/repo renames and API drift](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/263) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (5 days ago)
-- [Surface InfluxQL statement errors; manage the default autogen retention policy](https://github.com/DrFaust92/terraform-provider-influxdb/pull/14) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (5 days ago)
-- [Add pingdom_probes data source, registry docs and small fixes](https://github.com/DrFaust92/terraform-provider-pingdom/pull/30) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (5 days ago)
-- [pingdom_check: add password_wo](https://github.com/DrFaust92/terraform-provider-pingdom/pull/29) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (6 days ago)
 
 
 
