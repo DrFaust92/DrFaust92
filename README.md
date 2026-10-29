@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 day ago)
-- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) - Jenkins plug-in that mines and analyzes data from a Git repository (2 days ago)
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (6 days ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (6 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 days ago)
+- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) - Jenkins plug-in that mines and analyzes data from a Git repository (3 days ago)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 week ago)
-- [DrFaust92/renovate-jenkins-constraints-repro](https://github.com/DrFaust92/renovate-jenkins-constraints-repro) - Minimal reproduction: jenkins-plugins constraintsFiltering drops all releases (1 week ago)
+- [DrFaust92/renovate-jenkins-constraints-repro](https://github.com/DrFaust92/renovate-jenkins-constraints-repro) - Minimal reproduction: jenkins-plugins constraintsFiltering drops all releases (2 weeks ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (3 weeks ago)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 month ago)
 
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.26.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.26.0), today) - OpenTelemetry Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.24.2](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.24.2), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.14.4](https://github.com/grafana/helm-charts/releases/tag/alloy-1.14.4), today) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.2), today) - Jenkins helm charts
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.0), today) - Charts for deploying Hatchet.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0), 1 day ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) ([4.2554.v178e1e0c0a_62](https://github.com/jenkinsci/git-forensics-plugin/releases/tag/4.2554.v178e1e0c0a_62), 1 day ago) - Jenkins plug-in that mines and analyzes data from a Git repository
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.7), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.5](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.5), 1 day ago) - 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.26.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.26.0), 1 day ago) - OpenTelemetry Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.24.2](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.24.2), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.14.4](https://github.com/grafana/helm-charts/releases/tag/alloy-1.14.4), 1 day ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.2), 1 day ago) - Jenkins helm charts
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.0](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.0), 1 day ago) - Charts for deploying Hatchet.
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0), 2 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) ([4.2554.v178e1e0c0a_62](https://github.com/jenkinsci/git-forensics-plugin/releases/tag/4.2554.v178e1e0c0a_62), 2 days ago) - Jenkins plug-in that mines and analyzes data from a Git repository
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.1.7](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.1.7), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.4.5](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.4.5), 2 days ago) - 
 
 #### 🔨 My recent Pull Requests
 - [feat: add auto_ipam_enabled](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2690) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1 day ago)
