@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.19.0), today) - Prometheus community Helm charts
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v47.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v47.0.0), today) - Configures opinionated GKE clusters
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.15), today) - ArgoProj Helm Charts
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.1](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.1), today) - Charts for deploying Hatchet.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-8.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-8.2.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.15.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.15.0), 1 day ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.178.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.178.1), 1 day ago) - OpenTelemetry Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.5](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.5), 1 day ago) - Jenkins helm charts
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.3.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.3.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [akuity/kargo](https://github.com/akuity/kargo) ([v1.12.5](https://github.com/akuity/kargo/releases/tag/v1.12.5), 3 days ago) - Application lifecycle orchestration
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) ([v1.7.0](https://github.com/agentgateway/agentgateway/releases/tag/v1.7.0), 3 days ago) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) ([4.2554.v178e1e0c0a_62](https://github.com/jenkinsci/git-forensics-plugin/releases/tag/4.2554.v178e1e0c0a_62), 3 days ago) - Jenkins plug-in that mines and analyzes data from a Git repository
 
 #### 🔨 My recent Pull Requests
 - [Bump the chart to 4.0.2](https://github.com/placer-labs/kubechecks/pull/30) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
