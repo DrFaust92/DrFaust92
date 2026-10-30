@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.9](https://github.com/grafana/mimir/releases/tag/mimir-3.1.9), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.10.1), today) - Prometheus community Helm charts
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.2](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.2), today) - Charts for deploying Hatchet.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.0), today) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.2.0), today) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.0), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.20.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.20.3), today) - Prometheus community Helm charts
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v47.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v47.0.0), today) - Configures opinionated GKE clusters
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.15), today) - ArgoProj Helm Charts
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.1](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.1), today) - Charts for deploying Hatchet.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.178.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.178.1), 1 day ago) - OpenTelemetry Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.5](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.5), 1 day ago) - Jenkins helm charts
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([ps-operator-1.3.0](https://github.com/percona/percona-helm-charts/releases/tag/ps-operator-1.3.0), 1 day ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
 - [Bump the chart to 4.0.2](https://github.com/placer-labs/kubechecks/pull/30) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [Bump the chart to 4.0.1](https://github.com/placer-labs/kubechecks/pull/29) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [Publish the chart to GHCR on placer/main](https://github.com/placer-labs/kubechecks/pull/28) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [Also tag placer/main images with the workflow run number](https://github.com/placer-labs/kubechecks/pull/27) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [Upgrade go-github to v93 and bump go-jose](https://github.com/placer-labs/kubechecks/pull/26) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [Handle fork merge requests on GitLab and use the enterprise API for App tokens](https://github.com/placer-labs/kubechecks/pull/25) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [Merge upstream v1.1.7](https://github.com/placer-labs/okta-mcp-server/pull/33) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
-- [build: multi-stage image without uv, pip or setuptools at runtime](https://github.com/placer-labs/okta-mcp-server/pull/32) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
-- [feat: check lifecycle and GitHub client fixes](https://github.com/placer-labs/kubechecks/pull/23) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [[grafana] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/945) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [Also tag placer/main images with the workflow run number](https://github.com/placer-labs/kubechecks/pull/27) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [Upgrade go-github to v93 and bump go-jose](https://github.com/placer-labs/kubechecks/pull/26) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [Handle fork merge requests on GitLab and use the enterprise API for App tokens](https://github.com/placer-labs/kubechecks/pull/25) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [Merge upstream v1.1.7](https://github.com/placer-labs/okta-mcp-server/pull/33) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 day ago)
+- [build: multi-stage image without uv, pip or setuptools at runtime](https://github.com/placer-labs/okta-mcp-server/pull/32) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 day ago)
+- [feat: check lifecycle and GitHub client fixes](https://github.com/placer-labs/kubechecks/pull/23) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [[grafana] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/945) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
 
 
 
