@@ -1,3 +1,6 @@
+- [Bump the chart to 4.0.2](https://github.com/placer-labs/kubechecks/pull/30) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
+- [Bump the chart to 4.0.1](https://github.com/placer-labs/kubechecks/pull/29) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
+- [Publish the chart to GHCR on placer/main](https://github.com/placer-labs/kubechecks/pull/28) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [Also tag placer/main images with the workflow run number](https://github.com/placer-labs/kubechecks/pull/27) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [Upgrade go-github to v93 and bump go-jose](https://github.com/placer-labs/kubechecks/pull/26) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [Handle fork merge requests on GitLab and use the enterprise API for App tokens](https://github.com/placer-labs/kubechecks/pull/25) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
@@ -5,6 +8,3 @@
 - [build: multi-stage image without uv, pip or setuptools at runtime](https://github.com/placer-labs/okta-mcp-server/pull/32) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
 - [feat: check lifecycle and GitHub client fixes](https://github.com/placer-labs/kubechecks/pull/23) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [[grafana] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/945) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [[tempo-distributed] keep the chart version out of the pod labels](https://github.com/grafana-community/helm-charts/pull/944) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [[kube-prometheus-stack] fail the render when the operator's TLS secret has no source](https://github.com/prometheus-community/helm-charts/pull/7447) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [fix: stop per-check leaks, bound checks, and drop superseded results](https://github.com/placer-labs/kubechecks/pull/22) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
