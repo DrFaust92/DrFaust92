@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.16.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.16.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.17.0), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.9), today) - Jenkins helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.3.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.3.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.9](https://github.com/grafana/mimir/releases/tag/mimir-3.1.9), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
