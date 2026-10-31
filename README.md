@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.40.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.40.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.16.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.16.2), today) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.9), today) - Jenkins helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.3.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.3.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.9](https://github.com/grafana/mimir/releases/tag/mimir-3.1.9), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
@@ -40,6 +40,7 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.15), 1 day ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
+- [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
 - [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (today)
@@ -49,7 +50,6 @@
 - [Add read-only visibility tools and richer app/log details](https://github.com/placer-labs/okta-mcp-server/pull/34) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
 - [Bump the chart to 4.0.2](https://github.com/placer-labs/kubechecks/pull/30) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
 - [Bump the chart to 4.0.1](https://github.com/placer-labs/kubechecks/pull/29) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
-- [Publish the chart to GHCR on placer/main](https://github.com/placer-labs/kubechecks/pull/28) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
 
 
 

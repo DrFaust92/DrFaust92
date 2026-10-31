@@ -1,3 +1,4 @@
+- [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
 - [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (today)
@@ -7,4 +8,3 @@
 - [Add read-only visibility tools and richer app/log details](https://github.com/placer-labs/okta-mcp-server/pull/34) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
 - [Bump the chart to 4.0.2](https://github.com/placer-labs/kubechecks/pull/30) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
 - [Bump the chart to 4.0.1](https://github.com/placer-labs/kubechecks/pull/29) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
-- [Publish the chart to GHCR on placer/main](https://github.com/placer-labs/kubechecks/pull/28) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
