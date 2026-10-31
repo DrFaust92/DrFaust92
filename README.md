@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (today)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (4 days ago)
 - [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) - Jenkins plug-in that mines and analyzes data from a Git repository (5 days ago)
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (6 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.40.1), 1 day ago) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.6](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.6), 1 day ago) - Jenkins helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.40.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.40.3), today) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.9), today) - Jenkins helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.3.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.3.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.9](https://github.com/grafana/mimir/releases/tag/mimir-3.1.9), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.2](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.2), 1 day ago) - Charts for deploying Hatchet.
