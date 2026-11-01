@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) ([4.2557.v2c7f200dfc72](https://github.com/jenkinsci/git-forensics-plugin/releases/tag/4.2557.v2c7f200dfc72), today) - Jenkins plug-in that mines and analyzes data from a Git repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.17.0), 1 day ago) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.9), 1 day ago) - Jenkins helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.3.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.3.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
@@ -37,10 +38,9 @@
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.2.0), 2 days ago) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.0), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v47.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v47.0.0), 2 days ago) - Configures opinionated GKE clusters
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.15), 2 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
-- [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
+- [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
 - [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 day ago)
 - [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
 - [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (1 day ago)
