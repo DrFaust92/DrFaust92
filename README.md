@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (today)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 days ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (4 days ago)
-- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) - Jenkins plug-in that mines and analyzes data from a Git repository (5 days ago)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (1 day ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (3 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (5 days ago)
+- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) - Jenkins plug-in that mines and analyzes data from a Git repository (6 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.17.0), today) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.9), today) - Jenkins helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.3.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.3.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.9](https://github.com/grafana/mimir/releases/tag/mimir-3.1.9), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.2](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.2), 1 day ago) - Charts for deploying Hatchet.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.0), 1 day ago) - 
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.2.0), 1 day ago) - Traefik Proxy Helm Chart
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.0), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v47.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v47.0.0), 1 day ago) - Configures opinionated GKE clusters
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.15), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.17.0), 1 day ago) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.9), 1 day ago) - Jenkins helm charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.3.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.3.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.9](https://github.com/grafana/mimir/releases/tag/mimir-3.1.9), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.2](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.2), 2 days ago) - Charts for deploying Hatchet.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.0), 2 days ago) - 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.2.0), 2 days ago) - Traefik Proxy Helm Chart
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.0), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v47.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v47.0.0), 2 days ago) - Configures opinionated GKE clusters
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.15), 2 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 - [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
 - [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (today)
-- [Keep user logins out of logs and traces](https://github.com/placer-labs/okta-mcp-server/pull/36) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
-- [Bandit lint rules, workflow hardening, tool annotations and per-caller rate limiting](https://github.com/placer-labs/okta-mcp-server/pull/35) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
-- [Harden GitHub Actions workflows and lint them with zizmor and actionlint](https://github.com/placer-labs/kubechecks/pull/31) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [Add read-only visibility tools and richer app/log details](https://github.com/placer-labs/okta-mcp-server/pull/34) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
-- [Bump the chart to 4.0.2](https://github.com/placer-labs/kubechecks/pull/30) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
-- [Bump the chart to 4.0.1](https://github.com/placer-labs/kubechecks/pull/29) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (1 day ago)
+- [Keep user logins out of logs and traces](https://github.com/placer-labs/okta-mcp-server/pull/36) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 day ago)
+- [Bandit lint rules, workflow hardening, tool annotations and per-caller rate limiting](https://github.com/placer-labs/okta-mcp-server/pull/35) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 day ago)
+- [Harden GitHub Actions workflows and lint them with zizmor and actionlint](https://github.com/placer-labs/kubechecks/pull/31) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [Add read-only visibility tools and richer app/log details](https://github.com/placer-labs/okta-mcp-server/pull/34) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 day ago)
+- [Bump the chart to 4.0.2](https://github.com/placer-labs/kubechecks/pull/30) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
+- [Bump the chart to 4.0.1](https://github.com/placer-labs/kubechecks/pull/29) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
 
 
 
