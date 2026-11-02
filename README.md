@@ -28,19 +28,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-1.1.0), today) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.16.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.16.0), today) - OpenTelemetry Helm Charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.1), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.419](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.419), today) - 
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.2.0](https://github.com/grafana/mcp-grafana/releases/tag/v2.2.0), today) - MCP server for Grafana
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.0.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.0.0), today) - Atlantis Helm Chart
 - [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) ([4.2557.v2c7f200dfc72](https://github.com/jenkinsci/git-forensics-plugin/releases/tag/4.2557.v2c7f200dfc72), 1 day ago) - Jenkins plug-in that mines and analyzes data from a Git repository
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.17.0), 2 days ago) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.9), 2 days ago) - Jenkins helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.3.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.3.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.9](https://github.com/grafana/mimir/releases/tag/mimir-3.1.9), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.2](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.2), 3 days ago) - Charts for deploying Hatchet.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.0), 3 days ago) - 
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.2.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.2.0), 3 days ago) - Traefik Proxy Helm Chart
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.0), 3 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v47.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v47.0.0), 3 days ago) - Configures opinionated GKE clusters
 
 #### 🔨 My recent Pull Requests
-- [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
+- [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
 - [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
 - [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
 - [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (2 days ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (3 months ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (3 months ago)
 - [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (5 months ago)
 - [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (7 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (11 months ago)
