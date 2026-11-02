@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 day ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (2 days ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (4 days ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (6 days ago)
 - [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) - Jenkins plug-in that mines and analyzes data from a Git repository (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 week ago)
 - [DrFaust92/renovate-jenkins-constraints-repro](https://github.com/DrFaust92/renovate-jenkins-constraints-repro) - Minimal reproduction: jenkins-plugins constraintsFiltering drops all releases (2 weeks ago)
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -41,9 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 - [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
-- [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (1 day ago)
-- [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (1 day ago)
-- [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (1 day ago)
+- [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
+- [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
+- [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (2 days ago)
 - [Keep user logins out of logs and traces](https://github.com/placer-labs/okta-mcp-server/pull/36) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
 - [Bandit lint rules, workflow hardening, tool annotations and per-caller rate limiting](https://github.com/placer-labs/okta-mcp-server/pull/35) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
 - [Harden GitHub Actions workflows and lint them with zizmor and actionlint](https://github.com/placer-labs/kubechecks/pull/31) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
