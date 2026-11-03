@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.7), today) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.0), today) - Traefik Proxy Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-1.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-1.1.1), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.16), today) - ArgoProj Helm Charts
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.0), 1 day ago) - OpenTelemetry Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.10](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.10), 1 day ago) - Jenkins helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.1), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
