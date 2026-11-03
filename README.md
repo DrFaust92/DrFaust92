@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 day ago)
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (2 days ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (4 days ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (6 days ago)
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (2 days ago)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (3 days ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (5 days ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) - Jenkins plug-in that mines and analyzes data from a Git repository (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 week ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 week ago)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (1 week ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (2 weeks ago)
 - [DrFaust92/renovate-jenkins-constraints-repro](https://github.com/DrFaust92/renovate-jenkins-constraints-repro) - Minimal reproduction: jenkins-plugins constraintsFiltering drops all releases (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-1.1.0), today) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.16.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.16.0), today) - OpenTelemetry Helm Charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.1), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.419](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.419), today) - 
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.2.0](https://github.com/grafana/mcp-grafana/releases/tag/v2.2.0), today) - MCP server for Grafana
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.0.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.0.0), today) - Atlantis Helm Chart
-- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) ([4.2557.v2c7f200dfc72](https://github.com/jenkinsci/git-forensics-plugin/releases/tag/4.2557.v2c7f200dfc72), 1 day ago) - Jenkins plug-in that mines and analyzes data from a Git repository
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.9), 2 days ago) - Jenkins helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.3.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.3.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.9](https://github.com/grafana/mimir/releases/tag/mimir-3.1.9), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.17.1), today) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.0), 1 day ago) - OpenTelemetry Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.10](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.10), 1 day ago) - Jenkins helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.1), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.419](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.419), 1 day ago) - 
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.2.0](https://github.com/grafana/mcp-grafana/releases/tag/v2.2.0), 1 day ago) - MCP server for Grafana
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.0.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.0.0), 1 day ago) - Atlantis Helm Chart
+- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) ([4.2557.v2c7f200dfc72](https://github.com/jenkinsci/git-forensics-plugin/releases/tag/4.2557.v2c7f200dfc72), 2 days ago) - Jenkins plug-in that mines and analyzes data from a Git repository
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.3.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.3.0), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.9](https://github.com/grafana/mimir/releases/tag/mimir-3.1.9), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### 🔨 My recent Pull Requests
 - [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
 - [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
 - [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
 - [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (2 days ago)
-- [Keep user logins out of logs and traces](https://github.com/placer-labs/okta-mcp-server/pull/36) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
-- [Bandit lint rules, workflow hardening, tool annotations and per-caller rate limiting](https://github.com/placer-labs/okta-mcp-server/pull/35) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
-- [Harden GitHub Actions workflows and lint them with zizmor and actionlint](https://github.com/placer-labs/kubechecks/pull/31) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (2 days ago)
-- [Add read-only visibility tools and richer app/log details](https://github.com/placer-labs/okta-mcp-server/pull/34) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (2 days ago)
-- [Bump the chart to 4.0.2](https://github.com/placer-labs/kubechecks/pull/30) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (3 days ago)
-- [Bump the chart to 4.0.1](https://github.com/placer-labs/kubechecks/pull/29) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (3 days ago)
+- [Keep user logins out of logs and traces](https://github.com/placer-labs/okta-mcp-server/pull/36) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 days ago)
+- [Bandit lint rules, workflow hardening, tool annotations and per-caller rate limiting](https://github.com/placer-labs/okta-mcp-server/pull/35) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 days ago)
+- [Harden GitHub Actions workflows and lint them with zizmor and actionlint](https://github.com/placer-labs/kubechecks/pull/31) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (3 days ago)
+- [Add read-only visibility tools and richer app/log details](https://github.com/placer-labs/okta-mcp-server/pull/34) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (3 days ago)
+- [Bump the chart to 4.0.2](https://github.com/placer-labs/kubechecks/pull/30) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (4 days ago)
+- [Bump the chart to 4.0.1](https://github.com/placer-labs/kubechecks/pull/29) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (4 days ago)
 
 
 
