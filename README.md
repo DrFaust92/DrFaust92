@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-5.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-5.4.0), 1 day ago) - Prometheus community Helm charts
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.54.0](https://github.com/robusta-dev/robusta/releases/tag/0.54.0), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.12.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.12.1), today) - ArgoProj Helm Charts
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.46.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.46.0), today) - SRE Agent - CNCF Sandbox Project
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.15.1), today) - Prometheus community Helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.3), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.3), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.11.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.11.7), 1 day ago) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.0), 1 day ago) - Traefik Proxy Helm Chart
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.0), 2 days ago) - OpenTelemetry Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.10](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.10), 2 days ago) - Jenkins helm charts
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.1](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.1), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.2.0](https://github.com/grafana/mcp-grafana/releases/tag/v2.2.0), 2 days ago) - MCP server for Grafana
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.0.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.0.0), 2 days ago) - Atlantis Helm Chart
-- [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) ([4.2557.v2c7f200dfc72](https://github.com/jenkinsci/git-forensics-plugin/releases/tag/4.2557.v2c7f200dfc72), 3 days ago) - Jenkins plug-in that mines and analyzes data from a Git repository
 
 #### 🔨 My recent Pull Requests
 - [fix(telemetry): mark spans as errors when a tool recovers from a save failure](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1333) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (1 day ago)
