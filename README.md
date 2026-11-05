@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (4 days ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (5 days ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) - Jenkins plug-in that mines and analyzes data from a Git repository (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (2 weeks ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation (2 weeks ago)
-- [DrFaust92/renovate-jenkins-constraints-repro](https://github.com/DrFaust92/renovate-jenkins-constraints-repro) - Minimal reproduction: jenkins-plugins constraintsFiltering drops all releases (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.19.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.48.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.14.0), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.63.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.63.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.129.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.129.0), 1 day ago) - OpenTelemetry Helm Charts
@@ -40,16 +40,16 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.10](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.10), 3 days ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
-- [fix(telemetry): mark spans as errors when a tool recovers from a save failure](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1333) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 days ago)
-- [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (4 days ago)
-- [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (5 days ago)
-- [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (5 days ago)
-- [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (5 days ago)
-- [Keep user logins out of logs and traces](https://github.com/placer-labs/okta-mcp-server/pull/36) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (5 days ago)
-- [Bandit lint rules, workflow hardening, tool annotations and per-caller rate limiting](https://github.com/placer-labs/okta-mcp-server/pull/35) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (5 days ago)
-- [Harden GitHub Actions workflows and lint them with zizmor and actionlint](https://github.com/placer-labs/kubechecks/pull/31) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (5 days ago)
-- [Add read-only visibility tools and richer app/log details](https://github.com/placer-labs/okta-mcp-server/pull/34) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (5 days ago)
-- [Bump the chart to 4.0.2](https://github.com/placer-labs/kubechecks/pull/30) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (6 days ago)
+- [ci: pin actions to SHAs, harden workflows, add zizmor and Trivy](https://github.com/DrFaust92/airflow-k8s-operator/pull/83) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [feat(chart): add prometheusRule.additionalRuleLabels](https://github.com/utkuozdemir/nvidia_gpu_exporter/pull/549) on [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) (today)
+- [fix(argo-cd): keep the chart version out of the pod labels](https://github.com/argoproj/argo-helm/pull/4205) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
+- [fix(labels): keep the chart version out of the pod labels](https://github.com/traefik/traefik-helm-chart/pull/2075) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
+- [[prometheus] keep the chart version out of the server pod labels](https://github.com/prometheus-community/helm-charts/pull/7517) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-operator-admission-webhook] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7516) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-elasticsearch-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7515) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] pin prometheus-windows-exporter so renovate can update it](https://github.com/prometheus-community/helm-charts/pull/7514) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] keep the chart version out of the operator pod labels](https://github.com/prometheus-community/helm-charts/pull/7513) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-pushgateway] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7512) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 
 
 
