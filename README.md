@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-33.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-33.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.19.0), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.14.0), today) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.63.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.63.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.129.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.129.0), 1 day ago) - OpenTelemetry Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.54.0](https://github.com/robusta-dev/robusta/releases/tag/0.54.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.12.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.12.1), 1 day ago) - ArgoProj Helm Charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.46.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.46.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.3), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.3), 2 days ago) - 
@@ -42,8 +42,8 @@
 #### 🔨 My recent Pull Requests
 - [fix(telemetry): mark spans as errors when a tool recovers from a save failure](https://github.com/taylorwilsdon/google_workspace_mcp/pull/1333) on [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (2 days ago)
 - [INPE-14130: Ignore server-defaulted list key fields in removal check](https://github.com/placer-labs/kubechecks/pull/33) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (4 days ago)
-- [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (4 days ago)
-- [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (4 days ago)
+- [INPE-14126: Add policy-app, network zone, user factor and custom role read tools](https://github.com/placer-labs/okta-mcp-server/pull/37) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (5 days ago)
+- [INPE-14130: Show fields a PR removes on server-side-apply apps](https://github.com/placer-labs/kubechecks/pull/32) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (5 days ago)
 - [fix(jenkins): keep helm.sh/chart off the controller pod template](https://github.com/jenkinsci/helm-charts/pull/1807) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) (5 days ago)
 - [Keep user logins out of logs and traces](https://github.com/placer-labs/okta-mcp-server/pull/36) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (5 days ago)
 - [Bandit lint rules, workflow hardening, tool annotations and per-caller rate limiting](https://github.com/placer-labs/okta-mcp-server/pull/35) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (5 days ago)
