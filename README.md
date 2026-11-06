@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.10.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.10.0), 1 day ago) - A K8s operator to manager airflow resources as custom resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.5), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.14.0), 1 day ago) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.63.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.63.0), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.129.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.129.0), 2 days ago) - OpenTelemetry Helm Charts
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.54.0](https://github.com/robusta-dev/robusta/releases/tag/0.54.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.46.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.46.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
