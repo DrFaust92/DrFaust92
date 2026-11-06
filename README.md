@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (4 days ago)
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (5 days ago)
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (6 days ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 week ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (1 week ago)
 - [jenkinsci/git-forensics-plugin](https://github.com/jenkinsci/git-forensics-plugin) - Jenkins plug-in that mines and analyzes data from a Git repository (1 week ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.48.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.14.0), today) - ArgoProj Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.63.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.63.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.129.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.129.0), 1 day ago) - OpenTelemetry Helm Charts
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.54.0](https://github.com/robusta-dev/robusta/releases/tag/0.54.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.46.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.46.0), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.3), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.3), 2 days ago) - 
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.0), 2 days ago) - Traefik Proxy Helm Chart
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.10](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.10), 3 days ago) - Jenkins helm charts
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.10.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.10.0), 1 day ago) - A K8s operator to manager airflow resources as custom resources
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.5), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.14.0), 1 day ago) - ArgoProj Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.63.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.63.0), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.129.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.129.0), 2 days ago) - OpenTelemetry Helm Charts
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.54.0](https://github.com/robusta-dev/robusta/releases/tag/0.54.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.46.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.46.0), 2 days ago) - SRE Agent - CNCF Sandbox Project
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.3](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.3), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.3), 3 days ago) - 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.0), 3 days ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
-- [ci: pin actions to SHAs, harden workflows, add zizmor and Trivy](https://github.com/DrFaust92/airflow-k8s-operator/pull/83) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [feat(chart): add prometheusRule.additionalRuleLabels](https://github.com/utkuozdemir/nvidia_gpu_exporter/pull/549) on [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) (today)
-- [fix(argo-cd): keep the chart version out of the pod labels](https://github.com/argoproj/argo-helm/pull/4205) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
-- [fix(labels): keep the chart version out of the pod labels](https://github.com/traefik/traefik-helm-chart/pull/2075) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
-- [[prometheus] keep the chart version out of the server pod labels](https://github.com/prometheus-community/helm-charts/pull/7517) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-operator-admission-webhook] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7516) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-elasticsearch-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7515) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[kube-prometheus-stack] pin prometheus-windows-exporter so renovate can update it](https://github.com/prometheus-community/helm-charts/pull/7514) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[kube-prometheus-stack] keep the chart version out of the operator pod labels](https://github.com/prometheus-community/helm-charts/pull/7513) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-pushgateway] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7512) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [ci: retry the Airflow chart download in integration tests](https://github.com/DrFaust92/airflow-k8s-operator/pull/92) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [[prometheus-systemd-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-stackdriver-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7542) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-snmp-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7541) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-redis-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7540) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-nginx-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7539) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[prometheus-blackbox-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7538) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [chore(chart): release 0.10.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/91) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [feat!: restrict adoption to namespaces the operator admin allows](https://github.com/DrFaust92/airflow-k8s-operator/pull/90) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [chore(chart): release 0.9.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/89) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
 
 
 
