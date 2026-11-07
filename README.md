@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.19.1), today) - Prometheus community Helm charts
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.18.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.18.0), today) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.11.0), today) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.0.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.0.1), 1 day ago) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.4.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.4.2), 1 day ago) - ArgoProj Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.1), 1 day ago) - Traefik Proxy Helm Chart
