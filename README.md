@@ -40,16 +40,16 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.54.0](https://github.com/robusta-dev/robusta/releases/tag/0.54.0), 3 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
 #### 🔨 My recent Pull Requests
+- [chore: sync placer/main with upstream main (v4.76.0)](https://github.com/placer-labs/langfuse/pull/11) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
 - [[prometheus-blackbox-exporter] put the common labels on the DaemonSet pod template](https://github.com/prometheus-community/helm-charts/pull/7558) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat(mcp): accept OIDC bearer tokens alongside BasicAuth](https://github.com/placer-labs/langfuse/pull/10) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
 - [[kube-prometheus-stack] Expose extraScrapeMetrics and alertmanagerConfigFileSystemMode](https://github.com/prometheus-community/helm-charts/pull/7557) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.95.1](https://github.com/prometheus-community/helm-charts/pull/7556) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [ci: retry the Airflow chart download in integration tests](https://github.com/DrFaust92/airflow-k8s-operator/pull/92) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 day ago)
-- [[prometheus-systemd-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-stackdriver-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7542) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-snmp-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7541) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-redis-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7540) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-nginx-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7539) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-systemd-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-stackdriver-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7542) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-snmp-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7541) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-redis-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7540) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 
 
 
