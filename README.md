@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.11.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.11.0), today) - Jenkins helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.43.10](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.43.10), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.1.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.15.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.15.0), 1 day ago) - ArgoProj Helm Charts
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.18.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.18.0), 1 day ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.0.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.0.1), 2 days ago) - Atlantis Helm Chart
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.1), 2 days ago) - Traefik Proxy Helm Chart
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.10.13](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.13), 2 days ago) - Jenkins helm charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 2 days ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.10.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.10.0), 3 days ago) - A K8s operator to manager airflow resources as custom resources
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.129.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.129.0), 4 days ago) - OpenTelemetry Helm Charts
