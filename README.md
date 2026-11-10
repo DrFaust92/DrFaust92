@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.2), today) - Traefik Proxy Helm Chart
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.47.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.47.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.8](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.8), 1 day ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.4](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.4), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
@@ -37,7 +38,6 @@
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.4.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.4.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.11.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.11.0), 2 days ago) - Jenkins helm charts
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.18.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.18.0), 3 days ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.1), 4 days ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
 - [chore: sync placer/main with upstream main (v4.76.0)](https://github.com/placer-labs/langfuse/pull/11) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (2 days ago)
