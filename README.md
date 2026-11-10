@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.6.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-5.1.0), today) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.1), today) - OpenTelemetry Helm Charts
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v2.3.0), today) - MCP server for Grafana
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.2), today) - Traefik Proxy Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.47.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.47.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.8](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.8), 1 day ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.4](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.4), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.1.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.1.0), 1 day ago) - Atlantis Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.1), 1 day ago) - 
 - [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta19](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta19), 1 day ago) - Apache DevLake Helm Chart
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.4.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.4.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.11.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.11.0), 2 days ago) - Jenkins helm charts
-- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.18.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.18.0), 3 days ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
 
 #### 🔨 My recent Pull Requests
+- [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [[loki] Apply loki.revisionHistoryLimit to the memcached StatefulSets](https://github.com/grafana-community/helm-charts/pull/982) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [chore: sync placer/main with upstream main (v4.76.0)](https://github.com/placer-labs/langfuse/pull/11) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (2 days ago)
-- [[prometheus-blackbox-exporter] put the common labels on the DaemonSet pod template](https://github.com/prometheus-community/helm-charts/pull/7558) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [feat(mcp): accept OIDC bearer tokens alongside BasicAuth](https://github.com/placer-labs/langfuse/pull/10) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (2 days ago)
-- [[kube-prometheus-stack] Expose extraScrapeMetrics and alertmanagerConfigFileSystemMode](https://github.com/prometheus-community/helm-charts/pull/7557) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[kube-prometheus-stack] Bump prometheus-operator to v0.95.1](https://github.com/prometheus-community/helm-charts/pull/7556) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-blackbox-exporter] put the common labels on the DaemonSet pod template](https://github.com/prometheus-community/helm-charts/pull/7558) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [feat(mcp): accept OIDC bearer tokens alongside BasicAuth](https://github.com/placer-labs/langfuse/pull/10) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
+- [[kube-prometheus-stack] Expose extraScrapeMetrics and alertmanagerConfigFileSystemMode](https://github.com/prometheus-community/helm-charts/pull/7557) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-prometheus-stack] Bump prometheus-operator to v0.95.1](https://github.com/prometheus-community/helm-charts/pull/7556) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [ci: retry the Airflow chart download in integration tests](https://github.com/DrFaust92/airflow-k8s-operator/pull/92) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (4 days ago)
 - [[prometheus-systemd-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-stackdriver-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7542) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-snmp-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7541) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-redis-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7540) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 
 
