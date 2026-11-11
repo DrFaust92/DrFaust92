@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.2.2), today) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.3.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.3.1), today) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.0), today) - ArgoProj Helm Charts
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.3](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.3), today) - Charts for deploying Hatchet.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.2.0), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.4.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.4.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.12.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.12.0), 1 day ago) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.6.0), 1 day ago) - 
@@ -40,9 +40,9 @@
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.2), 1 day ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
-- [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [[loki] Apply loki.revisionHistoryLimit to the memcached StatefulSets](https://github.com/grafana-community/helm-charts/pull/982) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [chore: sync placer/main with upstream main (v4.76.0)](https://github.com/placer-labs/langfuse/pull/11) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
+- [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
+- [[loki] Apply loki.revisionHistoryLimit to the memcached StatefulSets](https://github.com/grafana-community/helm-charts/pull/982) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
+- [chore: sync placer/main with upstream main (v4.76.0)](https://github.com/placer-labs/langfuse/pull/11) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
 - [[prometheus-blackbox-exporter] put the common labels on the DaemonSet pod template](https://github.com/prometheus-community/helm-charts/pull/7558) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [feat(mcp): accept OIDC bearer tokens alongside BasicAuth](https://github.com/placer-labs/langfuse/pull/10) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
 - [[kube-prometheus-stack] Expose extraScrapeMetrics and alertmanagerConfigFileSystemMode](https://github.com/prometheus-community/helm-charts/pull/7557) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
