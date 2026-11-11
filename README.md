@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.17.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.17.2), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.2.0), today) - Prometheus community Helm charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.4.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.4.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.12.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.12.0), 1 day ago) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.48.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.48.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.6.0), 1 day ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.1), 1 day ago) - OpenTelemetry Helm Charts
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v2.3.0), 1 day ago) - MCP server for Grafana
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.3.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.3.2), 1 day ago) - Traefik Proxy Helm Chart
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.8](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.8), 2 days ago) - ArgoProj Helm Charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.4](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.4), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.1.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.1.0), 2 days ago) - Atlantis Helm Chart
-- [apache/devlake-helm-chart](https://github.com/apache/devlake-helm-chart) ([devlake-1.0.3-beta19](https://github.com/apache/devlake-helm-chart/releases/tag/devlake-1.0.3-beta19), 2 days ago) - Apache DevLake Helm Chart
 
 #### 🔨 My recent Pull Requests
 - [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
