@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.21.1](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.21.1), today) - Charts for deploying Hatchet.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.21.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.21.3), today) - Prometheus community Helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.4.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.4.2), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.2.2), 1 day ago) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.3.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.3.1), 1 day ago) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.0), 1 day ago) - ArgoProj Helm Charts
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.3](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.3), 1 day ago) - Charts for deploying Hatchet.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.12.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.12.0), 2 days ago) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.6.0), 2 days ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.1), 2 days ago) - OpenTelemetry Helm Charts
