@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.25.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.5.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([synthetic-monitoring-agent-2.0.0](https://github.com/grafana/helm-charts/releases/tag/synthetic-monitoring-agent-2.0.0), today) - 
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.10](https://github.com/grafana/mimir/releases/tag/mimir-3.1.10), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.0), 1 day ago) - Traefik Proxy Helm Chart
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.21.1](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.21.1), 1 day ago) - Charts for deploying Hatchet.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.4.2](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.4.2), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.3.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.3.1), 2 days ago) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.0), 2 days ago) - ArgoProj Helm Charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.12.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.12.0), 3 days ago) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.6.0), 3 days ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.1), 3 days ago) - OpenTelemetry Helm Charts
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ([v2.3.0](https://github.com/grafana/mcp-grafana/releases/tag/v2.3.0), 3 days ago) - MCP server for Grafana
 
 #### 🔨 My recent Pull Requests
 - [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (today)
