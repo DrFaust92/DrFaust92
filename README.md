@@ -40,14 +40,14 @@
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.1), 4 days ago) - OpenTelemetry Helm Charts
 
 #### 🔨 My recent Pull Requests
-- [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 day ago)
-- [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
-- [[loki] Apply loki.revisionHistoryLimit to the memcached StatefulSets](https://github.com/grafana-community/helm-charts/pull/982) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
+- [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (2 days ago)
+- [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
+- [[loki] Apply loki.revisionHistoryLimit to the memcached StatefulSets](https://github.com/grafana-community/helm-charts/pull/982) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 - [chore: sync placer/main with upstream main (v4.76.0)](https://github.com/placer-labs/langfuse/pull/11) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
-- [[prometheus-blackbox-exporter] put the common labels on the DaemonSet pod template](https://github.com/prometheus-community/helm-charts/pull/7558) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [feat(mcp): accept OIDC bearer tokens alongside BasicAuth](https://github.com/placer-labs/langfuse/pull/10) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
-- [[kube-prometheus-stack] Expose extraScrapeMetrics and alertmanagerConfigFileSystemMode](https://github.com/prometheus-community/helm-charts/pull/7557) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[kube-prometheus-stack] Bump prometheus-operator to v0.95.1](https://github.com/prometheus-community/helm-charts/pull/7556) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[prometheus-blackbox-exporter] put the common labels on the DaemonSet pod template](https://github.com/prometheus-community/helm-charts/pull/7558) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [feat(mcp): accept OIDC bearer tokens alongside BasicAuth](https://github.com/placer-labs/langfuse/pull/10) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
+- [[kube-prometheus-stack] Expose extraScrapeMetrics and alertmanagerConfigFileSystemMode](https://github.com/prometheus-community/helm-charts/pull/7557) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[kube-prometheus-stack] Bump prometheus-operator to v0.95.1](https://github.com/prometheus-community/helm-charts/pull/7556) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [ci: retry the Airflow chart download in integration tests](https://github.com/DrFaust92/airflow-k8s-operator/pull/92) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
 - [[prometheus-systemd-exporter] keep the chart version out of the pod labels](https://github.com/prometheus-community/helm-charts/pull/7543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (3 months ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (3 months ago)
 - [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (6 months ago)
 - [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (7 months ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (11 months ago)
