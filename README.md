@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (5 days ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (6 days ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (6 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML (1 week ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (1 week ago)
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (1 week ago)
+- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (2 weeks ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (2 weeks ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.1](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.1), today) - Jenkins helm charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.5.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.5.0), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.1), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.3.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.5.0), 1 day ago) - ArgoProj Helm Charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.4.0), 1 day ago) - Atlantis Helm Chart
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.10](https://github.com/grafana/mimir/releases/tag/mimir-3.1.10), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.0), 2 days ago) - Traefik Proxy Helm Chart
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.21.1](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.21.1), 2 days ago) - Charts for deploying Hatchet.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.1), 4 days ago) - OpenTelemetry Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.1](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.1), 1 day ago) - Jenkins helm charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.5.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.5.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.1), 2 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.3.0), 2 days ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.5.0), 2 days ago) - ArgoProj Helm Charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.4.0), 2 days ago) - Atlantis Helm Chart
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.10](https://github.com/grafana/mimir/releases/tag/mimir-3.1.10), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.0), 3 days ago) - Traefik Proxy Helm Chart
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.21.1](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.21.1), 3 days ago) - Charts for deploying Hatchet.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.1), 5 days ago) - OpenTelemetry Helm Charts
 
 #### 🔨 My recent Pull Requests
 - [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (2 days ago)
