@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.1](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.1), 1 day ago) - Jenkins helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.2](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.2), today) - Jenkins helm charts
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.5.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.5.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.1), 2 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.3.0), 2 days ago) - Prometheus community Helm charts
