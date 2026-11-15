@@ -40,9 +40,9 @@
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.1), 5 days ago) - OpenTelemetry Helm Charts
 
 #### 🔨 My recent Pull Requests
-- [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (2 days ago)
-- [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
-- [[loki] Apply loki.revisionHistoryLimit to the memcached StatefulSets](https://github.com/grafana-community/helm-charts/pull/982) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
+- [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
+- [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (5 days ago)
+- [[loki] Apply loki.revisionHistoryLimit to the memcached StatefulSets](https://github.com/grafana-community/helm-charts/pull/982) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (5 days ago)
 - [chore: sync placer/main with upstream main (v4.76.0)](https://github.com/placer-labs/langfuse/pull/11) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 - [[prometheus-blackbox-exporter] put the common labels on the DaemonSet pod template](https://github.com/prometheus-community/helm-charts/pull/7558) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [feat(mcp): accept OIDC bearer tokens alongside BasicAuth](https://github.com/placer-labs/langfuse/pull/10) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
