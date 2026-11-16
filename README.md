@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (6 days ago)
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML (1 week ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (1 week ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 weeks ago)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (2 weeks ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (2 weeks ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-5.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-5.4.2), today) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), today) - Jenkins helm charts
-- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.19.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.19.0), today) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.5.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.5.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.1), 2 days ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.5.0), 2 days ago) - ArgoProj Helm Charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.4.0), 2 days ago) - Atlantis Helm Chart
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.10](https://github.com/grafana/mimir/releases/tag/mimir-3.1.10), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.0), 3 days ago) - Traefik Proxy Helm Chart
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.21.1](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.21.1), 3 days ago) - Charts for deploying Hatchet.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-5.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-5.4.2), 1 day ago) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), 1 day ago) - Jenkins helm charts
+- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.19.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.19.0), 1 day ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.5.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.5.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.1), 3 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.5.0), 3 days ago) - ArgoProj Helm Charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.4.0), 3 days ago) - Atlantis Helm Chart
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.10](https://github.com/grafana/mimir/releases/tag/mimir-3.1.10), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.0), 4 days ago) - Traefik Proxy Helm Chart
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.21.1](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.21.1), 4 days ago) - Charts for deploying Hatchet.
 
 #### 🔨 My recent Pull Requests
 - [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (3 days ago)
@@ -62,7 +62,7 @@
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (3 months ago)
 - [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider (6 months ago)
 - [grafana-cold-storage/xk6-python](https://github.com/grafana-cold-storage/xk6-python) - Write k6 tests in Python (7 months ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (11 months ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 year ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (1 year ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards. (1 year ago)
 - [jonasasx/terraform-registry-mirror](https://github.com/jonasasx/terraform-registry-mirror) -  (1 year ago)
