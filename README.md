@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-5.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-5.4.2), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.25.2](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.25.2), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.26.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.26.0), today) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), 1 day ago) - Jenkins helm charts
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.19.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.19.0), 1 day ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.5.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.5.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.1), 3 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.5.0), 3 days ago) - ArgoProj Helm Charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.4.0), 3 days ago) - Atlantis Helm Chart
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.10](https://github.com/grafana/mimir/releases/tag/mimir-3.1.10), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
