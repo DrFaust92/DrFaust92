@@ -11,7 +11,7 @@
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (2 weeks ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (2 weeks ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 weeks ago)
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (2 weeks ago)
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.3.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.26.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.26.0), today) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), 1 day ago) - Jenkins helm charts
-- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.19.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.19.0), 1 day ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.5.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.5.0), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.5.0), 3 days ago) - ArgoProj Helm Charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.4.0), 3 days ago) - Atlantis Helm Chart
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.10](https://github.com/grafana/mimir/releases/tag/mimir-3.1.10), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.0), 4 days ago) - Traefik Proxy Helm Chart
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([hatchet-stack-0.21.1](https://github.com/hatchet-dev/hatchet-charts/releases/tag/hatchet-stack-0.21.1), 4 days ago) - Charts for deploying Hatchet.
+- [akuity/kargo](https://github.com/akuity/kargo) ([v1.12.6](https://github.com/akuity/kargo/releases/tag/v1.12.6), 1 day ago) - Application lifecycle orchestration
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.3.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.26.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.26.0), 1 day ago) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), 2 days ago) - Jenkins helm charts
+- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.19.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.19.0), 2 days ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.5.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.5.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.5.0), 4 days ago) - ArgoProj Helm Charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.4.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.4.0), 4 days ago) - Atlantis Helm Chart
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.1.10](https://github.com/grafana/mimir/releases/tag/mimir-3.1.10), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.0), 5 days ago) - Traefik Proxy Helm Chart
 
 #### 🔨 My recent Pull Requests
 - [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
