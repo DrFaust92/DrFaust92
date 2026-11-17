@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.16.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.16.2), today) - OpenTelemetry Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.19](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.19), today) - 
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.5](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.5), today) - Charts for deploying Hatchet.
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.1), today) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.5), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.5.2), today) - Prometheus community Helm charts
 - [akuity/kargo](https://github.com/akuity/kargo) ([v1.12.6](https://github.com/akuity/kargo/releases/tag/v1.12.6), 1 day ago) - Application lifecycle orchestration
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), 2 days ago) - Jenkins helm charts
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.19.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.19.0), 2 days ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.5.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.5.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.5.0), 4 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
-- [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (4 days ago)
-- [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
-- [[loki] Apply loki.revisionHistoryLimit to the memcached StatefulSets](https://github.com/grafana-community/helm-charts/pull/982) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
+- [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (5 days ago)
+- [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
+- [[loki] Apply loki.revisionHistoryLimit to the memcached StatefulSets](https://github.com/grafana-community/helm-charts/pull/982) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [chore: sync placer/main with upstream main (v4.76.0)](https://github.com/placer-labs/langfuse/pull/11) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 - [[prometheus-blackbox-exporter] put the common labels on the DaemonSet pod template](https://github.com/prometheus-community/helm-charts/pull/7558) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [feat(mcp): accept OIDC bearer tokens alongside BasicAuth](https://github.com/placer-labs/langfuse/pull/10) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
