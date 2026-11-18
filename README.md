@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.16.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.16.2), today) - OpenTelemetry Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.4.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.19](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.19), today) - 
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.5](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.5), today) - Charts for deploying Hatchet.
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.1), today) - Traefik Proxy Helm Chart
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.5), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [akuity/kargo](https://github.com/akuity/kargo) ([v1.12.6](https://github.com/akuity/kargo/releases/tag/v1.12.6), 1 day ago) - Application lifecycle orchestration
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), 2 days ago) - Jenkins helm charts
-- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.19.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.19.0), 2 days ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.5.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.5.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.16.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.16.4), today) - OpenTelemetry Helm Charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.6](https://github.com/grafana/mimir/releases/tag/mimir-3.2.6), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.4.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.19](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.19), 1 day ago) - 
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.5](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.5), 1 day ago) - Charts for deploying Hatchet.
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.1), 1 day ago) - Traefik Proxy Helm Chart
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.5), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [akuity/kargo](https://github.com/akuity/kargo) ([v1.12.6](https://github.com/akuity/kargo/releases/tag/v1.12.6), 2 days ago) - Application lifecycle orchestration
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), 3 days ago) - Jenkins helm charts
+- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v1.19.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v1.19.0), 3 days ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
 
 #### 🔨 My recent Pull Requests
 - [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (5 days ago)
