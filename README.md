@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.7.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.7.0), today) - 
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.4](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.4), today) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.19](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.19), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.2), today) - ArgoProj Helm Charts
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.180.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.180.0), 1 day ago) - OpenTelemetry Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.4.1), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.1), 1 day ago) - ArgoProj Helm Charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.6](https://github.com/grafana/mimir/releases/tag/mimir-3.2.6), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.5](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.5), 2 days ago) - Charts for deploying Hatchet.
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.1), 2 days ago) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.5), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [akuity/kargo](https://github.com/akuity/kargo) ([v1.12.6](https://github.com/akuity/kargo/releases/tag/v1.12.6), 3 days ago) - Application lifecycle orchestration
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), 4 days ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
 - [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
