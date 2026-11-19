@@ -5,12 +5,12 @@
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML (1 week ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 week ago)
+- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML (2 weeks ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 weeks ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 weeks ago)
 - [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (2 weeks ago)
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (2 weeks ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 weeks ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (3 weeks ago)
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.4.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.18](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.18), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.1), today) - ArgoProj Helm Charts
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.16.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.16.4), today) - OpenTelemetry Helm Charts
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.6](https://github.com/grafana/mimir/releases/tag/mimir-3.2.6), today) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.5](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.5), 1 day ago) - Charts for deploying Hatchet.
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.1), 1 day ago) - Traefik Proxy Helm Chart
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.5), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [akuity/kargo](https://github.com/akuity/kargo) ([v1.12.6](https://github.com/akuity/kargo/releases/tag/v1.12.6), 2 days ago) - Application lifecycle orchestration
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), 3 days ago) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.7.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.7.0), today) - 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.180.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.180.0), 1 day ago) - OpenTelemetry Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.4.1), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.1), 1 day ago) - ArgoProj Helm Charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.6](https://github.com/grafana/mimir/releases/tag/mimir-3.2.6), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.5](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.5), 2 days ago) - Charts for deploying Hatchet.
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.1](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.1), 2 days ago) - Traefik Proxy Helm Chart
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.5](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.5), 2 days ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
+- [akuity/kargo](https://github.com/akuity/kargo) ([v1.12.6](https://github.com/akuity/kargo/releases/tag/v1.12.6), 3 days ago) - Application lifecycle orchestration
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.3](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3), 4 days ago) - Jenkins helm charts
 
 #### 🔨 My recent Pull Requests
 - [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (6 days ago)
