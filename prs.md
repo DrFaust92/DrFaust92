@@ -7,4 +7,4 @@
 - [feat(mcp): accept OIDC bearer tokens alongside BasicAuth](https://github.com/placer-labs/langfuse/pull/10) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 - [[kube-prometheus-stack] Expose extraScrapeMetrics and alertmanagerConfigFileSystemMode](https://github.com/prometheus-community/helm-charts/pull/7557) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Bump prometheus-operator to v0.95.1](https://github.com/prometheus-community/helm-charts/pull/7556) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [ci: retry the Airflow chart download in integration tests](https://github.com/DrFaust92/airflow-k8s-operator/pull/92) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (1 week ago)
+- [ci: retry the Airflow chart download in integration tests](https://github.com/DrFaust92/airflow-k8s-operator/pull/92) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 weeks ago)
