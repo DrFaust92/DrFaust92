@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (1 day ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML (2 weeks ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 weeks ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (2 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.64.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.64.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.6.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([synthetic-monitoring-agent-2.0.1](https://github.com/grafana/helm-charts/releases/tag/synthetic-monitoring-agent-2.0.1), today) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.6.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.6.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.47.0-alpha.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.47.0-alpha.1), 1 day ago) - SRE Agent - CNCF Sandbox Project
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.3), 1 day ago) - OpenTelemetry Helm Charts
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v2.0.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v2.0.0), 1 day ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.4](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.4), 1 day ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.19](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.19), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.2), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.4.1), 2 days ago) - Prometheus community Helm charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-3.2.6](https://github.com/grafana/mimir/releases/tag/mimir-3.2.6), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [hatchet-dev/hatchet-charts](https://github.com/hatchet-dev/hatchet-charts) ([brickie-0.1.5](https://github.com/hatchet-dev/hatchet-charts/releases/tag/brickie-0.1.5), 3 days ago) - Charts for deploying Hatchet.
 
 #### 🔨 My recent Pull Requests
 - [feat: add automountServiceAccountToken options](https://github.com/renovatebot/helm-charts/pull/5293) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) (today)
