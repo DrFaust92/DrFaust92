@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.55.0](https://github.com/robusta-dev/robusta/releases/tag/0.55.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.22.0), 1 day ago) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.5.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.5.0), 1 day ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.182.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.182.0), 1 day ago) - OpenTelemetry Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.4), 2 days ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.6.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.6.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.47.0-alpha.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.47.0-alpha.1), 3 days ago) - SRE Agent - CNCF Sandbox Project
