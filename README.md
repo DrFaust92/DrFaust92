@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-9.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-9.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.49.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.49.0), today) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.47.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.47.1-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.55.0](https://github.com/robusta-dev/robusta/releases/tag/0.55.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
