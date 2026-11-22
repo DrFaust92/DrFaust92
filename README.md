@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-9.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-9.1.0), today) - Prometheus community Helm charts
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.47.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.47.1-alpha), today) - SRE Agent - CNCF Sandbox Project
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.55.0](https://github.com/robusta-dev/robusta/releases/tag/0.55.0), 1 day ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.22.0), 1 day ago) - Prometheus community Helm charts
 - [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.5.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.5.0), 1 day ago) - 
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.182.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.182.0), 1 day ago) - OpenTelemetry Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.4), 2 days ago) - 
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.6.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.6.0), 3 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.47.0-alpha.1](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.47.0-alpha.1), 3 days ago) - SRE Agent - CNCF Sandbox Project
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v2.0.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v2.0.0), 3 days ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) ([3.11.4](https://github.com/launchdarkly/ld-relay-helm/releases/tag/3.11.4), 3 days ago) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy
 
 #### 🔨 My recent Pull Requests
+- [feat(chart): add automountServiceAccountToken settings, off for dex, postgres and migrations](https://github.com/akuity/kargo/pull/8112) on [akuity/kargo](https://github.com/akuity/kargo) (today)
+- [Limit Dependabot to grouped security updates](https://github.com/placer-labs/okta-mcp-server/pull/42) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
+- [Limit Dependabot to grouped security updates](https://github.com/placer-labs/kubechecks/pull/38) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
+- [Auto-merge Dependabot PRs once CI passes (7-day cooldown for version updates)](https://github.com/placer-labs/okta-mcp-server/pull/39) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
+- [Bump dnspython and OpenTelemetry to fix GHSA-vvf4-9x63-8xvv and GHSA-mf5v-w3w3-f6cg](https://github.com/placer-labs/okta-mcp-server/pull/38) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
+- [Auto-merge Dependabot PRs once CI passes (7-day cooldown for version updates)](https://github.com/placer-labs/kubechecks/pull/35) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
+- [Bump echo to v4.16.6 to fix GHSA-246p-cpwv-v3jq and GHSA-99jh-6h7p-pp36](https://github.com/placer-labs/kubechecks/pull/34) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [feat: add automountServiceAccountToken options](https://github.com/renovatebot/helm-charts/pull/5293) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) (2 days ago)
 - [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 - [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
-- [[loki] Apply loki.revisionHistoryLimit to the memcached StatefulSets](https://github.com/grafana-community/helm-charts/pull/982) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
-- [chore: sync placer/main with upstream main (v4.76.0)](https://github.com/placer-labs/langfuse/pull/11) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (2 weeks ago)
-- [[prometheus-blackbox-exporter] put the common labels on the DaemonSet pod template](https://github.com/prometheus-community/helm-charts/pull/7558) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [feat(mcp): accept OIDC bearer tokens alongside BasicAuth](https://github.com/placer-labs/langfuse/pull/10) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (2 weeks ago)
-- [[kube-prometheus-stack] Expose extraScrapeMetrics and alertmanagerConfigFileSystemMode](https://github.com/prometheus-community/helm-charts/pull/7557) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-prometheus-stack] Bump prometheus-operator to v0.95.1](https://github.com/prometheus-community/helm-charts/pull/7556) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [ci: retry the Airflow chart download in integration tests](https://github.com/DrFaust92/airflow-k8s-operator/pull/92) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (2 weeks ago)
 
 
 
