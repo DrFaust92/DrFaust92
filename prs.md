@@ -5,6 +5,6 @@
 - [Bump dnspython and OpenTelemetry to fix GHSA-vvf4-9x63-8xvv and GHSA-mf5v-w3w3-f6cg](https://github.com/placer-labs/okta-mcp-server/pull/38) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
 - [Auto-merge Dependabot PRs once CI passes (7-day cooldown for version updates)](https://github.com/placer-labs/kubechecks/pull/35) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
 - [Bump echo to v4.16.6 to fix GHSA-246p-cpwv-v3jq and GHSA-99jh-6h7p-pp36](https://github.com/placer-labs/kubechecks/pull/34) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [feat: add automountServiceAccountToken options](https://github.com/renovatebot/helm-charts/pull/5293) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) (2 days ago)
+- [feat: add automountServiceAccountToken options](https://github.com/renovatebot/helm-charts/pull/5293) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) (3 days ago)
 - [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
 - [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
