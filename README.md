@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (today)
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (today)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (4 days ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 weeks ago)
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML (2 weeks ago)
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (3 weeks ago)
-- [jenkinsci/gcs-jobcacher-storage-plugin](https://github.com/jenkinsci/gcs-jobcacher-storage-plugin) - Jenkins Job Cacher storage extension for Google Cloud Storage using Application Default Credentials (ADC / Workload Identity), not HMAC (3 weeks ago)
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.422](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.422), today) - 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.11.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.11.0), today) - A K8s operator to manager airflow resources as custom resources
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.8](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.8), today) - OpenTelemetry Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.65.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.65.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v1.0.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v1.0.0), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.3), today) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.4.0), today) - 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.2), today) - Traefik Proxy Helm Chart
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.6](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.6), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-30.0.0), 1 day ago) - Prometheus community Helm charts
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.47.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.47.1-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.55.0](https://github.com/robusta-dev/robusta/releases/tag/0.55.0), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.5.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.5.0), 2 days ago) - 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.182.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.182.0), 2 days ago) - OpenTelemetry Helm Charts
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.6.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.6.0), 4 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) ([v2.0.0](https://github.com/utkuozdemir/nvidia_gpu_exporter/releases/tag/v2.0.0), 4 days ago) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
 
 #### 🔨 My recent Pull Requests
-- [feat(chart): add automountServiceAccountToken settings, off for dex, postgres and migrations](https://github.com/akuity/kargo/pull/8112) on [akuity/kargo](https://github.com/akuity/kargo) (today)
-- [Limit Dependabot to grouped security updates](https://github.com/placer-labs/okta-mcp-server/pull/42) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
-- [Limit Dependabot to grouped security updates](https://github.com/placer-labs/kubechecks/pull/38) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [Auto-merge Dependabot PRs once CI passes (7-day cooldown for version updates)](https://github.com/placer-labs/okta-mcp-server/pull/39) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
-- [Bump dnspython and OpenTelemetry to fix GHSA-vvf4-9x63-8xvv and GHSA-mf5v-w3w3-f6cg](https://github.com/placer-labs/okta-mcp-server/pull/38) on [placer-labs/okta-mcp-server](https://github.com/placer-labs/okta-mcp-server) (today)
-- [Auto-merge Dependabot PRs once CI passes (7-day cooldown for version updates)](https://github.com/placer-labs/kubechecks/pull/35) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [Bump echo to v4.16.6 to fix GHSA-246p-cpwv-v3jq and GHSA-99jh-6h7p-pp36](https://github.com/placer-labs/kubechecks/pull/34) on [placer-labs/kubechecks](https://github.com/placer-labs/kubechecks) (today)
-- [feat: add automountServiceAccountToken options](https://github.com/renovatebot/helm-charts/pull/5293) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) (3 days ago)
-- [feat(mcp): let OIDC users pick the project per tool call](https://github.com/placer-labs/langfuse/pull/12) on [placer-labs/langfuse](https://github.com/placer-labs/langfuse) (1 week ago)
-- [[tempo-distributed] Apply tempo.revisionHistoryLimit to the metrics-generator StatefulSet](https://github.com/grafana-community/helm-charts/pull/983) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
+- [refactor: remove the SDKv2 implementation and serve the framework provider directly](https://github.com/FelGel/terraform-provider-mongodb/pull/48) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [chore: replace Renovate with Dependabot](https://github.com/FelGel/terraform-provider-mongodb/pull/47) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [chore: update dependencies, SSL test image and Renovate tracking](https://github.com/FelGel/terraform-provider-mongodb/pull/46) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [chore(renovate): keep apache-airflow-client on 2.x](https://github.com/DrFaust92/airflow-k8s-operator/pull/103) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [chore(chart): release 0.11.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/102) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [chore(renovate): hold Python below 3.15](https://github.com/DrFaust92/airflow-k8s-operator/pull/101) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
+- [fix: use the token for the FAB auth manager API by default](https://github.com/DrFaust92/terraform-provider-airflow/pull/110) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [ci: inline the release workflow from the HashiCorp scaffolding template](https://github.com/FelGel/terraform-provider-mongodb/pull/45) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [ci: inline the release workflow from the HashiCorp scaffolding template](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/15) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
+- [ci: inline the release workflow from the HashiCorp scaffolding template](https://github.com/DrFaust92/terraform-provider-pingdom/pull/35) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (today)
 
 
 
