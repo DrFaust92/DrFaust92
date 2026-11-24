@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (today)
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (today)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (today)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (1 day ago)
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (1 day ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
+- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (5 days ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML (2 weeks ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.11.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.11.0), today) - A K8s operator to manager airflow resources as custom resources
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.8](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.8), today) - OpenTelemetry Helm Charts
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.65.0](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.65.0), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v1.0.0](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v1.0.0), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.3), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.4.0), today) - 
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.2), today) - Traefik Proxy Helm Chart
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.6](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.6), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-30.0.0), 1 day ago) - Prometheus community Helm charts
-- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.47.1-alpha](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.47.1-alpha), 1 day ago) - SRE Agent - CNCF Sandbox Project
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.39.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.39.0), today) - Prometheus community Helm charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([kimai2-5.0.22](https://github.com/robjuz/helm-charts/releases/tag/kimai2-5.0.22), today) - 
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.183.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.183.1), today) - OpenTelemetry Helm Charts
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) ([v1.0.1](https://github.com/DrFaust92/terraform-provider-mapbox/releases/tag/v1.0.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.56.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.56.0), today) - 
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.11.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.11.0), 1 day ago) - A K8s operator to manager airflow resources as custom resources
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.3), 1 day ago) - ArgoProj Helm Charts
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v42.4.2](https://github.com/traefik/traefik-helm-chart/releases/tag/v42.4.2), 1 day ago) - Traefik Proxy Helm Chart
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.2.6](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.2.6), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 
 #### 🔨 My recent Pull Requests
-- [refactor: remove the SDKv2 implementation and serve the framework provider directly](https://github.com/FelGel/terraform-provider-mongodb/pull/48) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [chore: replace Renovate with Dependabot](https://github.com/FelGel/terraform-provider-mongodb/pull/47) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [chore: update dependencies, SSL test image and Renovate tracking](https://github.com/FelGel/terraform-provider-mongodb/pull/46) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [chore(renovate): keep apache-airflow-client on 2.x](https://github.com/DrFaust92/airflow-k8s-operator/pull/103) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [chore(chart): release 0.11.0](https://github.com/DrFaust92/airflow-k8s-operator/pull/102) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [chore(renovate): hold Python below 3.15](https://github.com/DrFaust92/airflow-k8s-operator/pull/101) on [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) (today)
-- [fix: use the token for the FAB auth manager API by default](https://github.com/DrFaust92/terraform-provider-airflow/pull/110) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [ci: inline the release workflow from the HashiCorp scaffolding template](https://github.com/FelGel/terraform-provider-mongodb/pull/45) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
-- [ci: inline the release workflow from the HashiCorp scaffolding template](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/15) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
-- [ci: inline the release workflow from the HashiCorp scaffolding template](https://github.com/DrFaust92/terraform-provider-pingdom/pull/35) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (today)
+- [ci: scope release contents: write to the release job](https://github.com/FelGel/terraform-provider-mongodb/pull/52) on [FelGel/terraform-provider-mongodb](https://github.com/FelGel/terraform-provider-mongodb) (today)
+- [chore(renovate): weekly grouped updates for indirect Go modules](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/20) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
+- [chore: harden API requests and release permissions; weekly indirect Go updates](https://github.com/DrFaust92/terraform-provider-pingdom/pull/37) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (today)
+- [chore: harden API requests and release permissions; weekly indirect Go updates](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/273) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
+- [chore: harden API requests and release permissions; weekly indirect Go updates](https://github.com/DrFaust92/terraform-provider-mapbox/pull/120) on [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) (today)
+- [chore: harden API requests and release permissions; weekly indirect Go updates](https://github.com/DrFaust92/terraform-provider-airflow/pull/114) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [chore(renovate): enable fork processing](https://github.com/DrFaust92/terraform-provider-pingdom/pull/36) on [DrFaust92/terraform-provider-pingdom](https://github.com/DrFaust92/terraform-provider-pingdom) (today)
+- [chore(renovate): enable fork processing](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/272) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
+- [chore(renovate): enable fork processing](https://github.com/DrFaust92/terraform-provider-airflow/pull/113) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [chore: update dependencies and harden token requests and release permissions](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/pull/19) on [DrFaust92/terraform-provider-confluent-schema-registry](https://github.com/DrFaust92/terraform-provider-confluent-schema-registry) (today)
 
 
 
