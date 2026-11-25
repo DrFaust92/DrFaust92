@@ -4,14 +4,14 @@
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [DrFaust92/chocolatey-packages](https://github.com/DrFaust92/chocolatey-packages) - [ARCHIVED] Chocolatey sources for multiple packages (unmaintained) (today)
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (today)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (today)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 day ago)
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (1 day ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 day ago)
-- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 days ago)
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (2 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
-- [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (6 days ago)
+- [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.12.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.12.0), today) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.4](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.4), today) - Jenkins helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-8.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-8.2.0), today) - Prometheus community Helm charts
+- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.3.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.3.0), today) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.6.0), today) - Atlantis Helm Chart
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.20.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.20.0), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-12.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-12.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.2), 1 day ago) - 
 - [akuity/kargo](https://github.com/akuity/kargo) ([v1.9.18](https://github.com/akuity/kargo/releases/tag/v1.9.18), 1 day ago) - Application lifecycle orchestration
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.16.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.16.5), 1 day ago) - OpenTelemetry Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v43.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v43.0.0), 1 day ago) - Traefik Proxy Helm Chart
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.7.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.7.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.12.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.12.0), 1 day ago) - A K8s operator to manager airflow resources as custom resources
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.65.1](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.65.1), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
 #### 🔨 My recent Pull Requests
-- [feat(role): add write-only password_wo and password_wo_version](https://github.com/DrFaust92/terraform-provider-cassandra/pull/9) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
-- [feat: migrate to terraform-plugin-framework (protocol 6)](https://github.com/DrFaust92/terraform-provider-influxdb/pull/21) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (today)
-- [feat: migrate to terraform-plugin-framework (protocol 6)](https://github.com/DrFaust92/terraform-provider-cassandra/pull/8) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
-- [feat(sentry_external_team): new resource](https://github.com/jianyuan/terraform-provider-sentry/pull/1042) on [jianyuan/terraform-provider-sentry](https://github.com/jianyuan/terraform-provider-sentry) (today)
-- [fix(role): handle deleted roles and password-change throttling; update, import and drift tests](https://github.com/DrFaust92/terraform-provider-cassandra/pull/7) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
-- [docs: generate docs with tfplugindocs](https://github.com/DrFaust92/terraform-provider-cassandra/pull/6) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
-- [fix(grant): text/template for CQL, drop revoked grants from state; grant acceptance tests](https://github.com/DrFaust92/terraform-provider-cassandra/pull/5) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
-- [docs: state the supported Cassandra versions](https://github.com/DrFaust92/terraform-provider-cassandra/pull/4) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
-- [fix: read retention policy columns by name; test against InfluxDB 1.11 and 1.12](https://github.com/DrFaust92/terraform-provider-influxdb/pull/20) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (today)
-- [feat(sentry_project_symbol_source, sentry_integration_pagerduty, sentry_integration_opsgenie): add write-only credential attributes](https://github.com/jianyuan/terraform-provider-sentry/pull/1041) on [jianyuan/terraform-provider-sentry](https://github.com/jianyuan/terraform-provider-sentry) (today)
+- [fix(group): resolve a workspace UUID to the slug for the 1.0 groups API](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/280) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
+- [helm: default to the restricted Pod Security Standard](https://github.com/Altinity/clickhouse-operator/pull/2174) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (today)
+- [feat: expose new read-only attributes from bitbucket-go-client v0.12.0](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/279) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
+- [feat: add bitbucket_pipeline_runner](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/278) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
+- [feat(provider): api_url, timeout and max_retries; run unit tests in CI](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/277) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
+- [feat(open-webui): safer security defaults and a restricted bundled Redis](https://github.com/open-webui/helm-charts/pull/467) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (today)
+- [fix(open-webui): keep the chart version out of the pod labels](https://github.com/open-webui/helm-charts/pull/466) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (today)
+- [deps: bitbucket-go-client v0.12.0](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/276) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
+- [feat: default to a restricted security context and no service account token](https://github.com/sftpgo/helm-chart/pull/82) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (today)
+- [Regenerate the client against the current Bitbucket API spec](https://github.com/DrFaust92/bitbucket-go-client/pull/44) on [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) (today)
 
 
 
