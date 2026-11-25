@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (today)
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (1 day ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (1 day ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 day ago)
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (2 days ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (2 days ago)
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (2 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
 - [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm) - A helm chart to ease deployment of the LaunchDarkly Relay Proxy (6 days ago)
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (2 weeks ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 weeks ago)
-- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,18 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-93.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-93.10.1), today) - Prometheus community Helm charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.6.0), today) - Atlantis Helm Chart
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.20.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.20.0), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-12.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-12.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.2), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.19.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.19.1), 1 day ago) - ArgoProj Helm Charts
 - [akuity/kargo](https://github.com/akuity/kargo) ([v1.9.18](https://github.com/akuity/kargo/releases/tag/v1.9.18), 1 day ago) - Application lifecycle orchestration
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.16.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.16.5), 1 day ago) - OpenTelemetry Helm Charts
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) ([v43.0.0](https://github.com/traefik/traefik-helm-chart/releases/tag/v43.0.0), 1 day ago) - Traefik Proxy Helm Chart
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.7.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.7.0), 1 day ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) ([0.12.0](https://github.com/DrFaust92/airflow-k8s-operator/releases/tag/0.12.0), 1 day ago) - A K8s operator to manager airflow resources as custom resources
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([selenium-grid-0.65.1](https://github.com/SeleniumHQ/docker-selenium/releases/tag/selenium-grid-0.65.1), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.5.1](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.5.1), 1 day ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
+- [feat(role): add write-only password_wo and password_wo_version](https://github.com/DrFaust92/terraform-provider-cassandra/pull/9) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
+- [feat: migrate to terraform-plugin-framework (protocol 6)](https://github.com/DrFaust92/terraform-provider-influxdb/pull/21) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (today)
+- [feat: migrate to terraform-plugin-framework (protocol 6)](https://github.com/DrFaust92/terraform-provider-cassandra/pull/8) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
 - [feat(sentry_external_team): new resource](https://github.com/jianyuan/terraform-provider-sentry/pull/1042) on [jianyuan/terraform-provider-sentry](https://github.com/jianyuan/terraform-provider-sentry) (today)
 - [fix(role): handle deleted roles and password-change throttling; update, import and drift tests](https://github.com/DrFaust92/terraform-provider-cassandra/pull/7) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
 - [docs: generate docs with tfplugindocs](https://github.com/DrFaust92/terraform-provider-cassandra/pull/6) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
@@ -47,9 +50,6 @@
 - [docs: state the supported Cassandra versions](https://github.com/DrFaust92/terraform-provider-cassandra/pull/4) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
 - [fix: read retention policy columns by name; test against InfluxDB 1.11 and 1.12](https://github.com/DrFaust92/terraform-provider-influxdb/pull/20) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (today)
 - [feat(sentry_project_symbol_source, sentry_integration_pagerduty, sentry_integration_opsgenie): add write-only credential attributes](https://github.com/jianyuan/terraform-provider-sentry/pull/1041) on [jianyuan/terraform-provider-sentry](https://github.com/jianyuan/terraform-provider-sentry) (today)
-- [docs: point the Helm instructions at the grafana-community chart](https://github.com/grafana/mcp-grafana/pull/1708) on [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) (today)
-- [Refresh: Go 1.27.4, current SDK, acceptance tests in CI, pinned workflows](https://github.com/DrFaust92/terraform-provider-cassandra/pull/3) on [DrFaust92/terraform-provider-cassandra](https://github.com/DrFaust92/terraform-provider-cassandra) (today)
-- [chore: bound InfluxDB request time; bump terraform-plugin-sdk](https://github.com/DrFaust92/terraform-provider-influxdb/pull/19) on [DrFaust92/terraform-provider-influxdb](https://github.com/DrFaust92/terraform-provider-influxdb) (today)
 
 
 
