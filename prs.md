@@ -1,3 +1,6 @@
+- [Render the operator Helm chart's resources and scheduling from values](https://github.com/keycloak/keycloak/pull/55561) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (today)
+- [feat(provider): ca_certificate, client certificates and timeout; keep proxy with disable_ssl_verification](https://github.com/DrFaust92/terraform-provider-airflow/pull/115) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
+- [[tempo-vulture] Add an optional PrometheusRule for the vulture's own metrics](https://github.com/grafana-community/helm-charts/pull/1042) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [fix(group): resolve a workspace UUID to the slug for the 1.0 groups API](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/280) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [helm: default to the restricted Pod Security Standard](https://github.com/Altinity/clickhouse-operator/pull/2174) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (today)
 - [feat: expose new read-only attributes from bitbucket-go-client v0.12.0](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/279) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
@@ -5,6 +8,3 @@
 - [feat(provider): api_url, timeout and max_retries; run unit tests in CI](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/277) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [feat(open-webui): safer security defaults and a restricted bundled Redis](https://github.com/open-webui/helm-charts/pull/467) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (today)
 - [fix(open-webui): keep the chart version out of the pod labels](https://github.com/open-webui/helm-charts/pull/466) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (today)
-- [deps: bitbucket-go-client v0.12.0](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/276) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
-- [feat: default to a restricted security context and no service account token](https://github.com/sftpgo/helm-chart/pull/82) on [sftpgo/helm-chart](https://github.com/sftpgo/helm-chart) (today)
-- [Regenerate the client against the current Bitbucket API spec](https://github.com/DrFaust92/bitbucket-go-client/pull/44) on [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) (today)
