@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-dependencies-1.3.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-dependencies-1.3.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.49.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.49.0), today) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-46.455.5](https://github.com/renovatebot/helm-charts/releases/tag/renovate-46.455.5), today) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.9](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.9), today) - Jenkins helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-47.1.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-47.1.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-94.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-94.1.0), today) - Prometheus community Helm charts
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.7.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.7.1), today) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.56.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.56.0-alpha), today) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.9.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.9.1), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.7.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.7.0), today) - Atlantis Helm Chart
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.48.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.48.0), today) - SRE Agent - CNCF Sandbox Project
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.5](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.5), today) - Jenkins helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.19](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.19), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
-- [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.12.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.12.0), 1 day ago) - 
-- [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.3.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.3.0), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.6.0), 1 day ago) - Atlantis Helm Chart
 
 #### 🔨 My recent Pull Requests
+- [deploy: drop env vars the operator does not read](https://github.com/percona/percona-server-mongodb-operator/pull/2761) on [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) (today)
 - [fix: render 0 for CronJob and Job count fields](https://github.com/renovatebot/helm-charts/pull/5339) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) (today)
 - [Render the operator Helm chart's resources and scheduling from values](https://github.com/keycloak/keycloak/pull/55561) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (today)
-- [feat(provider): ca_certificate, client certificates and timeout; keep proxy with disable_ssl_verification](https://github.com/DrFaust92/terraform-provider-airflow/pull/115) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
-- [[tempo-vulture] Add an optional PrometheusRule for the vulture's own metrics](https://github.com/grafana-community/helm-charts/pull/1042) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [fix(group): resolve a workspace UUID to the slug for the 1.0 groups API](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/280) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
-- [helm: default to the restricted Pod Security Standard](https://github.com/Altinity/clickhouse-operator/pull/2174) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (today)
-- [feat: expose new read-only attributes from bitbucket-go-client v0.12.0](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/279) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
-- [feat: add bitbucket_pipeline_runner](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/278) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
-- [feat(provider): api_url, timeout and max_retries; run unit tests in CI](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/277) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
-- [feat(open-webui): safer security defaults and a restricted bundled Redis](https://github.com/open-webui/helm-charts/pull/467) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (today)
+- [feat(provider): ca_certificate, client certificates and timeout; keep proxy with disable_ssl_verification](https://github.com/DrFaust92/terraform-provider-airflow/pull/115) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (1 day ago)
+- [[tempo-vulture] Add an optional PrometheusRule for the vulture's own metrics](https://github.com/grafana-community/helm-charts/pull/1042) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
+- [fix(group): resolve a workspace UUID to the slug for the 1.0 groups API](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/280) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [helm: default to the restricted Pod Security Standard](https://github.com/Altinity/clickhouse-operator/pull/2174) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (1 day ago)
+- [feat: expose new read-only attributes from bitbucket-go-client v0.12.0](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/279) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [feat: add bitbucket_pipeline_runner](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/278) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
+- [feat(provider): api_url, timeout and max_retries; run unit tests in CI](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/277) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (1 day ago)
 
 
 
