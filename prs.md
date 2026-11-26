@@ -1,3 +1,4 @@
+- [fix: render 0 for CronJob and Job count fields](https://github.com/renovatebot/helm-charts/pull/5339) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) (today)
 - [Render the operator Helm chart's resources and scheduling from values](https://github.com/keycloak/keycloak/pull/55561) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (today)
 - [feat(provider): ca_certificate, client certificates and timeout; keep proxy with disable_ssl_verification](https://github.com/DrFaust92/terraform-provider-airflow/pull/115) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [[tempo-vulture] Add an optional PrometheusRule for the vulture's own metrics](https://github.com/grafana-community/helm-charts/pull/1042) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
@@ -7,4 +8,3 @@
 - [feat: add bitbucket_pipeline_runner](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/278) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [feat(provider): api_url, timeout and max_retries; run unit tests in CI](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/277) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [feat(open-webui): safer security defaults and a restricted bundled Redis](https://github.com/open-webui/helm-charts/pull/467) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (today)
-- [fix(open-webui): keep the chart version out of the pod labels](https://github.com/open-webui/helm-charts/pull/466) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (today)

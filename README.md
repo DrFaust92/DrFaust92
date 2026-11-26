@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) -  (today)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [DrFaust92/chocolatey-packages](https://github.com/DrFaust92/chocolatey-packages) - [ARCHIVED] Chocolatey sources for multiple packages (unmaintained) (1 day ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (1 day ago)
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (1 day ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 days ago)
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (2 days ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 days ago)
 - [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (2 days ago)
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart (3 days ago)
 - [DrFaust92/terraform-provider-mapbox](https://github.com/DrFaust92/terraform-provider-mapbox) -  (3 days ago)
 
 #### 🌱 My latest projects
@@ -28,18 +28,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-dependencies-1.3.0](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-dependencies-1.3.0), today) - Collection of Helm charts for Percona Kubernetes Operators.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.49.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.49.0), today) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-46.455.5](https://github.com/renovatebot/helm-charts/releases/tag/renovate-46.455.5), today) - 
+- [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) ([0.48.0](https://github.com/HolmesGPT/holmesgpt/releases/tag/0.48.0), today) - SRE Agent - CNCF Sandbox Project
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.5](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.5), today) - Jenkins helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-2.0.19](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-2.0.19), today) - ArgoProj Helm Charts
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) ([v0.12.0](https://github.com/DrFaust92/bitbucket-go-client/releases/tag/v0.12.0), 1 day ago) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.13.4](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.4), 1 day ago) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-8.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-8.2.0), 1 day ago) - Prometheus community Helm charts
 - [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s) ([langfuse-2.3.0](https://github.com/langfuse/langfuse-k8s/releases/tag/langfuse-2.3.0), 1 day ago) - Community-maintained Kubernetes config and Helm chart for Langfuse
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.6.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.6.0), 1 day ago) - Atlantis Helm Chart
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.20.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.20.0), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.6.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.6.2), 2 days ago) - 
-- [akuity/kargo](https://github.com/akuity/kargo) ([v1.9.18](https://github.com/akuity/kargo/releases/tag/v1.9.18), 2 days ago) - Application lifecycle orchestration
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.16.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.16.5), 2 days ago) - OpenTelemetry Helm Charts
 
 #### 🔨 My recent Pull Requests
+- [fix: render 0 for CronJob and Job count fields](https://github.com/renovatebot/helm-charts/pull/5339) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) (today)
 - [Render the operator Helm chart's resources and scheduling from values](https://github.com/keycloak/keycloak/pull/55561) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (today)
 - [feat(provider): ca_certificate, client certificates and timeout; keep proxy with disable_ssl_verification](https://github.com/DrFaust92/terraform-provider-airflow/pull/115) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (today)
 - [[tempo-vulture] Add an optional PrometheusRule for the vulture's own metrics](https://github.com/grafana-community/helm-charts/pull/1042) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
@@ -49,7 +50,6 @@
 - [feat: add bitbucket_pipeline_runner](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/278) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [feat(provider): api_url, timeout and max_retries; run unit tests in CI](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/277) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (today)
 - [feat(open-webui): safer security defaults and a restricted bundled Redis](https://github.com/open-webui/helm-charts/pull/467) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (today)
-- [fix(open-webui): keep the chart version out of the pod labels](https://github.com/open-webui/helm-charts/pull/466) on [open-webui/helm-charts](https://github.com/open-webui/helm-charts) (today)
 
 
 
