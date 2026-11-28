@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) -  (today)
 - [jianyuan/terraform-provider-sentry](https://github.com/jianyuan/terraform-provider-sentry) - Terraform provider for Sentry (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) -  (2 days ago)
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (3 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 days ago)
-- [DrFaust92/chocolatey-packages](https://github.com/DrFaust92/chocolatey-packages) - [ARCHIVED] Chocolatey sources for multiple packages (unmaintained) (3 days ago)
 - [DrFaust92/bitbucket-go-client](https://github.com/DrFaust92/bitbucket-go-client) -  (3 days ago)
-- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 days ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (4 days ago)
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana (3 days ago)
+- [DrFaust92/chocolatey-packages](https://github.com/DrFaust92/chocolatey-packages) - [ARCHIVED] Chocolatey sources for multiple packages (unmaintained) (3 days ago)
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (4 days ago)
+- [DrFaust92/airflow-k8s-operator](https://github.com/DrFaust92/airflow-k8s-operator) - A K8s operator to manager airflow resources as custom resources (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.14.0](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.14.0), 1 day ago) - Jenkins helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) ([jenkins-5.14.1](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.14.1), today) - Jenkins helm charts
+- [robjuz/helm-charts](https://github.com/robjuz/helm-charts) ([nominatim-6.6.0](https://github.com/robjuz/helm-charts/releases/tag/nominatim-6.6.0), today) - 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), today) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.19.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.19.3), 1 day ago) - Prometheus community Helm charts
 - [akuity/kargo](https://github.com/akuity/kargo) ([v1.11.12](https://github.com/akuity/kargo/releases/tag/v1.11.12), 1 day ago) - Application lifecycle orchestration
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-47.2.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-47.2.1), 1 day ago) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-7.8.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-7.8.0), 1 day ago) - Atlantis Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.21](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.21), 1 day ago) - 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ([nightly](https://github.com/SeleniumHQ/docker-selenium/releases/tag/nightly), 1 day ago) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) ([v2.7.1](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.7.1), 2 days ago) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) ([0.56.0-alpha](https://github.com/robusta-dev/robusta/releases/tag/0.56.0-alpha), 2 days ago) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) ([pmm-ha-1.9.1](https://github.com/percona/percona-helm-charts/releases/tag/pmm-ha-1.9.1), 2 days ago) - Collection of Helm charts for Percona Kubernetes Operators.
 
 #### 🔨 My recent Pull Requests
-- [feat: add client_secret_wo to the social identity provider resources](https://github.com/keycloak/terraform-provider-keycloak/pull/1838) on [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) (today)
-- [feat(sentry_organization_auth_token): new resource](https://github.com/jianyuan/terraform-provider-sentry/pull/1046) on [jianyuan/terraform-provider-sentry](https://github.com/jianyuan/terraform-provider-sentry) (today)
-- [K8SPSMDB-1975  deploy: drop env vars the operator does not read](https://github.com/percona/percona-server-mongodb-operator/pull/2761) on [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) (1 day ago)
-- [fix: render 0 for CronJob and Job count fields](https://github.com/renovatebot/helm-charts/pull/5339) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) (1 day ago)
-- [Render the operator Helm chart's resources and scheduling from values](https://github.com/keycloak/keycloak/pull/55561) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (2 days ago)
-- [feat(provider): ca_certificate, client certificates and timeout; keep proxy with disable_ssl_verification](https://github.com/DrFaust92/terraform-provider-airflow/pull/115) on [DrFaust92/terraform-provider-airflow](https://github.com/DrFaust92/terraform-provider-airflow) (2 days ago)
-- [[tempo-vulture] Add an optional PrometheusRule for the vulture's own metrics](https://github.com/grafana-community/helm-charts/pull/1042) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
-- [fix(group): resolve a workspace UUID to the slug for the 1.0 groups API](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/280) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
-- [helm: default to the restricted Pod Security Standard](https://github.com/Altinity/clickhouse-operator/pull/2174) on [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (2 days ago)
-- [feat: expose new read-only attributes from bitbucket-go-client v0.12.0](https://github.com/DrFaust92/terraform-provider-bitbucket/pull/279) on [DrFaust92/terraform-provider-bitbucket](https://github.com/DrFaust92/terraform-provider-bitbucket) (2 days ago)
+- [fix(nominatim): don't restart the pods on chart-only upgrades](https://github.com/robjuz/helm-charts/pull/249) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (today)
+- [fix(nominatim): pin the curl image used by the download init containers](https://github.com/robjuz/helm-charts/pull/248) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (today)
+- [fix(nominatim): render the ingress NetworkPolicy without a metrics value](https://github.com/robjuz/helm-charts/pull/247) on [robjuz/helm-charts](https://github.com/robjuz/helm-charts) (today)
+- [fix(charts): scope cert-controller secrets and leases to its namespace and drop unused endpoints](https://github.com/external-secrets/external-secrets/pull/7370) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
+- [fix(controller): don't hang on shutdown when workers never start, and let HTTP servers drain](https://github.com/argoproj/argo-rollouts/pull/5232) on [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) (today)
+- [feat(chart): add a liveness probe to the trust-manager container](https://github.com/cert-manager/trust-manager/pull/1168) on [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) (today)
+- [fix(helm): drop the unused cainjector-leader-election-core lease from RBAC](https://github.com/cert-manager/cert-manager/pull/9667) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
+- [fix(rbac): only allow reading pods in the release namespace](https://github.com/traefik/traefik-helm-chart/pull/2133) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
+- [Add revisionHistoryLimit to the eck-operator chart](https://github.com/elastic/cloud-on-k8s/pull/9922) on [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) (today)
+- [Shut down gracefully on SIGTERM](https://github.com/percona/mongodb_exporter/pull/1432) on [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter) (today)
 
 
 
